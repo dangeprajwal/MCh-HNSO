@@ -1,5 +1,6 @@
 ---
 title: Head Neck Surgery and Oncology
+layout: base
 ---
 
 The **MCh Head and Neck Surgery and Oncology** is a highly specialized superspeciality training program dedicated to the comprehensive management of head and neck cancers. It encompasses advanced surgical techniques, multidisciplinary oncologic care, and a deep emphasis on evidence-based practice.
