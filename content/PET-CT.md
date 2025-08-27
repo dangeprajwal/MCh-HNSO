@@ -1,6 +1,7 @@
 ---
-title: "PET-CT"
+title: PET-CT
 draft: false
 tags:
+layout: base
 ---
  
