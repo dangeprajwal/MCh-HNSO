@@ -9,7 +9,7 @@ This resource has been developed to serve as a **comprehensive academic reposit
 
 - **[[Theory questions|Theory Questions]]** from MCh Head and Neck Surgery and Oncology examinations, collected since **2008**, organized both by year and by anatomical subsite.
 - **Landmark Articles** that have shaped the principles and practices of head and neck oncology.
-- **Core Reference Textbooks** and **international guidelines** essential for academic preparation and clinical decision-making.
-- A curated collection of **relevant online resources**, including educational YouTube content, AHNS (American Head and Neck Society) videos, and other open-access materials.
+- **Core Textbooks** and **International [[Guidelines]]** essential for academic preparation and clinical decision-making.
+- A curated collection of **relevant [[Online resources|online resources]]**, including educational YouTube content, AHNS (American Head and Neck Society) videos, and other open-access materials.
 
 This repository is intended to be a **living academic resource** to support the pursuit of excellence in evidence-based Head and Neck Surgery and Oncology.
