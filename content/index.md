@@ -1,5 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Head Neck Surgery and Oncology
 ---
 
-This platform serves as a structured repository of MCh Head and Neck Surgery and Oncology theory questions collected since 2008, systematically organized by year and subsite. It has been developed with the objective of assisting trainees, residents, and academicians in structured exam preparation and academic referencing. By consolidating past questions into a single, accessible database, it provides users with a streamlined tool for identifying recurring themes, understanding examination patterns, and enhancing focused learning.
+The **MCh Head and Neck Surgery and Oncology** is a highly specialized superspeciality training program dedicated to the comprehensive management of head and neck cancers. It encompasses advanced surgical techniques, multidisciplinary oncologic care, and a deep emphasis on evidence-based practice.
+
+This resource has been developed to serve as a **comprehensive academic repository** for trainees, practitioners, and academicians in the field of Head and Neck Oncology. It systematically compiles:
+
+- **[[Theory questions|Theory Questions]]** from MCh Head and Neck Surgery and Oncology examinations, collected since **2008**, organized both by year and by anatomical subsite.
+- **Landmark Articles** that have shaped the principles and practices of head and neck oncology.
+- **Core Reference Textbooks** and **international guidelines** essential for academic preparation and clinical decision-making.
+- A curated collection of **relevant online resources**, including educational YouTube content, AHNS (American Head and Neck Society) videos, and other open-access materials.
+
+This repository is intended to be a **living academic resource** to support the pursuit of excellence in evidence-based Head and Neck Surgery and Oncology.
