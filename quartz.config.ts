@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-V3MQXKJFZB"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dangeprajwal.github.io/MCh-HNSO",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
