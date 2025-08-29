@@ -2,7 +2,7 @@
 ### Guidelines 
 #### Global / Multinational
 
-- **NCCN Clinical Practice Guidelines in Oncology: Head and Neck Cancers (includes glottic & supraglottic larynx pathways)** — **Latest:** 2025. ([NCCN](https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf?utm_source=chatgpt.com "Head and Neck Cancers")) 
+- **[[NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers]] (includes glottic & supraglottic larynx pathways)** — **Latest:** 2025. ([NCCN](https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf?utm_source=chatgpt.com "Head and Neck Cancers")) 
 - **[[EHNS–ESMO–ESTRO Clinical Practice Guideline for Squamous Cell Carcinoma of the Head & Neck]]** — 2020 guideline; larynx covered within site-specific recommendations. ([ESMO](https://www.esmo.org/guidelines/guidelines-by-topic/head-and-neck-cancers?utm_source=chatgpt.com "ESMO Clinical Practice Guidelines: Head and Neck Cancers"), [Annals of Oncology](https://www.annalsofoncology.org/issue/S0923-7534%2824%29X0010-1?pageStart=17&utm_source=chatgpt.com "Head and neck cancer, excluding thyroid")) ^6b4584
 - **ASCO Guideline: Use of Larynx-Preservation Strategies in Laryngeal Cancer** — **Latest:** 2018 update (still current; focuses specifically on larynx preservation). ([NCCN](https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1437&utm_source=chatgpt.com "Head and Neck Cancers - Guidelines Detail"))
 
