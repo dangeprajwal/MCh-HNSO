@@ -1,6 +1,34 @@
 ### Book Chapter
 1. The Larynx, Volume II - Third Edition - Marvin P. Fried, Alfio Ferlito
-	1. 
+	1. Chapter 13 - Microlaryngoscopy and Endolaryngeal Microsurgery
+	2. Chapter 14 - Epidemiology and Pathogenesis of Laryngeal Carcinoma
+	3. Chapter 15 - Experimental Laryngeal Carcinogenesis and Mechanism Studies
+	4. Chapter 17 - Molecular Biology of Laryngeal Cancer
+	5. Chapter 18 - Laryngeal Pathology
+	6. Chapter 19 - The Classification and Staging of Laryngeal Cancer
+	7. Chapter 20 - Laryngeal Epithelial Changes: Diagnosis and Therapy
+	8. Chapter 21 - Cancer of the Supraglottis
+	9. Chapter 22 - Surgical Treatment of Supraglottic Cancer
+	10. Chapter 23 - Cancer of the Glottis
+	11. Chapter 24 - Conservation Surgery for Glottic Cancer
+	12. Chapter 25 - Cancer of the Subglottis
+	13. Chapter 26 - Cancer of the Hypopharynx
+	14. Chapter 27 - Voice Rehabilitation After Total Laryngectomy
+	15. Chapter 28 - Peristomal Cancer
+	16. Chapter 29 - Cancer of the Larynx: Treatment of the Neck
+	17. Chapter 30 - Treatment of the N0 Neck in Nonconventional Neoplasms of the Larynx
+	18. Chapter 31 - Managing Complications of Surgical Laryngeal Intervention
+	19. Chapter 32 - Radiation Therapy for Laryngeal Cancer
+	20. Chapter 33 - Chemotherapy in the Management of Laryngeal Cancer
+	21. Chapter 34 - The Management of Recurrent Laryngeal Cancer
+	22. Chapter 35 - Prognostic Factors of Laryngeal Cancer
+	23. Chapter 36 - Chemoprevention of Laryngeal Cancer
+	24. Chapter 37 - Secondary Neoplasms of the Larynx
+	25. Chapter 39 - Paraneoplastic Syndromes in Patients with Cancer of the Larynx and Hypopharynx
+	26. Chapter 40 - Laryngeal Transplantation
+	27. Chapter 41 - Psychological Issues in Laryngeal Disease and Laryngeal Surgery
+	28. Chapter 42 - Future Directions in Laryngeal Cancer Research and Therapy
+
 2. Carcinoma of the Larynx and Hypopharynx - Editors - Sudhir Bahadur, Alok Thakar, Bidhu K. Mohanti
 	1. Surgical Anatomy and Tumor Spread in the Larynx and Hypopharynx.
 	2. Imaging in Carcinoma of the Larynx. 
