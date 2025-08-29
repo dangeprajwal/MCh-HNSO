@@ -1,7 +1,7 @@
 
 ## Laryngeal Cancer Section 
-![[NCCN Larynx guidelines 2023.png]]
-## 📌 Laryngeal Cancer Overview in NCCN Guidelines (v2.2023)
+![[NCCN guidelines Larynx 2023.svg]]
+## Laryngeal Cancer Overview in NCCN Guidelines (v2.2023)
 
 ### 1. Anatomical Subsites Covered
 - **Glottic Larynx**
