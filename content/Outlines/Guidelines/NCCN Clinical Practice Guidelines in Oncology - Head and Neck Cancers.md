@@ -12,15 +12,15 @@
 - **Biopsy** of primary site or **FNA** of neck nodes.
 - **Imaging**: CT with contrast ± MRI of primary and neck; chest CT; consider FDG-PET/CT.
 - **Endoscopy under anesthesia (EUA)**.
-- **Preanesthesia studies**, pulmonary function tests (for conservation surgery candidates).
+- **Pre-anesthesia studies**, pulmonary function tests (for conservation surgery candidates).
 - **Multidisciplinary consultation**.
 - **Supportive evaluations**: dental, nutrition, speech/swallowing, audiogram, smoking cessation, fertility counseling.
 ### 3. Clinical Staging and Treatment Pathways
 
 #### A. Glottic Larynx (GLOT)
 - **Carcinoma in situ**: Endoscopic resection (preferred) or RT.
-- **T1–T2, N0**: RT or partial laryngectomy ± neck dissection.
-- **T3, N0–1**: Options include:
+- **T1–T2, N0** [[Early Laryngeal cancer]]: RT or partial laryngectomy ± neck dissection.
+- **T3, N0–1** [[Advanced Laryngeal Cancer]]: Options include:
   - Concurrent systemic therapy/RT
   - Surgery (laryngectomy + neck dissection ± thyroidectomy)
   - Induction chemotherapy (category 3)
@@ -48,7 +48,7 @@
 ### 5. Principles of Radiation Therapy (RT)
 
 #### A. Definitive RT 
-- **Dose**: 66–70 Gy (2.0–2.2 Gy/fx) for high-risk volumes.
+- **Dose**: 66–70 Gy (2.0–2.2 Gy/fraction) for high-risk volumes.
 - **Techniques**: IMRT, 3D-CRT, or proton therapy in selected cases.
 - **Altered fractionation** options: concomitant boost, hyperfractionation.
 #### B. Postoperative RT
@@ -66,7 +66,7 @@
   - Nivolumab, chemotherapy combinations
 ### 7. Special Considerations
 - **Larynx preservation** is emphasized where possible.
-- **Thyroidectomy** is recommended for T4 or N2–3 diseases to clear central compartment nodes.
+- ==**Thyroidectomy** is recommended for T4 or N2–3 diseases to clear central compartment nodes.==
 - **Avoid triple modality treatment** when possible to reduce toxicity.
 - **HPV testing** is not routinely recommended for laryngeal cancers.
 ### 8. Follow-Up and Surveillance (FOLL-A)

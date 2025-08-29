@@ -1,10 +1,30 @@
 ### Book Chapter
+1. The Larynx, Volume II - Third Edition - Marvin P. Fried, Alfio Ferlito
+	1. 
+2. Carcinoma of the Larynx and Hypopharynx - Editors - Sudhir Bahadur, Alok Thakar, Bidhu K. Mohanti
+	1. Surgical Anatomy and Tumor Spread in the Larynx and Hypopharynx.
+	2. Imaging in Carcinoma of the Larynx. 
+	3. Diagnosis, Assessment and Staging of Carcinoma of the Larynx.
+	4. Metastatic Neck Disease.
+	5. Guidelines in Management of Early Laryngeal Cancers (T1 and T2).
+	6. Guidelines in the Management of Advanced Carcinoma of the Larynx.
+	7. Trans-oral Laser Microsurgery.
+	8. Radiation/Chemoradiation in Treatment of Carcinoma of the Larynx.
+	9. Tumors of the Hypopharynx: Diagnosis, Assessment and Staging.
+	10. Guidelines in Management of Carcinoma of the Hypopharynx.
+	11. Treatment of Early-Stage Hypopharyngeal by Radiation Therapy.
+	12. Larynx Preservation in Hypopharyngeal Carcinomas.
+	13. Salvage Surgery in Post-radiotherapy/Chemoradiation in Carcinoma of the Larynx and Hypopharynx.
+	14. Surgical Complications and Management.
+	15. Anesthetic Complications.
+	16. Vocal Rehabilitation Following Laryngectomy.
+	17. Quality of Life.
 ### Guidelines 
 #### Global / Multinational
 
 - **[[NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers]] (includes glottic & supraglottic larynx pathways)** — **Latest:** 2025. ([NCCN](https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf?utm_source=chatgpt.com "Head and Neck Cancers")) 
-- **[[EHNS–ESMO–ESTRO Clinical Practice Guideline for Squamous Cell Carcinoma of the Head & Neck]]** — 2020 guideline; larynx covered within site-specific recommendations. ([ESMO](https://www.esmo.org/guidelines/guidelines-by-topic/head-and-neck-cancers?utm_source=chatgpt.com "ESMO Clinical Practice Guidelines: Head and Neck Cancers"), [Annals of Oncology](https://www.annalsofoncology.org/issue/S0923-7534%2824%29X0010-1?pageStart=17&utm_source=chatgpt.com "Head and neck cancer, excluding thyroid")) ^6b4584
-- **ASCO Guideline: Use of Larynx-Preservation Strategies in Laryngeal Cancer** — **Latest:** 2018 update (still current; focuses specifically on larynx preservation). ([NCCN](https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1437&utm_source=chatgpt.com "Head and Neck Cancers - Guidelines Detail"))
+- **[[EHNS–ESMO–ESTRO Clinical Practice Guideline for Squamous Cell Carcinoma of the Head & Neck]]** — 2020 guideline; larynx covered within site-specific recommendations. ([ESMO](https://www.esmo.org/guidelines/guidelines-by-topic/head-and-neck-cancers?utm_source=chatgpt.com "ESMO Clinical Practice Guidelines: Head and Neck Cancers"))
+- **[[ASCO Guideline - Use of Larynx-Preservation Strategies in Laryngeal Cancer]]** — **Latest:** 2018 update. ([ASCO](https://ascopubs.org/doi/10.1200/JCO.2006.07.4559))
 
 #### United Kingdom / Europe
 - **UK National Multidisciplinary Guidelines (6th Edition, 2024)** — Full H&N set with a specific chapter on **Management of Cancer of the Larynx**. ([Indian Council of Medical Research](https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Larynx%20and%20Hypopharynx%20Cancers_0.pdf?utm_source=chatgpt.com "Consensus DoCument for management of Larynx anD ..."))
