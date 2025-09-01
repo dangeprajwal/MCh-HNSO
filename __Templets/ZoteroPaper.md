@@ -13,6 +13,9 @@ Journal: "{{journalAbbreviation}}"
 > [!Cite]  
 > {{bibliography}}
 
+>[!Important]
+
+
 {% for n in notes %}
 {{n.note}}
 {% endfor %}
@@ -29,5 +32,3 @@ Journal: "{{journalAbbreviation}}"
 {% endfor %}
 
 ---
-
-![[{{citekey}}.pdf]]

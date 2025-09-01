@@ -13,8 +13,11 @@ Journal: Laryngoscope
 > [!Cite]  
 
 
-> [!important]- 
+> [!important]
+> For overall survival at 5 years, patients with clear surgical margins had survival rates ranging from about 53% up to 91%. Those with close margins had lower survival, between roughly 38% and 70%. Patients with involved margins showed the poorest outcomes overall, with survival ranging from about 30% to 85%.
 > 
+For local recurrence at 5 years, the lowest recurrence was seen in patients with clear margins, ranging between about 5% and 27%. Recurrence was higher in patients with close margins, ranging from about 11% to 36%. The highest recurrence rates were observed in patients with involved margins, which ranged widely from about 9% up to nearly 80%.
+
 |               | Clear         | Close        | Involved      |
 | ------------- | ------------- | ------------ | ------------- |
 | **5-year OS** | 53.3 – 91.2 % | 37.5 – 70.1% | 29.8 – 85.1 % |
@@ -26,7 +29,7 @@ Research question
 In patients with head and neck mucosal squamous cell carcinoma (SCC) who undergo surgical excision, do close surgical margins lead to different oncologic outcomes compared with clear or involved margins?
 
 Study design  
-Systematic review and meta-analysis (26 included cohort studies, total 8,435 patients).
+Systematic review and meta-analysis (26 included cohort studies, total ==8,435 patients==).
 
 Population and distribution  
 • 96% oral cavity, 2% oropharynx, 2% hypopharynx/larynx  
@@ -99,13 +102,3 @@ Limitations
 • HPV/p16 status not reported for oropharyngeal cancers  
 • Variable reporting of adjuvant treatment data
 
-
----
-
-#### Annotations
-
-
-
----
-
-![[Hamman-2022.pdf]]
