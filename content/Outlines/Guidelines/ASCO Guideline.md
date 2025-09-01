@@ -1,3 +1,4 @@
+## Laryngeal cancer
 ### Overarching Principles
 
 *   **Goal:** To preserve the larynx (either the organ itself or its function) without compromising survival compared to total laryngectomy.

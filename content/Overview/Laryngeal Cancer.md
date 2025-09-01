@@ -1,4 +1,5 @@
 ### Book Chapter
+
 1. The Larynx, Volume II - Third Edition - Marvin P. Fried, Alfio Ferlito
 	1. Chapter 13 - Microlaryngoscopy and Endolaryngeal Microsurgery
 	2. Chapter 14 - Epidemiology and Pathogenesis of Laryngeal Carcinoma
@@ -50,9 +51,9 @@
 ### Guidelines 
 #### Global / Multinational
 
-- **[[NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers]] (includes glottic & supraglottic larynx pathways)** — **Latest:** 2025. ([NCCN](https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf?utm_source=chatgpt.com "Head and Neck Cancers")) 
-- **[[EHNS–ESMO–ESTRO Clinical Practice Guideline for Squamous Cell Carcinoma of the Head & Neck]]** — 2020 guideline; larynx covered within site-specific recommendations. ([ESMO](https://www.esmo.org/guidelines/guidelines-by-topic/head-and-neck-cancers?utm_source=chatgpt.com "ESMO Clinical Practice Guidelines: Head and Neck Cancers"))
-- **[[ASCO Guideline - Use of Larynx-Preservation Strategies in Laryngeal Cancer]]** — **Latest:** 2018 update. ([ASCO](https://ascopubs.org/doi/10.1200/JCO.2006.07.4559))
+- **[[NCCN Guidelines]] (includes glottic & supraglottic larynx pathways)** — **Latest:** 2025. ([NCCN](https://www.nccn.org/professionals/physician_gls/pdf/head-and-neck.pdf?utm_source=chatgpt.com "Head and Neck Cancers")) 
+- **[[European - ESMO, ESTRO Guideline]]** — 2020 guideline; larynx covered within site-specific recommendations. ([ESMO](https://www.esmo.org/guidelines/guidelines-by-topic/head-and-neck-cancers?utm_source=chatgpt.com "ESMO Clinical Practice Guidelines: Head and Neck Cancers"))
+- **[[ASCO Guideline]]** — **Latest:** 2018 update. ([ASCO](https://ascopubs.org/doi/10.1200/JCO.2006.07.4559))
 
 #### United Kingdom / Europe
 - **UK National Multidisciplinary Guidelines (6th Edition, 2024)** — Full H&N set with a specific chapter on **Management of Cancer of the Larynx**. ([Indian Council of Medical Research](https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Larynx%20and%20Hypopharynx%20Cancers_0.pdf?utm_source=chatgpt.com "Consensus DoCument for management of Larynx anD ..."))

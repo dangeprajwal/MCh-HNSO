@@ -5,9 +5,9 @@ At the same time, guidelines are constantly being updated as new evidence emerge
 Guidelines should not be followed blindly; rather, they should be interpreted in the context of the patient’s stage, comorbidities, institutional resources, and cultural setting. In other words, guidelines set the framework — but clinical judgement and multidisciplinary discussion remain central to optimal care.
 
 ### Laryngeal Cancer
-- [[NCCN Clinical Practice Guidelines in Oncology - Head and Neck Cancers]]
-- [[EHNS–ESMO–ESTRO Clinical Practice Guideline for Squamous Cell Carcinoma of the Head & Neck]]
-- [[ASCO Guideline - Use of Larynx-Preservation Strategies in Laryngeal Cancer]]
+- [[NCCN Guidelines]]
+- [[European - ESMO, ESTRO Guideline]]
+- [[ASCO Guideline]]
 
 ### Oral Cancer
 
