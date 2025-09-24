@@ -946,7 +946,7 @@
 | 2   | Trans-oral robotic surgery: Current indications and limitations in the context of oropharyngeal cancer.                                                                                        | 2021 | TMH       |
 | 3   | Technique and evidence of Sentinel node biopsy in early oral cavity cancer.                                                                                                                    | 2021 | TMH       |
 | 4   | Evaluation and management of cervical paragioma.                                                                                                                                               | 2021 | TMH       |
-| 5   | The role of Sentinel node biopsy in the management of Oral cancer.                                                                                                                             | 2020 | TMH       |
+| 5   | The role of [[Sentinel node biopsy]] in the management of Oral cancer.                                                                                                                         | 2020 | TMH       |
 | 6   | Surgical approaches to the parapharyngeal space tumors.                                                                                                                                        | 2020 | TMH       |
 | 7   | Second primary malignancies patients with head and neck cancers.                                                                                                                               | 2020 | TMH       |
 | 8   | Management of chyle leak following neck dissection.                                                                                                                                            | 2020 | TMH       |
