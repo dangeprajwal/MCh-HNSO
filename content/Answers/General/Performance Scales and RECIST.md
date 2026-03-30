@@ -31,7 +31,9 @@ tags:
 
 ## Introduction
 
-Performance status scales and response evaluation criteria are essential tools in oncology for patient assessment, treatment selection, clinical trial design, and monitoring treatment efficacy. Performance status quantifies a patient's functional ability and is a key prognostic factor, while RECIST provides standardized criteria for objectively measuring tumour response to treatment. Both are used daily in head and neck oncology practice and clinical trials.
+Performance status scales and response evaluation criteria are two indispensable pillars of clinical oncology that serve fundamentally different but complementary purposes. Performance status quantifies a patient's overall functional ability — their capacity to carry out daily activities, care for themselves, and tolerate treatment — and is one of the most powerful independent prognostic factors across all tumour types. In practical terms, performance status often determines whether a patient is a candidate for curative treatment, palliative chemotherapy, or best supportive care alone. Response evaluation criteria, on the other hand, provide standardized, objective methods for measuring whether a tumour is responding to treatment, remaining stable, or progressing — information that is essential for treatment decision-making in individual patients and for comparing treatment efficacy across clinical trials.
+
+In head and neck oncology, both tools are used daily. Performance status assessment guides the multidisciplinary team discussion about treatment intensity — a patient with ECOG PS 0-1 may be offered concurrent chemoradiation for advanced laryngeal cancer, while a patient with PS 3 is better served by palliative radiotherapy or best supportive care. RECIST criteria are used to assess the response of recurrent or metastatic HNSCC to systemic therapy (cetuximab, immunotherapy), determining whether treatment should be continued, changed, or discontinued. The examiner expects familiarity with the specific scales, their scoring systems, their clinical applications, and — importantly — their limitations in the context of head and neck cancer.
 
 ---
 
