@@ -35,14 +35,15 @@ Chyle leak (chylous fistula) is an uncommon but potentially serious complication
 
 ## Part A: Anatomy of the Thoracic Duct
 
-The thoracic duct originates from the cisterna chyli at the level of L1-L2, traverses the posterior thoracic cavity behind the oesophagus, and enters the neck crossing between the internal jugular vein (IJV) and the anterior scalene muscle on the left side. It terminates at the junction of the left IJV and left subclavian vein, or drains directly into the IJV.
+The thoracic duct is the largest lymphatic vessel in the body and is the principal conduit for returning lymph from the entire body below the diaphragm and the left side of the head, neck, and thorax to the venous circulation. It originates from the cisterna chyli (when present) at the level of L1-L2, anterior to the vertebral bodies, and ascends through the posterior mediastinum between the aorta and the azygos vein, posterior to the oesophagus. As the duct enters the neck, it arches laterally at the level of C7-T1, crossing between the internal jugular vein (IJV) and the anterior scalene muscle on the left side. It typically terminates by draining into the venous system at or near the junction of the left IJV and the left subclavian vein (the left venous angle), though the precise termination point is highly variable — it may drain into the IJV, the subclavian vein, or the external jugular vein, and may terminate as a single trunk or as multiple smaller branches.
 
-**Key anatomical points:**
+**Key anatomical points of clinical significance:**
 
-- The majority of chyle leaks (95%) occur on the **left side** — corresponding to the thoracic duct termination
-- Approximately **5% occur on the right** — from the right lymphatic duct
-- **2-4 litres** of chyle flow through the thoracic duct daily; flow varies with dietary fat intake
-- The duct is thin-walled and often has multiple terminal branches — making it vulnerable to injury during level IV/V dissection
+- **The majority of chyle leaks (95%) occur on the left side** because this is where the thoracic duct terminates. The left supraclavicular fossa (level IV) is therefore the danger zone during neck dissection.
+- **Approximately 5% of chyle leaks occur on the right side**, from the right lymphatic duct — a smaller vessel that drains lymph from the right side of the head, neck, and thorax. Right-sided leaks are less well recognized but do occur, and surgeons should maintain vigilance during bilateral neck dissections.
+- **2-4 litres of chyle flow through the thoracic duct daily**, though flow rates vary considerably depending on the amount and type of dietary fat consumed. After a fatty meal, flow rates increase substantially, which is why chyle leak often becomes apparent only after the patient resumes oral feeding.
+- **The duct is remarkably thin-walled** — with a wall thickness of only a few cell layers — and lacks the muscular coat of blood vessels. This fragility, combined with extensive anatomical variability (the duct may have multiple terminal branches, accessory ducts, or anomalous courses), makes it vulnerable to inadvertent injury during dissection of level IV and level V lymph nodes. In one anatomical study, the termination of the thoracic duct was found to vary in up to 40-60% of specimens, with multiple terminal branches being the most common variant.
+- **The relationship to surrounding structures** is critical for the surgeon. The thoracic duct lies deep to the internal jugular vein in the lower neck, anterior to the phrenic nerve and the transverse cervical artery. During level IV dissection, the duct may be encountered as a thin, translucent, whitish-grey structure emerging from behind the IJV at the confluence of the IJV and subclavian vein. If the duct is not actively leaking chyle at the time of surgery (because the patient is fasting), it may be extremely difficult to identify visually.
 
 ### Chyle Composition
 
@@ -101,20 +102,20 @@ Prevention through meticulous surgical technique is the best strategy:
 
 The mainstay of management is nutritionally based — reducing chyle formation allows the fistula to heal:
 
-1. **Fat-free or MCT-based diet:** Medium-chain triglycerides (MCTs) are absorbed directly into the portal venous system, bypassing the thoracic duct. Long-chain triglycerides (LCTs) enter the bloodstream via chyle. Replacing LCTs with MCTs reduces chyle production while maintaining nutrition.
+1. **Fat-free or MCT-based diet:** This is the cornerstone of conservative management and is based on the fundamental difference in how medium-chain and long-chain triglycerides are absorbed from the intestine. When dietary fat is consumed, **long-chain triglycerides (LCTs)** — which comprise the majority of fat in a normal diet — are digested by pancreatic lipase into monoglycerides and free fatty acids, which are then absorbed by intestinal epithelial cells, re-esterified into triglycerides, packaged into chylomicrons, and transported via the intestinal lacteals into the thoracic duct as chyle. In contrast, **medium-chain triglycerides (MCTs)** — which have carbon chain lengths of 6-12 carbons — are absorbed directly into the portal venous system, bypassing the lymphatic system entirely. This critical difference means that replacing LCTs with MCTs in the diet substantially reduces the volume and fat content of chyle flowing through the thoracic duct, allowing the injured duct to heal while still maintaining caloric and nutritional intake. MCT oil can be used as a cooking medium or added to foods, and commercial MCT-based enteral feeds are available. Many patients with low-output leaks will respond to this dietary intervention alone within 2-5 days, making early dietetic involvement essential.
 
-2. **Pressure dressing** over the supraclavicular wound
+2. **Pressure dressing** applied over the supraclavicular wound to provide external compression and reduce dead space, promoting tissue apposition over the damaged duct.
 
-3. **Drain maintenance** — keep drain in situ until output decreases
+3. **Drain maintenance** — the surgical drain should remain in situ until output decreases to an acceptable level (typically <200 mL/day of non-chylous fluid). The drain serves both a therapeutic function (preventing chyloma formation) and a monitoring function (tracking output volume and character).
 
-4. **Fluid and electrolyte replacement** — monitor and replace losses
+4. **Fluid and electrolyte replacement** — chyle losses can be substantial (particularly in high-output leaks) and contain protein, immunoglobulins, lymphocytes, fat-soluble vitamins, and electrolytes. Aggressive intravenous fluid replacement and monitoring of serum electrolytes (particularly sodium, calcium, and potassium), albumin, and lymphocyte count is essential. Failure to replace these losses leads to malnutrition, immunosuppression, and delayed wound healing.
 
-5. **If dietary modification fails:** Consider total parenteral nutrition (TPN) to achieve complete bowel rest — but this should not be first-line except in very high-output leaks (>1000 mL)
+5. **If dietary modification fails:** Total parenteral nutrition (TPN) may be required to achieve complete bowel rest, eliminating all enteral absorption and reducing chyle production to a minimum. However, TPN should not be used as first-line management except in extreme cases (very high-output leaks exceeding 1000 mL/day or in patients who are already severely malnourished), because TPN carries its own risks — central line infection, metabolic complications, hepatic steatosis, and intestinal mucosal atrophy from disuse. The consensus is to begin with MCT-based dietary modification and escalate to TPN only if the leak does not respond within a reasonable timeframe.
 
 ### Pharmacological Management
 
-- **Octreotide (somatostatin analogue):** Reduces intestinal secretion and chyle flow. Published evidence from 2001-2015 includes multiple case reports and series demonstrating effectiveness. Typical dose: 100-200 mcg subcutaneously three times daily.
-- **Orlistat:** Lipase inhibitor that reduces fat absorption — adjunct to dietary modification
+- **Octreotide (somatostatin analogue):** Octreotide is a synthetic octapeptide analogue of somatostatin that reduces intestinal secretion, splanchnic blood flow, and lymphatic fluid production through inhibition of multiple gastrointestinal hormones (gastrin, secretin, cholecystokinin, vasoactive intestinal peptide). By reducing both the volume and fat content of intestinal lymph, octreotide substantially decreases chyle flow through the thoracic duct. Published evidence from 2001 to 2015 includes seventeen studies investigating the effectiveness of octreotide in cervical chyle leaks — while most are case reports and small series, the cumulative evidence consistently demonstrates effectiveness in reducing output and accelerating fistula closure. The typical dose is **100-200 mcg subcutaneously three times daily**, and treatment is usually continued for 5-7 days alongside dietary modification. Side effects include nausea, abdominal cramps, diarrhoea, and hyperglycaemia. Octreotide is particularly useful for moderate-output leaks (500-1000 mL/day) where dietary modification alone is insufficient but early surgical intervention is not yet warranted.
+- **Orlistat:** A reversible inhibitor of gastric and pancreatic lipases that reduces the intestinal absorption of dietary fat by approximately 30%. By preventing fat absorption, orlistat reduces the substrate available for chylomicron formation and therefore decreases chyle production. It is used as an adjunct to MCT-based dietary modification, particularly in patients who are consuming some oral fat and in whom complete dietary restriction is impractical. However, evidence for its use in chyle leak management is limited to case reports.
 
 ### Surgical Management
 
