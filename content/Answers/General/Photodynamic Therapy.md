@@ -15,8 +15,10 @@ tags:
 > - What is Photodynamic Therapy? Describe in detail its role in oral cancer management (TMH 2022)
 > - Photodynamic Therapy (AMRITA 2020, TMH 2020)
 
+**Source:** Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter on Oral Cancer; Stell and Maran's Textbook of Head and Neck Surgery; Scott-Brown's Otorhinolaryngology Volume 3
+
 > [!cite] Landmark Articles
-> The following are the most influential articles on this topic, based on citation impact:
+> The foundational literature on PDT in head and neck oncology spans from Schweitzer's pioneering 1990 review establishing clinical feasibility, through Biel's landmark 1998 series of 107 patients demonstrating 95% cure rates for early laryngeal and 80% for oral cavity SCC, to the comprehensive mechanistic review by Dolmans et al. in Nature Reviews Cancer (2003) which defined the three pillars of PDT action — singlet oxygen cytotoxicity, vascular shutdown, and immune activation. Lou and Hopper's 2003 multi-institutional analysis confirmed 85-100% overall response rates for early-stage head and neck cancers. Most recently, Meulemans et al. (2019) established the modern indications for PDT, positioning it as particularly valuable for field cancerization, superficial post-radiation recurrences, and adjuvant treatment of positive surgical margins.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -25,8 +27,6 @@ tags:
 > | 3 | Photodynamic therapy for treatment of head and neck cancer | Schweitzer VG | Otolaryngol Head Neck Surg, 1990 | [10.1177/019459989010200304](https://doi.org/10.1177/019459989010200304) | One of the earliest reviews establishing PDT feasibility in head and neck SCC since 1975 |
 > | 4 | Clinical outcomes of photodynamic therapy for head-and-neck cancer | Lou PJ, Jones L, Hopper C | Technol Cancer Res Treat, 2003 | [10.1177/153303460300200405](https://doi.org/10.1177/153303460300200405) | 85-100% overall response for early-stage HNC; 75% sustained complete response at 2 years |
 > | 5 | PDT in head and neck cancer: indications, outcomes, and future prospects | Meulemans J, Delaere P, Vander Poorten V | Curr Opin Otolaryngol Head Neck Surg, 2019 | [10.1097/MOO.0000000000000521](https://doi.org/10.1097/MOO.0000000000000521) | PDT valuable for field cancerization, post-RT recurrence, and adjuvant use for positive margins |
-
-**Source:** Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter on Oral Cancer; Stell and Maran's Textbook of Head and Neck Surgery; Scott-Brown's Otorhinolaryngology Volume 3
 
 ---
 
