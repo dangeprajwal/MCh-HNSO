@@ -113,6 +113,9 @@ The effect of laser light on tissue depends on its wavelength, power, spot size,
 
 ### Indications
 
+As described in Scott-Brown's Volume 3 (Chapter 22), TLM is a minimally invasive surgical approach to functional organ preservation. The term TLM was first coined by John Salassa of Mayo Clinic in the 1990s to distinguish this technique from generic endoscopic laser surgery by virtue of using an operating microscope to closely examine the host-disease interface following principles established by Wolfgang Steiner. This affords the advantage of binocular vision and stereoscopic depth perception, combined with the superb optics of modern microscopes, making it truly a microsurgical technique. The aim is to ensure a tumour-free margin in all dimensions with minimal excision of normal tissue. TLM also has a diagnostic element, as it precisely defines tumour extent at the time of surgery and provides maximal tissue for pathological assessment.
+
+**Current indications:**
 - **Glottic cancer:** Tis, T1, T2 — primary treatment option; selected T3
 - **Supraglottic cancer:** T1, T2 — selected cases
 - **Hypopharyngeal cancer:** Selected T1, T2 cases

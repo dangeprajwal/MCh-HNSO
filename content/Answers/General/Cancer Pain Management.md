@@ -118,14 +118,15 @@ The WHO analgesic ladder provides a simple, systematic framework for escalating 
 - **Oral morphine:** Gold standard; start 5-10 mg 4-hourly (opioid-naive); titrate to effect; convert to modified-release once stable dose found
 - **Oxycodone:** Alternative to morphine; available in immediate and modified-release; less histamine release
 - **Fentanyl:** Transdermal patches for stable pain; buccal/sublingual for breakthrough pain; useful when oral route unavailable (post-surgical HNC patients)
-- **Methadone:** Treats both nociceptive and neuropathic pain; long half-life (~24 hours); relatively inexpensive; preferred in renal impairment (no active metabolites); requires familiarity with prescribing due to delayed full effects
+- **Methadone:** As described in Harrison's Head and Neck Cancer (Chapter 10), methadone is a long-acting opiate that can treat both the incident and neuropathic components of cancer pain — a dual mechanism that makes it particularly valuable in HNC where mixed pain is common. It has a long half-life averaging about 24 hours, can be dosed in 6-to-8-hour intervals, and compared with other opiates is relatively inexpensive. Due to the lack of active metabolites, it may be preferable in the setting of renal impairment. However, in view of its prolonged and variable half-life, as well as individual variation in metabolism, familiarity with prescribing is essential — full effects of the medication may be delayed for days and up to a week or more, creating a risk of delayed respiratory depression if doses are escalated too quickly. Patient and family education is essential to reinforce that methadone is not only for maintenance or withdrawal from heroin but is a legitimate and effective analgesic for cancer pain
 
 ### Postoperative Pain in HNC
 
-- Initially controlled with parenteral narcotics (IV PCA or continuous infusion)
-- Convert to oral analgesics via nasogastric tube or by mouth when feasible
-- Opioid-tolerant patients require higher than usual post-operative doses — inform acute pain team preoperatively
-- Mild postoperative pain: paracetamol-based combinations
+As described in Harrison's Chapter 10, postoperative pain in head and neck cancer patients is initially controlled with parenteral narcotics, administered by continuous intravenous route, patient-controlled analgesia (PCA), or by subcutaneous injection. These are then converted to an oral analgesic via the nasogastric tube or by mouth when feasible. For patients who have been treated with opioid analgesics prior to surgery, informing the acute pain management team prior to surgery is critically important, as these opioid-tolerant patients may need substantially more than usual amounts of postoperative analgesics — failure to account for their baseline opioid requirement will result in inadequate pain control and significant patient distress.
+
+Mild postoperative pain should be treated with acetaminophen-based combinations. For moderate-to-severe postoperative pain, opioids in pill or liquid form (morphine solution, oxycodone) are used. The transition from IV to oral analgesics should be planned carefully, particularly in patients who cannot swallow (post-glossectomy, post-pharyngectomy) — in these patients, fentanyl transdermal patches, subcutaneous morphine infusions, or analgesics administered via nasogastric or PEG tube may be required.
+
+Nonopioid adjuvants are frequently needed in the postoperative period. Gabapentinoids (gabapentin or pregabalin) are essential for managing neuropathic pain, which is common after head and neck surgery involving cranial nerve resection or manipulation. Glucocorticoids (dexamethasone) are used for their anti-inflammatory and anti-oedema effects, and bisphosphonates may be added for bone pain from mandibular involvement or bony metastases.
 
 ---
 

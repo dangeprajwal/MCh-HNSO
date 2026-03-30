@@ -56,11 +56,18 @@ Introduced in 1948 by David Karnofsky for evaluating the functional status of ca
 | 0 | Dead | — |
 
 **Clinical significance in HNC:**
-- KPS ≥70: Generally eligible for active cancer treatment
-- KPS ≥80: Eligible for most clinical trials
-- KPS <50: Palliative care focus
-- Independently predicts survival in HNSCC
-- However, KPS misses HNC-specific morbidity — 43% of patients with good KPS scores have significant dietary limitations (List et al., 1996)
+
+As stated in Stell and Maran's Textbook (Chapter 4), the patient's general condition should always be classified using one of the methods of measuring performance status. This is paramount because comorbidity will compromise planned operative procedures, chemoradiation, and the patient's overall prognosis. Disorders which will potentiate anaesthetic problems, bleeding, and postoperative recovery should be clearly recorded in the context of the performance status assessment.
+
+Performance status directly determines treatment intensity in head and neck cancer:
+
+- **KPS 90-100 (ECOG 0):** Eligible for the most intensive treatment protocols — concurrent cisplatin-based chemoradiation (100 mg/m² q3-weekly), major ablative surgery with free flap reconstruction, clinical trial participation
+- **KPS 70-80 (ECOG 1):** Eligible for most curative treatments including modified chemoradiation regimens (e.g., weekly cisplatin 40 mg/m²), cetuximab-radiation (for cisplatin-unfit patients), and standard surgical procedures
+- **KPS 50-60 (ECOG 2):** Treatment must be carefully individualized — some patients may tolerate radiation alone or palliative chemotherapy, but concurrent chemoradiation carries significant toxicity risk. Many clinical trials exclude PS 2 patients
+- **KPS 30-40 (ECOG 3):** Palliative intent treatment only — short-course radiotherapy for symptom control (pain, bleeding, airway obstruction), best supportive care, palliative care referral
+- **KPS 10-20 (ECOG 4):** Best supportive care and hospice referral only
+
+The KPS is independently predictive of overall survival across all HNSCC subsites and treatment modalities. However, KPS has a significant limitation in head and neck cancer: it misses disease-specific functional morbidity. List et al. (1996) demonstrated that 43% of patients with good KPS scores (i.e., globally functional) still had significant dietary limitations that were only detected by the disease-specific PSS-HN scale. This is because KPS measures global functional status but does not assess the specific impairments in eating, speaking, and swallowing that dominate the morbidity burden in HNC patients. For this reason, KPS/ECOG should be used in conjunction with disease-specific QOL instruments (UW-QOL, EORTC QLQ-H&N35, PSS-HN) rather than as the sole functional assessment.
 
 ---
 
@@ -139,12 +146,26 @@ RECIST was developed to standardize the evaluation of tumour response in clinica
 - Same imaging modality and technique at baseline and follow-up
 - Measurable lesions: ≥10 mm longest diameter (or ≥15 mm short axis for LNs)
 
+### Application of RECIST in Head and Neck Cancer
+
+RECIST criteria are primarily used in the following HNC clinical contexts:
+
+**Recurrent/metastatic HNSCC trials:** RECIST is the standard method for assessing response to systemic therapy in clinical trials for recurrent or metastatic HNSCC. The landmark KEYNOTE-048 trial (pembrolizumab vs. cetuximab + chemotherapy) used RECIST 1.1 to define overall response rate and progression-free survival. Similarly, the EXTREME trial (cetuximab + cisplatin/5-FU) used RECIST-defined response as a key endpoint. In these settings, serial CT or MRI scans are performed every 6-9 weeks to measure target lesions and classify response.
+
+**Induction chemotherapy response assessment:** In organ preservation protocols using induction chemotherapy followed by radiation (e.g., the TAX 323 and TAX 324 trials), RECIST criteria are used to assess primary tumour and nodal response after 2-3 cycles of TPF (docetaxel/cisplatin/5-FU). Patients achieving complete or partial response proceed to definitive radiation or chemoradiation; those with stable or progressive disease are directed toward surgery.
+
+**Post-treatment surveillance:** While RECIST was designed for clinical trial endpoints, clinicians informally apply its principles when interpreting surveillance imaging — looking for >20% increase in measurable lesions as evidence of progression warranting biopsy or change in management.
+
 ### Limitations of RECIST
 
-- Measures only anatomical size — does not capture metabolic or functional response
-- May underestimate response to immunotherapy (pseudo-progression)
-- Not designed for bone lesions, cystic lesions, or leptomeningeal disease
-- Modified criteria exist for specific situations: iRECIST (immunotherapy), mRECIST (HCC)
+RECIST has several important limitations, particularly in head and neck oncology:
+
+- **Measures only anatomical size:** RECIST captures tumour shrinkage or growth but does not assess metabolic activity, tumour viability, or functional response. A tumour may remain the same size on CT but be metabolically inactive (complete metabolic response on PET).
+- **Pseudo-progression with immunotherapy:** Immune checkpoint inhibitors (pembrolizumab, nivolumab) can cause initial apparent tumour enlargement on imaging due to immune cell infiltration, followed by delayed response. RECIST may classify this as progressive disease, leading to premature treatment discontinuation. The iRECIST modification addresses this by requiring confirmation of progression at a subsequent scan 4-8 weeks later before declaring true PD.
+- **Cystic nodal disease in HPV+ OPSCC:** HPV-positive oropharyngeal cancers frequently present with cystic lymph node metastases. After treatment, these cystic nodes may persist as thin-walled fluid collections on imaging — they meet size criteria for "measurable disease" under RECIST but represent dead tumour/cyst rather than viable cancer. PET-CT is more useful than RECIST for assessing these residual cystic nodes.
+- **Post-treatment changes in irradiated fields:** Radiation causes tissue oedema, fibrosis, and inflammation that can mimic residual or recurrent tumour on CT/MRI, making RECIST measurements unreliable in the post-CRT setting. FDG-PET performed at 12 weeks post-CRT (as recommended by NCCN) is superior to anatomical imaging for response assessment.
+- **Not applicable to bone metastases, diffuse mucosal disease, or leptomeningeal disease** — these are classified as non-measurable by RECIST.
+- Modified criteria exist for specific situations: **iRECIST** (immunotherapy response), **PERCIST** (PET-based metabolic response), and **mRECIST** (hepatocellular carcinoma).
 
 ---
 

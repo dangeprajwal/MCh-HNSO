@@ -116,11 +116,13 @@ Two families of endogenous CDK inhibitors provide negative regulation:
 
 | Gene | Protein | Frequency | Mechanism | Effect |
 |------|---------|-----------|-----------|--------|
-| TP53 | p53 | 60-80% (HPV−) | Missense mutation | Loss of G1 arrest and apoptosis; genome instability |
+| TP53 | p53 | ~80% HPV−, 0% HPV+ (TCGA) | Missense mutation | Loss of G1 arrest, apoptosis; genome instability; disruptive mutations predict reduced OS |
 | CDKN2A | p16 | 50-60% (HPV−) | Deletion, mutation, or hypermethylation | Loss of CDK4/6 inhibition; uncontrolled G1→S |
 | CCND1 | Cyclin D1 | 30-40% | Amplification | Constitutive Rb phosphorylation; accelerated G1→S |
 | PIK3CA | PI3K p110α | 20-30% | Activating mutation | Promotes cell survival and proliferation |
 | RB1 | Rb | ~5% (HPV−) | Mutation/deletion | Loss of E2F regulation |
+
+As described in Scott-Brown's Volume 3 (Chapter 6), the most common pathway affected in both HPV-positive and HPV-negative disease is loss of normal cell cycle control, which occurs in **90-100% of both types of cancer**. The genes most commonly implicated are TP53, RB1, CDKN2A, CCND1, E2F1, MYC, and HPV E6/E7. This pathway primarily regulates insensitivity to anti-growth signals but also impacts upon evading apoptosis, limitless replicative potential, and sustained angiogenesis. TCGA network analysis demonstrated that TP53 mutation varies from approximately 80% in HPV-negative cancers to 0% in HPV-positive cancers — a difference explained by the fact that HPV is oncogenic precisely because it can inactivate the p53 protein through E6-mediated degradation rather than through genetic mutation. Critically, loss of p53 function has been found to be associated with patient outcomes, with patients harbouring **disruptive mutations** that compromise p53 function displaying reduced overall survival compared to those with wild-type or non-disruptive mutations.
 
 ### HPV-Mediated Cell Cycle Disruption
 
