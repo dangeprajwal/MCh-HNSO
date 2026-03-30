@@ -95,9 +95,21 @@ In addition to hypoxia, VEGF expression can be upregulated by growth factors (EG
 
 **p53 is a critical regulator of angiogenesis:** Wild-type p53 upregulates thrombospondin-1 and promotes HIF-1α degradation, suppressing neoangiogenesis. TP53 mutation (60-80% of HNSCC) therefore leads to both loss of cell cycle control AND enhanced angiogenesis.
 
+### The Process of Tumour Neovascularization
+
+Tumour angiogenesis proceeds through a series of defined steps. First, in response to VEGF and other pro-angiogenic signals, endothelial cells in nearby existing blood vessels become activated. These activated endothelial cells secrete matrix metalloproteinases (MMPs) that degrade the vascular basement membrane and the surrounding extracellular matrix (ECM), creating space for vascular sprouting. The endothelial cells then migrate toward the angiogenic stimulus (the VEGF concentration gradient) and proliferate to form new capillary sprouts. These sprouts elongate, form lumens, and eventually anastomose with other sprouts to create functional capillary loops. Pericytes and smooth muscle cells are then recruited (primarily through PDGF signalling) to stabilize the new vessels.
+
+However, tumour blood vessels are characteristically abnormal compared to normal vasculature. They are irregular in calibre, excessively branched, tortuous, and have a discontinuous basement membrane with gaps between endothelial cells. They lack normal smooth muscle and pericyte coverage, which makes them leaky and poorly functional. This abnormal vascular architecture results in heterogeneous blood flow, areas of hyperperfusion alternating with areas of stagnation, elevated interstitial fluid pressure within the tumour (which impedes drug delivery), and paradoxically, persistent hypoxia despite increased vessel density. The hypoxia-driven VEGF upregulation creates a self-perpetuating cycle: inadequate tumour oxygenation drives further angiogenesis, but the new vessels are dysfunctional and fail to adequately resolve the hypoxia.
+
 ---
 
 ## Part D: Angiogenesis in Head and Neck Cancer
+
+### Angiogenesis as a Requirement for HNSCC Progression
+
+As stated by Stell and Maran's Textbook: tumours cannot grow to sizes beyond 5-10 mm without access to the circulatory system for oxygen and nutrients and release of their metabolic waste products. As a consequence, neoangiogenesis is required for HNSCC progression. Tumours secrete multiple soluble factors — including VEGF, acidic and basic fibroblast growth factors (FGF1/2), and interleukin-8 (IL-8) — to promote vascular ingrowth. In addition, adhesion molecules mediating cell-cell and cell-matrix interactions, such as integrins and cadherins, also contribute to proangiogenic signals. Several studies have linked neoangiogenesis to the development and progression of HNSCC, and histopathological studies consistently show that increased microvessel density accompanies tumour progression. Upregulation of VEGF family members — VEGF-A, VEGF-B, VEGF-C, VEGF-D, and VEGF-E — along with FGF proteins, and downregulation of the anti-angiogenic factor thrombospondin-1, have been demonstrated in a high percentage of HNSCC. Some of these factors, particularly VEGF, have also been detected in the serum of HNSCC patients, raising the possibility of their use as circulating biomarkers.
+
+The expression of multiple key molecules involved in HNSCC invasion, angiogenesis, and metastasis — including MMPs and VEGFs — is a common feature in both experimental and clinical models of HNSCC. Importantly, VEGF expression appears to be an independent predictor of surgical and chemotherapy outcome, suggesting that resistance to these treatments may be conferred, at least in part, through activation of neoangiogenesis. This is supported by the finding that EGFR activation — the most commonly overexpressed receptor in HNSCC (present in 90%) — can directly upregulate VEGF expression, creating a direct link between growth factor receptor signalling and tumour angiogenesis.
 
 ### Tumour Hypoxia and Radioresistance
 
@@ -119,6 +131,20 @@ Analyses of head and neck cancer genomes might at first appear to reveal limited
 - **PIK3CA mutations/amplification** (20-30%): Activates the PI3K/AKT/mTOR pathway, which in turn activates NF-κB signalling. NF-κB is a master transcription factor that upregulates multiple pro-angiogenic genes including VEGF, IL-8, and COX-2. PIK3CA-driven NF-κB activation represents a hypoxia-independent mechanism for sustained angiogenesis.
 - **MYC amplification** (10-15%): The MYC oncogene directly drives expression of angiogenic gene programs, and its effects span multiple hallmarks of cancer — including sustained angiogenesis, self-sufficiency in growth signals, and limitless replicative potential.
 - **FADD, TRAF3, CASP8 mutations**: These genes, which are part of the NF-κB signalling network, are recurrently mutated in HNSCC. Their alteration contributes to dysregulated NF-κB activity, which in turn affects inflammation and angiogenesis. Thus, some of the most common mutations in head and neck cancer likely have a significant impact on tumour vascularization through indirect NF-κB-mediated mechanisms.
+
+### Hypoxia Modification Strategies
+
+The clinical significance of tumour hypoxia has driven the development of several therapeutic strategies aimed at overcoming hypoxia-mediated radioresistance. According to Montgomery's Principles and Practice:
+
+**Modification of haemoglobin level:** Haemoglobin concentration is an important prognostic factor for response to radiotherapy in head and neck cancer. It is standard practice in many centres to monitor haemoglobin weekly during RT and transfuse to maintain levels above 12 g/dL. However, the use of erythropoietin (EPO) to maintain haemoglobin has been disappointing — a large randomized trial (351 patients) showed that EPO actually worsened locoregional control, possibly because HNSCC cells may express EPO receptors that stimulate anti-apoptotic signalling.
+
+**Hypoxic cell radiosensitizers (nitroimidazoles):** These compounds mimic the biological effects of oxygen by diffusing to hypoxic cells and "fixing" radiation-induced DNA damage. The DAHANCA-5 trial demonstrated a highly significant benefit with nimorazole added to conventional RT for pharyngeal and supraglottic cancers: improved locoregional control (49% vs. 33% at 5 years) and disease-specific survival (52% vs. 41%). Despite these results, nimorazole is not standard treatment outside Denmark due to logistical constraints.
+
+**ARCON (Accelerated Radiotherapy with Carbogen and Nicotinamide):** This combined strategy aims to combat both accelerated tumour repopulation and hypoxia using accelerated RT, hyperoxic gas inhalation (carbogen: 95% O2 + 5% CO2), and the vasoactive drug nicotinamide that decreases perfusion-limited hypoxia.
+
+**Bioreductive drugs (tirapazamine):** These prodrugs are selectively cytotoxic to hypoxic cells. Tirapazamine is reduced to an active free radical in hypoxic conditions, producing DNA strand breaks, but remains inactive in normoxic tissues.
+
+**Meta-analysis of hypoxia modification:** A meta-analysis of 27 trials in 4,250 head and neck cancer patients demonstrated a 7% absolute benefit in locoregional control with hypoxia modification plus radiation versus RT alone (46% vs. 39%), translating to an odds ratio of 1.35 (95% CI 1.20-1.53) in favour of hypoxia modification.
 
 ### VEGF as a Prognostic Marker in HNSCC
 
