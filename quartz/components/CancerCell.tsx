@@ -20,7 +20,6 @@ CancerCell.css = `
   width: 100%;
   height: 500px;
   margin: -1rem 0 1rem 0;
-  border-radius: 12px;
   overflow: hidden;
   background: transparent;
 }
@@ -32,12 +31,6 @@ CancerCell.css = `
   width: 100%;
   height: 100%;
   cursor: default;
-}
-
-/* Hide default content on index when canvas is active */
-body[data-slug="index"] .cancer-cell-container ~ .article-title,
-body[data-slug=""] .cancer-cell-container ~ .article-title {
-  /* Title is rendered on canvas */
 }
 
 @media (max-width: 768px) {
