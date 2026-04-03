@@ -179,7 +179,7 @@ For a **3 cm upper alveolar melanoma (T4a)**:
 > 2. **Mendenhall WM et al. (2005)** — *Head and neck mucosal melanoma* — Am J Clin Oncol — Comprehensive review of management principles and role of adjuvant RT — [DOI: 10.1097/01.coc.0000170805.14058.d3](https://doi.org/10.1097/01.coc.0000170805.14058.d3)
 > 3. **Jethanamest D et al. (2011)** — *Predictors of survival in mucosal melanoma of the head and neck: Data from the SEER database* — Ann Surg Oncol — SEER analysis of 815 patients; surgery + RT improved survival over surgery alone — [DOI: 10.1245/s10434-011-1685-4](https://doi.org/10.1245/s10434-011-1685-4)
 > 4. **Lund VJ et al. (2012)** — *European position paper on endoscopic management of tumours of the nose, paranasal sinuses and skull base: Mucosal melanoma* — Rhinol Suppl — European consensus on management including staging and treatment algorithms — [DOI: 10.4193/Rhino12.091](https://doi.org/10.4193/Rhino12.091)
-> 5. **D'Angelo SP et al. (2017)** — *Efficacy and safety of nivolumab alone or in combination with ipilimumab in patients with mucosal melanoma: A pooled analysis* — J Clin Oncol — ORR 23.3% for combination vs 0% for ipilimumab alone in mucosal melanoma — [DOI: 10.1200/JCO.2016.70.1529](https://doi.org/10.1200/JCO.2016.70.1529)
+> 5. **D'Angelo SP et al. (2017)** — *Efficacy and safety of nivolumab alone or in combination with ipilimumab in patients with mucosal melanoma: A pooled analysis* — J Clin Oncol — ORR 23.3% for combination vs 0% for ipilimumab alone in mucosal melanoma — [DOI: 10.1200/JCO.2016.67.9258](https://doi.org/10.1200/JCO.2016.67.9258)
 
 ---
 
