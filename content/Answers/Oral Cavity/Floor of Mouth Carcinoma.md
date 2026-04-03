@@ -225,9 +225,9 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 ---
 
 > [!cite] Landmark Articles
-> 1. **Shaha AR et al. (1984)** — *Squamous carcinoma of the floor of the mouth* — Am J Surg — Established prognostic factors and surgical management principles for FOM carcinoma — [DOI: 10.1016/0002-9610(84)90352-3](https://doi.org/10.1016/0002-9610(84)90352-3)
+> 1. **Shaha AR et al. (1984)** — *Squamous carcinoma of the floor of the mouth* — Am J Surg — MSKCC series establishing prognostic factors and surgical management principles for FOM carcinoma — [DOI: 10.1016/0002-9610(84)90369-6](https://doi.org/10.1016/0002-9610(84)90369-6)
 > 2. **Nason RW et al. (2009)** — *What is the adequate margin of surgical resection in oral cancer?* — Oral Surg Oral Med Oral Pathol Oral Radiol Endod — Defined adequate margins (≥5 mm) and impact on local recurrence — [DOI: 10.1016/j.tripleo.2009.01.022](https://doi.org/10.1016/j.tripleo.2009.01.022)
-> 3. **Hicks WL Jr et al. (1997)** — *Patterns of nodal metastasis and surgical management of the neck in supraglottic laryngeal carcinoma* — Otolaryngol Head Neck Surg — Established occult metastasis rates guiding elective neck dissection policy — [DOI: 10.1016/S0194-5998(97)70228-2](https://doi.org/10.1016/S0194-5998(97)70228-2)
+> 3. **Hicks WL Jr et al. (1997)** — *Squamous cell carcinoma of the floor of mouth: A 20-year review* — Head Neck — Roswell Park 20-year outcomes review of 99 FOM patients establishing treatment outcomes and prognostic factors — [DOI: 10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3](https://doi.org/10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3)
 > 4. **Huang SH et al. (2009)** — *Effect of tumor thickness and depth of invasion on nodal metastasis and survival in oral tongue cancer* — Cancer — Confirmed thickness >4 mm as threshold for elective neck treatment — [DOI: 10.1002/cncr.24161](https://doi.org/10.1002/cncr.24161)
 > 5. **Mucke T et al. (2009)** — *Outcome of treatment and factors influencing recurrence in patients with floor of mouth carcinoma* — J Craniomaxillofac Surg — Multivariate analysis: T stage, margins, and nodal status as independent predictors — [DOI: 10.1016/j.jcms.2008.12.005](https://doi.org/10.1016/j.jcms.2008.12.005)
 
