@@ -170,11 +170,11 @@ PNI along V₃ represents **advanced disease** and is an indication for [[Answer
 ---
 
 > [!cite] Landmark Articles
-> 1. **Scarbrough TJ et al. (2003)** — *Referred otalgia in head and neck cancer: A unifying schema* — Am J Clin Oncol — Proposed systematic classification of referred otalgia pathways based on cranial nerve anatomy — [DOI: 10.1097/01.coc.0000072502.42537.CF](https://doi.org/10.1097/01.coc.0000072502.42537.CF)
-> 2. **Charlett SD & Coatesworth AP (2007)** — *Referred otalgia: A structured approach to diagnosis and treatment* — Int J Clin Pract — Clinical algorithm for evaluating referred otalgia in head and neck practice — [DOI: 10.1111/j.1742-1241.2006.01228.x](https://doi.org/10.1111/j.1742-1241.2006.01228.x)
-> 3. **Chen RC et al. (2008)** — *Otalgia* — Med Clin N Am — Comprehensive review of otalgia aetiology including secondary/referred pathways from head and neck malignancy — [DOI: 10.1016/j.mcna.2007.10.003](https://doi.org/10.1016/j.mcna.2007.10.003)
-> 4. **Visvanathan V & Kelly G (2010)** — *12 minute consultation: An evidence-based management of referred otalgia* — Clin Otolaryngol — Practical evidence-based framework for clinicians managing referred otalgia — [DOI: 10.1111/j.1749-4486.2010.02138.x](https://doi.org/10.1111/j.1749-4486.2010.02138.x)
-> 5. **Shah JP et al. (2012)** — *Patterns of cervical lymph node metastasis from squamous carcinomas of the upper aerodigestive tract* — Am J Surg — Landmark analysis linking primary tumour site to neural pathways and nodal drainage relevant to otalgia referral — [DOI: 10.1016/0002-9610(90)90321-I](https://doi.org/10.1016/0002-9610(90)90321-I)
+> 1. **Scarbrough TJ et al. (2003)** — *Referred otalgia in head and neck cancer: A unifying schema* — Am J Clin Oncol — Proposed unified schema of neural mechanisms giving rise to referred otalgia in HNC — [DOI: 10.1097/01.coc.0000091357.08692.86](https://doi.org/10.1097/01.coc.0000091357.08692.86)
+> 2. **Yanagisawa K & Kveton JF (1992)** — *Referred otalgia* — Am J Otolaryngol — Foundational review emphasising history and examination to identify HNC presenting as otalgia — [DOI: 10.1016/0196-0709(92)90072-2](https://doi.org/10.1016/0196-0709(92)90072-2)
+> 3. **Charlett SD & Coatesworth AP (2007)** — *Referred otalgia: A structured approach to diagnosis and treatment* — Int J Clin Pract — Classification of aetiology and structured diagnostic approach with emphasis on excluding malignancy — [DOI: 10.1111/j.1742-1241.2006.00932.x](https://doi.org/10.1111/j.1742-1241.2006.00932.x)
+> 4. **Chen RC et al. (2009)** — *The radiology of referred otalgia* — AJNR — Comprehensive review of CT/MRI evaluation along CN V, VII, IX, X distributions to detect occult malignancy — [DOI: 10.3174/ajnr.A1605](https://doi.org/10.3174/ajnr.A1605)
+> 5. **Visvanathan V & Kelly G (2010)** — *12 minute consultation: An evidence-based management of referred otalgia* — Clin Otolaryngol — Evidence-based clinical guide covering neuroanatomical pathways and systematic diagnostic approach — [DOI: 10.1111/j.1749-4486.2010.02197.x](https://doi.org/10.1111/j.1749-4486.2010.02197.x)
 
 ---
 
