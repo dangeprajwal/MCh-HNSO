@@ -211,8 +211,8 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 > 1. **Reichart PA et al. (1995)** — *Ameloblastoma: biological profile of 3,677 cases* — Eur J Cancer B Oral Oncol — Largest pooled series defining epidemiology, site distribution, and recurrence patterns of ameloblastoma — [DOI: 10.1016/0964-1955(95)00023-2](https://doi.org/10.1016/0964-1955(95)00023-2)
 > 2. **Carlson ER & Marx RE (2006)** — *The ameloblastoma: primary, curative surgical management* — J Oral Maxillofac Surg — Established segmental resection with 1.5 cm margins as gold standard for solid ameloblastoma — [DOI: 10.1016/j.joms.2005.11.032](https://doi.org/10.1016/j.joms.2005.11.032)
 > 3. **Lau SL & Samman N (2006)** — *Recurrence related to treatment modalities of unicystic ameloblastoma: a systematic review* — Int J Oral Maxillofac Surg — Systematic review demonstrating lower recurrence with resection vs conservative treatment for unicystic ameloblastoma — [DOI: 10.1016/j.ijom.2006.02.016](https://doi.org/10.1016/j.ijom.2006.02.016)
-> 4. **Sweeney RT et al. (2014)** — *Identification of recurrent SMO and BRAF mutations in ameloblastomas* — Nat Genet — Landmark genomic study identifying BRAF V600E (63%) and SMO mutations as key drivers, opening targeted therapy options — [DOI: 10.1038/ng.2986](https://doi.org/10.1038/ng.2986)
-> 5. **Mendenhall WM et al. (2007)** — *Ameloblastoma* — Am J Clin Oncol — Comprehensive review of management including role of adjuvant RT for unresectable/recurrent cases — [DOI: 10.1097/COC.0b013e3181573f9a](https://doi.org/10.1097/COC.0b013e3181573f9a)
+> 4. **Kurppa KJ et al. (2014)** — *High frequency of BRAF V600E mutations in ameloblastoma* — J Pathol — First study demonstrating BRAF V600E in 63% of ameloblastomas, providing rationale for targeted therapy with vemurafenib — [DOI: 10.1002/path.4317](https://doi.org/10.1002/path.4317)
+> 5. **Mendenhall WM et al. (2007)** — *Ameloblastoma* — Am J Clin Oncol — Comprehensive review of management including role of adjuvant RT for unresectable/recurrent cases — [DOI: 10.1097/COC.0b013e3181573e59](https://doi.org/10.1097/COC.0b013e3181573e59)
 
 ---
 
