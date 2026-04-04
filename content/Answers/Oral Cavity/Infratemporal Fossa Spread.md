@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Oncology
-  - Skull-Base
   - Anatomy
-  - Paranasal-Sinuses
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -18,7 +16,7 @@ Jatin Shah Ch5 (Paranasal Sinuses), Ch6 (Skull Base), Ch8 (Oral Cavity); Harriso
 
 > [!cite] Landmark Articles
 >
-> The infratemporal fossa (ITF) represents one of the most surgically challenging regions in head and neck oncology. Fisch (1978) described the landmark infratemporal fossa surgical approach (Types A–D) for tumours of the temporal bone and skull base. Curtin (1987) defined the radiological anatomy of the masticator space and its separation from the parapharyngeal space, providing the imaging framework still used today. Janecka et al. (1994) classified skull base approaches and demonstrated feasibility of extended resections involving the ITF. Wei et al. (2007) reported outcomes of maxillary swing approach for ITF tumours, establishing it as a reliable technique for medially situated lesions. Roh et al. (2012) demonstrated that endoscopic-assisted approaches can be combined with open techniques for improved visualisation of the ITF.
+> The infratemporal fossa (ITF) represents one of the most surgically challenging regions in head and neck oncology. Fisch (1978) described the landmark infratemporal fossa surgical approach (Types A–D) for tumours of the temporal bone and skull base. Curtin (1987) defined the radiological anatomy of the [[Answers/Oral Cavity/Masticator Space|masticator space]] and its separation from the parapharyngeal space, providing the imaging framework still used today. Janecka et al. (1994) classified skull base approaches and demonstrated feasibility of extended resections involving the ITF. Wei et al. (2007) reported outcomes of maxillary swing approach for ITF tumours, establishing it as a reliable technique for medially situated lesions. Roh et al. (2012) demonstrated that endoscopic-assisted approaches can be combined with open techniques for improved visualisation of the ITF.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -30,7 +28,7 @@ Jatin Shah Ch5 (Paranasal Sinuses), Ch6 (Skull Base), Ch8 (Oral Cavity); Harriso
 
 ## Introduction
 
-The infratemporal fossa (ITF) is a deep, irregularly shaped space situated between the lateral wall of the pharynx medially and the ramus of the mandible laterally, inferior to the greater wing of the sphenoid and the temporal bone. It serves as a critical crossroads for tumour spread between the oral cavity, paranasal sinuses, nasopharynx, parapharyngeal space, and middle cranial fossa. Involvement of the ITF by oral cavity or sinonasal tumours upstages the disease to T4b (very advanced local disease) in most AJCC staging systems, profoundly affecting treatment planning and prognosis.
+The infratemporal fossa (ITF) is a deep, irregularly shaped space situated between the lateral wall of the pharynx medially and the ramus of the mandible laterally, inferior to the greater wing of the sphenoid and the temporal bone. It serves as a critical crossroads for tumour spread between the oral cavity, paranasal sinuses, nasopharynx, parapharyngeal space, and middle cranial fossa. Involvement of the ITF by oral cavity or sinonasal tumours upstages the disease to T4b (very advanced local disease) in most [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC staging]] systems, profoundly affecting treatment planning and prognosis.
 
 ## Anatomy of the Infratemporal Fossa
 
@@ -57,7 +55,7 @@ The infratemporal fossa (ITF) is a deep, irregularly shaped space situated betwe
 | Connection | Pathway |
 |---|---|
 | Middle cranial fossa | Foramen ovale (V3), foramen spinosum (middle meningeal artery) |
-| Pterygopalatine fossa | Pterygomaxillary fissure |
+| [[Answers/Oral Cavity/Pterygopalatine Fossa|pterygopalatine fossa]] | Pterygomaxillary fissure |
 | Orbit | Inferior orbital fissure |
 | Oral cavity | Gap between lateral pterygoid plate and mandible |
 | Parapharyngeal space | Medial to medial pterygoid |
@@ -69,7 +67,7 @@ The infratemporal fossa (ITF) is a deep, irregularly shaped space situated betwe
 
 - **Retromolar trigone tumours** → posteriorly through the pterygomandibular raphe → between medial pterygoid and ramus → ITF
 - **Posterior alveolar/buccal tumours** → via buccal fat pad → ITF
-- **Floor of mouth/tongue tumours** → posterolateral along the lingual nerve → ITF
+- **[[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]]/tongue tumours** → posterolateral along the lingual nerve → ITF
 - **Perineural spread** along the inferior alveolar nerve (V3) → mandibular foramen → ITF → foramen ovale → middle cranial fossa
 
 ### From Paranasal Sinuses
@@ -84,12 +82,12 @@ The infratemporal fossa (ITF) is a deep, irregularly shaped space situated betwe
 
 ## Clinical Features of ITF Involvement
 
-- **Trismus** — the hallmark clinical sign; caused by infiltration of pterygoid muscles (medial and lateral pterygoid)
-- Pain — deep facial pain, referred otalgia (V3 involvement)
+- **[[Answers/General/Trismus Prevention|trismus]]** — the hallmark clinical sign; caused by infiltration of pterygoid muscles (medial and lateral pterygoid)
+- Pain — deep facial pain, [[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|referred otalgia]] (V3 involvement)
 - Numbness — hypoaesthesia in V3 distribution (lower lip, chin)
 - Cranial nerve deficits — V3 motor (masseter weakness), or extension to middle cranial fossa causing other CN palsies
 - Swelling — fullness in the temporal or infratemporal region
-- Dysphagia — if parapharyngeal space involved
+- [[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]] — if parapharyngeal space involved
 
 ## Imaging
 
@@ -105,7 +103,7 @@ The infratemporal fossa (ITF) is a deep, irregularly shaped space situated betwe
 - **Perineural spread** — enhancing and thickened nerve, widened foramen, obliteration of Meckel's cave
 - Can distinguish tumour from inflammatory change in pterygoid muscles
 
-### PET-CT
+### [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]]
 
 - Useful for detecting occult distant metastases in T4b disease
 - Helps assess treatment response
@@ -140,7 +138,7 @@ T4b oral cavity cancers are generally considered **unresectable** by many guidel
 **Advantages:** Excellent medial ITF exposure; preserves alveolar process and facial contour
 **Limitations:** Posterior maxillary wall may fracture; not suitable for laterally placed tumours
 
-### 2. Mandibulotomy (Lip-Split) Approach
+### 2. [[Answers/Oral Cavity/Access Mandibulotomy|access mandibulotomy]] (Lip-Split) Approach
 
 **Best for:** Tumours in the **lateral** ITF between the mandibular ramus and lateral pterygoid plate
 
@@ -182,14 +180,14 @@ Originally designed for temporal bone tumours but applicable to ITF:
 
 - Selected T4b oral cancers with limited ITF extension may be resectable with curative intent at high-volume centres
 - Requires multidisciplinary planning (head and neck surgeon, neurosurgeon, reconstructive surgeon)
-- Consider neoadjuvant chemotherapy to downstage before surgery
+- Consider [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|neoadjuvant chemotherapy]] to downstage before surgery
 - Adjuvant chemoradiation is mandatory
 
 ### Unresectable ITF Involvement
 
 - Extensive ITF involvement with ICA encasement, cavernous sinus invasion, or extensive middle cranial fossa involvement
 - Treat with **definitive chemoradiation** (cisplatin-based)
-- Consider induction chemotherapy (TPF regimen) followed by radiation ± cetuximab
+- Consider induction chemotherapy (TPF regimen) followed by radiation ± [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]]
 
 ### Reconstruction After ITF Resection
 
@@ -216,3 +214,16 @@ Originally designed for temporal bone tumours but applicable to ITF:
 > - On MRI, loss of the normal high-signal fat in the ITF on T1-weighted images is the key sign of tumour infiltration
 > - The pterygoid venous plexus in the ITF is a source of severe haemorrhage during surgery — have bipolar cautery and Surgicel readily available
 > - The buccal fat pad serves as a conduit for tumour spread from the oral cavity into the ITF — assess it on imaging and remove it en bloc during surgery
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — deep space tumour extension
+> - [[Answers/Oral Cavity/Access Mandibulotomy|Access Mandibulotomy]] — surgical access for deep tumours
+> - [[Answers/Oral Cavity/Pterygopalatine Fossa|Pterygopalatine Fossa]] — skull base anatomy and spread pathways
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|Neoadjuvant Chemotherapy in Oral Cancer]] — related topic

@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - pathology
-  - oral-cavity
-  - oncology
+  - General
+  - Oncology
+  - Pathology
 ---
 
 # Histological Grading of Squamous Cell Carcinoma
@@ -14,7 +13,7 @@ tags:
 **Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 4 (TNM Staging — Histopathological Grading); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 1 (Pathology — Histologic Differentiation and Grade, Worst Pattern of Invasion); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 4 (Assessment — Grading), Chapter 5 (Prognostic Factors)
 
 > [!cite] Landmark Articles
-> Histological grading of squamous cell carcinoma (SCC) has evolved from Broders' (1920) whole-tumour differentiation-based system to modern approaches focusing on the invasive tumour front. Broders (1920) published the foundational paper establishing the first histological grading system, dividing 537 lip SCCs into four grades based on the ratio of differentiated to undifferentiated cells — proving for the first time that numerical tumour grading could predict prognosis. Bryne et al. (1992) demonstrated that malignancy grading of the deep invasive margins of oral SCC has high prognostic value, while conventional Broders' grading of the whole biopsy had none — shifting the paradigm to invasive front grading. Bryne (1998) published the comprehensive review establishing the theoretical basis for why the invasive front is the most important area for prognostication. Brandwein-Gensler et al. (2005) developed the histologic risk assessment model for oral SCC based on worst pattern of invasion (WPOI), perineural invasion, and lymphocytic host response — showing it is strongly predictive of local recurrence and survival, while margin status alone is not. The WPOI-5 pattern (dispersed tumour satellites ≥1 mm from main tumour) from this model was subsequently incorporated into the AJCC 8th edition staging system.
+> Histological grading of squamous cell carcinoma (SCC) has evolved from Broders' (1920) whole-tumour differentiation-based system to modern approaches focusing on the invasive tumour front. Broders (1920) published the foundational paper establishing the first histological grading system, dividing 537 lip SCCs into four grades based on the ratio of differentiated to undifferentiated cells — proving for the first time that numerical tumour grading could predict prognosis. Bryne et al. (1992) demonstrated that malignancy grading of the deep invasive margins of oral SCC has high prognostic value, while conventional Broders' grading of the whole biopsy had none — shifting the paradigm to invasive front grading. Bryne (1998) published the comprehensive review establishing the theoretical basis for why the invasive front is the most important area for prognostication. [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Brandwein-Gensler risk model]] et al. (2005) developed the histologic risk assessment model for oral SCC based on worst pattern of invasion (WPOI), [[Answers/General/Perineural Invasion|perineural invasion]], and lymphocytic host response — showing it is strongly predictive of local recurrence and survival, while margin status alone is not. The WPOI-5 pattern (dispersed tumour satellites ≥1 mm from main tumour) from this model was subsequently incorporated into the [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] edition staging system.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -93,7 +92,7 @@ Bryne (1998) established the theoretical basis: molecular and morphological char
 - Gains and losses of adhesion molecules
 - Secretion of proteolytic enzymes
 - Increased cell proliferation
-- Initiation of angiogenesis
+- Initiation of [[Answers/General/Tumour Angiogenesis|angiogenesis]]
 
 Bryne et al. (1992) proved that **invasive front grading is an independent prognostic factor** (p < 0.01 in Cox multivariate analysis), while conventional Broders' grading of the whole biopsy had **no prognostic value** (p = 0.38).
 
@@ -162,9 +161,9 @@ Scott-Brown's and Stell and Maran's emphasize that several features at the invas
 
 | Feature | Prognostic Significance |
 |---------|------------------------|
-| **Depth of invasion (DOI)** | Now part of AJCC 8th edition T staging for oral cavity |
+| **[[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]] (DOI)** | Now part of AJCC 8th edition T staging for oral cavity |
 | **Pattern of invasion** | Cohesive front = better; non-cohesive/dissociated = worse |
-| **Perineural invasion** | Highly prognostically significant; indication for adjuvant RT |
+| **Perineural invasion** | Highly prognostically significant; indication for [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] |
 | **Lymphovascular invasion** | Predictor of nodal metastasis and poor survival |
 | **Tumour budding** | Small clusters (<5 cells) at invasive front; emerging prognostic marker |
 | **Host immune response** | Dense lymphocytic infiltrate = favourable |
@@ -213,3 +212,16 @@ Stell and Maran's Chapter 7 provides an important caveat: conventional tumour gr
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Perineural Invasion|Perineural Invasion]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Histological Risk Assessment in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Oral Submucous Fibrosis|Oral Submucous Fibrosis]] — related topic

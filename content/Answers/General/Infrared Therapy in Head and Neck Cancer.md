@@ -1,10 +1,8 @@
 ---
 tags:
   - General
-  - Supportive-Care
-  - Mucositis
-  - Photobiomodulation
   - Rehabilitation
+  - Supportive-Care
 ---
 
 > [!question] KIDWAI 2020
@@ -16,7 +14,7 @@ Scott-Brown's Ch20, Ch66; Harrison's Head and Neck Cancer Ch23; Stell & Maran's 
 
 > [!cite] Landmark Articles
 >
-> Infrared therapy, now termed photobiomodulation (PBM) therapy, has gained significant evidence for supportive care in head and neck cancer, particularly for oral mucositis prevention. Bjordal et al. (2011) published a systematic review and meta-analysis demonstrating that low-level laser therapy (LLLT) significantly reduces the severity and duration of oral mucositis in cancer patients. The MASCC/ISOO clinical practice guidelines by Lalla et al. (2014) recommended PBM for prevention of oral mucositis in patients receiving head and neck RT. Antunes et al. (2013) conducted a landmark RCT showing that LLLT reduced severe mucositis from 40% to 7.6% in HNC patients receiving CRT. Zecha et al. (2016) provided the most comprehensive systematic review of PBM parameters for oral mucositis. Ridner et al. (2013) demonstrated efficacy of LLLT in managing head and neck lymphoedema, expanding the indication beyond mucositis.
+> Infrared therapy, now termed photobiomodulation (PBM) therapy, has gained significant evidence for supportive care in head and neck cancer, particularly for oral mucositis prevention. Bjordal et al. (2011) published a systematic review and meta-analysis demonstrating that low-level laser therapy (LLLT) significantly reduces the severity and duration of oral mucositis in cancer patients. The MASCC/ISOO clinical practice guidelines by Lalla et al. (2014) recommended PBM for prevention of oral mucositis in patients receiving head and neck RT. Antunes et al. (2013) conducted a landmark RCT showing that LLLT reduced severe mucositis from 40% to 7.6% in HNC patients receiving CRT. Zecha et al. (2016) provided the most comprehensive systematic review of PBM parameters for oral mucositis. Ridner et al. (2013) demonstrated efficacy of LLLT in managing head and neck [[Answers/General/Post-treatment Lymphedema|lymphoedema]], expanding the indication beyond mucositis.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -48,7 +46,7 @@ Infrared therapy encompasses the use of near-infrared (NIR) and infrared (IR) wa
 3. **Reactive oxygen species (ROS) modulation**: brief controlled ROS generation → activation of redox-sensitive transcription factors (NF-κB, AP-1)
 4. **Anti-inflammatory effects**: reduced pro-inflammatory cytokines (IL-1β, TNF-α, IL-6); increased anti-inflammatory mediators
 5. **Cellular proliferation**: enhanced fibroblast, keratinocyte, and endothelial cell proliferation
-6. **Angiogenesis**: VEGF upregulation → improved tissue perfusion and healing
+6. **[[Answers/General/Tumour Angiogenesis|angiogenesis]]**: VEGF upregulation → improved tissue perfusion and healing
 7. **Neural effects**: modulation of nerve conduction → analgesic effect; reduced neuropathic pain
 
 ### Key Principle: Biphasic Dose Response (Arndt-Schulz Law)
@@ -101,13 +99,13 @@ Infrared therapy encompasses the use of near-infrared (NIR) and infrared (IR) wa
 #### Protocol
 
 - **Timing**: begin on Day 1 of RT/CRT; continue daily throughout treatment
-- **Sites**: bilateral buccal mucosa, lateral tongue, floor of mouth, soft palate, oropharynx — 6-10 points per session
+- **Sites**: bilateral buccal mucosa, lateral tongue, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], soft palate, oropharynx — 6-10 points per session
 - **Duration**: 10-60 seconds per point (varies by device power)
 - **Total treatment time**: 10-15 minutes per session
 
 ### B. Head and Neck Lymphoedema
 
-- Post-treatment lymphoedema affects **75% of HNC patients** — causes facial/neck swelling, fibrosis, dysphagia
+- Post-treatment lymphoedema affects **75% of HNC patients** — causes facial/neck swelling, fibrosis, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]]
 - **Ridner et al. 2013**: LLLT (905 nm, pulsed) applied to affected head/neck regions → significant reduction in tissue fibrosis score and patient-reported symptoms
 - Mechanism: stimulates lymphatic endothelial cell proliferation, improves lymphatic drainage, reduces fibrosis
 - Applied as adjunct to complete decongestive therapy (CDT)
@@ -116,7 +114,7 @@ Infrared therapy encompasses the use of near-infrared (NIR) and infrared (IR) wa
 
 - PBM accelerates wound healing in post-surgical and post-radiation tissue
 - Promotes fibroblast proliferation, collagen synthesis, and angiogenesis
-- Emerging evidence for ORN wound management and post-surgical flap viability
+- Emerging evidence for [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|ORN]] wound management and post-surgical flap viability
 - **Caution**: avoid direct application over known residual or recurrent tumour
 
 ### D. Pain Management
@@ -125,13 +123,13 @@ Infrared therapy encompasses the use of near-infrared (NIR) and infrared (IR) wa
 |---|---|---|
 | Mucositis pain | Reduced inflammation, neural modulation | Strong (RCTs) |
 | Post-surgical pain | Anti-inflammatory, endorphin release | Moderate |
-| Trismus/fibrosis | Tissue remodelling, reduced myofascial pain | Emerging |
+| [[Answers/General/Trismus Prevention|trismus]]/fibrosis | Tissue remodelling, reduced myofascial pain | Emerging |
 | Neuropathic pain | Nerve regeneration, conduction modulation | Preliminary |
 
-### E. Xerostomia
+### E. [[Answers/General/Xerostomia Management|xerostomia]]
 
 - Emerging evidence that PBM applied over major salivary glands during RT may preserve salivary function
-- Mechanism: reduced radiation-induced apoptosis of acinar cells
+- Mechanism: reduced radiation-induced [[Answers/General/Apoptosis|apoptosis]] of acinar cells
 - Early clinical trials show improved saliva flow rates — requires further validation
 
 ## Safety Considerations
@@ -176,3 +174,16 @@ Infrared therapy encompasses the use of near-infrared (NIR) and infrared (IR) wa
 > - PBM is **non-thermal** — if the patient feels heat, the power is too high; reduce intensity or increase spot size
 > - There is **no clinical evidence** that PBM at therapeutic doses promotes tumour growth — it is safe to use during and after cancer treatment
 > - LED devices are cheaper and cover larger areas than laser diodes — equally effective for mucositis prevention and increasingly used in clinical practice
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — photobiomodulation for xerostomia
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Speech Rehabilitation after Laryngectomy|Speech Rehabilitation after Laryngectomy]] — related topic

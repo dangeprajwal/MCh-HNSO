@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Oncology
-  - Mandible
-  - Reconstruction
+  - Surgery
 ---
 
 > [!question] AIIMS 2020
@@ -15,7 +13,7 @@ Jatin Shah Ch8 (Oral Cavity); Stell & Maran's Ch18; Scott-Brown's Ch14, Ch15; Ha
 
 > [!cite] Landmark Articles
 >
-> Marginal mandibulectomy remains a critical bone-preservation technique in oral cancer surgery. Brown et al. (2002) defined the pathways by which oral tumours invade the mandible — through the alveolar crest at the junction of attached and reflected mucosa in dentate patients, and through cortical defects in edentulous patients. Wong et al. (2000) demonstrated that the histological pattern of invasion (infiltrative vs erosive) significantly impacts prognosis, with infiltrative pattern carrying a four-fold increased risk of death. Barttelbort et al. (1987) established the oncologic safety of rim resection with equivalent local control to segmental mandibulectomy. Munoz Guerra et al. (2003) confirmed in a 20-year cohort that survival was not significantly different between marginal and segmental mandibulectomy. Chen et al. (2011) showed that marginal mandibulectomy even in the presence of superficial bone invasion provides comparable oncologic outcomes.
+> Marginal mandibulectomy remains a critical bone-preservation technique in oral cancer surgery. Brown et al. (2002) defined the pathways by which oral tumours invade the mandible — through the alveolar crest at the junction of attached and reflected mucosa in dentate patients, and through cortical defects in edentulous patients. Wong et al. (2000) demonstrated that the histological pattern of invasion (infiltrative vs erosive) significantly impacts prognosis, with infiltrative pattern carrying a four-fold increased risk of death. Barttelbort et al. (1987) established the oncologic safety of rim resection with equivalent local control to [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]]. Munoz Guerra et al. (2003) confirmed in a 20-year cohort that survival was not significantly different between marginal and segmental mandibulectomy. Chen et al. (2011) showed that marginal mandibulectomy even in the presence of superficial bone invasion provides comparable oncologic outcomes.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -56,7 +54,7 @@ Marginal mandibulectomy (rim resection) involves removal of the alveolar portion
 | **Infiltrative** | Finger-like projections/islands of tumour into bone | 4× increased risk of death |
 
 - Large, deep tumours more likely to demonstrate infiltrative pattern
-- Infiltrative pattern associated with greater width and depth of invasion, higher positive margin rate
+- Infiltrative pattern associated with greater width and [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]], higher positive margin rate
 
 ## Indications and Contraindications
 
@@ -74,7 +72,7 @@ Marginal mandibulectomy (rim resection) involves removal of the alveolar portion
 | Gross cancellous bone invasion | Tumour extends beyond alveolar bone |
 | Invasion of inferior alveolar nerve/canal | Deep bone involvement |
 | Massive soft tissue disease abutting mandible | Inadequate soft tissue clearance |
-| Previously irradiated mandible | Multifocal cortical invasion pattern; high fracture/ORN risk |
+| Previously irradiated mandible | Multifocal cortical invasion pattern; high fracture/[[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|ORN]] risk |
 | Edentulous pipestem mandible | Insufficient residual bone height |
 | Primary bone tumour or metastasis | Requires wide bone resection |
 | Residual mandibular height <10 mm after resection | Fracture risk unacceptable |
@@ -111,7 +109,7 @@ Marginal mandibulectomy (rim resection) involves removal of the alveolar portion
 
 - **Peroral**: small alveolar carcinomas, adequate exposure
 - **Visor flap** (lower lip-sparing): avoids lip split
-- **Lip-split/mandibulotomy**: for posterior tumours requiring wider access
+- **Lip-split/[[Answers/Oral Cavity/Access Mandibulotomy|access mandibulotomy]]**: for posterior tumours requiring wider access
 - **Note**: combination of mandibulotomy + posterior marginal mandibulectomy should be avoided (increased ORN risk)
 
 ## Oncologic Outcomes
@@ -162,3 +160,16 @@ Marginal mandibulectomy (rim resection) involves removal of the alveolar portion
 > - All osteotomy cuts must follow a **smooth curve** — right-angled cuts create stress risers leading to pathological fracture
 > - If residual mandibular height is <10 mm after rim resection, **convert to segmental mandibulectomy** with reconstruction rather than risk fracture
 > - In irradiated patients, mandibular invasion follows a **multifocal cortical pattern** rather than the predictable alveolar pattern — marginal mandibulectomy is unreliable in this setting
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|Osteoradionecrosis of the Mandible]] — related topic
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — mandibulectomy classification
+> - [[Answers/Oral Cavity/Access Mandibulotomy|Access Mandibulotomy]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — mandible management in FOM cancer
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — mandibular invasion assessment

@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Radiotherapy
-  - Evidence-Based
-  - Adjuvant-Therapy
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -16,7 +14,7 @@ Harrison's Head and Neck Cancer Ch7, Ch14; Stell & Maran's Ch11; Montgomery Ch14
 
 > [!cite] Landmark Articles
 >
-> Cooper et al. (2004) published the RTOG 9501 trial in the NEJM, the landmark American RCT demonstrating that postoperative concurrent cisplatin-based chemoradiation significantly improved locoregional control and disease-free survival compared to radiation alone in high-risk resected HNSCC. Bernier et al. (2004) published the parallel EORTC 22931 trial in the same issue of NEJM, showing similar benefits for concurrent chemoradiation in the European cohort. Bernier et al. (2005) then published the critical combined analysis of both trials, identifying the two features that consistently benefited from concurrent chemoradiation: **positive margins and extranodal extension (ENE)**. Peters et al. (1993) established the optimal dose and timing for postoperative radiotherapy (57.6–63 Gy; start within 6 weeks of surgery). Eisbruch et al. (2004) identified the dysphagia/aspiration-related structures (DARS) and demonstrated that IMRT could spare these structures, establishing the scientific basis for DARS-sparing RT.
+> Cooper et al. (2004) published the RTOG 9501 trial in the NEJM, the landmark American RCT demonstrating that postoperative concurrent cisplatin-based chemoradiation significantly improved locoregional control and disease-free survival compared to radiation alone in high-risk resected HNSCC. Bernier et al. (2004) published the parallel EORTC 22931 trial in the same issue of NEJM, showing similar benefits for concurrent chemoradiation in the European cohort. Bernier et al. (2005) then published the critical combined analysis of both trials, identifying the two features that consistently benefited from concurrent chemoradiation: **positive margins and [[Answers/General/Extranodal Extension|extranodal extension]] (ENE)**. Peters et al. (1993) established the optimal dose and timing for postoperative radiotherapy (57.6–63 Gy; start within 6 weeks of surgery). Eisbruch et al. (2004) identified the dysphagia/aspiration-related structures (DARS) and demonstrated that IMRT could spare these structures, establishing the scientific basis for DARS-sparing RT.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -39,7 +37,7 @@ Postoperative RT alone (60–66 Gy) is indicated when one or more of the followi
 - pT3 or pT4a tumour
 - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of invasion]] >5 mm
 - Close margins (1–5 mm)
-- Perineural invasion (PNI)
+- [[Answers/General/Perineural Invasion|perineural invasion]] (PNI)
 - Lymphovascular invasion (LVI)
 - pN1 disease (single positive node without ENE)
 - Multiple positive nodes without ENE
@@ -48,7 +46,7 @@ Postoperative RT alone (60–66 Gy) is indicated when one or more of the followi
 
 Postoperative concurrent chemoradiation (RT + cisplatin 100 mg/m² days 1, 22, 43) is indicated for **high-risk features**:
 
-- **Positive (involved) surgical margins**
+- **Positive (involved) [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]**
 - **Extranodal extension (ENE)**
 
 These are the only two features for which the RTOG 9501/EORTC 22931 combined analysis (Bernier 2005) demonstrated a consistent benefit of adding chemotherapy to radiation.
@@ -115,7 +113,7 @@ Peters 1993 established that **minimum 57.6 Gy** (1.8 Gy fractions) is needed fo
 
 ### Concept
 
-Dysphagia/aspiration-related structures (DARS) are the anatomical structures whose radiation damage causes swallowing dysfunction. Eisbruch et al. (2004) identified these structures and demonstrated that IMRT could reduce dose to them without compromising tumour coverage.
+Dysphagia/aspiration-related structures (DARS) are the anatomical structures whose radiation damage causes [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] dysfunction. Eisbruch et al. (2004) identified these structures and demonstrated that IMRT could reduce dose to them without compromising tumour coverage.
 
 ### Key DARS Structures
 
@@ -137,7 +135,7 @@ Dysphagia/aspiration-related structures (DARS) are the anatomical structures who
 ### Application in Oral Cavity Cancer
 
 - In adjuvant RT for oral cavity cancer, DARS-sparing is particularly relevant when the **pharyngeal constrictors and supraglottic larynx** are not within the primary tumour bed
-- For anterior oral cavity tumours (lip, anterior tongue, floor of mouth), DARS can often be spared effectively
+- For anterior oral cavity tumours (lip, anterior tongue, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]]), DARS can often be spared effectively
 - For posterior oral cavity/oropharyngeal tumours, DARS are often within or adjacent to the CTV, limiting sparing ability
 - Prophylactic swallowing exercises during RT further reduce dysphagia risk (see Carnaby-Mann 2012)
 
@@ -156,7 +154,7 @@ DARS-sparing RT is increasingly standard practice where technically feasible. Se
 2. **No role for definitive RT** as primary treatment for resectable oral cavity SCC (inferior outcomes compared to surgery)
 3. **Mandible dose** is a critical concern — IMRT helps reduce dose to the contralateral mandible and minimise ORN risk
 4. **Dental planning** — pre-RT dental assessment is essential (see [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|ORN]])
-5. **Trismus risk** — dose to the pterygoid muscles and TMJ should be minimised
+5. **[[Answers/General/Trismus Prevention|trismus]] risk** — dose to the pterygoid muscles and TMJ should be minimised
 
 ### When NOT to Give Adjuvant RT
 
@@ -180,5 +178,18 @@ DARS-sparing RT is increasingly standard practice where technically feasible. Se
 > - The single most testable fact: positive margins and ENE → chemoRT; everything else → RT alone. This comes from Bernier 2005 combined analysis
 > - Timing matters: adjuvant RT should start within 6 weeks. If your patient has a complicated wound or fistula, involve radiation oncology early to plan around healing delays
 > - For oral cavity cancer specifically, always mention that surgery is first-line — unlike oropharynx or larynx where primary RT/CRT is an option. Examiners test this distinction
-> - DARS-sparing RT is increasingly expected in answers about functional outcomes and quality of life — mention pharyngeal constrictor dose <50 Gy as the key constraint
+> - DARS-sparing RT is increasingly expected in answers about functional outcomes and [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]] — mention pharyngeal constrictor dose <50 Gy as the key constraint
 > - Pre-RT dental assessment to prevent ORN is a mandatory step that should appear in any complete answer about adjuvant RT in oral cancer
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — positive margins and adjuvant RT indication
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic

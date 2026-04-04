@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - oncology
-  - basic-science
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Tumour Suppressor Genes in Head and Neck Cancer
@@ -19,7 +18,7 @@ tags:
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
 > | 1 | Mutation and cancer: statistical study of retinoblastoma | Knudson AG | Proc Natl Acad Sci USA, 1971 | [10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820) | Founded two-hit hypothesis: both alleles of a TSG must be inactivated for cancer; >5,000 citations |
-> | 2 | Genetic progression model for head and neck cancer: implications for field cancerization | Califano J, van der Riet P, Westra W et al. | Cancer Res, 1996 | PMID: [8653682](https://pubmed.ncbi.nlm.nih.gov/8653682/) | First genetic progression model for HNSCC; sequential LOH at 9p→3p→17p parallels histological progression |
+> | 2 | Genetic progression model for head and neck cancer: implications for [[Answers/Oral Cavity/Field Cancerization|field cancerization]] | Califano J, van der Riet P, Westra W et al. | Cancer Res, 1996 | PMID: [8653682](https://pubmed.ncbi.nlm.nih.gov/8653682/) | First genetic progression model for HNSCC; sequential LOH at 9p→3p→17p parallels histological progression |
 > | 3 | The RB and p53 pathways in cancer | Sherr CJ, McCormick F | Cancer Cell, 2002 | [10.1016/S1535-6108(02)00102-2](https://doi.org/10.1016/S1535-6108(02)00102-2) | Definitive review of the two central TSG pathways; INK4-CDK-RB and ARF-MDM2-p53 interconnection |
 > | 4 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | 279 HNSCCs profiled; TP53 mutated in 80% HPV−; identified NSD1, FAT1, NOTCH1 as novel TSGs |
 > | 5 | Clinical update on head and neck cancer: molecular biology and ongoing challenges | Alsahafi E, Begg K, Amelio I et al. | Cell Death Dis, 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) | Comprehensive molecular review; TSG loss drives HPV− HNSCC; p53 mutations predict poor OS |
@@ -28,11 +27,11 @@ tags:
 
 ## Introduction
 
-Tumour suppressor genes (TSGs) are normal cellular genes whose protein products inhibit cell proliferation, promote apoptosis, and maintain genomic stability. In contrast to oncogenes — where a single mutated copy can promote cancer through gain-of-function (phenotypic dominance) — TSGs require inactivation of both alleles to lose their protective function. As described in Scott-Brown's Volume 3 (Chapter 6), the functions of two classes of genes — oncogenes and tumour suppressor genes — are central to understanding cancer biology. In contrast to oncogenes, tumour suppressor genes are normal cellular genes whose function inhibits cell proliferation and survival; the function of both copies of a TSG must be lost in order to promote cancer (so-called phenotypic recessiveness). Mutated TSGs are responsible for the majority of inherited cancer syndromes, although inherited TSG mutations are not a significant cause of head and neck cancers — the majority of TSG inactivation in HNSCC occurs through somatic events.
+Tumour suppressor genes (TSGs) are normal cellular genes whose protein products inhibit cell proliferation, promote [[Answers/General/Apoptosis|apoptosis]], and maintain genomic stability. In contrast to oncogenes — where a single mutated copy can promote cancer through gain-of-function (phenotypic dominance) — TSGs require inactivation of both alleles to lose their protective function. As described in Scott-Brown's Volume 3 (Chapter 6), the functions of two classes of genes — oncogenes and tumour suppressor genes — are central to understanding cancer biology. In contrast to oncogenes, tumour suppressor genes are normal cellular genes whose function inhibits cell proliferation and survival; the function of both copies of a TSG must be lost in order to promote cancer (so-called phenotypic recessiveness). Mutated TSGs are responsible for the majority of inherited cancer syndromes, although inherited TSG mutations are not a significant cause of head and neck cancers — the majority of TSG inactivation in HNSCC occurs through somatic events.
 
 TSGs were first recognized through study of inherited cancers. Montgomery's textbook (Chapter 2) describes how TSGs were first recognized in the etiology of the inherited forms of retinoblastomas and Wilm's tumours. It is now evident that mutation in the p53 TSG occurs in a wide variety of human cancers. Li-Fraumeni families, who have a germline p53 mutation, can develop cancer at multiple sites, emphasizing the role of p53 as the "guardian of the genome."
 
-The Cancer Genome Atlas (TCGA) analysis of 279 HNSCCs confirmed that loss of TSG function is the most common molecular event in this disease — far more frequent than oncogene activation. As described in Scott-Brown's, the most common pathway affected in both HPV-positive and HPV-negative disease is loss of normal cell cycle control, which occurs in 90-100% of both types of cancer.
+The Cancer Genome Atlas (TCGA) analysis of 279 HNSCCs confirmed that loss of TSG function is the most common molecular event in this disease — far more frequent than oncogene activation. As described in Scott-Brown's, the most common pathway affected in both [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] and HPV-negative disease is loss of normal cell cycle control, which occurs in 90-100% of both types of cancer.
 
 ---
 
@@ -56,7 +55,7 @@ TSGs can be inactivated through multiple mechanisms, often with different mechan
 | Point mutation | Missense or nonsense mutation in coding sequence | TP53 (60-80% of HPV− HNSCC) |
 | Deletion | Homozygous deletion of the gene locus | CDKN2A at 9p21 |
 | Loss of heterozygosity (LOH) | Loss of one allele + mutation/methylation of the other | FHIT at 3p14 (66-68%) |
-| Promoter hypermethylation | Epigenetic silencing without DNA sequence change | CDKN2A (20-30% of HNSCC) |
+| Promoter hypermethylation | [[Answers/General/Epigenetics in Oncogenesis|epigenetics]] silencing without DNA sequence change | CDKN2A (20-30% of HNSCC) |
 | Viral oncoprotein binding | Functional inactivation of TSG protein | HPV E6 degrades p53; E7 inactivates Rb |
 
 As described in Montgomery's textbook, CDKN2A/p16 can be inactivated in HNSCC by three mechanisms: homozygous deletion, somatic mutation (10-15% of HNSCCs), or transcriptional silencing through promoter methylation — and these major inactivation mechanisms are not mutually exclusive. Loss of p16 is present in 52-82% of tumours from HNSCC patients.
@@ -83,12 +82,12 @@ TP53 is the single most commonly mutated gene in HNSCC. As described in Scott-Br
 
 ### 2. CDKN2A (p16INK4a) — Cell Cycle Gatekeeper
 
-The most commonly deleted chromosome site in HNSCC is located at 9p21-p24, which is the locus for the CDKN2A/MTS1/INK4A TSG. The p16INK4A gene product is an inhibitor of the cyclin/cyclin-dependent kinase complex. As described in Scott-Brown's, p16 functions as a negative regulator of G1-S phase progression that acts by binding to and inhibiting CDK4 and CDK6 — preventing Rb phosphorylation and blocking cell cycle progression.
+The most commonly deleted chromosome site in HNSCC is located at 9p21-p24, which is the locus for the CDKN2A/MTS1/INK4A TSG. The p16INK4A gene product is an inhibitor of the cyclin/[[Answers/General/Cell Cycle and Cancer|cyclin-dependent kinases]] complex. As described in Scott-Brown's, p16 functions as a negative regulator of G1-S phase progression that acts by binding to and inhibiting CDK4 and CDK6 — preventing Rb phosphorylation and blocking cell cycle progression.
 
 **Key points from Montgomery:**
 - LOH of 9p21-22 has been reported with high frequency in dysplasia, CIS, and HNSCC — suggesting this genetic alteration is involved in early developmental stages of HNSCC, whereas deregulation of p53 and cyclin D1 occur later
 - Loss of p16 is present in 52-82% of HNSCC patients
-- Using FISH, p16 deletion was detected in 52% of patients with HNSCC and was significantly associated with development of distant metastases
+- Using [[Answers/General/FISH in Head and Neck Cancer|FISH]], p16 deletion was detected in 52% of patients with HNSCC and was significantly associated with development of distant metastases
 - A prospective study of locally advanced laryngeal SCC identified p16 mutation as an independent predictive factor for disease relapse and death
 
 **The CDKN2A locus encodes two proteins** with tumour suppressor activities: p16 (p16INK4a, inhibiting CDK4/6) and p14 (p14ARF, which stabilizes p53 by inhibiting MDM2). Therefore, loss of the CDKN2A locus simultaneously disrupts both the Rb and p53 pathways.
@@ -116,7 +115,7 @@ The TCGA study identified NOTCH1 as a frequently mutated gene in HNSCC, with pre
 | ING4 | 12p13 | 66% LOH | Growth regulation | mRNA decreased in 76% of primary HNSCC |
 | FAT1 | 4q35 | ~25% | Cadherin family; WNT pathway regulation | Identified by TCGA; loss promotes invasion |
 | NSD1 | 5q35 | ~10% | H3K36 methyltransferase | Novel TSG identified by TCGA; associated with laryngeal tumours |
-| PTEN | 10q23 | ~10% | PI3K-AKT-mTOR pathway inhibitor | Loss promotes survival signalling |
+| PTEN | 10q23 | ~10% | [[Answers/General/PI3-Kinase Pathway|PI3K pathway]]-AKT-mTOR pathway inhibitor | Loss promotes survival signalling |
 
 ---
 
@@ -183,9 +182,22 @@ Rescuing loss of TSG function is inherently more difficult than inhibiting overa
 > - p16 immunohistochemistry is used as a surrogate marker for HPV status — but remember p16 overexpression results from Rb inactivation by E7, not directly from HPV
 > - p53 mutation is a late event in the Califano model; p16 loss at 9p is early — this is why p16 LOH is detectable in premalignant lesions
 > - The CDKN2A locus is a "double hit" target: losing it knocks out both the p16/Rb pathway AND the p14ARF/p53 pathway simultaneously
-> - Finding p53 mutations in histologically clear surgical margins is a molecular indicator of residual disease — molecular staging may be more accurate than histological staging
+> - Finding p53 mutations in histologically clear [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] is a molecular indicator of residual disease — molecular staging may be more accurate than histological staging
 > - FHIT-negative tumours paradoxically respond better to postoperative RT — a potential molecular predictor of radiation sensitivity
 > - When writing about TSGs in exams, always contrast with oncogenes: TSGs are recessive (need two hits), oncogenes are dominant (one hit); TSGs are lost, oncogenes are gained
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — promoter methylation silencing TSGs
+> - [[Answers/General/Apoptosis|Apoptosis]] — p53-mediated apoptosis
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — Rb/p53 checkpoint control
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — PTEN as PI3K pathway regulator
+>
+> **See Also:**
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — related topic
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — clonal expansion of p53-mutant fields

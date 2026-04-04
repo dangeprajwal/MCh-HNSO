@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Premalignant
-  - Evidence-Based
   - Molecular-Biology
-  - Mucosal-Disease
+  - Premalignant
 ---
 
 > [!question] Questions Covered
@@ -17,7 +15,7 @@ Harrison's Head and Neck Cancer Ch6; Montgomery Ch11; Scott-Brown's Vol 3 Ch42; 
 
 > [!cite] Landmark Articles
 >
-> Sugerman et al. (2002) published the definitive review of oral lichen planus (OLP) pathogenesis, establishing the T cell-mediated autoimmune model involving CD8+ cytotoxic T cell-induced keratinocyte apoptosis — this mechanistic understanding underpins the rationale for immunosuppressive therapy and the link to malignant transformation. Van der Meij and van der Waal (2003) proposed modified WHO diagnostic criteria for OLP, addressing the critical problem of clinicopathological correlation and distinguishing true OLP from oral lichenoid lesions (OLL) — a distinction with significant implications for malignant transformation risk. Lodi et al. (2005) published an international consensus report addressing the controversies surrounding clinical management and malignant transformation of OLP, establishing the framework still used today. Aghbari et al. (2017) conducted the most comprehensive meta-analysis to date (20,095 patients, 57 studies) quantifying the malignant transformation rate at 1.1% for OLP and 2.5% for OLL. Gonzalez-Moles et al. (2008) authored a systematic review addressing the controversies surrounding malignant transformation, critically evaluating study quality and diagnostic criteria.
+> Sugerman et al. (2002) published the definitive review of oral lichen planus (OLP) pathogenesis, establishing the T cell-mediated autoimmune model involving CD8+ cytotoxic T cell-induced keratinocyte [[Answers/General/Apoptosis|apoptosis]] — this mechanistic understanding underpins the rationale for immunosuppressive therapy and the link to malignant transformation. Van der Meij and van der Waal (2003) proposed modified WHO diagnostic criteria for OLP, addressing the critical problem of clinicopathological correlation and distinguishing true OLP from oral lichenoid lesions (OLL) — a distinction with significant implications for malignant transformation risk. Lodi et al. (2005) published an international consensus report addressing the controversies surrounding clinical management and malignant transformation of OLP, establishing the framework still used today. Aghbari et al. (2017) conducted the most comprehensive meta-analysis to date (20,095 patients, 57 studies) quantifying the malignant transformation rate at 1.1% for OLP and 2.5% for OLL. Gonzalez-Moles et al. (2008) authored a systematic review addressing the controversies surrounding malignant transformation, critically evaluating study quality and diagnostic criteria.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -85,14 +83,14 @@ OLP is characterised by persistent T cell-mediated inflammation with:
 
 This is analogous to other inflammation-driven cancers (e.g., Barrett's oesophagus → oesophageal adenocarcinoma, ulcerative colitis → colorectal cancer).
 
-### 2. Genetic and Epigenetic Alterations
+### 2. Genetic and [[Answers/General/Epigenetics in Oncogenesis|epigenetics]] Alterations
 
 Studies have demonstrated:
 - **p53 overexpression** in OLP epithelium (10–60% of cases, vs <5% in normal mucosa)
 - **Loss of heterozygosity (LOH)** at chromosomes 3p, 9p, 17p in OLP — same loci as early OSCC
 - **Microsatellite instability** in a subset of OLP
-- **Promoter hypermethylation** of tumour suppressor genes (p16, p14)
-- **Telomerase activation** in OLP epithelium
+- **Promoter hypermethylation** of [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]] (p16, p14)
+- **[[Answers/General/Telomerase and Cancer|telomerase]] activation** in OLP epithelium
 
 These molecular findings support the concept that OLP epithelium harbours pre-neoplastic genetic changes even before histological dysplasia is apparent.
 
@@ -173,3 +171,16 @@ OLP is an OPMD with a **low but real risk** of malignant transformation (~1.1%).
 > - Erosive OLP on the lateral tongue is your highest-risk scenario — this is the subtype that deserves the most vigilant surveillance
 > - The biological parallel to draw in exams: OLP → OSCC is analogous to Barrett's → oesophageal adenocarcinoma (chronic inflammation → cancer, ~1% annual transformation rate in both)
 > - Never reassure an OLP patient that their condition is benign — it is a lifelong OPMD requiring surveillance. But equally, don't cause alarm — 99% of OLP patients will not develop cancer
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — related topic
+> - [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|Chemoprevention in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Oral Lichen Planus|Oral Lichen Planus]] — malignant transformation risk
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Telomerase and Cancer|Telomerase and Cancer]] — related topic

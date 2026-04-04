@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - palliative-care
-  - treatment
-  - survivorship
+  - General
+  - Oncology
+  - Supportive-Care
 ---
 
 # Stepwise Management of Cancer Pain
@@ -33,7 +32,7 @@ Pain is one of the most feared consequences of cancer and is experienced by up t
 
 The World Health Organization (WHO) analgesic ladder, introduced in 1986 as part of the WHO Cancer Pain and Palliative Care Program, remains the foundational framework for stepwise cancer pain management. This three-step approach was validated in the landmark 10-year prospective study by Zech et al. (1995), which demonstrated good pain relief in 76% of 2,118 patients treated according to the WHO guidelines, and has been specifically validated for head and neck cancer pain by Grond et al. (1993).
 
-Pain in the head and neck cancer patient is complex and multifactorial. It can be **disease-related** (tumour invasion of bone, nerve, or soft tissue), **treatment-related** (post-surgical pain, radiation-induced mucositis, chemotherapy-induced neuropathy), or a combination of both. Nearly all patients receiving radiotherapy to the head and neck experience significant pain at some point during treatment, typically commencing in the second to third week as mucositis develops. The pain frequently has both nociceptive and neuropathic components, owing to the dense innervation of the head and neck region and the propensity of HNSCC to invade cranial nerves (particularly the trigeminal, glossopharyngeal, and vagus nerves). Referred otalgia — pain perceived in the ear but originating from tumours of the tongue base, tonsil, pyriform fossa, or larynx — is a classic example of the complexity of head and neck cancer pain and is mediated through the auricular branches of cranial nerves V, IX, and X. Effective pain management requires a thorough understanding of these mechanisms and a multimodal approach that addresses both the nociceptive and neuropathic components.
+Pain in the head and neck cancer patient is complex and multifactorial. It can be **disease-related** (tumour invasion of bone, nerve, or soft tissue), **treatment-related** (post-surgical pain, radiation-induced mucositis, chemotherapy-induced neuropathy), or a combination of both. Nearly all patients receiving radiotherapy to the head and neck experience significant pain at some point during treatment, typically commencing in the second to third week as mucositis develops. The pain frequently has both nociceptive and neuropathic components, owing to the dense innervation of the head and neck region and the propensity of HNSCC to invade cranial nerves (particularly the trigeminal, glossopharyngeal, and vagus nerves). [[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|referred otalgia]] — pain perceived in the ear but originating from tumours of the tongue base, tonsil, pyriform fossa, or larynx — is a classic example of the complexity of head and neck cancer pain and is mediated through the auricular branches of cranial nerves V, IX, and X. Effective pain management requires a thorough understanding of these mechanisms and a multimodal approach that addresses both the nociceptive and neuropathic components.
 
 ---
 
@@ -181,3 +180,16 @@ When pharmacological management is inadequate, a fourth step is recognized:
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Oncologic Emergencies and End of Life|Oncologic Emergencies and End of Life]] — palliative and emergency management
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/Decision Making Factors in HNC|Decision Making Factors in HNC]] — related topic

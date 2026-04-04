@@ -1,10 +1,7 @@
 ---
 tags:
-  - general
-  - oncology
-  - oral-cavity
-  - larynx
-  - treatment
+  - General
+  - Oncology
 ---
 
 # Photodynamic Therapy in Head and Neck Cancers
@@ -18,7 +15,7 @@ tags:
 **Source:** Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter on Oral Cancer; Stell and Maran's Textbook of Head and Neck Surgery; Scott-Brown's Otorhinolaryngology Volume 3
 
 > [!cite] Landmark Articles
-> The foundational literature on PDT in head and neck oncology spans from Schweitzer's pioneering 1990 review establishing clinical feasibility, through Biel's landmark 1998 series of 107 patients demonstrating 95% cure rates for early laryngeal and 80% for oral cavity SCC, to the comprehensive mechanistic review by Dolmans et al. in Nature Reviews Cancer (2003) which defined the three pillars of PDT action — singlet oxygen cytotoxicity, vascular shutdown, and immune activation. Lou and Hopper's 2003 multi-institutional analysis confirmed 85-100% overall response rates for early-stage head and neck cancers. Most recently, Meulemans et al. (2019) established the modern indications for PDT, positioning it as particularly valuable for field cancerization, superficial post-radiation recurrences, and adjuvant treatment of positive surgical margins.
+> The foundational literature on PDT in head and neck oncology spans from Schweitzer's pioneering 1990 review establishing clinical feasibility, through Biel's landmark 1998 series of 107 patients demonstrating 95% cure rates for early laryngeal and 80% for oral cavity SCC, to the comprehensive mechanistic review by Dolmans et al. in Nature Reviews Cancer (2003) which defined the three pillars of PDT action — singlet oxygen cytotoxicity, vascular shutdown, and immune activation. Lou and Hopper's 2003 multi-institutional analysis confirmed 85-100% overall response rates for early-stage head and neck cancers. Most recently, Meulemans et al. (2019) established the modern indications for PDT, positioning it as particularly valuable for [[Answers/Oral Cavity/Field Cancerization|field cancerization]], superficial post-radiation recurrences, and adjuvant treatment of positive [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]].
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -34,7 +31,7 @@ tags:
 
 Photodynamic therapy (PDT) is a minimally invasive treatment modality that uses the interaction between a photosensitizing agent, light of a specific wavelength, and molecular oxygen to produce selective tumour destruction. In head and neck oncology, PDT has emerged as a valuable tool for the management of premalignant lesions, early-stage squamous cell carcinomas (CIS, T1, T2), recurrent superficial tumours, and field cancerization. The key advantage of PDT is its ability to provide wide-field mucosal ablation while preserving underlying tissue architecture, making it particularly attractive for sites where functional preservation is critical — such as the oral cavity and larynx.
 
-PDT works through a cold photochemical process that produces apoptosis and vascular shutdown, resulting in less scarring compared to surgery or radiotherapy. As described in Harrison's Head and Neck Cancer (Chapter 16A), photosensitizers may be preferentially concentrated in both tumour cells and in the extratumoral compartment, especially the tumour vasculature. Photoactivation occurs with exposure to wavelength-specific light, typically administered via laser, generating localized oxidative stress through singlet oxygen production. For many of the photosensitizers evaluated clinically, this process is oxygen-dependent — which is an important consideration in hypoxic tumour microenvironments.
+PDT works through a cold photochemical process that produces [[Answers/General/Apoptosis|apoptosis]] and vascular shutdown, resulting in less scarring compared to surgery or radiotherapy. As described in Harrison's Head and Neck Cancer (Chapter 16A), photosensitizers may be preferentially concentrated in both tumour cells and in the extratumoral compartment, especially the tumour vasculature. Photoactivation occurs with exposure to wavelength-specific light, typically administered via laser, generating localized oxidative stress through singlet oxygen production. For many of the photosensitizers evaluated clinically, this process is oxygen-dependent — which is an important consideration in hypoxic tumour microenvironments.
 
 The main attraction of PDT as a therapeutic modality, as emphasized in Harrison, is the ability to offer wide-field superficial mucosal ablative therapy given the challenges that often exist in defining the peripheral extent of lesions in the oral cavity. As noted in Stell and Maran's Textbook (Chapter 29), PDT lacks "tissue memory" — meaning that unlike radiotherapy, this treatment can be given on a number of occasions without cumulative dose limitation. This is a critical advantage in the context of field cancerization, where patients may develop multiple sequential mucosal lesions over their lifetime requiring repeated treatment.
 
@@ -84,7 +81,7 @@ The depth of clinical activity is typically limited to several millimeters with 
 
 ### Indications in Oral Cancer
 
-1. **Premalignant lesions:** Oral leukoplakia, erythroplakia, oral dysplasia
+1. **Premalignant lesions:** [[Answers/Oral Cavity/Oral Leukoplakia Management|oral leukoplakia]], erythroplakia, oral dysplasia
 2. **Early invasive cancer:** CIS, T1, and select T2 oral SCC
 3. **Field cancerization:** Wide-field mucosal ablation for multifocal disease
 4. **Recurrent superficial tumours:** After previous surgery or radiation
@@ -93,7 +90,7 @@ The depth of clinical activity is typically limited to several millimeters with 
 
 ### Clinical Evidence in Oral Cancer
 
-A series of 38 patients with oral lesions (tongue, floor of mouth, buccal regions) of stage T1/T2 N0 were treated with PDT. The majority (26/38, 68%) achieved a complete response, with a 5-year survival of 84.2%. The morbidity of PDT treatment was reported to be less than surgery, radiation, or chemoradiotherapy.
+A series of 38 patients with oral lesions (tongue, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], buccal regions) of stage T1/T2 N0 were treated with PDT. The majority (26/38, 68%) achieved a complete response, with a 5-year survival of 84.2%. The morbidity of PDT treatment was reported to be less than surgery, radiation, or chemoradiotherapy.
 
 In another European report, 170 patients treated with PDT showed an overall response rate of 90.7% with a complete response rate of 70.8%.
 
@@ -199,3 +196,16 @@ For advanced (stage III/IV) head and neck tumours, PDT has been explored as adju
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — related topic
+> - [[Answers/Oral Cavity/Oral Leukoplakia Management|Oral Leukoplakia Management]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic

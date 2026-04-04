@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Clinical-Assessment
   - Anatomy
-  - Oropharynx
+  - Diagnostics
 ---
 
 > [!question] Questions Covered
@@ -49,7 +48,7 @@ The ear receives sensory innervation from **five cranial nerves and two cervical
 
 ### CN V₃ Pathway (Most Common in Oral Cancer)
 
-The **auriculotemporal nerve** (branch of V₃) supplies the tragus and anterior EAC. It communicates with the **lingual nerve** (also V₃), which innervates the anterior two-thirds of the tongue and floor of mouth.
+The **auriculotemporal nerve** (branch of V₃) supplies the tragus and anterior EAC. It communicates with the **lingual nerve** (also V₃), which innervates the anterior two-thirds of the tongue and [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]].
 
 **Mechanism:** Tumour invasion or perineural spread along the lingual nerve → afferent pain signals travel to the trigeminal nucleus → convergence with auriculotemporal afferents → perceived as ear pain.
 
@@ -90,7 +89,7 @@ The **tympanic nerve (Jacobson's nerve)** — a branch of CN IX — innervates t
 Referred otalgia should raise suspicion for head and neck cancer when:
 - **Unilateral** and persistent (>2–3 weeks)
 - Normal otoscopic examination
-- Associated with **odynophagia, dysphagia, or dysphonia**
+- Associated with **odynophagia, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]], or dysphonia**
 - Risk factors present: tobacco, alcohol, betel quid use
 - Age >40 years with unexplained ear pain
 - Weight loss or neck mass
@@ -123,7 +122,7 @@ Referred otalgia should raise suspicion for head and neck cancer when:
 **Step 4: Imaging**
 - **MRI with gadolinium** — tongue base, oropharynx, perineural spread
 - **CT neck with contrast** — if mass or nodal disease suspected
-- **PET-CT** — for unknown primary evaluation
+- **[[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]]** — for unknown primary evaluation
 
 ### Location of Otalgia as Diagnostic Clue
 
@@ -145,7 +144,7 @@ Referred otalgia should raise suspicion for head and neck cancer when:
 
 ### Perineural Spread and Otalgia
 
-Perineural invasion (PNI) along the **inferior alveolar nerve or lingual nerve** can produce:
+[[Answers/General/Perineural Invasion|perineural invasion]] (PNI) along the **inferior alveolar nerve or lingual nerve** can produce:
 - Numbness of the lip/chin (numb chin syndrome) + referred otalgia
 - Pain radiating from the oral lesion to the ear
 - Formication (crawling sensation) along the nerve distribution
@@ -182,3 +181,16 @@ PNI along V₃ represents **advanced disease** and is an indication for [[Answer
 > 3. The **Jacobson's nerve (CN IX) pathway** explains why early tonsillar and tongue base cancers present with deep otalgia before the primary becomes clinically obvious
 > 4. **Arnold's nerve reflex** (cough triggered by ear canal stimulation) confirms the vagus pathway — patients with this reflex are susceptible to referred otalgia from laryngeal/hypopharyngeal cancers
 > 5. When a patient presents with unexplained otalgia and a negative primary examination, **PET-CT** may be the best investigation to detect an occult primary cancer
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic
+> - [[Answers/Oral Cavity/Pterygopalatine Fossa|Pterygopalatine Fossa]] — related topic
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — related topic
+> - [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic

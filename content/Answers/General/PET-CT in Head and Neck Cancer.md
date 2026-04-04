@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Imaging
-  - Surveillance
-  - PET-CT
+  - Diagnostics
 ---
 
 > [!question] AIIMS 2020
@@ -152,7 +150,7 @@ Positron emission tomography combined with computed tomography (PET-CT) has beco
 
 - PET-CT spatial resolution ~4 mm → **cannot detect micrometastases** (<2 mm)
 - Sensitivity for occult nodal metastases in N0 neck is **only 40-50%**
-- PET-CT does NOT replace sentinel node biopsy or elective neck dissection for cN0 staging
+- PET-CT does NOT replace [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|sentinel node biopsy]] or [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] for cN0 staging
 
 ## Surveillance Protocol
 
@@ -178,3 +176,16 @@ Positron emission tomography combined with computed tomography (PET-CT) has beco
 > - In HPV-negative, tobacco-positive patients (**high-risk group**), PET-CT has double the PPV of CT alone for detecting residual nodal disease
 > - For CUP (unknown primary with cervical metastasis), PET-CT identifies the primary in up to **72%** of cases — should be performed before panendoscopy and directed biopsies
 > - **Hyperglycaemia** reduces FDG uptake → ensure fasting blood glucose <200 mg/dL before PET-CT; ideally <150 mg/dL for optimal image quality
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Narrow Band Imaging|Narrow Band Imaging]] — related topic
+> - [[Answers/General/RECIST Criteria|RECIST Criteria]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — staging and surveillance imaging
+> - [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|Node Negative Neck in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|Referred Otalgia in Oral Cancer]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic

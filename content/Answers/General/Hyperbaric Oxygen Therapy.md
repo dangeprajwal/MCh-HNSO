@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Radiotherapy
   - Complications
-  - Evidence-Based
 ---
 
 > [!question] Questions Covered
@@ -62,7 +60,7 @@ Hyperbaric oxygen (HBO) therapy involves breathing **100% oxygen at pressures ab
 - May be useful in **early ORN with unexposed bone** (Marx stage I–II) as adjunct to conservative management
 - Limited role in advanced ORN (Marx stage III) — surgical debridement ± free flap reconstruction is required
 
-### 2. Dental Implant Placement in Irradiated Bone
+### 2. [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] Placement in Irradiated Bone
 
 - HBO (20 pre + 10 post dives) before implant placement in irradiated jaws may improve osseointegration
 - Failure rates reduced from ~50% to <10% with HBO in early series
@@ -139,3 +137,16 @@ Hyperbaric oxygen (HBO) therapy involves breathing **100% oxygen at pressures ab
 > 3. For the AIIMS exam, know the **Marx protocol numbers** (20+10 dives, 2.2–2.5 ATA, 90 min) and the **two trials that refuted it**
 > 4. If asked about HBO for ORN in the exam, the answer should emphasise that **surgical management with free flap reconstruction** is the definitive treatment for advanced ORN, not HBO
 > 5. HBO remains more popular in dental/maxillofacial literature than in head and neck surgical oncology — surgical oncologists have largely moved away from it
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|Osteoradionecrosis of the Mandible]] — HBO for ORN management
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic

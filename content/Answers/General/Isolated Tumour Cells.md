@@ -2,16 +2,14 @@
 tags:
   - General
   - Pathology
-  - Lymph-Node-Metastasis
-  - Sentinel-Node
   - Staging
-  - Micrometastasis
+  - Surgery
 ---
 
 > [!question] Q35
 > **Q35 (AMRITA 2016):** Isolated tumour cells
 
-**Source:** Stell and Maran's Textbook of Head and Neck Surgery (Micrometastases and Isolated Tumour Cells — Dedicated Section: Definitions, Detection, Clinical Significance); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 11 (Cervical Lymph Nodes — Sentinel Node Mapping, Micrometastases, IHC Detection); Montgomery - Principles and Practice of HN Surgery (Sentinel Node Biopsy — Tschopp Series); Harrison - Head and Neck Cancer: A Multidisciplinary Approach (Melanoma — AJCC Micrometastasis Staging)
+**Source:** Stell and Maran's Textbook of Head and Neck Surgery (Micrometastases and Isolated Tumour Cells — Dedicated Section: Definitions, Detection, Clinical Significance); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 11 (Cervical Lymph Nodes — Sentinel Node Mapping, Micrometastases, IHC Detection); Montgomery - Principles and Practice of HN Surgery ([[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|sentinel node biopsy]] — Tschopp Series); Harrison - Head and Neck Cancer: A Multidisciplinary Approach ([[Answers/Oral Cavity/Melanoma of the Oral Cavity|oral melanoma]] — AJCC Micrometastasis Staging)
 
 > [!cite] Landmark Articles
 > Hermanek et al. (1999) published the landmark UICC classification defining isolated tumour cells (ITC) as distinct from micrometastasis, recommending that ITCs should not be considered in TNM staging at that time. Ferlito et al. (2008) provided the definitive review of lymph node micrometastasis detection in head and neck SCC, establishing rigorous definitions (micrometastasis >0.2 to <=2.0 mm; ITC <=0.2 mm) for uniform reporting. The SENT trial (Schilling et al. 2015) prospectively validated sentinel node biopsy in 415 T1-T2 N0 oral SCC patients across 14 European centres, establishing SNB as reliable for staging the N0 neck. Garrel et al. (2020) published the first randomized equivalence trial demonstrating that SNB is oncologically equivalent to neck dissection with lower morbidity for early oral cancer. Dhawan et al. (2016) showed that IHC with pan-cytokeratin (AE1/AE3) combined with serial sectioning detects occult micrometastases and ITCs that are missed by routine H&E.
@@ -28,7 +26,7 @@ tags:
 
 ## Introduction
 
-The ability to detect increasingly small tumour deposits in lymph nodes has been enhanced by serial sectioning, immunohistochemistry (IHC), and molecular techniques such as RT-PCR. This has led to the identification of two categories of sub-clinical nodal disease: **micrometastases** and **isolated tumour cells (ITCs)**. Stell and Maran's provides a dedicated section stating that "one of the many goals of translational research in cancer has been to refine disease prediction by detecting tumour-specific molecular alterations in histologically normal tissues either at resection margins or identifying 'sub-pathological' metastases in regional lymph nodes." However, the clinical significance of these findings, particularly ITCs, remains a subject of ongoing investigation.
+The ability to detect increasingly small tumour deposits in lymph nodes has been enhanced by serial sectioning, immunohistochemistry (IHC), and molecular techniques such as RT-[[Answers/General/PCR and Microarray Analysis|PCR]]. This has led to the identification of two categories of sub-clinical nodal disease: **micrometastases** and **isolated tumour cells (ITCs)**. Stell and Maran's provides a dedicated section stating that "one of the many goals of translational research in cancer has been to refine disease prediction by detecting tumour-specific molecular alterations in histologically normal tissues either at resection margins or identifying 'sub-pathological' metastases in regional lymph nodes." However, the clinical significance of these findings, particularly ITCs, remains a subject of ongoing investigation.
 
 ---
 
@@ -38,7 +36,7 @@ The ability to detect increasingly small tumour deposits in lymph nodes has been
 
 | Category | Size | Cell Count | Metastatic Activity | Staging Impact (HNSCC) |
 |----------|------|-----------|--------------------|-----------------------|
-| **Macrometastasis** | >2 mm | — | Present (proliferation, stromal reaction, extranodal extension) | pN1-pN3 (stage-appropriate) |
+| **Macrometastasis** | >2 mm | — | Present (proliferation, stromal reaction, [[Answers/General/Extranodal Extension|extranodal extension]]) | pN1-pN3 (stage-appropriate) |
 | **Micrometastasis** | >0.2 mm to <=2 mm | — | Present | **pN1(mi)** — upstages the neck |
 | **Isolated Tumour Cells (ITC)** | <=0.2 mm | <200 cells | **Absent** — no evidence of proliferation or stromal reaction | **pN0(i+)** — does NOT upstage |
 
@@ -66,12 +64,12 @@ Scott-Brown's notes that "isolated tumour cells are classified as **N1** in cuta
 
 - Standard H&E examines only one or two sections per node — a single 5-micron section examines <1% of the node volume
 - Serial sectioning at 150-250 micron intervals increases detection of occult metastases
-- Jatin Shah Ch11: "Some investigators prefer not to send the lymph node for frozen section and wait for 'rush paraffin sections' within 24 hours" to allow special processing
+- Jatin Shah Ch11: "Some investigators prefer not to send the lymph node for [[Answers/General/Frozen Section in Surgical Margins|frozen section]] and wait for 'rush paraffin sections' within 24 hours" to allow special processing
 
 ### 2. Immunohistochemistry (IHC)
 
 - **Pan-cytokeratin antibodies (AE1/AE3):** Stain epithelial cells within lymph nodes — identify tumour cells that are invisible on standard H&E
-- Stell and Maran's: Using IHC, micrometastases can be detected in **5-25%** of clinically N0 neck dissection specimens, with **upstaging occurring in up to 12%** of patients
+- Stell and Maran's: Using IHC, micrometastases can be detected in **5-25%** of [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|clinically N0 neck]] neck dissection specimens, with **upstaging occurring in up to 12%** of patients
 - Dhawan et al. (2016): Pan-CK + serial sectioning detects occult metastases missed by routine H&E
 
 ### 3. Molecular Techniques
@@ -106,7 +104,7 @@ Stell and Maran's provides a balanced assessment:
 | Finding | Significance |
 |---------|-------------|
 | Macrometastasis (>2 mm) | Clearly upstages; mandates adjuvant treatment |
-| Micrometastasis (0.2-2 mm) | Upstages to pN1(mi); may warrant adjuvant RT |
+| Micrometastasis (0.2-2 mm) | Upstages to pN1(mi); may warrant [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] |
 | ITC (<=0.2 mm) | pN0(i+); does NOT upstage; treatment implications uncertain |
 
 ### Arguments For and Against Clinical Relevance of ITCs
@@ -133,3 +131,16 @@ Stell and Maran's provides a balanced assessment:
 > - **Melanoma Exception:** ITCs in melanoma sentinel nodes ARE classified as N1 — this is opposite to the HNSCC convention and a frequent exam question
 > - **Single Section Problem:** A standard 5-micron H&E section examines <1% of the lymph node volume — this is why serial sectioning and IHC dramatically increase detection rates
 > - **QRT-PCR Speed:** Results available within 2 hours of tissue harvesting — potentially enabling intraoperative decision-making for sentinel node assessment
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel Node Biopsy in Oral Cancer]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic

@@ -1,10 +1,7 @@
 ---
 tags:
   - General
-  - Oropharynx
-  - Oral-Cavity
   - Molecular-Biology
-  - Evidence-Based
 ---
 
 > [!question] Questions Covered
@@ -18,7 +15,7 @@ Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed.
 
 > [!cite] Landmark Articles
 >
-> Gillison et al. (2000) published the landmark study demonstrating that ~25% of HNSCC are HPV-positive, predominantly oropharyngeal, establishing HPV-positive OPC as a distinct entity with improved survival. D'Souza et al. (2007) published the case-control study establishing the sexual transmission route, showing strong association between oral HPV-16, number of oral-sex partners, and OPC risk. Ang et al. (2010) published the retrospective analysis of RTOG 0129 showing 58% reduction in risk of death for HPV-positive OPC (3-year OS 82.4% vs 57.1%) and established risk stratification. Mehanna et al. (2019) published the De-ESCALaTE HPV trial showing cetuximab was inferior to cisplatin in HPV-positive low-risk OPC with worse OS and higher recurrence. Gillison et al. (2019) published the RTOG 1016 trial confirming cetuximab failed non-inferiority to cisplatin (5-year OS 77.9% vs 84.6%), establishing cisplatin as standard of care.
+> Gillison et al. (2000) published the landmark study demonstrating that ~25% of HNSCC are HPV-positive, predominantly oropharyngeal, establishing HPV-positive OPC as a distinct entity with improved survival. D'Souza et al. (2007) published the case-control study establishing the sexual transmission route, showing strong association between oral HPV-16, number of oral-sex partners, and OPC risk. Ang et al. (2010) published the retrospective analysis of RTOG 0129 showing 58% reduction in risk of death for HPV-positive OPC (3-year OS 82.4% vs 57.1%) and established risk stratification. Mehanna et al. (2019) published the De-ESCALaTE HPV trial showing [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] was inferior to cisplatin in HPV-positive low-risk OPC with worse OS and higher recurrence. Gillison et al. (2019) published the RTOG 1016 trial confirming cetuximab failed [[Answers/General/Non-Inferiority Clinical Trials|non-inferiority trials]] to cisplatin (5-year OS 77.9% vs 84.6%), establishing cisplatin as standard of care.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -47,10 +44,10 @@ Human papillomavirus (HPV) is now established as the **primary aetiological agen
 
 | Viral Protein | Target | Effect |
 |---|---|---|
-| E6 | p53 → ubiquitin-mediated degradation | Loss of cell cycle arrest and apoptosis |
+| E6 | p53 → ubiquitin-mediated degradation | Loss of [[Answers/General/Cell Cycle and Cancer|cell cycle]] arrest and [[Answers/General/Apoptosis|apoptosis]] |
 | E7 | Rb → functional inactivation | Uncontrolled G1→S transition |
 | E7 | p16 (CDKN2A) → overexpression (paradoxical) | p16 used as surrogate marker for HPV |
-| E6 | Telomerase activation | Cellular immortalisation |
+| E6 | [[Answers/General/Telomerase and Cancer|telomerase]] activation | Cellular immortalisation |
 | E5 | EGFR amplification | Proliferative signalling |
 
 **Key concept:** HPV E6 degrades p53 and E7 inactivates Rb — these are the same tumour suppressors disrupted by somatic mutations in HPV-negative cancers, but the mechanism differs (viral protein vs gene mutation).
@@ -87,7 +84,7 @@ Human papillomavirus (HPV) is now established as the **primary aetiological agen
 | p16 IHC | Positive (≥70% staining) | Negative |
 | Prognosis | Dramatically better (70–90% 5-yr OS) | Poor (30–50% 5-yr OS) |
 
-### AJCC 8th Edition: Separate Staging
+### [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition: Separate Staging
 
 The AJCC 8th Edition created a **separate staging system** for p16-positive oropharyngeal cancer, reflecting its distinct biology:
 
@@ -126,7 +123,7 @@ The excellent prognosis of HPV-positive OPSCC has motivated **treatment de-escal
 |---|---|---|
 | Reduced RT dose | 50–56 Gy instead of 70 Gy | Ongoing trials (ECOG 3311, ADEPT) |
 | Replace cisplatin with cetuximab | Less toxic regimen | **FAILED** — De-ESCALaTE and RTOG 1016 showed cetuximab inferior |
-| TORS + de-escalated adjuvant | Surgery → reduced/omit adjuvant RT | ECOG 3311 Phase II promising |
+| TORS + de-escalated adjuvant | Surgery → reduced/omit [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] | ECOG 3311 Phase II promising |
 | Immunotherapy-based | Checkpoint inhibitor combinations | Under investigation |
 | Omit chemotherapy | RT alone for good responders | Under investigation |
 
@@ -138,7 +135,7 @@ The excellent prognosis of HPV-positive OPSCC has motivated **treatment de-escal
 |---|---|---|---|---|
 | p16 IHC | Surrogate marker (CDKN2A overexpression) | ~90% | ~80% | Clinical standard for OPC |
 | HPV ISH | HPV DNA in tissue | 85–95% | 95–98% | Confirmatory |
-| HPV PCR | HPV DNA (type-specific) | 95–98% | 90–95% | Research; may detect incidental HPV |
+| HPV [[Answers/General/PCR and Microarray Analysis|PCR]] | HPV DNA (type-specific) | 95–98% | 90–95% | Research; may detect incidental HPV |
 | E6/E7 mRNA | Transcriptionally active HPV | 95–98% | 98–99% | Gold standard (research) |
 | Serology (E6 antibodies) | Prior HPV exposure | 90% | 95% | Epidemiological studies |
 
@@ -174,3 +171,16 @@ HPV vaccination represents the **primary prevention** strategy for HPV-positive 
 > 3. The **cystic metastatic node** in HPV-positive OPSCC mimics a branchial cleft cyst — always get p16/HPV testing on any cystic neck mass in an adult
 > 4. For the exam, know the **two trials that killed cetuximab**: De-ESCALaTE (Mehanna 2019) and RTOG 1016 (Gillison 2019) — both non-inferiority trials that FAILED
 > 5. HPV vaccination advocacy is now part of head and neck surgical oncology practice — surgeons should recommend vaccination for patients' children
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic

@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Technique
-  - Evidence-Based
-  - Neck-Management
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -61,7 +59,7 @@ The dramatically lower FOM incidence in India reflects the predominance of bucca
 ### Histological Features
 
 - **>90% squamous cell carcinoma** — well to moderately differentiated predominates
-- **Minor salivary gland tumours** — adenoid cystic carcinoma, mucoepidermoid carcinoma may arise from sublingual gland
+- **[[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|minor salivary gland tumours]] tumours** — adenoid cystic carcinoma, mucoepidermoid carcinoma may arise from sublingual gland
 - **Verrucous carcinoma** — exophytic variant, better prognosis
 - **Basaloid SCC** — aggressive variant, rare in FOM
 
@@ -93,7 +91,7 @@ Advanced FOM tumours infiltrate the sublingual salivary gland and the space betw
 - **Mandible involvement** — clinical fixation, dental loosening
 - **Neck palpation** — bilateral assessment essential for midline/crossing tumours
 
-## Staging (AJCC 8th Edition)
+## Staging ([[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition)
 
 FOM carcinoma follows the oral cavity staging system incorporating **[[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion (DOI)]]** as a T-category modifier:
 
@@ -103,14 +101,14 @@ FOM carcinoma follows the oral cavity staging system incorporating **[[Answers/O
 | T2 | ≤2 cm with DOI >5 mm OR >2–4 cm with DOI ≤10 mm | — |
 | T3 | >4 cm OR DOI >10 mm | — |
 | T4a | Through cortical bone, maxillary sinus, skin of face | — |
-| T4b | Masticator space, pterygoid plates, skull base, ICA encasement | — |
+| T4b | [[Answers/Oral Cavity/Masticator Space|masticator space]], pterygoid plates, skull base, ICA encasement | — |
 
 ## Imaging
 
 - **MRI with gadolinium** — superior for soft tissue extent, DOI measurement, tongue involvement, mandibular marrow invasion
 - **CT with contrast** — cortical bone erosion, nodal assessment
 - **OPG** — screening for gross mandibular invasion
-- **PET-CT** — advanced disease staging, distant metastases
+- **[[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]]** — advanced disease staging, distant metastases
 
 ## Lymphatic Drainage and Neck Management
 
@@ -130,7 +128,7 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 
 - **cN0 neck:** Elective supraomohyoid neck dissection (levels I–III) recommended for all but the most superficial T1 lesions
 - **Midline/crossing tumours:** Bilateral neck dissection required — FOM drains to **submental and submandibular nodes** bilaterally
-- **cN+ neck:** Modified radical or selective neck dissection with frozen section; if positive → comprehensive dissection
+- **cN+ neck:** Modified radical or selective neck dissection with [[Answers/General/Frozen Section in Surgical Margins|frozen section]]; if positive → comprehensive dissection
 - **[[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel node biopsy]]** — emerging option for early cN0 FOM tumours
 
 ## Management of the Primary Tumour
@@ -175,14 +173,14 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 ### Primary Radiotherapy
 
 - Equivalent control rates to surgery reported for **early (T1–T2) FOM tumours**
-- **Contraindicated** when tumour abuts or is tethered to mandible (ORN risk)
+- **Contraindicated** when tumour abuts or is tethered to mandible ([[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|ORN]] risk)
 - Brachytherapy implants historically used — higher ORN risk in FOM vs tongue due to mandible proximity
 - Wallner et al.: EBRT alone → 41% in-field relapse; EBRT + implant → 26% relapse for stages I–II
 
 ### Adjuvant Radiotherapy
 
-- Indicated for pT3–T4, close/positive margins, PNI, LVI, nodal metastasis
-- **[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Chemoradiation]]** for high-risk features (positive margins, ENE) per RTOG 9501/EORTC 22931
+- Indicated for pT3–T4, close/positive margins, [[Answers/General/Perineural Invasion|PNI]], LVI, nodal metastasis
+- **[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Chemoradiation]]** for high-risk features (positive margins, [[Answers/General/Extranodal Extension|ENE]]) per RTOG 9501/EORTC 22931
 
 ## Outcomes
 
@@ -204,7 +202,7 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 > 2. Bimanual palpation is mandatory — assesses deep extent and mylohyoid breach into the neck
 > 3. Early (T1–T2) FOM cancers are managed by transoral excision with equivalent results to radiotherapy
 > 4. Wharton's duct must be dissected and transplanted laterally during anterior FOM excision
-> 5. FOM has high occult nodal metastasis rates (12–30% for T1–T2; 47–53% for T3–T4) — elective neck dissection is recommended
+> 5. FOM has high occult nodal metastasis rates (12–30% for T1–T2; 47–53% for T3–T4) — [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] is recommended
 > 6. Midline or crossing tumours require bilateral neck dissection — drainage is to submental and submandibular nodes bilaterally
 > 7. Mandible management depends on proximity: no involvement → spare; periosteal abutment → marginal; cortical invasion → segmental mandibulectomy
 > 8. RT is contraindicated as primary modality when tumour abuts mandible due to ORN risk; brachytherapy in FOM carries higher ORN risk than tongue
@@ -217,3 +215,16 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 > 3. For superficial anterior FOM lesions, **split-thickness skin graft with bolster** provides excellent functional outcome with minimal morbidity
 > 4. **Radial forearm free flap** is the workhorse for moderate FOM defects — its thin, pliable nature allows optimal sulcus reconstitution
 > 5. Always consider **bilateral neck dissection** when FOM tumour approaches or crosses midline — contralateral occult metastasis risk is significant
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+> - [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|Node Negative Neck in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel Node Biopsy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — related topic

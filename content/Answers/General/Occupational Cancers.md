@@ -1,11 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - epidemiology
-  - aetiology
-  - sinonasal
-  - larynx
+  - General
+  - Epidemiology
+  - Oncology
 ---
 
 # Occupational Cancers of the Head and Neck
@@ -135,7 +132,7 @@ Occupational carcinogens cause head and neck cancer through several mechanisms:
 3. **DNA adduct formation:** Formaldehyde and chromium (VI) form covalent DNA adducts, causing mutations — particularly in TP53
 4. **Oxidative stress:** Nickel and chromium compounds generate reactive oxygen species (ROS), causing oxidative DNA damage
 5. **Chronic inflammation:** Tumour-promoting inflammation (Hanahan and Weinberg, 2011) — chronic occupational irritation creates a pro-tumour microenvironment
-6. **Epigenetic changes:** Nickel compounds cause aberrant DNA methylation and histone modification, silencing tumour suppressor genes
+6. **Epigenetic changes:** Nickel compounds cause aberrant DNA methylation and [[Answers/General/Epigenetics in Oncogenesis|histone modifications]], silencing [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]]
 
 **Latency period:** The interval between first occupational exposure and cancer development is typically **20-40 years** — nickel-related sinonasal SCC has a latent interval of 18-36 years (Scott-Brown's). This has important medicolegal implications.
 
@@ -185,3 +182,16 @@ Stell and Maran's emphasizes that environmental protective measures include adeq
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — related topic
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Tumour Suppressor Genes|Tumour Suppressor Genes]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic

@@ -1,10 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - pathology
-  - oral-cavity
-  - salivary
+  - General
+  - Oncology
+  - Pathology
 ---
 
 # Prognostic Significance of Perineural Invasion in Head and Neck Cancers
@@ -92,15 +90,15 @@ A systematic review and meta-analysis (Chen et al., 2019) confirmed that PNI is 
 
 | Subsite | PNI Prevalence | Clinical Significance |
 |---------|---------------|----------------------|
-| Oral cavity SCC | 30-60% | Predicts local recurrence, nodal metastasis; influences decision for adjuvant RT |
+| Oral cavity SCC | 30-60% | Predicts local recurrence, nodal metastasis; influences decision for [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] |
 | Salivary gland (ACC) | Up to 80% | Hallmark feature of adenoid cystic carcinoma; skip lesions along nerve |
 | Cutaneous SCC | 2-14% | High-risk feature; predicts nodal metastasis and local recurrence |
-| Oropharyngeal SCC | 20-40% | HPV-positive tumours may have lower PNI rates |
+| Oropharyngeal SCC | 20-40% | [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] tumours may have lower PNI rates |
 | Laryngeal SCC | Variable | Associated with extralaryngeal spread |
 
-### PNI and the AJCC Staging System
+### PNI and the [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC staging]] System
 
-Despite its prognostic importance, PNI has not been incorporated into the AJCC 8th edition TNM staging for most HNC subsites (unlike depth of invasion and extranodal extension, which were added). However, PNI is recognized as a **high-risk pathological feature** that influences the decision for adjuvant treatment:
+Despite its prognostic importance, PNI has not been incorporated into the AJCC 8th edition TNM staging for most HNC subsites (unlike [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]] and [[Answers/General/Extranodal Extension|extranodal extension]], which were added). However, PNI is recognized as a **high-risk pathological feature** that influences the decision for adjuvant treatment:
 
 - **Adjuvant radiotherapy:** PNI is listed by NCCN as an adverse feature that, in combination with other risk factors, favours the addition of adjuvant RT after surgery
 - **Adjuvant chemoradiation:** The combination of PNI with positive margins or extranodal extension may warrant concurrent cisplatin + RT rather than RT alone (as per EORTC 22931 and RTOG 9501 criteria)
@@ -111,7 +109,7 @@ Patients with macroscopic PNTS along named nerves may present with:
 - **Pain:** Often the earliest symptom — described as burning, shooting, or electric in character
 - **Paresthesia/numbness:** Along the distribution of the involved nerve (e.g., V2 or V3 numbness in oral/sinonasal cancer)
 - **Motor deficits:** Facial nerve palsy (parotid/skin cancer), tongue deviation (hypoglossal), vocal cord palsy (vagus/RLN)
-- **Trismus:** Involvement of motor branches of V3 to pterygoid muscles
+- **[[Answers/General/Trismus Prevention|trismus]]:** Involvement of motor branches of V3 to pterygoid muscles
 
 ---
 
@@ -153,3 +151,16 @@ MRI is the imaging modality of choice for detecting perineural tumour spread:
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — adverse pathological features
+> - [[Answers/General/Histological Grading of SCC|Histological Grading of SCC]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic
+> - [[Answers/General/Decision Making Factors in HNC|Decision Making Factors in HNC]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic

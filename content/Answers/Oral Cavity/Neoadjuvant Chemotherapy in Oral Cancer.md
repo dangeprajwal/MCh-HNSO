@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Chemotherapy
-  - Neoadjuvant
-  - Evidence-Based
+  - Surgery
+  - Systemic-Therapy
 ---
 
 > [!question] Questions Covered
@@ -38,10 +37,10 @@ The role of neoadjuvant (induction) chemotherapy in oral cavity squamous cell ca
 ### Theoretical Advantages
 
 1. **Tumour downsizing** — reduction in tumour volume may allow less extensive surgery, preserving form and function
-2. **Mandibular preservation** — if tumour abutting the mandible responds to chemotherapy, marginal mandibulectomy may replace segmental resection
+2. **Mandibular preservation** — if tumour abutting the mandible responds to chemotherapy, [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]] may replace segmental resection
 3. **In vivo chemosensitivity testing** — clinical response to neoadjuvant chemotherapy may predict response to adjuvant treatment and guide post-surgical management
 4. **Treatment of micrometastases** — early systemic therapy may eradicate occult distant disease
-5. **Improved surgical margins** — tumour shrinkage may facilitate R0 resection
+5. **Improved [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]** — tumour shrinkage may facilitate R0 resection
 6. **Better drug delivery** — intact tumour vasculature (pre-surgery) allows optimal drug delivery
 
 ### Theoretical Disadvantages
@@ -80,7 +79,7 @@ The role of neoadjuvant (induction) chemotherapy in oral cavity squamous cell ca
 ### Chaukar Trial (TMH, 2022) — Mandibular Preservation
 
 - **Population:** Treatment-naive oral cavity SCC, cT2-T4, N0/N+, M0
-- **Arms:** Upfront segmental mandibulectomy vs 2 cycles NACT (TPF) → surgery guided by response
+- **Arms:** Upfront [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]] vs 2 cycles NACT (TPF) → surgery guided by response
 - **Primary endpoint:** Mandibular preservation
 - **Results:**
   - **47% mandibular preservation rate** in the NACT arm
@@ -142,7 +141,7 @@ The Meta-Analysis of Chemotherapy in Head and Neck Cancer (MACH-NC) is the most 
 
 - **Clinical examination** after each cycle
 - **Imaging (CT/MRI)** after completion of NACT (before surgery)
-- **RECIST criteria** for objective response assessment
+- **[[Answers/General/RECIST Criteria|RECIST criteria]] criteria** for objective response assessment
 - Surgery should proceed **within 3–4 weeks** of completing NACT
 - **Non-responders must proceed to surgery immediately** — further chemotherapy is futile and delays curative treatment
 
@@ -177,8 +176,21 @@ The key to successful neoadjuvant therapy in oral cancer is **careful patient se
 > 10. Upfront surgery remains the standard of care for resectable oral cavity cancer
 
 > [!tip] Clinical Pearls
-> - The most compelling argument for NACT in oral cancer today is mandibular preservation — when a tumour is abutting but not invading the mandible, NACT response may allow marginal instead of segmental mandibulectomy, dramatically improving quality of life
+> - The most compelling argument for NACT in oral cancer today is mandibular preservation — when a tumour is abutting but not invading the mandible, NACT response may allow marginal instead of segmental mandibulectomy, dramatically improving [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]]
 > - Always counsel patients that NACT delays definitive surgery and has no proven survival benefit — informed consent is critical
 > - Response to NACT is an excellent prognostic biomarker — pathological responders do well regardless of treatment sequencing
 > - If a patient does not respond clinically after cycle 1 of NACT, proceed directly to surgery — there is no value in completing all planned cycles in a non-responder
 > - Neoadjuvant immunotherapy is the most exciting emerging frontier in oral cancer — early trials show pCR rates of 15–20% with anti-PD-1 monotherapy, potentially higher with combination regimens
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — related topic
+> - [[Answers/Oral Cavity/Jaw Osteosarcoma|Jaw Osteosarcoma]] — related topic
+> - [[Answers/Oral Cavity/Marginal Mandibulectomy|Marginal Mandibulectomy]] — related topic
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/RECIST Criteria|RECIST Criteria]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic

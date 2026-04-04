@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - oncology
-  - basic-science
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Cell Cycle and Cancer
@@ -30,7 +29,7 @@ tags:
 
 ## Introduction
 
-The cell cycle is the highly ordered and tightly regulated series of events through which a cell duplicates its DNA, segregates its chromosomes, and divides into two genetically identical daughter cells. In normal adult tissues, the vast majority of cells are quiescent — they have exited the active cell cycle and reside in a resting state known as G0. Entry into the cell cycle from G0 requires specific mitogenic signals (growth factors binding to their receptors), and progression through the cycle is governed by a series of molecular checkpoints that ensure each phase is completed accurately before the next one begins. These checkpoints function as a quality control system: if DNA damage is detected, the cell cycle is halted to allow repair; if the damage is irreparable, the cell is eliminated through apoptosis (programmed cell death).
+The cell cycle is the highly ordered and tightly regulated series of events through which a cell duplicates its DNA, segregates its chromosomes, and divides into two genetically identical daughter cells. In normal adult tissues, the vast majority of cells are quiescent — they have exited the active cell cycle and reside in a resting state known as G0. Entry into the cell cycle from G0 requires specific mitogenic signals (growth factors binding to their receptors), and progression through the cycle is governed by a series of molecular checkpoints that ensure each phase is completed accurately before the next one begins. These checkpoints function as a quality control system: if DNA damage is detected, the cell cycle is halted to allow repair; if the damage is irreparable, the cell is eliminated through apoptosis ([[Answers/General/Apoptosis|programmed cell death]]).
 
 Deregulation of the cell cycle is one of the fundamental hallmarks of cancer, as defined in the seminal framework by Hanahan and Weinberg (2000). Cancer cells acquire the ability to proliferate autonomously (self-sufficiency in growth signals), ignore signals that would normally halt proliferation (insensitivity to anti-growth signals), and resist programmed cell death (evading apoptosis) — all of which involve disruption of cell cycle regulatory mechanisms. In head and neck squamous cell carcinoma (HNSCC), the most frequently mutated genes — TP53 (mutated in 60-80% of HPV-negative tumours), CDKN2A/p16 (inactivated in 50-60%), CCND1/Cyclin D1 (amplified in 30-40%), and PIK3CA (mutated in 20-30%) — all have direct and well-characterized roles in cell cycle regulation. Understanding the normal cell cycle and how it becomes deregulated in cancer is essential for comprehending cancer biology, the mechanism of action of chemotherapy and radiotherapy (both of which target dividing cells), and the rationale for emerging targeted therapies such as CDK4/6 inhibitors.
 
@@ -122,7 +121,7 @@ Two families of endogenous CDK inhibitors provide negative regulation:
 | PIK3CA | PI3K p110α | 20-30% | Activating mutation | Promotes cell survival and proliferation |
 | RB1 | Rb | ~5% (HPV−) | Mutation/deletion | Loss of E2F regulation |
 
-As described in Scott-Brown's Volume 3 (Chapter 6), the most common pathway affected in both HPV-positive and HPV-negative disease is loss of normal cell cycle control, which occurs in **90-100% of both types of cancer**. The genes most commonly implicated are TP53, RB1, CDKN2A, CCND1, E2F1, MYC, and HPV E6/E7. This pathway primarily regulates insensitivity to anti-growth signals but also impacts upon evading apoptosis, limitless replicative potential, and sustained angiogenesis. TCGA network analysis demonstrated that TP53 mutation varies from approximately 80% in HPV-negative cancers to 0% in HPV-positive cancers — a difference explained by the fact that HPV is oncogenic precisely because it can inactivate the p53 protein through E6-mediated degradation rather than through genetic mutation. Critically, loss of p53 function has been found to be associated with patient outcomes, with patients harbouring **disruptive mutations** that compromise p53 function displaying reduced overall survival compared to those with wild-type or non-disruptive mutations.
+As described in Scott-Brown's Volume 3 (Chapter 6), the most common pathway affected in both [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] and HPV-negative disease is loss of normal cell cycle control, which occurs in **90-100% of both types of cancer**. The genes most commonly implicated are TP53, RB1, CDKN2A, CCND1, E2F1, MYC, and HPV E6/E7. This pathway primarily regulates insensitivity to anti-growth signals but also impacts upon evading apoptosis, limitless replicative potential, and sustained [[Answers/General/Tumour Angiogenesis|angiogenesis]]. TCGA network analysis demonstrated that TP53 mutation varies from approximately 80% in HPV-negative cancers to 0% in HPV-positive cancers — a difference explained by the fact that HPV is oncogenic precisely because it can inactivate the p53 protein through E6-mediated degradation rather than through genetic mutation. Critically, loss of p53 function has been found to be associated with patient outcomes, with patients harbouring **disruptive mutations** that compromise p53 function displaying reduced overall survival compared to those with wild-type or non-disruptive mutations.
 
 ### HPV-Mediated Cell Cycle Disruption
 
@@ -156,7 +155,7 @@ Apoptosis (programmed cell death) is the cell's self-destruction mechanism activ
 - TP53 mutation (60-80%) → loss of BAX upregulation
 - BCL-2 overexpression → blocks mitochondrial apoptosis
 - Survivin overexpression → inhibits caspases
-- EGFR/PI3K/AKT pathway activation → promotes survival signaling
+- EGFR/[[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] pathway activation → promotes survival signaling
 
 ---
 
@@ -178,7 +177,20 @@ Apoptosis (programmed cell death) is the cell's self-destruction mechanism activ
 > - CDK4/6 inhibitors (palbociclib, ribociclib) are FDA-approved for breast cancer and under investigation in HNSCC
 > - Understanding cell cycle biology is essential for interpreting the mechanism of action of radiotherapy (DNA damage → checkpoint activation → apoptosis) and chemotherapy (S-phase cytotoxics)
 > - HPV+ HNSCC has fewer total mutations but intact p53 → explains better response to chemoradiation and better prognosis
-> - Cyclin D1 amplification can be detected by FISH — it may serve as a prognostic biomarker in HNSCC
+> - Cyclin D1 amplification can be detected by [[Answers/General/FISH in Head and Neck Cancer|FISH]] — it may serve as a prognostic biomarker in HNSCC
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — checkpoint regulation and apoptotic triggers
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — growth factor signalling and proliferation
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — epigenetic silencing of cell cycle regulators
+>
+> **See Also:**
+> - [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV in Oral and Oropharyngeal Cancer]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic

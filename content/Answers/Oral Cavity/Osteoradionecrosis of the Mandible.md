@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Radiotherapy
   - Complications
-  - Mandible
-  - Reconstruction
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -18,7 +16,7 @@ Harrison's Head and Neck Cancer Ch9; Stell & Maran's Ch11; Montgomery Ch32; Jati
 
 > [!cite] Landmark Articles
 >
-> Marx (1983) published the foundational work on the pathophysiology and management of osteoradionecrosis (ORN), proposing the "three H" theory (hypovascular, hypocellular, hypoxic tissue) and establishing the hyperbaric oxygen (HBO) protocol that became the standard of care for decades. Delanian and Lefaix (2004) proposed the radiation-induced fibro-atrophic (RIF) theory, which reframed ORN as a fibrotic disease rather than primarily an infectious or hypoxic process, and introduced the antioxidant-based PENTOCLO regimen. Annane et al. (2004) conducted the ORN96 trial, a landmark randomised placebo-controlled trial that challenged the HBO paradigm by showing no benefit for HBO in established mandibular ORN. Notani et al. (2003) proposed a practical clinical staging system for mandibular ORN that guides treatment decisions based on extent of disease. Marx and Johnson (1987) published the definitive radiobiology study establishing the dose-response relationship for ORN and the cellular mechanisms underlying radiation-induced bone injury.
+> Marx (1983) published the foundational work on the pathophysiology and management of osteoradionecrosis (ORN), proposing the "three H" theory (hypovascular, hypocellular, hypoxic tissue) and establishing the [[Answers/General/Hyperbaric Oxygen Therapy|hyperbaric oxygen therapy]] (HBO) protocol that became the standard of care for decades. Delanian and Lefaix (2004) proposed the radiation-induced fibro-atrophic (RIF) theory, which reframed ORN as a fibrotic disease rather than primarily an infectious or hypoxic process, and introduced the antioxidant-based PENTOCLO regimen. Annane et al. (2004) conducted the ORN96 trial, a landmark randomised placebo-controlled trial that challenged the HBO paradigm by showing no benefit for HBO in established mandibular ORN. Notani et al. (2003) proposed a practical clinical staging system for mandibular ORN that guides treatment decisions based on extent of disease. Marx and Johnson (1987) published the definitive radiobiology study establishing the dose-response relationship for ORN and the cellular mechanisms underlying radiation-induced bone injury.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -76,7 +74,7 @@ The mandible is far more susceptible to ORN because:
 
 - **Exposed bone** — non-healing exposed bone through oral mucosa or skin
 - **Pain** — often the presenting symptom
-- **Trismus** — from fibrosis of masticatory muscles and TMJ
+- **[[Answers/General/Trismus Prevention|trismus]]** — from fibrosis of masticatory muscles and TMJ
 - **Infection** — secondary to exposed bone; purulent discharge
 - **Fistula** — orocutaneous or oronasal communication
 - **Pathological fracture** — in advanced cases
@@ -132,7 +130,7 @@ Prevention is more effective than treatment and should be a priority in every pa
 **Marx Protocol:**
 - 20–30 pre-operative sessions at 2.0–2.4 ATA, 90 minutes of 100% O₂
 - 10 post-operative sessions after any surgical intervention
-- Mechanism: promotes angiogenesis and osteogenesis in hypoxic tissue
+- Mechanism: promotes [[Answers/General/Tumour Angiogenesis|angiogenesis]] and osteogenesis in hypoxic tissue
 
 **Evidence — conflicting:**
 - Marx's original data (1983, 1985) strongly supported HBO for ORN prevention and treatment
@@ -156,16 +154,16 @@ Phase II trial showed complete resolution of refractory ORN in a significant pro
 - Appropriate for limited disease with intact mandibular continuity
 - Often combined with HBO or PENTOCLO
 
-**2. Marginal Mandibulectomy**
+**2. [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]]**
 - Removal of necrotic alveolar bone preserving the inferior border
 - Indicated when disease is limited to the superior aspect of the mandible
 - Maintains mandibular continuity and function
 
-**3. Segmental Mandibulectomy with Free Flap Reconstruction**
+**3. [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]] with Free Flap Reconstruction**
 - Indicated for full-thickness necrosis, pathological fracture, or orocutaneous fistula
 - Free fibula osteocutaneous flap is the gold standard for reconstruction
 - Provides vascularised bone graft that is not radiation-damaged
-- Allows dental rehabilitation with osseointegrated implants
+- Allows dental rehabilitation with [[Answers/General/Osseointegrated Implants|osseointegrated implants]] implants
 - This is the definitive treatment for advanced (Notani grade III) or refractory ORN
 
 **4. Reconstruction Options**
@@ -175,7 +173,7 @@ Phase II trial showed complete resolution of refractory ORN in a significant pro
 | Free fibula | Gold standard; long bone stock; skin paddle | Donor site morbidity |
 | Iliac crest | Excellent bone height for implants | Limited pedicle length |
 | Scapula | Combined bone + soft tissue | Patient positioning |
-| Pectoralis major | Reliable; no microsurgery | No bone; muscle atrophy |
+| [[Answers/Oral Cavity/Regional Flaps in Oral Reconstruction|pectoralis major flap]] | Reliable; no microsurgery | No bone; muscle atrophy |
 
 ## Treatment Algorithm
 
@@ -203,3 +201,16 @@ Phase II trial showed complete resolution of refractory ORN in a significant pro
 > - The ORN96 trial (Annane 2004) is a game-changer for exam answers — know it well. It showed HBO did not help established ORN and was potentially harmful
 > - PENTOCLO is the modern medical management of choice for early ORN — it targets the underlying fibrotic pathology rather than simply increasing oxygen delivery
 > - For advanced ORN with pathological fracture or fistula, the only reliable treatment is resection and free fibula reconstruction — bringing in non-irradiated, well-vascularised tissue
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Marginal Mandibulectomy|Marginal Mandibulectomy]] — related topic
+> - [[Answers/General/Hyperbaric Oxygen Therapy|Hyperbaric Oxygen Therapy]] — HBO for ORN management
+> - [[Answers/Oral Cavity/Access Mandibulotomy|Access Mandibulotomy]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — radiation benefits vs late complications
+>
+> **See Also:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic

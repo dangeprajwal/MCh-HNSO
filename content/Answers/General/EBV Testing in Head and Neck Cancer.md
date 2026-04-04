@@ -1,10 +1,9 @@
 ---
 tags:
   - General
-  - Molecular-Biology
-  - Nasopharynx
-  - Virology
   - Diagnostics
+  - Epidemiology
+  - Molecular-Biology
 ---
 
 > [!question] TMH 2020
@@ -16,7 +15,7 @@ Montgomery Ch2 (Molecular Biology); Harrison's Head and Neck Cancer Ch1, Ch6; Sc
 
 > [!cite] Landmark Articles
 >
-> Epstein-Barr virus (EBV) testing has transformed the diagnosis, screening, and surveillance of nasopharyngeal carcinoma (NPC). Lo et al. (1999) first demonstrated that circulating plasma EBV DNA, detected by real-time quantitative PCR, serves as a tumour marker for NPC. Chan et al. (2002) established post-treatment plasma EBV DNA clearance as a powerful prognostic marker — detectable EBV DNA after RT predicted relapse. Lin et al. (2004) confirmed pretreatment plasma EBV DNA as an independent prognostic factor superior to clinical staging alone. In a landmark population-level study, Chan et al. (2017) showed that plasma EBV DNA screening could detect NPC at an earlier stage in asymptomatic individuals, shifting the TNM distribution favourably. Gulley et al. (1996) established EBER in situ hybridisation as the gold standard for detecting EBV in tissue, with near 100% sensitivity in non-keratinising NPC.
+> Epstein-Barr virus (EBV) testing has transformed the diagnosis, screening, and surveillance of nasopharyngeal carcinoma (NPC). Lo et al. (1999) first demonstrated that circulating plasma EBV DNA, detected by real-time quantitative [[Answers/General/PCR and Microarray Analysis|PCR]], serves as a tumour marker for NPC. Chan et al. (2002) established post-treatment plasma EBV DNA clearance as a powerful prognostic marker — detectable EBV DNA after RT predicted relapse. Lin et al. (2004) confirmed pretreatment plasma EBV DNA as an independent prognostic factor superior to clinical staging alone. In a landmark population-level study, Chan et al. (2017) showed that plasma EBV DNA screening could detect NPC at an earlier stage in asymptomatic individuals, shifting the TNM distribution favourably. Gulley et al. (1996) established EBER in situ hybridisation as the gold standard for detecting EBV in tissue, with near 100% sensitivity in non-keratinising NPC.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -49,14 +48,14 @@ Epstein-Barr virus (EBV) is a ubiquitous double-stranded DNA herpesvirus (HHV-4)
 | LMP-1 | Oncogene — mimics CD40, activates NF-κB | IHC (65% of NPC) |
 | LMP-2A/2B | Mimics BCR signalling, promotes survival | RT-PCR |
 | EBERs 1 and 2 | Non-coding RNAs, abundant in all latency | ISH (gold standard) |
-| BARTs (miRNAs) | >20 microRNAs, tumour maintenance | RT-PCR |
+| BARTs (miRNAs) | >20 [[Answers/General/MicroRNAs in Oral Cancer|microRNAs]], tumour maintenance | RT-PCR |
 
 - NPC exhibits **Latency Type II**: EBNA-1, LMP-1, LMP-2, EBERs, BARTs
-- LMP-1 is the principal oncogene — activates NF-κB, MAPK, PI3K/Akt pathways → proliferation, anti-apoptosis, angiogenesis, EMT
+- LMP-1 is the principal oncogene — activates NF-κB, MAPK, [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] pathways → proliferation, anti-[[Answers/General/Apoptosis|apoptosis]], [[Answers/General/Tumour Angiogenesis|angiogenesis]], EMT
 
 ### EBV and NPC: Pathogenesis
 
-- Multifactorial aetiology: EBV + genetic susceptibility (HLA haplotypes, chromosome 6p21) + environmental factors (nitrosamines, salt-preserved fish)
+- Multifactorial aetiology: EBV + [[Answers/General/Genetic Susceptibility to Oral Cancer|genetic susceptibility]] (HLA haplotypes, chromosome 6p21) + environmental factors (nitrosamines, salt-preserved fish)
 - EBV infection is an **early event** — monoclonal viral genome in tumour cells indicates infection precedes clonal expansion
 - WHO classification:
   - **Type I (keratinising SCC)**: variable EBV association (0-20%)
@@ -169,3 +168,16 @@ Epstein-Barr virus (EBV) is a ubiquitous double-stranded DNA herpesvirus (HHV-4)
 > - Rising plasma EBV DNA during surveillance precedes clinical relapse by ~6 months — acts as a "liquid biopsy" enabling early salvage
 > - EBER ISH distinguishes EBV-associated undifferentiated carcinoma (EBER+/p16-) from HPV-associated OPSCC (EBER-/p16+) — critical for correct classification and treatment
 > - Pretreatment plasma EBV DNA ≥1500 copies/mL identifies high-risk patients who may benefit from intensified treatment (induction chemotherapy + CCRT)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — related topic
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — EBV latent infection and NPC
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic

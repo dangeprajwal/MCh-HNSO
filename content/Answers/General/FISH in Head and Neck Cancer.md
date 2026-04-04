@@ -1,11 +1,8 @@
 ---
 tags:
   - General
-  - Molecular-Biology
-  - Cytogenetics
-  - FISH
   - Diagnostics
-  - EGFR
+  - Molecular-Biology
 ---
 
 > [!question] Q36
@@ -28,7 +25,7 @@ tags:
 
 ## Introduction
 
-Fluorescence in situ hybridization (FISH) is a cytogenetic technique that uses fluorescently labelled DNA probes to detect and localize specific nucleic acid sequences on chromosomes or within tissue sections. Montgomery Chapter 2 states that "cytogenetic analysis of head and neck tumors has improved dramatically in the last 15 years due to FISH technology." Harrison Chapter 2 notes that "arguably, the greatest utility of ISH relative to head and neck cancers is in the identification of **Epstein-Barr virus-encoded RNA (EBER)** in nasopharyngeal carcinomas and in the detection of **high-risk HPV** in oropharyngeal carcinomas." FISH has become an indispensable tool in head and neck oncology for detecting gene amplification, chromosomal deletions, viral integration, and diagnostic translocations.
+Fluorescence in situ hybridization (FISH) is a cytogenetic technique that uses fluorescently labelled DNA probes to detect and localize specific nucleic acid sequences on chromosomes or within tissue sections. Montgomery Chapter 2 states that "cytogenetic analysis of head and neck tumors has improved dramatically in the last 15 years due to FISH technology." Harrison Chapter 2 notes that "arguably, the greatest utility of ISH relative to head and neck cancers is in the identification of **[[Answers/General/EBV Testing in Head and Neck Cancer|Epstein-Barr virus]] virus-encoded RNA (EBER)** in nasopharyngeal carcinomas and in the detection of **high-risk HPV** in oropharyngeal carcinomas." FISH has become an indispensable tool in head and neck oncology for detecting gene amplification, chromosomal deletions, viral integration, and diagnostic translocations.
 
 ---
 
@@ -70,7 +67,7 @@ Montgomery Chapter 2 describes several variants:
 
 Harrison Chapter 2 emphasizes:
 - Can be applied to **interphase nuclei** — no need for tissue culturing or mitotic cells
-- Works on **fresh, frozen, cytologic, FFPE, and archival tissue** including tissue microarrays
+- Works on **fresh, frozen, cytologic, FFPE, and archival tissue** including tissue [[Answers/General/PCR and Microarray Analysis|microarray]]
 - **Simultaneous multi-target detection** with different fluorochromes
 - **Quantitative** — counts individual gene copies per cell
 - Overcomes limitations of G-banding for complex karyotypes with multiple marker chromosomes (Montgomery Ch2)
@@ -108,7 +105,7 @@ Harrison Ch2 and Jatin Shah describe the role of ISH in HPV detection:
 | RNA ISH (RNAscope) | HPV E6/E7 mRNA | High | High | Detects transcriptionally ACTIVE virus; superior to DNA ISH (Ukpo 2011) |
 
 - **Practical Algorithm (Dreyer 2013):** p16 IHC as initial screen → positive cases confirmed by DNA ISH or RNA ISH
-- Harrison: "A type-specific probe is very sensitive for detecting HPV-16, and a consensus ISH probe can detect 15 HPV types"
+- Harrison: "A type-specific probe is very sensitive for detecting [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-16]], and a consensus ISH probe can detect 15 HPV types"
 
 ### 5. EBER Detection for Nasopharyngeal Carcinoma
 
@@ -155,3 +152,16 @@ Montgomery Chapter 2 catalogues the most frequent chromosomal abnormalities:
 > - **HPV Detection Hierarchy:** p16 IHC (screening) → DNA ISH or RNA ISH (confirmation) → RT-PCR for E6/E7 (gold standard) — FISH/ISH sits in the middle of this algorithm
 > - **p16 Deletion by FISH Predicts Distant Metastasis:** This is a frequently tested association — 52% of HNSCC show p16 deletion, and it specifically predicts distant (not locoregional) failure
 > - **FISH Advantage Over PCR:** FISH preserves tissue architecture and shows the signal within individual cells — you can see WHERE in the tissue the abnormality exists, unlike PCR which gives only an aggregate result
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — molecular diagnostic techniques
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV in Oral and Oropharyngeal Cancer]] — related topic
+> - [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|Salivary Biomarkers in Oral Cancer]] — related topic

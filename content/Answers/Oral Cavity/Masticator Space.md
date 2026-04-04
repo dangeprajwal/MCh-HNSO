@@ -2,9 +2,8 @@
 tags:
   - Oral-Cavity
   - Anatomy
-  - Surgical-Oncology
-  - Skull-Base
-  - Radiology
+  - Diagnostics
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -24,7 +23,7 @@ Jatin Shah Ch5, Ch6, Ch8; Harrison's Head and Neck Cancer Ch4; Stell & Maran's C
 > | Chong & Fan — MRI of Masticator Space | Clin Radiol | 1996 | [10.1016/S0009-9260(96)80258-8](https://doi.org/10.1016/S0009-9260(96)80258-8) |
 > | Harnsberger — Fascial Space Model | Radiology | 1987 | [10.1148/radiology.163.1.3823436](https://doi.org/10.1148/radiology.163.1.3823436) |
 > | Mukherji — Perineural Spread Imaging | AJNR | 2003 | [10.3174/ajnr.A0582](https://doi.org/10.3174/ajnr.A0582) |
-> | Mendenhall — Perineural Invasion Review | Am J Clin Oncol | 2005 | [10.1097/01.coc.0000170805.14058.e7](https://doi.org/10.1097/01.coc.0000170805.14058.e7) |
+> | Mendenhall — [[Answers/General/Perineural Invasion|perineural invasion]] Review | Am J Clin Oncol | 2005 | [10.1097/01.coc.0000170805.14058.e7](https://doi.org/10.1097/01.coc.0000170805.14058.e7) |
 
 ## Introduction
 
@@ -77,13 +76,13 @@ The masticator space is defined by the **superficial layer of the deep cervical 
 | Communication | Clinical Significance |
 |---|---|
 | **Foramen ovale → middle cranial fossa** | Perineural spread of V3 to Meckel's cave and cavernous sinus |
-| **Pterygomaxillary fissure → pterygopalatine fossa** | Tumour spread to V2, orbit |
+| **Pterygomaxillary fissure → [[Answers/Oral Cavity/Pterygopalatine Fossa|pterygopalatine fossa]]** | Tumour spread to V2, orbit |
 | **Mandibular notch → deep temporal space** | Contiguous tumour extension |
 | **Medially → parapharyngeal space** | Separated by thin fascial plane; easily breached |
 | **Inferiorly → submandibular space** | Along mandibular body |
 | **Posteriorly → parotid space** | Through stylomandibular tunnel |
 
-## Relationship to the Infratemporal Fossa
+## Relationship to the [[Answers/Oral Cavity/Infratemporal Fossa Spread|infratemporal fossa]]
 
 The masticator space and infratemporal fossa (ITF) overlap significantly but are defined differently:
 
@@ -119,7 +118,7 @@ In practice, these terms are often used interchangeably in clinical settings, al
 
 - Schwannoma of V3
 - Meningioma extending through foramen ovale
-- Ameloblastoma of mandibular ramus
+- [[Answers/Oral Cavity/Ameloblastoma of Mandible|ameloblastoma]] of mandibular ramus
 
 ### Inflammatory/Infectious
 
@@ -129,12 +128,12 @@ In practice, these terms are often used interchangeably in clinical settings, al
 
 ## Clinical Features of Masticator Space Involvement
 
-- **Trismus** — the cardinal sign; caused by infiltration/spasm of pterygoid muscles and/or masseter
+- **[[Answers/General/Trismus Prevention|trismus]]** — the cardinal sign; caused by infiltration/spasm of pterygoid muscles and/or masseter
 - **Pain** — deep facial pain, pain on chewing
 - **V3 sensory deficit** — numbness of lower lip, chin, lower teeth (numb chin syndrome)
 - **V3 motor deficit** — weakness/wasting of masseter and temporalis (deviation of jaw to affected side)
 - **Swelling** — temporal fossa fullness, infrazygomatic mass
-- **Referred otalgia** — via auriculotemporal nerve
+- **[[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|referred otalgia]]** — via auriculotemporal nerve
 
 ### Numb Chin Syndrome
 
@@ -177,7 +176,7 @@ This is an **ominous sign** requiring urgent MRI evaluation.
 
 ## Staging Significance
 
-Masticator space involvement in oral cavity cancer = **T4b** (AJCC 8th Edition):
+Masticator space involvement in oral cavity cancer = **T4b** ([[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition):
 - "Tumour invades masticator space, pterygoid plates, or skull base and/or encases internal carotid artery"
 - This classifies the tumour as **Stage IVB** regardless of nodal status
 - Traditionally considered **unresectable** — though selected cases may be offered surgery at high-volume centres
@@ -194,7 +193,7 @@ Masticator space involvement in oral cavity cancer = **T4b** (AJCC 8th Edition):
 
 ### Surgical Approaches
 
-1. **Mandibulotomy with mandibular swing** — for lateral masticator space access
+1. **[[Answers/Oral Cavity/Access Mandibulotomy|access mandibulotomy]] with mandibular swing** — for lateral masticator space access
 2. **Maxillary swing** — for medial masticator space/pterygomaxillary region
 3. **Cranio-orbito-zygomatic approach** — when skull base involvement requires combined intracranial access
 4. **Transcervical approach with parotidectomy** — for posterior masticator space lesions
@@ -232,3 +231,16 @@ When the masticator space is involved or at risk:
 > - Denervation oedema (T2 hyperintensity) of masseter/temporalis on the affected side may be the earliest sign of perineural V3 involvement
 > - The masticator space abscess is the most common non-neoplastic masticator space pathology — usually odontogenic; look for dental caries or periapical abscess on CT
 > - When planning radiation for masticator space involvement, always trace the V3 pathway from the mental foramen through the mandibular canal, foramen ovale, and Meckel's cave — the entire pathway must be covered
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — deep space tumour extension
+> - [[Answers/Oral Cavity/Pterygopalatine Fossa|Pterygopalatine Fossa]] — parasellar space anatomy
+> - [[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|Referred Otalgia in Oral Cancer]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic

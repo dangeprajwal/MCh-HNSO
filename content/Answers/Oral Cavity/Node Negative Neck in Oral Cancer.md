@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Oncology
-  - Neck-Dissection
-  - Evidence-Based
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -42,7 +40,7 @@ The widely accepted principle is that **elective treatment of the neck is indica
 | Site | T1 | T2 | T3-T4 |
 |---|---|---|---|
 | Tongue (oral) | 20–30% | 30–40% | 40–60% |
-| Floor of mouth | 20–25% | 30–35% | 40–50% |
+| [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] | 20–25% | 30–35% | 40–50% |
 | Buccal mucosa | 10–15% | 20–30% | 30–40% |
 | Lower gingiva | 15–20% | 25–30% | 35–45% |
 | Retromolar trigone | 15–25% | 25–35% | 35–50% |
@@ -64,7 +62,7 @@ For oral tongue cancer, even T1 tumours exceed the 20% threshold — hence END i
 
 This trial definitively established END as the standard of care for cT1-T2, cN0 oral cancer.
 
-## Depth of Invasion and the N0 Neck (AJCC 8th Edition)
+## [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]] and the N0 Neck ([[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition)
 
 The AJCC 8th Edition incorporated **depth of invasion (DOI)** into T-staging for oral cavity cancers, partly based on its strong correlation with occult nodal metastasis:
 
@@ -133,7 +131,7 @@ For cN0 oral cavity cancers, **selective neck dissection of levels I–III (supr
 | Ultrasound ± FNAC | 70–90% | 80–95% | Best non-invasive modality |
 | CT | 65–80% | 70–85% | Size criteria: >10 mm |
 | MRI | 70–85% | 75–90% | Better for retropharyngeal nodes |
-| PET-CT | 70–90% | 85–95% | Best for N2-3; poor for micrometastasis |
+| [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] | 70–90% | 85–95% | Best for N2-3; poor for micrometastasis |
 
 No imaging modality reliably detects micrometastases (<3 mm) — this is why END/SLNB remains necessary despite negative imaging.
 
@@ -151,7 +149,20 @@ No imaging modality reliably detects micrometastases (<3 mm) — this is why END
 
 > [!tip] Clinical Pearls
 > - After the D'Cruz trial, the only scenario where observation of the N0 neck is still reasonable is for very superficial tumours (DOI <3–4 mm) in low-risk subsites (hard palate, superficial lip)
-> - END provides critical staging information — if occult metastasis is found (especially with ENE), adjuvant chemoradiation is indicated
+> - END provides critical staging information — if occult metastasis is found (especially with [[Answers/General/Extranodal Extension|ENE]]), adjuvant chemoradiation is indicated
 > - For oral tongue cancer, always assess DOI on the preoperative MRI — if >5 mm, END is virtually mandatory
 > - The morbidity of SOHND is minimal (shoulder function preserved, no SCM or IJV sacrifice) — the benefit-to-risk ratio strongly favours END
 > - Ultra-staging of the sentinel node (serial step-sectioning + IHC) detects micrometastases that routine H&E would miss
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel Node Biopsy in Oral Cancer]] — alternatives for N0 neck management
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — DOI threshold for elective neck dissection
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic

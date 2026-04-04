@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - perioperative
-  - surgery
-  - complications
+  - General
+  - Complications
+  - Surgery
 ---
 
 # Postoperative Anuria
@@ -174,3 +173,16 @@ Stell and Maran's Chapter 14 describes initial management of shock: crystalloid 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Postoperative Fever Day 3|Postoperative Fever Day 3]] — related topic
+> - [[Answers/General/Postoperative Hyponatremia|Postoperative Hyponatremia]] — perioperative fluid/electrolyte issues

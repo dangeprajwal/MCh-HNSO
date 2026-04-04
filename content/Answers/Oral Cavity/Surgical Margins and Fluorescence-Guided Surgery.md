@@ -1,14 +1,13 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Technique
-  - Evidence-Based
+  - Diagnostics
   - Pathology
-  - Technology
+  - Surgery
 ---
 
 > [!question] Questions Covered
-> - **OC Q56:** Advances in detecting oral cancer in surgical margin evaluation (AMRITA 2017)
+> - **OC Q56:** Advances in detecting oral cancer in [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] evaluation (AMRITA 2017)
 > - **OC Q65:** Impact of fluorescence visualization guided surgery in diagnosis of oral cancer (AMRITA 2019)
 
 ## Source
@@ -17,7 +16,7 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Harr
 
 > [!cite] Landmark Articles
 >
-> Looser et al. (1978) published the first systematic study defining the importance of adequate surgical margins in head and neck SCC, establishing the foundational principle that positive margins significantly worsen outcomes. Binahmed et al. (2007) performed a meta-analysis demonstrating 2.7× higher local recurrence and 1.6× mortality with positive margins in oral cancer. Poh et al. (2006) demonstrated that autofluorescence-detected loss of fluorescence (LOF) at surgical margins predicts local recurrence, validating the field change concept and providing the scientific basis for fluorescence-guided surgery. Rosenthal et al. (2015) conducted the first-in-human study of cetuximab-IRDye800CW, demonstrating feasibility and tumour specificity of EGFR-targeted fluorescence imaging in oral SCC with tumour-to-background ratios of 3–5×. Zanoni et al. (2019) proposed redefining the close surgical margin as ≤2.2 mm based on survival analysis of 2,217 patients, potentially shifting the traditional 5 mm paradigm.
+> Looser et al. (1978) published the first systematic study defining the importance of adequate surgical margins in head and neck SCC, establishing the foundational principle that positive margins significantly worsen outcomes. Binahmed et al. (2007) performed a meta-analysis demonstrating 2.7× higher local recurrence and 1.6× mortality with positive margins in oral cancer. Poh et al. (2006) demonstrated that autofluorescence-detected loss of fluorescence (LOF) at surgical margins predicts local recurrence, validating the field change concept and providing the scientific basis for fluorescence-guided surgery. Rosenthal et al. (2015) conducted the first-in-human study of [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]]-IRDye800CW, demonstrating feasibility and tumour specificity of EGFR-targeted fluorescence imaging in oral SCC with tumour-to-background ratios of 3–5×. Zanoni et al. (2019) proposed redefining the close surgical margin as ≤2.2 mm based on survival analysis of 2,217 patients, potentially shifting the traditional 5 mm paradigm.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -33,7 +32,7 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Harr
 
 | Category | Distance | Clinical Implication |
 |---|---|---|
-| Positive (involved) | Tumour at inked margin | Re-excision or adjuvant RT mandatory |
+| Positive (involved) | Tumour at inked margin | Re-excision or [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] mandatory |
 | Close | <5 mm | Adjuvant RT recommended |
 | Adequate | ≥5 mm | Standard of care achieved |
 
@@ -81,7 +80,7 @@ A critical challenge in oral cancer surgery is the **discrepancy between intraop
 - Best used as **adjunct to clinical assessment**, not standalone diagnostic
 - Useful for delineating subclinical field cancerization margins
 
-### 2. Narrow-Band Imaging (NBI)
+### 2. Narrow-Band Imaging ([[Answers/General/Narrow Band Imaging|NBI]])
 
 - Uses filtered light (415 nm blue, 540 nm green) to enhance mucosal vasculature
 - **Intrapapillary capillary loop (IPCL)** patterns correlate with dysplasia grade
@@ -147,7 +146,7 @@ The most studied agent for head and neck FGS:
 |---|---|---|
 | Mucosal (superficial) | 5–10% | Moderate; re-excision feasible |
 | Deep (soft tissue) | 10–20% | High; re-excision often difficult |
-| Bone (mandibular) | 3–5% | Very high; segmental mandibulectomy needed |
+| Bone (mandibular) | 3–5% | Very high; [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]] needed |
 
 ## Emerging Technologies
 
@@ -190,3 +189,16 @@ The most studied agent for head and neck FGS:
 > 3. When frozen section shows a close margin, **re-excise immediately** rather than relying on adjuvant RT to compensate — clear margins + RT > close margins + RT
 > 4. In the **anterior FOM**, fluorescence techniques have particular value because the mandible limits the depth of re-excision possible
 > 5. **Cetuximab-IRDye800CW** detected additional positive margins in 15–20% of cases where conventional assessment was negative — a potential paradigm shift in margin management
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — margin assessment techniques
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic

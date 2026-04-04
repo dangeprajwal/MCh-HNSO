@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Lips
-  - Surgical-Technique
+  - Premalignant
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -188,3 +187,16 @@ When the commissure is involved:
 > - The "permanent smile" deformity of Bernard-Webster is worse in edentulous patients — consider dental prosthetics to support the reconstructed lip
 > - When borrowing tissue from the upper lip (Abbe), never take more than one-third — the upper lip is cosmetically more important and less forgiving
 > - After Karapandzic reconstruction, stretching exercises and commissuroplasty may be needed if microstomia limits oral function
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Oral Leukoplakia Management|Oral Leukoplakia Management]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Access Mandibulotomy|Access Mandibulotomy]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|Chemoprevention in Oral Cancer]] — related topic

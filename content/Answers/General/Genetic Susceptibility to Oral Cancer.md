@@ -2,8 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oral-Cavity
-  - Basic-Science
 ---
 
 > [!question] Questions Covered
@@ -15,7 +13,7 @@ Scott-Brown's Otorhinolaryngology. 8th ed. Vol 3. Ch243; Shah JP. *Head and Neck
 
 > [!cite] Landmark Articles
 >
-> Sturgis and Wei (2002) published the seminal review establishing that inherited differences in carcinogen metabolism (CYP1A1, GSTM1, GSTT1), DNA repair capacity, and cell cycle control collectively determine individual susceptibility to tobacco-related HNC. Hashibe et al. (2003) published the definitive meta-analysis of 31 studies (4,635 cases/5,770 controls) showing GSTM1-null (OR 1.23), CYP1A1 Val462 (OR 1.35), and combined triple-null GST genotype (OR 2.06) confer HNC risk. Kutler et al. (2003) demonstrated a 700-fold increase in HNSCC incidence in Fanconi anaemia patients from the International FA Registry, establishing FA as the strongest known genetic predisposition to HNC. Hashibe et al. (2008) published the landmark GWAS identifying ADH1B and ADH7 variants as independently protective against upper aerodigestive tract cancers (P = 10⁻¹⁰). McKay et al. (2011) published the INHANCE consortium GWAS identifying novel susceptibility loci near ALDH2 and the DNA repair gene HEL308.
+> Sturgis and Wei (2002) published the seminal review establishing that inherited differences in carcinogen metabolism (CYP1A1, GSTM1, GSTT1), DNA repair capacity, and [[Answers/General/Cell Cycle and Cancer|cell cycle]] control collectively determine individual susceptibility to tobacco-related HNC. Hashibe et al. (2003) published the definitive meta-analysis of 31 studies (4,635 cases/5,770 controls) showing GSTM1-null (OR 1.23), CYP1A1 Val462 (OR 1.35), and combined triple-null GST genotype (OR 2.06) confer HNC risk. Kutler et al. (2003) demonstrated a 700-fold increase in HNSCC incidence in Fanconi anaemia patients from the International FA Registry, establishing FA as the strongest known genetic predisposition to HNC. Hashibe et al. (2008) published the landmark GWAS identifying ADH1B and ADH7 variants as independently protective against upper aerodigestive tract cancers (P = 10⁻¹⁰). McKay et al. (2011) published the INHANCE consortium GWAS identifying novel susceptibility loci near ALDH2 and the DNA repair gene HEL308.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -75,7 +73,7 @@ Individuals with **reduced DNA repair capacity** (measured by mutagen sensitivit
 | Li-Fraumeni syndrome | TP53 germline mutation | Autosomal dominant | Increased HNC with minimal tobacco exposure |
 | Bloom syndrome | BLM (RecQ helicase) | Autosomal recessive | Increased chromosomal fragility → cancer |
 | Ataxia-telangiectasia | ATM | Autosomal recessive | Increased radiosensitivity and cancer risk |
-| Dyskeratosis congenita | Telomere maintenance genes | Variable | Oral leukoplakia → SCC |
+| Dyskeratosis congenita | [[Answers/General/Telomerase and Cancer|telomerase]] maintenance genes | Variable | [[Answers/Oral Cavity/Oral Leukoplakia Management|oral leukoplakia]] → SCC |
 | Xeroderma pigmentosum | NER pathway genes | Autosomal recessive | Lip/skin SCC from UV sensitivity |
 
 **Fanconi anaemia** deserves special emphasis — these patients develop oral SCC at a **median age of 31 years** (decades earlier than sporadic cases) with a cumulative incidence of ~14% by age 40. The mechanism involves defective DNA interstrand crosslink repair, and HPV infection may play a synergistic role.
@@ -90,7 +88,7 @@ Large-scale GWAS have identified several susceptibility loci:
 | 6p21 | HLA region | Immune regulation |
 | 9p21 | CDKN2A/CDKN2B | Cell cycle control |
 | 12q24 | ALDH2 | Aldehyde metabolism |
-| 2q33 | CASP8 | Apoptosis regulation |
+| 2q33 | CASP8 | [[Answers/General/Apoptosis|apoptosis]] regulation |
 
 The **ADH1B** locus (alcohol dehydrogenase) shows the strongest and most consistent association — polymorphisms affecting alcohol metabolism modify oral cancer risk independently of alcohol consumption volume.
 
@@ -124,14 +122,14 @@ The concept of **pharmacogenomics** extends to cancer risk: individuals with hig
 ## Clinical Implications
 
 ### Current Practice
-- Genetic susceptibility testing is **not yet standard** in clinical oral cancer screening
+- Genetic susceptibility testing is **not yet standard** in clinical [[Answers/Oral Cavity/Oral Cancer Screening|oral cancer screening]]
 - Family history of HNC should raise suspicion for inherited susceptibility
 - Young patients (<40 years) with oral cancer and minimal tobacco exposure should be evaluated for hereditary syndromes (especially Fanconi anaemia)
 
 ### Future Directions
 - **Polygenic risk scores** combining multiple susceptibility loci may identify high-risk individuals for targeted screening
 - Integration of genetic data with tobacco/alcohol exposure for personalised risk stratification
-- Pharmacogenomic-guided chemoprevention strategies
+- Pharmacogenomic-guided [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|chemoprevention]] strategies
 
 > [!abstract] Key Points
 > 1. Genetic susceptibility to oral cancer operates through carcinogen metabolism, DNA repair, cell cycle control, and immune surveillance pathways
@@ -151,3 +149,16 @@ The concept of **pharmacogenomics** extends to cancer risk: individuals with hig
 > 3. **GSTM1 null + GSTT1 null** double-null genotype has the highest risk among metabolic polymorphisms — seen in ~20% of the population
 > 4. The concept of **mutagen sensitivity** elegantly explains why some heavy smokers never develop cancer — their DNA repair machinery is inherently more efficient
 > 5. Fanconi anaemia patients who develop oral SCC pose unique treatment challenges — **extreme sensitivity to radiation and cisplatin** due to defective DNA repair
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Telomerase and Cancer|Telomerase and Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — CYP/GST polymorphisms and carcinogen metabolism
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — related topic

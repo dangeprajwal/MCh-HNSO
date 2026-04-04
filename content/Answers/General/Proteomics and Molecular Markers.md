@@ -2,24 +2,21 @@
 tags:
   - General
   - Molecular-Biology
-  - Proteomics
-  - Biomarkers
-  - Targeted-Therapy
-  - EGFR
+  - Systemic-Therapy
 ---
 
 > [!question] Q32
 > **Q32 (AMRITA 2009):** What is proteonomics? Enumerate the salient molecular markers for head and neck cancers and explain their diagnostic & therapeutic significance?
 
-**Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology — Proteomics, EGFR/ErbB Receptors, p53, Cyclin D1, p16, Anti-EGFR Targeted Therapy, Prognostic Applications, Biomarkers in Saliva/Serum); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Molecular Biology of HN Squamous Carcinogenesis), Chapter 7 (Targeted Agents in SCCHN — EGFR, Cetuximab, HPV/p16); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 3 (Molecular Biology — EGFR Overexpression, PI3K/AKT Pathway, Genetic Progression Model); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 1 (Genetic Progression Model); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 6 (Molecular Biology — EGFR, p16, HPV)
+**Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology — Proteomics, EGFR/ErbB Receptors, p53, Cyclin D1, p16, Anti-EGFR Targeted Therapy, Prognostic Applications, Biomarkers in Saliva/Serum); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Molecular Biology of HN Squamous Carcinogenesis), Chapter 7 (Targeted Agents in SCCHN — EGFR, [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]], HPV/p16); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 3 (Molecular Biology — EGFR Overexpression, [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] Pathway, Genetic Progression Model); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 1 (Genetic Progression Model); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 6 (Molecular Biology — EGFR, p16, HPV)
 
 > [!cite] Landmark Articles
-> Bonner et al. (2006) conducted the pivotal phase III trial demonstrating that adding cetuximab (anti-EGFR monoclonal antibody) to high-dose radiotherapy significantly improved median overall survival from 29.3 to 49.0 months in locoregionally advanced HNSCC — leading to FDA approval of cetuximab. Ang et al. (2010) established HPV/p16 status as the strongest prognostic biomarker in oropharyngeal cancer, with 3-year OS of 82.4% (HPV-positive) vs 57.1% (HPV-negative). Leemans, Braakhuis, and Brakenhoff (2011) published the definitive review of molecular biology of head and neck cancer, cataloguing key pathways (EGFR, p53, p16/Rb, PI3K/AKT, Cyclin D1) and the field cancerization model. Hu et al. (2008) demonstrated salivary proteomics as a viable diagnostic tool, identifying a five-protein biomarker panel that discriminated oral cancer from healthy controls. The Cancer Genome Atlas Network (2015) performed comprehensive multi-platform genomic analysis of 279 HNSCCs, confirming HPV-positive and HPV-negative tumours as molecularly distinct entities with different mutational landscapes.
+> Bonner et al. (2006) conducted the pivotal phase III trial demonstrating that adding cetuximab (anti-EGFR monoclonal antibody) to high-dose radiotherapy significantly improved median overall survival from 29.3 to 49.0 months in locoregionally advanced HNSCC — leading to FDA approval of cetuximab. Ang et al. (2010) established HPV/p16 status as the strongest prognostic biomarker in oropharyngeal cancer, with 3-year OS of 82.4% (HPV-positive) vs 57.1% (HPV-negative). Leemans, Braakhuis, and Brakenhoff (2011) published the definitive review of molecular biology of head and neck cancer, cataloguing key pathways (EGFR, p53, p16/Rb, PI3K/AKT, Cyclin D1) and the [[Answers/Oral Cavity/Field Cancerization|field cancerization]] model. Hu et al. (2008) demonstrated salivary proteomics as a viable diagnostic tool, identifying a five-protein biomarker panel that discriminated oral cancer from healthy controls. The Cancer Genome Atlas Network (2015) performed comprehensive multi-platform genomic analysis of 279 HNSCCs, confirming HPV-positive and HPV-negative tumours as molecularly distinct entities with different mutational landscapes.
 >
 > | # | Title | Authors | Journal, Year | DOI | Key Finding |
 > |---|-------|---------|---------------|-----|-------------|
 > | 1 | Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck | Bonner JA, Harari PM, Giralt J, et al. | N Engl J Med, 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) | Cetuximab + RT: median OS 49.0 vs 29.3 months (RT alone); HR 0.73 |
-> | 2 | Human papillomavirus and survival of patients with oropharyngeal cancer | Ang KK, Harris J, Wheeler R, et al. | N Engl J Med, 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) | HPV+ OPSCC 3-year OS 82.4% vs 57.1% HPV-negative; strongest prognostic factor |
+> | 2 | [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV]] and survival of patients with oropharyngeal cancer | Ang KK, Harris J, Wheeler R, et al. | N Engl J Med, 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) | HPV+ OPSCC 3-year OS 82.4% vs 57.1% HPV-negative; strongest prognostic factor |
 > | 3 | The molecular biology of head and neck cancer | Leemans CR, Braakhuis BJM, Brakenhoff RH | Nat Rev Cancer, 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) | Definitive review: field cancerization, EGFR/p53/p16/PI3K pathways in HNSCC |
 > | 4 | Salivary proteomics for oral cancer biomarker discovery | Hu S, Arellano M, Boontheung P, et al. | Clin Cancer Res, 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) | Five-protein salivary panel discriminates OSCC from controls |
 > | 5 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | HPV+ and HPV- HNSCC are molecularly distinct; TP53, CDKN2A, PIK3CA, NOTCH1 key mutations |
@@ -28,7 +25,7 @@ tags:
 
 ## Introduction
 
-Proteomics — the large-scale study of the entire protein complement (proteome) expressed by a genome, cell, tissue, or organism — has emerged as a powerful tool for biomarker discovery in head and neck squamous cell carcinoma (HNSCC). Montgomery Chapter 2 notes that "proteomic studies have generated numerous data sets of potential diagnostic, prognostic, and therapeutic significance in human cancer." While genomics reveals what a cell *can* produce, proteomics reveals what it *actually* produces under specific conditions, making it more relevant to the functional state of cancer cells. The molecular markers in HNSCC span oncogenes (EGFR, Cyclin D1), tumour suppressor genes (p53, p16), viral markers (HPV E6/E7), and emerging protein/DNA-based biomarkers detectable in saliva and serum — several of which have already been translated into diagnostic tests and targeted therapies.
+Proteomics — the large-scale study of the entire protein complement (proteome) expressed by a genome, cell, tissue, or organism — has emerged as a powerful tool for biomarker discovery in head and neck squamous cell carcinoma (HNSCC). Montgomery Chapter 2 notes that "proteomic studies have generated numerous data sets of potential diagnostic, prognostic, and therapeutic significance in human cancer." While genomics reveals what a cell *can* produce, proteomics reveals what it *actually* produces under specific conditions, making it more relevant to the functional state of cancer cells. The molecular markers in HNSCC span oncogenes (EGFR, Cyclin D1), [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]] (p53, p16), viral markers (HPV E6/E7), and emerging protein/DNA-based biomarkers detectable in saliva and serum — several of which have already been translated into diagnostic tests and targeted therapies.
 
 ---
 
@@ -63,7 +60,7 @@ Montgomery Chapter 2 (lines 3437-3471) describes the foundational technologies:
 Montgomery also notes:
 - **Isotope-Coded Affinity Tag (ICAT) Technology** — quantitative comparison of protein expression between two samples
 - **Reverse-Phase Protein Arrays** — high-throughput screening of signalling pathway activation
-- **Antibody Microarrays** — multiplexed protein detection using immobilized antibodies
+- **Antibody [[Answers/General/PCR and Microarray Analysis|microarray]]** — multiplexed protein detection using immobilized antibodies
 
 ---
 
@@ -152,7 +149,7 @@ Montgomery Chapter 2 (lines 4281-4310) and Harrison Chapter 7 provide detailed c
 
 **Mechanism of Action:**
 - Human-murine chimeric monoclonal antibody (IgG1) targeting the extracellular domain of EGFR
-- **Multiple mechanisms:** Induction of G1 cell cycle arrest and apoptosis, direct terminal differentiation, inhibition of proteolytic enzymes and angiogenic factors, enhancement of chemotherapy and radiation sensitivity
+- **Multiple mechanisms:** Induction of G1 [[Answers/General/Cell Cycle and Cancer|cell cycle]] arrest and [[Answers/General/Apoptosis|apoptosis]], direct terminal differentiation, inhibition of proteolytic enzymes and angiogenic factors, enhancement of chemotherapy and radiation sensitivity
 
 **Key Clinical Trials:**
 
@@ -196,6 +193,19 @@ The Cancer Genome Atlas Network analysis of 279 HNSCCs confirmed:
 > [!tip] Clinical Pearls
 > - **EGFR Paradox:** Although EGFR is overexpressed in 40-95% of HNSCC, constitutively activating EGFR mutations (as in lung cancer) are rare in HNSCC — the benefit of anti-EGFR therapy relates to overexpression, not driver mutations (Stell Ch3)
 > - **p16 Is Not HPV:** p16 IHC is a surrogate marker; some non-oropharyngeal cancers show p16 positivity without HPV — gold standard for HPV confirmation is qRT-PCR for E6/E7 mRNA (Scott-Brown Ch13)
-> - **p53 for Molecular Margins:** p53 mutations detectable in histologically negative surgical margins predict local recurrence — this molecular staging approach may redefine "margin positivity" (Montgomery Ch2)
+> - **p53 for Molecular Margins:** p53 mutations detectable in histologically negative [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] predict local recurrence — this molecular staging approach may redefine "margin positivity" (Montgomery Ch2)
 > - **Salivary Diagnostics:** Soluble CD44 ELISA and five-protein salivary panels offer non-invasive screening for HNSCC — saliva is emerging as a "liquid biopsy" alternative to serum
 > - **Combination Biomarkers:** Combination of c-erbB-2, c-erbB-3, and EGFR expression significantly improves predictive power for survival compared to any single marker alone (Montgomery Ch2)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV in Oral and Oropharyngeal Cancer]] — related topic
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic

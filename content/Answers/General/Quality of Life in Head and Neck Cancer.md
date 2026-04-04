@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - oncology
-  - rehabilitation
-  - survivorship
+  - General
+  - Oncology
+  - Rehabilitation
+  - Supportive-Care
 ---
 
 # Quality of Life in Head and Neck Cancer
@@ -33,7 +33,7 @@ tags:
 
 ## Introduction
 
-Quality of life (QOL) in head and neck cancer encompasses the physical, functional, psychological, and social well-being of patients before, during, and after treatment. Head and neck cancers and their treatment uniquely affect fundamental human functions — breathing, speaking, swallowing, chewing, and facial appearance — making QOL assessment particularly important in this population. Treatment decisions in HNC increasingly require balancing oncologic outcomes with preservation of function and QOL.
+Quality of life (QOL) in head and neck cancer encompasses the physical, functional, psychological, and social well-being of patients before, during, and after treatment. Head and neck cancers and their treatment uniquely affect fundamental human functions — breathing, speaking, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], chewing, and facial appearance — making QOL assessment particularly important in this population. Treatment decisions in HNC increasingly require balancing oncologic outcomes with preservation of function and QOL.
 
 **Health-Related Quality of Life (HRQOL)** is a multidimensional concept that specifically measures how disease and its treatment affect a patient's perceived well-being across physical, psychological, social, and functional domains. Unlike generic QOL (which includes financial, spiritual, and environmental factors), HRQOL focuses on health-specific domains measurable through validated instruments.
 
@@ -55,9 +55,9 @@ HNC QOL instruments additionally assess site-specific concerns:
 - **Swallowing and diet** — ability to eat normal diet, aspiration risk
 - **Speech and communication** — understandability, voice quality
 - **Appearance and disfigurement** — facial form, scarring
-- **Xerostomia and taste** — salivary function post-RT
+- **[[Answers/General/Xerostomia Management|xerostomia]] and taste** — salivary function post-RT
 - **Shoulder function** — post-neck dissection morbidity
-- **Trismus** — mouth opening limitation
+- **[[Answers/General/Trismus Prevention|trismus]]** — mouth opening limitation
 - **Social eating** — willingness and ability to eat with others
 
 ---
@@ -186,3 +186,16 @@ QOL assessment after laryngeal cancer is particularly important given the choice
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — functional outcomes measurement
+>
+> **See Also:**
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic

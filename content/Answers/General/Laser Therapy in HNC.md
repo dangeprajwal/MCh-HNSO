@@ -1,11 +1,8 @@
 ---
 tags:
   - General
-  - Laser
-  - Larynx
-  - Hypopharynx
-  - Transoral-Surgery
-  - Technology
+  - Diagnostics
+  - Surgery
 ---
 
 > [!question] Q29 + Q38
@@ -100,7 +97,7 @@ Harrison Chapter 6 describes three laser types used in transoral laser microsurg
 |-------|-----------|-------------|
 | Nd:YAG | 1,064 nm | Deep tissue coagulation, debulking obstructive tumours, palliative airway management |
 | Diode | 800-980 nm | Soft tissue surgery, interstitial photocoagulation |
-| PDT Lasers | Variable (630-690 nm) | Photodynamic therapy — activate photosensitizers for superficial mucosal cancers |
+| PDT Lasers | Variable (630-690 nm) | [[Answers/General/Photodynamic Therapy|photodynamic therapy]] — activate photosensitizers for superficial mucosal cancers |
 
 ### Technological Advances
 
@@ -137,7 +134,7 @@ Jatin Shah Chapter 10 describes the detailed surgical technique:
 - **Small Lesions:** Excised en bloc with adequate margin
 - **Larger Lesions:** Stepwise segmental excision — initial exploratory incision through tumour centre to assess depth (Steiner technique)
 - **Healing:** Defect heals by secondary intention
-- **Leukoplakia:** CO2 laser with handheld piece, 15W continuous beam, 1-2 mm tissue destruction depth; haemostasis by defocusing the laser beam (Jatin Shah Ch8)
+- **[[Answers/Oral Cavity/Oral Leukoplakia Management|leukoplakia]]:** CO2 laser with handheld piece, 15W continuous beam, 1-2 mm tissue destruction depth; haemostasis by defocusing the laser beam (Jatin Shah Ch8)
 
 ### Oncologic Outcomes by Subsite
 
@@ -173,7 +170,7 @@ Jatin Shah Chapter 10 describes the detailed surgical technique:
 Stell Chapter 8 notes that transoral laser proved "surprisingly effective" for hypopharyngeal cancer:
 
 - **Steiner's Piriform Sinus Series (n=129):** 87% local control, 5-year OS 71% (stage I/II), 47% (stage III/IV), **99% organ preservation rate**
-- **Functional Results:** 73% required feeding tube for median 7 days only — excellent swallowing outcomes
+- **Functional Results:** 73% required feeding tube for median 7 days only — excellent [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] outcomes
 - No patient required permanent laryngectomy; only 4 temporary tracheostomies
 - Montgomery Ch13 confirms criteria for patient selection: freely mobile true cords and arytenoids, no apex involvement, no thyroid cartilage invasion, no postcricoid involvement
 
@@ -217,3 +214,16 @@ Complications are more common with extensive tumours, less experienced surgeons,
 > - **Key TLM Advantage:** If recurrence occurs after TLM, ALL treatment options remain open (re-excision, RT, open surgery); after primary RT, salvage often requires total laryngectomy
 > - **Laser Safety Essentials:** Saline + methylene blue in cuff, laser-safe tube, avoid N2O, lowest FiO2 — the fire triad must always be controlled (Montgomery Ch6)
 > - **Hypopharynx Surprise:** Steiner's TLM for piriform sinus SCC achieved 99% organ preservation and 87% local control — but strict selection criteria are essential (freely mobile cords, no cartilage invasion)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Pre-operative Embolization|Pre-operative Embolization]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic

@@ -2,8 +2,6 @@
 tags:
   - Oral-Cavity
   - Pathology
-  - Histology
-  - Oropharynx
 ---
 
 > [!question] Questions Covered
@@ -15,7 +13,7 @@ Harrison's Head and Neck Cancer Ch1; Jatin Shah Ch9; Stell & Maran's Ch6; Montgo
 
 > [!cite] Landmark Articles
 >
-> Basaloid squamous cell carcinoma (BSCC) was first described as a distinct entity by Wain et al. (1986) who reported 10 cases arising from the tongue, hypopharynx, and larynx, establishing the diagnostic criteria still used today. Banks et al. (1992) expanded the clinicopathologic characterization with immunohistochemical profiling in 40 cases. Fritsch and Lentsch (2014) analysed SEER data demonstrating that anatomic location is the most important prognostic factor — oropharyngeal BSCC (HPV-associated) carries significantly better prognosis than non-oropharyngeal sites. Chernock et al. (2010) established that HPV-positive basaloid carcinomas of the oropharynx represent a molecularly distinct subtype with better outcomes. Begum and Westra (2008) confirmed that basaloid morphology in oropharyngeal SCC is strongly associated with HPV16, and prognosis is driven by HPV status rather than basaloid histology alone.
+> Basaloid squamous cell carcinoma (BSCC) was first described as a distinct entity by Wain et al. (1986) who reported 10 cases arising from the tongue, hypopharynx, and larynx, establishing the diagnostic criteria still used today. Banks et al. (1992) expanded the clinicopathologic characterization with immunohistochemical profiling in 40 cases. Fritsch and Lentsch (2014) analysed SEER data demonstrating that anatomic location is the most important prognostic factor — oropharyngeal BSCC (HPV-associated) carries significantly better prognosis than non-oropharyngeal sites. Chernock et al. (2010) established that [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] basaloid carcinomas of the oropharynx represent a molecularly distinct subtype with better outcomes. Begum and Westra (2008) confirmed that basaloid morphology in oropharyngeal SCC is strongly associated with HPV16, and prognosis is driven by HPV status rather than basaloid histology alone.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -93,7 +91,7 @@ The cell of origin is believed to be a **single totipotential cell** in the basa
 
 The critical differential diagnoses include:
 
-1. **Adenoid cystic carcinoma (ACC)** — also shows basaloid cells with cribriform pattern, but ACC has myoepithelial differentiation (positive for S-100, SMA, calponin), lacks squamous component, and typically arises from minor salivary glands
+1. **Adenoid cystic carcinoma (ACC)** — also shows basaloid cells with cribriform pattern, but ACC has myoepithelial differentiation (positive for S-100, SMA, calponin), lacks squamous component, and typically arises from [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|minor salivary gland tumours]]
 2. **Small cell neuroendocrine carcinoma** — positive for neuroendocrine markers (synaptophysin, chromogranin), negative for p63
 3. **Adenosquamous carcinoma** — has true glandular differentiation (mucin-producing glands)
 4. **Poorly differentiated SCC** — lacks the organised basaloid lobular pattern, comedonecrosis, and hyaline material
@@ -108,7 +106,7 @@ This is the most clinically important distinction in BSCC:
 | Age | Younger (50s) | Older (60–70s) |
 | Risk factors | HPV16, sexual behaviour | Tobacco, alcohol |
 | p16 IHC | Strongly positive | Negative |
-| EBV | Negative | Negative |
+| [[Answers/General/EBV Testing in Head and Neck Cancer|EBV]] | Negative | Negative |
 | Prognosis | Favourable (similar to HPV+ SCC) | Poor |
 | Treatment response | Good response to CRT | Aggressive behaviour |
 
@@ -127,7 +125,7 @@ Chernock et al. (2010) showed that HPV-positive BSCC is a molecularly distinct s
 Treatment follows the same principles as conventional SCC of the respective site:
 
 - **Early stage (T1-T2)** — Surgery or radiation therapy
-- **Locally advanced** — Combined modality (surgery + adjuvant RT/CRT, or definitive CRT)
+- **Locally advanced** — Combined modality (surgery + [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]]/CRT, or definitive CRT)
 - **Oropharyngeal BSCC** — Treated as per HPV-positive oropharyngeal SCC protocols if p16-positive (consideration of de-escalation in clinical trials)
 - **Non-oropharyngeal BSCC** — Aggressive multimodality treatment warranted given poor prognosis; no evidence that treatment should differ from conventional SCC of the same site
 
@@ -150,3 +148,16 @@ HPV testing (p16 IHC ± HPV ISH) is mandatory in all oropharyngeal BSCC for prog
 > - The hyaline basement membrane material can mimic ACC — check for S-100 and myoepithelial markers
 > - BSCC of the oral cavity is uncommon and does not benefit from the favourable HPV-associated prognosis seen in oropharyngeal cases
 > - When BSCC arises in the oropharynx, treat and prognosticate based on HPV status, not the basaloid morphology
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Histological Risk Assessment in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Oral Lichen Planus|Oral Lichen Planus]] — related topic

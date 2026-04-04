@@ -1,10 +1,9 @@
 ---
 tags:
-  - general
-  - radiotherapy
-  - rehabilitation
-  - survivorship
-  - complications
+  - General
+  - Complications
+  - Rehabilitation
+  - Supportive-Care
 ---
 
 # Prevention and Management of Treatment-Related Xerostomia
@@ -15,7 +14,7 @@ tags:
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 4 (Radiation Therapy); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Novel RT Techniques); Scott-Brown's Otorhinolaryngology Volume 3
 
 > [!cite] Landmark Articles
-> Xerostomia is the most common chronic complaint following radiotherapy for head and neck cancer, significantly impairing quality of life for decades after treatment. Nutting et al. (2011) published the landmark PARSPORT trial — the first phase III RCT demonstrating that parotid-sparing IMRT significantly reduces xerostomia compared to conventional RT in HNC. Deasy et al. (2010) established the dose-volume constraints for parotid glands that predict salivary recovery. Brizel et al. (2000) conducted the pivotal amifostine trial demonstrating reduction in acute and chronic xerostomia without compromising tumour control. Eisbruch et al. (2001) published the foundational work on parotid-sparing RT and salivary function recovery thresholds. Jensen et al. (2010) provided the comprehensive systematic review of xerostomia management interventions.
+> Xerostomia is the most common chronic complaint following radiotherapy for head and neck cancer, significantly impairing [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]] for decades after treatment. Nutting et al. (2011) published the landmark PARSPORT trial — the first phase III RCT demonstrating that parotid-sparing IMRT significantly reduces xerostomia compared to conventional RT in HNC. Deasy et al. (2010) established the dose-volume constraints for parotid glands that predict salivary recovery. Brizel et al. (2000) conducted the pivotal amifostine trial demonstrating reduction in acute and chronic xerostomia without compromising tumour control. Eisbruch et al. (2001) published the foundational work on parotid-sparing RT and salivary function recovery thresholds. Jensen et al. (2010) provided the comprehensive systematic review of xerostomia management interventions.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -29,7 +28,7 @@ tags:
 
 ## Introduction
 
-Xerostomia — the subjective sensation of oral dryness resulting from salivary gland hypofunction — is the most common long-term complaint following radiotherapy for head and neck cancer. It profoundly impairs quality of life through its effects on eating, swallowing, speech, taste, dental health, and sleep. Normal daily saliva production is 0.5-1.5 litres, produced predominantly (90%) by the three pairs of major salivary glands: parotid, submandibular, and sublingual, with the remainder from the minor salivary glands distributed throughout the oral mucosa.
+Xerostomia — the subjective sensation of oral dryness resulting from salivary gland hypofunction — is the most common long-term complaint following radiotherapy for head and neck cancer. It profoundly impairs quality of life through its effects on eating, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], speech, taste, dental health, and sleep. Normal daily saliva production is 0.5-1.5 litres, produced predominantly (90%) by the three pairs of major salivary glands: parotid, submandibular, and sublingual, with the remainder from the [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|minor salivary gland tumours]] distributed throughout the oral mucosa.
 
 As described in Montgomery's Principles and Practice (Chapter 4), the position and size of the parotid gland means that it is frequently included in the radiation treatment field for HNSCC. The serous acini, which produce watery saliva, are more sensitive to the effects of radiation than the mucous acini — resulting in the production of thick, tenacious saliva. The decrease in the quantity and quality of saliva may lead to a change in oral flora and accelerated dental caries. Salivary gland damage from radiation is dose-dependent: significant reduction in salivary output occurs with doses as low as 10-15 Gy, and doses >40 Gy to a major salivary gland typically result in permanent, irreversible hypofunction.
 
@@ -67,7 +66,7 @@ Harrison notes that the correlation between salivary output from major salivary 
 Surgical transfer of the contralateral submandibular gland to the submental space — outside the planned radiation field — preserves a functioning major salivary gland. This procedure is performed at the time of neck dissection, before adjuvant radiotherapy. Evidence from multiple series shows significant preservation of stimulated and unstimulated salivary flow rates compared to non-transfer controls. However, it is only applicable when:
 - The contralateral submandibular gland is not involved by tumour
 - The submental region can be excluded from the RT field
-- The patient is planned for adjuvant RT (not primary RT)
+- The patient is planned for [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] (not primary RT)
 
 ### 3. Proton Beam Therapy
 
@@ -133,7 +132,7 @@ Evidence from multiple small trials and systematic reviews suggests that acupunc
 
 ## Part E: Dental Consequences and Oral Care
 
-Xerostomia dramatically increases the risk of dental caries (radiation caries), periodontal disease, oral candidiasis, and osteoradionecrosis. All patients receiving head and neck RT should:
+Xerostomia dramatically increases the risk of dental caries (radiation caries), periodontal disease, oral candidiasis, and [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|osteoradionecrosis]]. All patients receiving head and neck RT should:
 
 - Undergo comprehensive dental evaluation and extraction of unsalvageable teeth BEFORE RT
 - Use daily fluoride trays (1% sodium fluoride gel) — lifelong
@@ -166,3 +165,16 @@ Xerostomia dramatically increases the risk of dental caries (radiation caries), 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — photobiomodulation for xerostomia
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Oncologic Emergencies and End of Life|Oncologic Emergencies and End of Life]] — related topic
+> - [[Answers/General/Post-treatment Lymphedema|Post-treatment Lymphedema]] — related topic

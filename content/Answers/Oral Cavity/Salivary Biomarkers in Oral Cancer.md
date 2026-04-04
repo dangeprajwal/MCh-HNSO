@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Biomarkers
-  - Evidence-Based
-  - Technology
+  - Diagnostics
+  - Molecular-Biology
 ---
 
 > [!question] Questions Covered
@@ -45,12 +44,12 @@ Saliva is an increasingly recognised **"liquid biopsy"** medium that contains DN
 
 | Biomarker | Detection Method | Application |
 |---|---|---|
-| TP53 mutations | PCR, NGS | Tumour-specific mutations in saliva |
-| Promoter hypermethylation (p16, DAPK, RASSF1A) | Methylation-specific PCR | Early detection; field cancerization |
+| TP53 mutations | [[Answers/General/PCR and Microarray Analysis|PCR]], [[Answers/General/Next Generation Sequencing in HNC|NGS]] | Tumour-specific mutations in saliva |
+| Promoter hypermethylation (p16, DAPK, RASSF1A) | Methylation-specific PCR | Early detection; [[Answers/Oral Cavity/Field Cancerization|field cancerization]] |
 | Microsatellite instability | PCR | Genomic instability marker |
 | Mitochondrial DNA mutations | PCR | Elevated in OSCC vs controls |
 | HPV DNA | PCR, in situ hybridisation | Oropharyngeal cancer detection |
-| Loss of heterozygosity (LOH) | Microsatellite analysis | 3p, 9p, 17p LOH in oral leukoplakia |
+| Loss of heterozygosity (LOH) | Microsatellite analysis | 3p, 9p, 17p LOH in [[Answers/Oral Cavity/Oral Leukoplakia Management|oral leukoplakia]] |
 
 **LOH at 3p and 9p** in salivary DNA from oral leukoplakia patients predicts malignant transformation — this is one of the most clinically validated salivary biomarkers.
 
@@ -171,4 +170,17 @@ Exosomal cargo is protected from salivary nucleases, making it more stable than 
 > 2. For the exam, the **4-mRNA panel** (IL-8, IL-1β, SAT, H3F3A) with 91% sensitivity/specificity is the most quotable figure
 > 3. **LOH at 3p/9p** in salivary DNA is the strongest predictor of leukoplakia transformation — the same molecular marker used in field cancerization studies
 > 4. The practical application closest to clinical reality is **post-treatment surveillance** — serial salivary sampling to detect recurrence before clinical manifestation
-> 5. When asked about "advances in oral cancer screening," salivary biomarkers should be discussed alongside [[Answers/Oral Cavity/Oral Cancer Screening|clinical screening]], VELscope, and NBI
+> 5. When asked about "advances in oral cancer screening," salivary biomarkers should be discussed alongside [[Answers/Oral Cavity/Oral Cancer Screening|clinical screening]], VELscope, and [[Answers/General/Narrow Band Imaging|NBI]]
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — related topic
+> - [[Answers/Oral Cavity/Oral Cancer Screening|Oral Cancer Screening]] — screening biomarker development

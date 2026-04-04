@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Evidence-Based
-  - Research-Methodology
-  - Clinical-Trials
+  - Oncology
 ---
 
 > [!question] Questions Covered
@@ -15,7 +13,7 @@ Greenhalgh T. *How to Read a Paper*. 6th ed. Wiley-Blackwell; 2019. Ch6; Introdu
 
 > [!cite] Landmark Articles
 >
-> Piaggio et al. (2012) published the CONSORT extension for non-inferiority and equivalence trials, providing the definitive reporting checklist including specific items on margin justification, ITT vs per-protocol analysis, and confidence interval interpretation. Mauri and D'Agostino (2017) published the comprehensive NEJM review defining seven essential features of non-inferiority trial design, documenting a sixfold increase in NI trials between 2005–2015. Fleming (2008) addressed foundational issues in non-inferiority trial design including assay sensitivity and the constancy assumption, establishing the quality standards for valid inference. Snapinn (2000) identified the inherent weaknesses of NI trials — no internal demonstration of assay sensitivity, no single conservative analysis approach, and difficulty specifying the margin — in the most widely cited single-reference overview. Gillison et al. (2019) published the NRG/RTOG 1016 trial, the definitive head and neck non-inferiority trial demonstrating that cetuximab failed to show non-inferiority to cisplatin in HPV-positive oropharyngeal cancer.
+> Piaggio et al. (2012) published the CONSORT extension for non-inferiority and equivalence trials, providing the definitive reporting checklist including specific items on margin justification, ITT vs per-protocol analysis, and confidence interval interpretation. Mauri and D'Agostino (2017) published the comprehensive NEJM review defining seven essential features of non-inferiority trial design, documenting a sixfold increase in NI trials between 2005–2015. Fleming (2008) addressed foundational issues in non-inferiority trial design including assay sensitivity and the constancy assumption, establishing the quality standards for valid inference. Snapinn (2000) identified the inherent weaknesses of NI trials — no internal demonstration of assay sensitivity, no single conservative analysis approach, and difficulty specifying the margin — in the most widely cited single-reference overview. Gillison et al. (2019) published the NRG/RTOG 1016 trial, the definitive head and neck non-inferiority trial demonstrating that [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] failed to show non-inferiority to cisplatin in [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] oropharyngeal cancer.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -151,3 +149,16 @@ The CONSORT (Consolidated Standards of Reporting Trials) extension for non-infer
 > 3. The **De-ESCALaTE/RTOG 1016 lesson**: even biologically plausible hypotheses (cetuximab less toxic than cisplatin in HPV+ OPC) can fail when rigorously tested
 > 4. For the exam, remember that **per-protocol analysis is more conservative** in non-inferiority trials (opposite of superiority trials where ITT is more conservative)
 > 5. **Biocreep example**: if drug A is non-inferior to drug B, and drug C is later non-inferior to drug A, drug C may actually be inferior to drug B — each step loses a small amount of efficacy
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV in Oral and Oropharyngeal Cancer]] — De-ESCALaTE and RTOG 1016 trial design
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Phase III Clinical Trials|Phase III Clinical Trials]] — clinical trial design principles
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — related topic

@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Maxillectomy
-  - Prosthetics
+  - Surgery
 ---
 
 > [!question] AIIMS 2020
@@ -27,7 +25,7 @@ Jatin Shah Ch5 (Paranasal Sinuses), Ch17 (Reconstruction); Scott-Brown's Ch7; Ha
 
 ## Introduction
 
-Resection of the upper alveolus and maxilla for oral or sinonasal malignancy creates an oroantral or oronasal communication that impairs speech, swallowing, and facial aesthetics. Two principal reconstructive strategies exist: prosthetic obturation (obturator) and surgical reconstruction (free flap). The choice depends on defect extent, patient factors, and institutional expertise. Neither approach is universally superior — the Brown classification provides a systematic framework for matching defect to reconstruction.
+Resection of the upper alveolus and maxilla for oral or sinonasal malignancy creates an oroantral or oronasal communication that impairs speech, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], and facial aesthetics. Two principal reconstructive strategies exist: prosthetic obturation (obturator) and surgical reconstruction (free flap). The choice depends on defect extent, patient factors, and institutional expertise. Neither approach is universally superior — the Brown classification provides a systematic framework for matching defect to reconstruction.
 
 ## Brown Classification of Maxillectomy Defects
 
@@ -111,7 +109,7 @@ Resection of the upper alveolus and maxilla for oral or sinonasal malignancy cre
 | **Radial forearm (RFFF)** | Fasciocutaneous | Small palatal defects, thin pliable tissue |
 | **Anterolateral thigh (ALT)** | Fasciocutaneous | Medium defects, versatile bulk |
 | **Rectus abdominis** | Myocutaneous | Large defects requiring bulk |
-| **Fibula** | Osteocutaneous | Defects requiring bone (alveolar reconstruction, dental implants) |
+| **Fibula** | Osteocutaneous | Defects requiring bone (alveolar reconstruction, [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]]) |
 | **Scapula** | Osteocutaneous | Complex midface defects |
 | **Iliac crest (DCIA)** | Osteocutaneous | Maxillary alveolar ridge for dental implants |
 
@@ -175,7 +173,7 @@ Resection of the upper alveolus and maxilla for oral or sinonasal malignancy cre
 - Orbital exenteration component (Class IV)
 - Soft palate resection (velopharyngeal insufficiency)
 - Plans for dental implant rehabilitation (osteocutaneous flap)
-- Adjuvant RT planned (vascularised tissue tolerates RT better)
+- [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] planned (vascularised tissue tolerates RT better)
 - Patient preference for permanent reconstruction
 
 > [!abstract] Key Points
@@ -189,5 +187,18 @@ Resection of the upper alveolus and maxilla for oral or sinonasal malignancy cre
 > - **Immediate obturator** should be fabricated preoperatively from dental impressions and placed intraoperatively — eliminates need for NG tube and allows immediate oral intake
 > - Obturator retention depends on **remaining dentition** — in edentulous patients, zygomatic implants or free flap reconstruction should be considered
 > - The bolus extension of the obturator into the maxillectomy cavity is critical for **voice quality** — it obliterates the resonating air space
-> - When planning free flap reconstruction for dental rehabilitation, **fibula flap** provides the best bone stock for osseointegrated implant placement
+> - When planning free flap reconstruction for dental rehabilitation, **fibula flap** provides the best bone stock for [[Answers/General/Osseointegrated Implants|osseointegrated implants]] implant placement
 > - Direct wound surveillance is a major advantage of obturators — for patients at high recurrence risk, obturator allows **cavity inspection at every follow-up**
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Jaw Osteosarcoma|Jaw Osteosarcoma]] — related topic
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Regional Flaps in Oral Reconstruction|Regional Flaps in Oral Reconstruction]] — reconstruction options comparison
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic

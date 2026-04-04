@@ -2,9 +2,7 @@
 tags:
   - General
   - Rehabilitation
-  - Swallowing
-  - Quality-of-Life
-  - Larynx
+  - Supportive-Care
 ---
 
 > [!question] TMH 2021
@@ -114,7 +112,7 @@ Dysphagia is one of the most debilitating consequences of advanced laryngeal can
 
 - **Acute effects** (during treatment): mucositis, oedema, pain → dysphagia in 60-80%
 - **Subacute effects** (1-6 months): resolving mucositis, early fibrosis
-- **Late effects** (>6 months): pharyngeal constrictor fibrosis, cranial neuropathy (CN IX, X, XII), lymphoedema, trismus, xerostomia
+- **Late effects** (>6 months): pharyngeal constrictor fibrosis, cranial neuropathy (CN IX, X, XII), [[Answers/General/Post-treatment Lymphedema|lymphoedema]], [[Answers/General/Trismus Prevention|trismus]], [[Answers/General/Xerostomia Management|xerostomia]]
 - **Radiation-associated dysphagia (RAD)**: progressive fibrosis of pharyngeal constrictors and supraglottic larynx
 - **Late dysphagia** (Hutcheson 2012): may develop or progress **years** after treatment — 86% had OPC; 48% cranial neuropathy, 38% trismus; 66% became G-tube dependent
 - Aspiration rates 30-62% after definitive CRT; silent aspiration in ≥33% of aspirators
@@ -182,3 +180,16 @@ Dysphagia is one of the most debilitating consequences of advanced laryngeal can
 > - After supraglottic laryngectomy, aspiration is **universal** initially — patient selection (adequate pulmonary reserve, motivation, age <65) is critical
 > - Even when PEG-dependent, patients must continue **oral exercises and trial swallows** to prevent disuse atrophy — "use it or lose it" principle
 > - The **Mendelsohn manoeuvre** is the single most effective exercise for improving pharyngeal swallowing efficiency and UES opening
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+> - [[Answers/General/Post-treatment Lymphedema|Post-treatment Lymphedema]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — functional outcomes measurement
+> - [[Answers/General/Speech Rehabilitation after Laryngectomy|Speech Rehabilitation after Laryngectomy]] — related topic

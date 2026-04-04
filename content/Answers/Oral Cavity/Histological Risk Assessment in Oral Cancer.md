@@ -2,8 +2,6 @@
 tags:
   - Oral-Cavity
   - Pathology
-  - Prognostic-Factors
-  - Evidence-Based
 ---
 
 > [!question] Questions Covered
@@ -17,7 +15,7 @@ Harrison's Head and Neck Cancer Ch6; Jatin Shah Ch8; Stell & Maran's Ch8; Montgo
 
 > [!cite] Landmark Articles
 >
-> Brandwein-Gensler et al. (2005) published the seminal histologic risk assessment model for oral SCC incorporating three parameters — worst pattern of invasion (WPOI), perineural invasion (PNI), and lymphocytic host response (LHR) — demonstrating that this model was a stronger predictor of local recurrence and survival than margin status alone. Li et al. (2013) validated the Brandwein-Gensler risk model in low-stage oral cavity SCC, confirming that high-risk classification predicts poor outcomes even in early-stage disease. Almangush et al. (2018) published a meta-analysis establishing tumour budding as a reliable independent prognostic marker in oral SCC. Almangush et al. (2015) demonstrated that DOI and WPOI are the two strongest pathological predictors of locoregional recurrence in early oral tongue cancer. Lydiatt et al. (2017) described the AJCC 8th edition changes incorporating DOI into T staging, representing the most significant recent advance in oral cancer prognostication.
+> Brandwein-Gensler et al. (2005) published the seminal histologic risk assessment model for oral SCC incorporating three parameters — worst pattern of invasion (WPOI), [[Answers/General/Perineural Invasion|perineural invasion]] (PNI), and lymphocytic host response (LHR) — demonstrating that this model was a stronger predictor of local recurrence and survival than margin status alone. Li et al. (2013) validated the Brandwein-Gensler risk model in low-stage oral cavity SCC, confirming that high-risk classification predicts poor outcomes even in early-stage disease. Almangush et al. (2018) published a meta-analysis establishing tumour budding as a reliable independent prognostic marker in oral SCC. Almangush et al. (2015) demonstrated that DOI and WPOI are the two strongest pathological predictors of locoregional recurrence in early oral tongue cancer. Lydiatt et al. (2017) described the [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] edition changes incorporating DOI into T staging, representing the most significant recent advance in oral cancer prognostication.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -31,7 +29,7 @@ Harrison's Head and Neck Cancer Ch6; Jatin Shah Ch8; Stell & Maran's Ch8; Montgo
 
 ### Overview
 
-In 2005, Brandwein-Gensler et al. proposed a histologic risk assessment model for oral SCC based on analysis of 300+ oral tongue and floor of mouth cancers. The model integrates three independent histopathological parameters to classify tumours into **low-risk, intermediate-risk, and high-risk** categories. Critically, this model was shown to be **a stronger predictor of local recurrence and overall survival than surgical margin status**.
+In 2005, Brandwein-Gensler et al. proposed a histologic risk assessment model for oral SCC based on analysis of 300+ oral tongue and [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] cancers. The model integrates three independent histopathological parameters to classify tumours into **low-risk, intermediate-risk, and high-risk** categories. Critically, this model was shown to be **a stronger predictor of local recurrence and overall survival than [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] status**.
 
 ### The Three Parameters
 
@@ -86,7 +84,7 @@ Strong LHR (score 1) indicates an active immune response against the tumour and 
 - Potential clinical implications:
   - High-risk patients may benefit from adjuvant therapy even with clear margins
   - Low-risk patients with close margins may not need aggressive re-excision
-  - Can guide decision for elective neck dissection in early oral cancer
+  - Can guide decision for [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] in early oral cancer
 
 ## Patterns of Invasion and Cervical Metastasis
 
@@ -98,7 +96,7 @@ Strong LHR (score 1) indicates an active immune response against the tumour and 
 | Type 4 | ~20–30% |
 | Type 5 | ~40–50% |
 
-WPOI 5 (tumour satellites) is strongly associated with occult cervical metastasis, making it a potential criterion for recommending elective neck dissection in early-stage (cT1–T2 cN0) oral cancer, even when [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|DOI]] is borderline (<4 mm).
+WPOI 5 (tumour satellites) is strongly associated with occult cervical metastasis, making it a potential criterion for recommending elective neck dissection in early-stage (cT1–T2 cN0) oral cancer, even when DOI is borderline (<4 mm).
 
 ### Combined DOI + WPOI
 
@@ -139,7 +137,7 @@ Tumour budding overlaps conceptually with WPOI 4–5 — both describe dispersed
 | WPOI | Brandwein-Gensler type 1–5 | Types 4–5 predict recurrence |
 | PNI | Perineural invasion | Independent poor prognostic factor |
 | LVI | Lymphovascular invasion | Predicts nodal metastasis |
-| ENE | Extranodal extension | Indication for chemoRT |
+| ENE | [[Answers/General/Extranodal Extension|extranodal extension]] | Indication for chemoRT |
 | Grade | Differentiation | Poorly differentiated → worse |
 
 ### Upcoming/Emerging Prognostic Factors
@@ -151,7 +149,7 @@ Tumour budding overlaps conceptually with WPOI 4–5 — both describe dispersed
 | PD-L1 expression | Emerging | Predicts immunotherapy response |
 | p16 status | Established for oropharynx | Limited role in oral cavity |
 | HPV status | Not significant for oral cavity | Unlike oropharynx |
-| MicroRNA profiles | Early research | Potential diagnostic/prognostic biomarkers |
+| [[Answers/General/MicroRNAs in Oral Cancer|microRNAs]] profiles | Early research | Potential diagnostic/prognostic biomarkers |
 | Circulating tumour DNA | Emerging | Non-invasive recurrence monitoring |
 | Tumour-infiltrating lymphocytes | Growing evidence | High TILs → better prognosis |
 | LOH at 3p/9p | Phase II validated | Risk of premalignant transformation |
@@ -175,3 +173,16 @@ Tumour budding overlaps conceptually with WPOI 4–5 — both describe dispersed
 > - When asked about prognostic factors, organise your answer into patient factors (age, comorbidity, tobacco), tumour factors (T, N, margins, DOI, WPOI, PNI, LVI, ENE), and treatment factors (completeness of resection, adjuvant therapy, timing). This structure scores well
 > - Tumour budding is the "newest" established histological marker — mentioning it demonstrates contemporary knowledge. Remember: it reflects EMT, which is the same biological process driving invasion and metastasis
 > - The combination answer for "patterns of invasion and cervical metastasis" should emphasise WPOI 4–5 → high occult nodal rate → supports elective neck dissection
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/General/Histological Grading of SCC|Histological Grading of SCC]] — related topic

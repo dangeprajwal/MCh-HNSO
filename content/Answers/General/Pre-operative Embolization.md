@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - surgery
-  - interventional-radiology
-  - vascular
+  - General
+  - Complications
+  - Diagnostics
+  - Surgery
 ---
 
 # Pre-operative Embolization in Head and Neck Surgery
@@ -68,7 +68,7 @@ Harrison's Chapter 27 explains: the advantages of embolization are **tumour shri
 1. **Diagnostic angiography** — maps the arterial supply (external carotid, internal carotid, vertebral contributions)
 2. **Identify dangerous anastomoses** — particularly external-to-internal carotid anastomoses that may allow embolic particles to reach the cerebral circulation
 3. **Assess contralateral venous drainage** — especially for glomus jugulare tumours (Harrison emphasizes checking for contralateral hypoplastic/absent jugular system as a contraindication)
-4. **Balloon occlusion testing** — if carotid sacrifice is contemplated
+4. **[[Answers/General/Balloon Occlusion Test|balloon occlusion test]] testing** — if carotid sacrifice is contemplated
 
 ### Embolization Technique
 
@@ -197,3 +197,16 @@ Harrison's Chapter 27 highlights: the obvious risk of embolization is the escape
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Laser Therapy in HNC|Laser Therapy in HNC]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+> - [[Answers/General/Paraneoplastic Syndrome|Paraneoplastic Syndrome]] — related topic

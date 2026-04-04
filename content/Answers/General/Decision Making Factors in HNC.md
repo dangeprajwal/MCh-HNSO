@@ -1,9 +1,7 @@
 ---
 tags:
-  - general
-  - oncology
-  - multidisciplinary
-  - treatment-planning
+  - General
+  - Oncology
 ---
 
 # Factors Involved in Decision Making in Head and Neck Cancer
@@ -54,19 +52,19 @@ However, the textbook acknowledges significant limitations: HNSCC represents a h
 
 | Factor | Prognostic Significance |
 |--------|------------------------|
-| **Depth of invasion** | Adverse effect on prognosis, especially oral tongue |
+| **[[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]]** | Adverse effect on prognosis, especially oral tongue |
 | **Tumour volume** | May be more significant than diameter for organ-sparing therapy response |
 | **Pattern of invasion** | Pushing interfaces → better prognosis; infiltrating cords → worse |
-| **Perineural invasion** | Highly prognostically significant |
+| **[[Answers/General/Perineural Invasion|perineural invasion]]** | Highly prognostically significant |
 | **Lymphovascular invasion** | Highly prognostically significant |
-| **Extracapsular spread (ENE)** | Potentially the most significant nodal prognostic factor |
+| **[[Answers/General/Extranodal Extension|extranodal extension]] (ENE)** | Potentially the most significant nodal prognostic factor |
 | **Tumour grade** | Does NOT appear to be of great significance in HNSCC |
 | **HPV status** | HPV+ oropharyngeal SCC has dramatically better prognosis |
 | **EGFR expression** | Overexpression related to poor prognosis; altered in 90% of HNSCC |
 
 ### HPV Status
 
-Stell and Maran's notes the dramatic increase in oropharyngeal cancers in younger populations, around 60% testing positive for HPV-16 infection. These cancers tend to be poorly differentiated with basaloid features but have an **excellent response to therapy**, possibly explained by functional wild-type p53 activity in this subset.
+Stell and Maran's notes the dramatic increase in oropharyngeal cancers in younger populations, around 60% testing positive for [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-16]] infection. These cancers tend to be poorly differentiated with basaloid features but have an **excellent response to therapy**, possibly explained by functional wild-type p53 activity in this subset.
 
 ### Resectability
 
@@ -86,8 +84,8 @@ Importantly, T4b does not imply incurability — nasopharyngeal cancer extending
 Stell and Maran's states: the patient's physical condition may play a major role in determining which treatment pathway is most appropriate. HNSCC patients typically are of **advanced age** and have **multiple comorbidities** as they share risk factor exposure with systemic diseases such as hypertension, myocardial infarction, cerebrovascular events, and chronic obstructive pulmonary disease.
 
 Key performance status tools include:
-- **Karnofsky Performance Scale (KPS):** 0-100% scale (Table 7.3 in Stell and Maran's)
-- **ECOG/WHO Performance Status:** 0-5 scale
+- **Karnofsky [[Answers/General/Performance Scales and [[Answers/General/RECIST Criteria|RECIST criteria]]|performance scales]] (KPS):** 0-100% scale (Table 7.3 in Stell and Maran's)
+- **ECOG/[[Answers/General/WHO Performance Scale|WHO performance scale]] Status:** 0-5 scale
 - **ACE-27 (Adult Comorbidity Evaluation-27):** Developed by Piccirillo; grades comorbidity severity
 
 As comorbidities increase, the proportion of patients receiving **no treatment increases in parallel**. Aged patients are more likely to receive substandard treatment — 38% of those over 60 years and 64% over 80 years received suboptimal treatment in one series, with predictable adverse outcomes.
@@ -113,7 +111,7 @@ Patients with head and neck cancer are frequently malnourished, which has advers
 
 ### Patient Preferences
 
-Stell and Maran's emphasizes: the patient's wishes are of course the **final determining factor** in choice of treatment. The textbook provides a striking statistic: **46% of medical staff believed their patients would sacrifice survival for better voice and quality of life, whereas only 20% of patients agreed**. Patients with advanced HNSCC consistently prioritize cure and long-term survival over quality of life issues far more than their peers and healthcare professionals.
+Stell and Maran's emphasizes: the patient's wishes are of course the **final determining factor** in choice of treatment. The textbook provides a striking statistic: **46% of medical staff believed their patients would sacrifice survival for better voice and [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]], whereas only 20% of patients agreed**. Patients with advanced HNSCC consistently prioritize cure and long-term survival over quality of life issues far more than their peers and healthcare professionals.
 
 ---
 
@@ -174,7 +172,7 @@ Harrison's reports: a prospective study evaluated 120 consecutive patients prese
 | Stage | General Approach |
 |-------|-----------------|
 | **Early (I-II)** | Single-modality treatment (surgery OR RT) — outcomes comparable |
-| **Advanced (III-IV)** | Multidisciplinary treatment: surgery + adjuvant RT/CRT |
+| **Advanced (III-IV)** | Multidisciplinary treatment: surgery + [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]]/CRT |
 | **Unresectable (T4b)** | Non-surgical: concurrent chemoradiotherapy |
 | **Incurable/metastatic** | Palliative: symptom control, chemotherapy, immunotherapy |
 
@@ -212,3 +210,16 @@ As Stell and Maran's cautions: we must not compromise elimination of the disease
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Perineural Invasion|Perineural Invasion]] — related topic
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/WHO Performance Scale|WHO Performance Scale]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — related topic

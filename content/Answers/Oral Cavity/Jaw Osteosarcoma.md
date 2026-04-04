@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Mandible
-  - Rare-Tumours
-  - Surgical-Technique
-  - Evidence-Based
+  - Oncology
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -16,7 +14,7 @@ Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed.
 
 > [!cite] Landmark Articles
 >
-> Garrington et al. (1967) published the classic series of 56 cases establishing the clinical and pathological characteristics of jaw osteosarcoma as a distinct entity from long bone disease, with later age of onset and different biological behaviour. Kassir et al. (1997) performed a meta-analysis of nonrandomized studies concluding that chemotherapy benefit remains unproven in jaw osteosarcoma, challenging the extrapolation from extremity protocols. Guadagnolo et al. (2009) reported on 119 patients from MD Anderson, demonstrating R0 surgical margins as the strongest predictor of survival and questioning the routine use of chemotherapy. Fernandes et al. (2007) published a 10-year single-institution series confirming the aggressive surgical approach with clear margins as the key to cure. Smeele et al. (1997) published a competing meta-analysis suggesting chemotherapy may improve survival when analysis was restricted to margin-reported studies, creating the ongoing debate about chemotherapy's role.
+> Garrington et al. (1967) published the classic series of 56 cases establishing the clinical and pathological characteristics of jaw osteosarcoma as a distinct entity from long bone disease, with later age of onset and different biological behaviour. Kassir et al. (1997) performed a meta-analysis of nonrandomized studies concluding that chemotherapy benefit remains unproven in jaw osteosarcoma, challenging the extrapolation from extremity protocols. Guadagnolo et al. (2009) reported on 119 patients from MD Anderson, demonstrating R0 [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] as the strongest predictor of survival and questioning the routine use of chemotherapy. Fernandes et al. (2007) published a 10-year single-institution series confirming the aggressive surgical approach with clear margins as the key to cure. Smeele et al. (1997) published a competing meta-analysis suggesting chemotherapy may improve survival when analysis was restricted to margin-reported studies, creating the ongoing debate about chemotherapy's role.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -60,7 +58,7 @@ Osteosarcoma of the jaw (mandible/maxilla) accounts for **5–10% of all osteosa
 | Pathway | Role |
 |---|---|
 | p53 mutations | Found in 20–40% of osteosarcomas; loss of tumour suppression |
-| RB1 inactivation | Cell cycle dysregulation |
+| RB1 inactivation | [[Answers/General/Cell Cycle and Cancer|cell cycle]] dysregulation |
 | MDM2 amplification | p53 inhibition |
 | c-MYC amplification | Oncogenic signalling |
 | CDKN2A deletion | Cell cycle deregulation |
@@ -96,7 +94,7 @@ The WHO classification recognises the same subtypes in jaw as in long bones:
 
 ### Symptoms
 - **Jaw swelling** — most common presenting complaint (70–80%)
-- Pain — 50–60% (more frequent than in ameloblastoma)
+- Pain — 50–60% (more frequent than in [[Answers/Oral Cavity/Ameloblastoma of Mandible|ameloblastoma]])
 - Tooth loosening or displacement
 - Paraesthesia/anaesthesia of inferior alveolar nerve (numb chin)
 - Pathological fracture (advanced cases)
@@ -110,14 +108,14 @@ The WHO classification recognises the same subtypes in jaw as in long bones:
 | CT with contrast | Extent of bone destruction, soft tissue mass, cortical breach |
 | MRI | Marrow extent, soft tissue invasion, neurovascular involvement |
 | Chest CT | Pulmonary metastasis screening (mandatory) |
-| PET-CT | Staging, response assessment |
+| [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] | Staging, response assessment |
 | Bone scan | Polyostotic disease exclusion |
 
 **Classic radiographic triad:** Osteolysis + periosteal reaction (sun-ray/Codman's triangle) + soft tissue mass.
 
 ## Staging
 
-AJCC 8th Edition bone sarcoma staging:
+[[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition bone sarcoma staging:
 
 | Stage | T | Grade | Metastasis |
 |---|---|---|---|
@@ -139,7 +137,7 @@ AJCC 8th Edition bone sarcoma staging:
 
 - **Wide resection with clear margins** — the single most important prognostic factor
 - Minimum **1–2 cm bone margin** beyond radiographic extent
-- **Segmental mandibulectomy** for mandibular lesions
+- **[[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]]** for mandibular lesions
 - **Partial/total maxillectomy** (± orbital exenteration) for maxillary lesions
 - Neck dissection only for clinically positive nodes (nodal metastasis is rare: <5%)
 
@@ -160,7 +158,7 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 | Mandibular segmental | Fibula free flap (gold standard) |
 | Anterior mandible | Double-barrel fibula |
 | Hemimandible with condyle | Fibula + condylar prosthesis or iliac crest |
-| Infrastructure maxillectomy | Obturator prosthesis or scapula/fibula free flap |
+| Infrastructure maxillectomy | [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] prosthesis or scapula/fibula free flap |
 | Total maxillectomy | Free flap + prosthetic rehabilitation |
 
 ## Role of Chemotherapy
@@ -176,7 +174,7 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 
 ### Current Practice
 
-- **High-grade osteosarcoma:** Many centres offer neoadjuvant chemotherapy (MAP regimen: methotrexate, doxorubicin, cisplatin) extrapolated from extremity protocols
+- **High-grade osteosarcoma:** Many centres offer [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|neoadjuvant chemotherapy]] (MAP regimen: methotrexate, doxorubicin, cisplatin) extrapolated from extremity protocols
 - **Low-grade osteosarcoma:** Surgery alone — chemotherapy NOT indicated
 - **Neoadjuvant chemotherapy** may facilitate surgical resection of large tumours and allows assessment of chemosensitivity on pathological response
 - **No level I evidence** for chemotherapy specifically in jaw osteosarcoma
@@ -231,3 +229,16 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 > 3. **Chondroblastic variant** can be confused with chondrosarcoma on biopsy — look for osteoid at the periphery of cartilaginous nodules to confirm osteosarcoma
 > 4. **Maxillary osteosarcoma** is more difficult to resect with clear margins due to proximity to orbit, skull base, and pterygoid region — has worse prognosis than mandibular
 > 5. Always obtain **chest CT before and after resection** — lung is the primary site of distant failure; pulmonary metastasectomy may be beneficial in selected patients
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — mandibular tumour management
+> - [[Answers/General/Laser Therapy in Head and Neck Cancer|Laser Therapy in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|Neoadjuvant Chemotherapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|Obturator vs Flap Reconstruction]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic

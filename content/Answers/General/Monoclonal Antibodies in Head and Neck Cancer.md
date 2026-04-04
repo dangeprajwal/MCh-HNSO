@@ -1,10 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - chemotherapy
-  - immunotherapy
-  - treatment
+  - General
+  - Oncology
+  - Systemic-Therapy
 ---
 
 # Monoclonal Antibodies in Head and Neck Cancer
@@ -41,7 +39,7 @@ As described in Scott-Brown's Volume 3 (Chapter 30), huge improvements in our kn
 
 SCCHN very frequently displays upregulated EGFR signalling. As described in Scott-Brown's Chapter 30, EGFR is a member of the c-erbB family of transmembrane type I receptor tyrosine kinases comprising four members (EGFR/HER1, HER-2, HER-3, HER-4). These receptors consist of a glycosylated extracellular ligand-binding domain, a hydrophobic transmembrane component, and an intracellular domain with tyrosine kinase activity.
 
-Binding of ligand (TGF-α, EGF) to EGFR leads to receptor dimerization, autophosphorylation, and activation of downstream signalling cascades — principally the **RAS-MAPK pathway** (promoting proliferation) and the **PI3K-AKT-mTOR pathway** (promoting survival and anti-apoptosis). Overexpression of EGFR, without gene amplification, is the dominant process in HNSCC.
+Binding of ligand (TGF-α, EGF) to EGFR leads to receptor dimerization, autophosphorylation, and activation of downstream signalling cascades — principally the **RAS-MAPK pathway** (promoting proliferation) and the **[[Answers/General/PI3-Kinase Pathway|PI3K pathway]]-AKT-mTOR pathway** (promoting survival and anti-[[Answers/General/Apoptosis|apoptosis]]). Overexpression of EGFR, without gene amplification, is the dominant process in HNSCC.
 
 As described in Scott-Brown's Chapter 6, cetuximab is a monoclonal antibody that binds to the EGFR, inhibits activation of the EGFR pathway, and recruits antigen-directed cell cytotoxicity (ADCC). It is used clinically for the treatment of metastatic head and neck cancer.
 
@@ -51,7 +49,7 @@ Cetuximab is a human-murine chimeric IgG1 MAB targeting the extracellular domain
 - **Competitive inhibition:** Blocks ligand binding → prevents receptor activation
 - **Receptor downregulation:** Promotes EGFR internalization and degradation
 - **Anti-proliferative effects:** Inhibits downstream RAS-MAPK and PI3K signalling
-- **Anti-angiogenic effects:** Reduces VEGF production
+- **Anti-angiogenic effects:** Reduces [[Answers/General/Tumour Angiogenesis|VEGF]] production
 - **Antibody-dependent cellular cytotoxicity (ADCC):** Recruits NK cells via Fc receptor binding
 - **Radiosensitization:** Inhibits DNA damage repair; blocks radiation-induced EGFR nuclear translocation
 
@@ -197,3 +195,16 @@ Overall, checkpoint inhibitors are better tolerated than cytotoxic chemotherapy 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — bevacizumab anti-VEGF therapy
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Melanoma of the Oral Cavity|Melanoma of the Oral Cavity]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic

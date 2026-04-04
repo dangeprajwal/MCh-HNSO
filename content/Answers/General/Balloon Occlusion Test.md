@@ -1,10 +1,9 @@
 ---
 tags:
-  - general
-  - radiology
-  - vascular
-  - skull-base
-  - surgery
+  - General
+  - Complications
+  - Diagnostics
+  - Surgery
 ---
 
 # Balloon Occlusion Test
@@ -188,3 +187,16 @@ Stell and Maran's Chapter 23 describes the role of BTO in carotid blowout: adequ
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Pre-operative Embolization|Pre-operative Embolization]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Laser Therapy in HNC|Laser Therapy in HNC]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+> - [[Answers/General/Paraneoplastic Syndrome|Paraneoplastic Syndrome]] — related topic

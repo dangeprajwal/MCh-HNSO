@@ -1,11 +1,9 @@
 ---
 tags:
   - General
-  - Oncologic-Emergencies
-  - Palliative-Care
-  - End-of-Life
-  - Carotid-Blowout
-  - Airway-Management
+  - Complications
+  - Oncology
+  - Supportive-Care
 ---
 
 > [!question] Q33
@@ -28,7 +26,7 @@ tags:
 
 ## Introduction
 
-Head and neck cancers present unique oncologic emergencies due to the proximity of critical structures — the airway, major vessels, and cranial nerves — within a confined anatomical space. These emergencies include airway obstruction, carotid blowout syndrome, hypercalcaemia, and superior vena cava obstruction. End-of-life care in HNC is particularly challenging because of the visible and disfiguring nature of the disease, progressive loss of the most fundamental human functions (speech, swallowing, breathing), and the complex psychosocial burden on patients and families. Stell and Maran's Chapter 47 reports that **53% of HNC patients are hospitalized in the last month of life**, with the most common reasons being bleeding (17%), pain (9%), breathing difficulties (9%), and swallowing difficulties (9%). Harrison notes that "treatment decisions made near the end of life are prone to propel a dying person in a senseless direction" — emphasizing the need for humaneness and beneficence in palliative management.
+Head and neck cancers present unique oncologic emergencies due to the proximity of critical structures — the airway, major vessels, and cranial nerves — within a confined anatomical space. These emergencies include airway obstruction, carotid blowout syndrome, hypercalcaemia, and superior vena cava obstruction. End-of-life care in HNC is particularly challenging because of the visible and disfiguring nature of the disease, progressive loss of the most fundamental human functions (speech, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], breathing), and the complex psychosocial burden on patients and families. Stell and Maran's Chapter 47 reports that **53% of HNC patients are hospitalized in the last month of life**, with the most common reasons being bleeding (17%), pain (9%), breathing difficulties (9%), and swallowing difficulties (9%). Harrison notes that "treatment decisions made near the end of life are prone to propel a dying person in a senseless direction" — emphasizing the need for humaneness and beneficence in palliative management.
 
 ---
 
@@ -78,7 +76,7 @@ Stell and Maran's describes upper airway obstruction as a common emergency with 
 1. Stabilize airway (cuffed tracheostomy tube)
 2. Fluid resuscitation, direct pressure
 3. **Diagnostic angiography** → identify site and type
-4. **Temporary balloon occlusion** to assess contralateral carotid adequacy
+4. **Temporary [[Answers/General/Balloon Occlusion Test|balloon occlusion test]]** to assess contralateral carotid adequacy
 5. If contralateral adequate → **ligation or embolization** (lower CVA risk)
 6. If contralateral inadequate → **stenting or arterial bypass**
 7. Without interventional radiology → surgical exploration with transfixion suture ligation — mortality **9-100%** (median 40%), neurological complications **9-84%** (median 60%)
@@ -89,7 +87,7 @@ Stell and Maran's describes upper airway obstruction as a common emergency with 
 
 Montgomery Chapter 10 states this is "**common in patients with head and neck cancers**":
 
-- **Mechanism:** Paraneoplastic (PTHrP secretion) or bony metastases
+- **Mechanism:** [[Answers/General/Paraneoplastic Syndrome|paraneoplastic syndrome]] (PTHrP secretion) or bony metastases
 - **Symptoms:** Thirst, polyuria, constipation, confusion, drowsiness, cardiac arrhythmias
 - **Management:**
   - Mild: Encourage oral fluids
@@ -169,7 +167,7 @@ Montgomery Chapter 10 describes these as deeply distressing:
 - **Excessive Secretions:** Anticholinergics — hyoscine hydrobromide or glycopyrronium bromide
 - **Terminal Secretions ("Death Rattle"):** Glycopyrronium 200 mcg SC every 4-6 hours
 
-#### 6. Lymphoedema
+#### 6. [[Answers/General/Post-treatment Lymphedema|lymphoedema]]
 
 Montgomery Ch10:
 - Raise head of bed at night; diuretics may reduce tightness
@@ -239,3 +237,16 @@ For patients at risk of catastrophic terminal events (especially haemorrhage):
 > - **Artificial Nutrition Decision:** Stell and Maran's explicitly states that artificial hydration/nutrition may "prolong the dying process unnecessarily" — this is a critical exam discussion point
 > - **Terminal Agitation Checklist:** Always exclude the "4 Ps" — Pain, Pee (urinary retention), Poo (faecal impaction), Pills (drug accumulation) before sedating
 > - **Dark Towels:** A simple but powerful intervention — dark towels at the bedside reduce the visual distress of haemorrhage for patients, families, and staff
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Paraneoplastic Syndrome|Paraneoplastic Syndrome]] — related topic
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — palliative and emergency management
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/WHO Performance Scale|WHO Performance Scale]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic

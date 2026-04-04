@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - oncology
-  - complications
-  - diagnosis
+  - General
+  - Complications
+  - Diagnostics
+  - Oncology
 ---
 
 # Paraneoplastic Syndromes in Head and Neck Cancer
@@ -153,7 +153,7 @@ As described in Montgomery Chapter 18, metastatic NPC may be accompanied by a le
 These are mediated by **autoantibodies** directed against neuronal antigens shared by tumour and neural tissue (onconeural antibodies).
 
 - **Lambert-Eaton myasthenic syndrome (LEMS):** Anti-VGCC antibodies; primarily associated with small cell lung cancer but reported with neuroendocrine tumours including those in the head and neck
-- **Paraneoplastic neurogenic dysphagia:** Scott-Brown's Chapter 54 notes that a small number of paraneoplastic syndromes have been associated with neurogenic dysphagia, including those caused by SCC of the skin
+- **Paraneoplastic neurogenic [[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]]:** Scott-Brown's Chapter 54 notes that a small number of paraneoplastic syndromes have been associated with neurogenic dysphagia, including those caused by SCC of the skin
 - **Subacute cerebellar degeneration:** Anti-Yo, anti-Hu antibodies; very rare with HNSCC
 - **Sensory neuropathy:** Anti-Hu antibodies
 
@@ -164,7 +164,7 @@ Specifically described with NPC in Montgomery Chapter 18. Characterized by:
 - Digital clubbing
 - Synovial effusions (arthralgia)
 
-The mechanism involves tumour production of VEGF and platelet-derived growth factor (PDGF), which promote periosteal new bone formation and vascular proliferation.
+The mechanism involves tumour production of [[Answers/General/Tumour Angiogenesis|VEGF]] and platelet-derived growth factor (PDGF), which promote periosteal new bone formation and vascular proliferation.
 
 ### 3. Pyrexia of Unknown Origin
 
@@ -216,3 +216,16 @@ Montgomery Chapter 18 lists PUO among the paraneoplastic syndromes of NPC. Tumou
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Oncologic Emergencies and End of Life|Oncologic Emergencies and End of Life]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Diffusion Weighted MRI|Diffusion Weighted MRI]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+> - [[Answers/General/Pre-operative Embolization|Pre-operative Embolization]] — related topic

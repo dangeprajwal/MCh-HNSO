@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Salivary-Gland
-  - Surgical-Technique
-  - Evidence-Based
   - Pathology
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -39,7 +37,7 @@ Minor salivary glands are distributed throughout the submucosa of the upper aero
 | Buccal mucosa | 12–15% | Pleomorphic adenoma |
 | Retromolar trigone | 3–5% | Adenoid cystic carcinoma |
 | Tongue | 2–4% | Mucoepidermoid carcinoma |
-| Floor of mouth | 1–3% | Adenoid cystic carcinoma |
+| [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] | 1–3% | Adenoid cystic carcinoma |
 
 The **hard palate** is the single most common site — the mucosa here is firmly united with periosteum by Sharpey's fibres, separated only by a mass of mucous glands that may give rise to tumours.
 
@@ -60,7 +58,7 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 |---|---|---|
 | Mucoepidermoid carcinoma (MEC) | 54% | Graded low/intermediate/high; behaviour varies dramatically |
 | Polymorphous adenocarcinoma (PAC) | 17% | Almost exclusive to minor salivary glands; palate predominance |
-| Adenoid cystic carcinoma (AdCC) | 15% | Perineural invasion hallmark; late distant metastases |
+| Adenoid cystic carcinoma (AdCC) | 15% | [[Answers/General/Perineural Invasion|perineural invasion]] hallmark; late distant metastases |
 | Adenocarcinoma NOS | 5% | Diagnosis of exclusion |
 | Acinic cell carcinoma | 4% | Low-grade; indolent course |
 | Clear cell carcinoma NOS | 2.4% | Rare; differential with metastatic RCC |
@@ -89,7 +87,7 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 |---|---|---|
 | MRI with gadolinium | Primary investigation of choice | Soft tissue extent, perineural spread (AdCC), skull base involvement |
 | CT with contrast | Bone erosion assessment | Palatal bone destruction, nodal staging |
-| PET-CT | High-grade malignancy | Distant metastasis, lung screening for AdCC |
+| [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] | High-grade malignancy | Distant metastasis, lung screening for AdCC |
 | Ultrasound | Lip/buccal lesions | Superficial assessment, FNA guidance |
 
 ### Biopsy
@@ -104,14 +102,14 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 1. **Surgery is the primary treatment** for both benign and malignant MSGTs
 2. **Adequate margins** — minimum 1 cm for malignant tumours
 3. **Bone resection** may be required for palatal tumours invading hard palate bone
-4. **Adjuvant RT** recommended for high-grade tumours, positive/close margins, perineural invasion, and advanced stage
-5. **Neck dissection** guided by clinical/radiological evidence — elective neck dissection not routine (low nodal rates overall)
+4. **[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]]** recommended for high-grade tumours, positive/close margins, perineural invasion, and advanced stage
+5. **Neck dissection** guided by clinical/radiological evidence — [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] not routine (low nodal rates overall)
 
 ### Surgery by Site
 
 | Site | Procedure | Reconstruction |
 |---|---|---|
-| Hard palate | Partial/total palatectomy | Obturator prosthesis or free flap |
+| Hard palate | Partial/total palatectomy | [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] prosthesis or free flap |
 | Upper lip | Wide local excision | Primary closure or local flaps |
 | Buccal mucosa | Wide excision ± mandibulectomy | RFFF or buccal fat pad |
 | Retromolar trigone | Excision ± mandibulectomy | Skin graft or free flap |
@@ -198,6 +196,19 @@ AdCC has a **characteristic pattern of late failure** — 5-year survival appear
 > [!tip] Clinical Pearls
 > 1. A **painless firm palatal swelling** with intact mucosa in a middle-aged patient is MSGT until proven otherwise — FNA or incisional biopsy is essential
 > 2. For palatal MSGTs, **excise with periosteum and thin palatal bone wafer** even for benign tumours — simple enucleation has unacceptable recurrence rates
-> 3. **Adenoid cystic carcinoma** requires intraoperative frozen section of named nerve stumps — perineural spread can extend centimetres beyond the visible tumour
+> 3. **Adenoid cystic carcinoma** requires intraoperative [[Answers/General/Frozen Section in Surgical Margins|frozen section]] of named nerve stumps — perineural spread can extend centimetres beyond the visible tumour
 > 4. **High-grade MEC** behaves aggressively similar to SCC — treat with wide excision, neck dissection, and adjuvant chemoRT
 > 5. Request **NTRK fusion testing** in all metastatic/recurrent salivary gland cancers — larotrectinib achieves >75% response rate in fusion-positive cases
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Basaloid Squamous Cell Carcinoma|Basaloid Squamous Cell Carcinoma]] — related topic

@@ -1,8 +1,8 @@
 ---
 tags:
   - Oral-Cavity
+  - Epidemiology
   - Molecular-Biology
-  - Carcinogenesis
   - Premalignant
 ---
 
@@ -47,7 +47,7 @@ Slaughter, Southwick, and Smejkal studied over 700 oral and pharyngeal SCCs and 
 
 ### The Multistep Carcinogenesis Model
 
-Oral carcinogenesis follows the Vogelstein multistep model — sequential accumulation of genetic alterations in oncogenes and tumour suppressor genes:
+Oral carcinogenesis follows the Vogelstein multistep model — sequential accumulation of genetic alterations in oncogenes and [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]]:
 
 1. **Initiation** — Carcinogen exposure causes DNA damage (point mutations, deletions)
 2. **Promotion** — Clonal expansion of initiated cells
@@ -74,8 +74,8 @@ Califano et al. proposed a specific sequence of genetic alterations in HNSCC:
 - **LOH at 3p, 9p, 17p** — found in "normal" mucosa of the aerodigestive tract in smokers
 - **Promoter methylation** — CDKN2A, FHIT, and other tumour suppressor genes methylated in normal-appearing mucosa
 - **Microsatellite alterations** — instability in non-coding repetitive DNA sequences
-- **Telomerase activation** — reactivation of telomerase in premalignant fields
-- **Epigenetic changes** — global hypomethylation with focal hypermethylation of CpG islands
+- **[[Answers/General/Telomerase and Cancer|telomerase]] activation** — reactivation of telomerase in premalignant fields
+- **[[Answers/General/Epigenetics in Oncogenesis|epigenetics]] changes** — global hypomethylation with focal hypermethylation of CpG islands
 
 ## Monoclonal vs Polyclonal Theory
 
@@ -113,13 +113,13 @@ Both mechanisms likely coexist:
 - 10–15% of HNSCC patients develop an SPT within 5 years
 - Field cancerization explains why even after "curative" treatment of the primary, new cancers arise elsewhere
 
-### Surgical Margins
+### [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]
 
 - Histologically "clear" margins may still harbour molecularly altered cells (the "field")
 - Molecular margin analysis (p53, LOH) may identify patients at higher recurrence risk even with clear conventional margins
 - Complete excision of the cancer does not prevent new cancers from arising in the conditioned field
 
-### Chemoprevention
+### [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|chemoprevention]]
 
 - The concept of field cancerization provides the rationale for **chemoprevention** — using agents to reverse or arrest the premalignant changes in the entire conditioned field
 - Agents studied: retinoids (13-cis-retinoic acid), beta-carotene, curcumin, EGFR inhibitors, COX-2 inhibitors
@@ -150,3 +150,16 @@ Both mechanisms likely coexist:
 > - When a patient with oral SCC has synchronous dysplasia at distant mucosal sites, this is field cancerization in action
 > - Molecular margin analysis may eventually replace conventional histological margin assessment for risk stratification
 > - The distinction between local recurrence and a new SPT has staging, treatment, and prognostic implications — molecular profiling can help differentiate
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|Chemoprevention in Oral Cancer]] — targeting premalignant fields
+> - [[Answers/Oral Cavity/Lichen Planus and Oral Cancer|Lichen Planus and Oral Cancer]] — related topic
+> - [[Answers/General/Epidemiology of HNC in India|Epidemiology of HNC in India]] — related topic
+> - [[Answers/General/Telomerase and Cancer|Telomerase and Cancer]] — telomerase activation in premalignant fields
+>
+> **See Also:**
+> - [[Answers/General/Tobacco Carcinogenesis|Tobacco Carcinogenesis]] — tobacco-induced field changes
+> - [[Answers/General/Tumour Suppressor Genes|Tumour Suppressor Genes]] — clonal expansion of p53-mutant fields

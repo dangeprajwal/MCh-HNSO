@@ -1,10 +1,9 @@
 ---
 tags:
-  - general
-  - rehabilitation
-  - radiation
-  - surgery
-  - quality-of-life
+  - General
+  - Rehabilitation
+  - Supportive-Care
+  - Surgery
 ---
 
 # Prevention and Management of Trismus after Head and Neck Cancer Treatment
@@ -15,7 +14,7 @@ tags:
 **Source:** Jatin Shah - Head and Neck Surgery and Oncology, Chapter 7 (Postoperative Care), Chapter 9 (Maxillary Reconstruction), Chapter 18 (Oncologic Dentistry and Prosthetics), Chapter 19 (Late Toxicity of Radiation); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 11 (Late Effects of Radiotherapy), Chapter 15 (Larynx — Late Effects)
 
 > [!cite] Landmark Articles
-> Trismus, defined as restricted mouth opening ≤35 mm, affects 25-38% of head and neck cancer patients following treatment and has a profound impact on quality of life, nutrition, oral hygiene, speech, and cancer surveillance. Dijkstra et al. (2004) published the first comprehensive systematic review of trismus in head and neck oncology, establishing the ≤35 mm diagnostic criterion and demonstrating that radiotherapy involving the TMJ and/or pterygoid muscles reduces mouth opening by 18%. Buchbinder et al. (1993) conducted the seminal comparative study of jaw mobilization techniques, showing that the TheraBite device produced significantly greater mouth opening improvement (13.6 mm) than tongue depressors (4.4 mm) or unassisted exercise (6.0 mm). Bensadoun et al. (2010) in their MASCC/ISOO systematic review found that IMRT significantly reduced trismus prevalence (5%) compared to conventional RT (25.4%). Kamstra et al. (2017) systematically reviewed exercise therapy for trismus, finding that while exercises can improve established trismus, they may not prevent its development. Shao et al. (2020) provided the most comprehensive meta-analysis of 13 RCTs confirming that exercise therapy improves maximal interincisal opening (MIO) in established trismus.
+> Trismus, defined as restricted mouth opening ≤35 mm, affects 25-38% of head and neck cancer patients following treatment and has a profound impact on [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]], nutrition, oral hygiene, speech, and cancer surveillance. Dijkstra et al. (2004) published the first comprehensive systematic review of trismus in head and neck oncology, establishing the ≤35 mm diagnostic criterion and demonstrating that radiotherapy involving the TMJ and/or pterygoid muscles reduces mouth opening by 18%. Buchbinder et al. (1993) conducted the seminal comparative study of jaw mobilization techniques, showing that the TheraBite device produced significantly greater mouth opening improvement (13.6 mm) than tongue depressors (4.4 mm) or unassisted exercise (6.0 mm). Bensadoun et al. (2010) in their MASCC/ISOO systematic review found that IMRT significantly reduced trismus prevalence (5%) compared to conventional RT (25.4%). Kamstra et al. (2017) systematically reviewed exercise therapy for trismus, finding that while exercises can improve established trismus, they may not prevent its development. Shao et al. (2020) provided the most comprehensive meta-analysis of 13 RCTs confirming that exercise therapy improves maximal interincisal opening (MIO) in established trismus.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -29,7 +28,7 @@ tags:
 
 ## Introduction
 
-Trismus is defined as restricted mouth opening, with a maximal interincisal opening (MIO) of **≤35 mm** (Dijkstra et al., 2004). Normal MIO is 40-60 mm (average ~45 mm). In head and neck cancer patients, trismus results from both the disease itself (tumour invasion of masticator space) and its treatment (surgery and/or radiation therapy).
+Trismus is defined as restricted mouth opening, with a maximal interincisal opening (MIO) of **≤35 mm** (Dijkstra et al., 2004). Normal MIO is 40-60 mm (average ~45 mm). In head and neck cancer patients, trismus results from both the disease itself (tumour invasion of [[Answers/Oral Cavity/Masticator Space|masticator space]]) and its treatment (surgery and/or radiation therapy).
 
 Jatin Shah's Chapter 19 states unequivocally: **no effective treatment exists to correct established trismus. Therefore the management of trismus is prevention**, with jaw-stretching active and passive exercises instituted soon after the completion of therapy and continued until satisfactory jaw opening is achieved.
 
@@ -52,7 +51,7 @@ The prevalence of trismus varies by treatment modality:
 | **Radiation fibrosis** | Progressive fibrosis of muscles of mastication, TMJ capsule, periarticular tissues | Late (months to years) |
 | **Scarring/contracture** | Fibrosis of surgical site, wound contracture in oral cavity/oropharynx | Weeks to months |
 | **Pain/spasm** | Reflex spasm of masticatory muscles from postoperative pain | Early postoperative |
-| **Submucous fibrosis** | Betel nut/areca nut-related fibrosis of buccal mucosa | Pre-existing (endemic populations) |
+| **[[Answers/Oral Cavity/Oral Submucous Fibrosis|oral submucous fibrosis]]** | Betel nut/areca nut-related fibrosis of buccal mucosa | Pre-existing (endemic populations) |
 
 ### Pathophysiology of Radiation-Induced Trismus
 
@@ -71,7 +70,7 @@ Jatin Shah's Chapter 7 provides the surgical mechanism: when the surgical interv
 | **Radiation dose to pterygoid muscles** | >50 Gy significantly increases risk |
 | **Radiation dose to TMJ** | >50 Gy to TMJ region |
 | **Field involving masticator space** | Direct radiation to masseter/pterygoids |
-| **Surgical site** | Retromolar trigone, buccal mucosa, maxillary sinus, infratemporal fossa |
+| **Surgical site** | Retromolar trigone, buccal mucosa, maxillary sinus, [[Answers/Oral Cavity/Infratemporal Fossa Spread|infratemporal fossa]] |
 | **Combined modality** | Surgery + RT higher risk than either alone |
 | **Conventional RT vs IMRT** | IMRT 5% vs conventional RT 25.4% |
 | **Pre-existing conditions** | Submucous fibrosis, TMJ disorders, poor dentition |
@@ -136,7 +135,7 @@ Jatin Shah's Chapter 18 describes the available devices: tongue blades taped tog
 
 **2. Mandibular Reconstruction**
 
-Jatin Shah's Chapter 9 describes the importance of prosthetic devices in preventing trismus after maxillectomy: fabrication of the dental obturator should take into consideration prevention of trismus. Early mouth opening exercises to prevent trismus are essential — jaw exercises are initiated to prevent fibrosis.
+Jatin Shah's Chapter 9 describes the importance of prosthetic devices in preventing trismus after maxillectomy: fabrication of the dental [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] should take into consideration prevention of trismus. Early mouth opening exercises to prevent trismus are essential — jaw exercises are initiated to prevent fibrosis.
 
 **3. Flap Reconstruction**
 
@@ -176,7 +175,7 @@ When conservative measures fail and trismus is severe (<20 mm):
 | **Release of fibrotic bands** | Scar bands in buccal/retromolar region | Division of fibrotic tissue; may require flap coverage |
 | **TMJ surgery** | Ankylosis or severe periarticular fibrosis | Gap arthroplasty, interpositional arthroplasty |
 | **Free flap interposition** | Recurrent contracture after release | Vascularized tissue prevents re-fibrosis |
-| **Mandibular reconstruction** | Segmental mandibulectomy with deviation | Restoration of mandibular continuity and alignment |
+| **Mandibular reconstruction** | [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]] with deviation | Restoration of mandibular continuity and alignment |
 
 Jatin Shah's Chapter 18 notes the importance of mandibular guidance appliances after segmental mandibulectomy: to decrease scar contracture and trismus and improve the maxillomandibular relationship, with early mandibular exercises.
 
@@ -221,3 +220,16 @@ Jatin Shah's emphatically states: it is crucial for the clinician to reinforce t
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Speech Rehabilitation after Laryngectomy|Speech Rehabilitation after Laryngectomy]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — related topic

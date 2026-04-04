@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - complications
-  - rehabilitation
-  - radiotherapy
+  - General
+  - Complications
+  - Rehabilitation
 ---
 
 # Post-treatment Lymphedema in Head and Neck Cancer
@@ -14,7 +13,7 @@ tags:
 **Source:** Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 22 (Oropharyngeal Cancer — Delayed Complications, Lymphedema), Chapter 25 (Nasopharyngeal Cancer — RT Toxicity, Lymphedema), Chapter 27 (Laryngeal Cancer — Post-RT Lymphedema); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 14 (Complications)
 
 > [!cite] Landmark Articles
-> Head and neck lymphedema (HNL) is a prevalent but under-recognized complication of head and neck cancer treatment, affecting both external (visible) and internal (mucosal) tissues. Deng et al. (2012) published the first large-scale prevalence study of secondary lymphedema in head and neck cancer patients, reporting that 75.3% of patients had external lymphedema and 9.1% had internal lymphedema — establishing HNL as a major survivorship issue. Smith and Lewin (2010) published the landmark review from MD Anderson Cancer Center proposing the first evidence-based model for evaluation and treatment of HNL using complete decongestive therapy (CDT), noting that HNL was under-researched and ill-defined despite being common and debilitating. Ridner et al. (2016) published the pivotal prospective longitudinal study following 83 HNC patients from pre-treatment to 18 months post-treatment, demonstrating that >90% of patients experienced some form of lymphedema and >50% developed fibrosis — revealing the lymphedema-fibrosis continuum. Deng et al. (2015) developed and validated the first patient-reported outcome measure specific to HNL — the Vanderbilt Head and Neck Symptom Survey (VHNSS) lymphedema subscale — enabling standardized clinical assessment. Tyker et al. (2019) published the systematic review of treatment modalities for HNL, confirming that CDT with manual lymphatic drainage is the most established intervention with demonstrable improvements in swelling, fibrosis, and quality of life.
+> Head and neck lymphedema (HNL) is a prevalent but under-recognized complication of head and neck cancer treatment, affecting both external (visible) and internal (mucosal) tissues. Deng et al. (2012) published the first large-scale prevalence study of secondary lymphedema in head and neck cancer patients, reporting that 75.3% of patients had external lymphedema and 9.1% had internal lymphedema — establishing HNL as a major survivorship issue. Smith and Lewin (2010) published the landmark review from MD Anderson Cancer Center proposing the first evidence-based model for evaluation and treatment of HNL using complete decongestive therapy (CDT), noting that HNL was under-researched and ill-defined despite being common and debilitating. Ridner et al. (2016) published the pivotal prospective longitudinal study following 83 HNC patients from pre-treatment to 18 months post-treatment, demonstrating that >90% of patients experienced some form of lymphedema and >50% developed fibrosis — revealing the lymphedema-fibrosis continuum. Deng et al. (2015) developed and validated the first patient-reported outcome measure specific to HNL — the Vanderbilt Head and Neck Symptom Survey (VHNSS) lymphedema subscale — enabling standardized clinical assessment. Tyker et al. (2019) published the systematic review of treatment modalities for HNL, confirming that CDT with manual lymphatic drainage is the most established intervention with demonstrable improvements in swelling, fibrosis, and [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]].
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -30,7 +29,7 @@ tags:
 
 Head and neck lymphedema (HNL) is the accumulation of protein-rich fluid in the soft tissues of the head and neck region due to impaired lymphatic drainage following cancer treatment. It is one of the most common yet **under-recognized** complications of head and neck cancer therapy, affecting both visible external structures (face, neck, submentum) and internal mucosal structures (larynx, pharynx, tongue).
 
-Harrison's Chapter 22 lists lymphedema as a **delayed complication** of oropharyngeal cancer treatment alongside fistula, flap loss, trismus, and shoulder dysfunction. Harrison's Chapter 25 identifies lymphedema as both an **acute and long-term toxicity** of external beam radiation for nasopharyngeal carcinoma.
+Harrison's Chapter 22 lists lymphedema as a **delayed complication** of oropharyngeal cancer treatment alongside fistula, flap loss, [[Answers/General/Trismus Prevention|trismus]], and shoulder dysfunction. Harrison's Chapter 25 identifies lymphedema as both an **acute and long-term toxicity** of external beam radiation for nasopharyngeal carcinoma.
 
 Ridner et al. (2016) demonstrated that **>90% of HNC patients** experience some form of internal, external, or combined lymphedema within 18 months of treatment, with over half developing fibrosis — establishing the concept of a **lymphedema-fibrosis continuum**.
 
@@ -168,7 +167,7 @@ CDT is delivered in two phases:
 
 **Internal lymphedema management:**
 - Endoscopic monitoring for airway compromise
-- Speech-language pathology for swallowing rehabilitation
+- Speech-language pathology for [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] rehabilitation
 - Steroids (dexamethasone) for acute mucosal oedema
 - Tracheostomy if severe airway obstruction
 
@@ -212,3 +211,16 @@ Harrison's Chapter 25 notes: it is **unusual for patients to require a tracheoto
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Oncologic Emergencies and End of Life|Oncologic Emergencies and End of Life]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic

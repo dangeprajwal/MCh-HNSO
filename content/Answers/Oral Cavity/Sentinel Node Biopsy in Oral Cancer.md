@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Oncology
-  - Neck
-  - Sentinel-Node
+  - Surgery
 ---
 
 > [!question] AIIMS 2020
@@ -15,7 +13,7 @@ Jatin Shah Ch11 (Cervical Lymph Nodes); Stell & Maran's Ch14; Scott-Brown's Ch3;
 
 > [!cite] Landmark Articles
 >
-> Sentinel node biopsy (SNB) has emerged as a validated staging technique for early oral cancer with cN0 neck. The SENT trial (Schilling et al. 2015) — the largest prospective study — demonstrated a 99.5% identification rate and 95% NPV in 415 T1-T2N0 patients across 14 European centres. The Senti-MERORL RCT by Garrel et al. (2020) provided definitive Level I evidence, showing equivalence between SNB and elective neck dissection (END) with 2-year neck recurrence-free survival of 90.7% vs 89.6% respectively. Alkureishi et al. (2010) reported 5-year follow-up of a European multicenter trial confirming long-term reliability. Shoaib et al. (2001) published one of the earliest foundational prospective studies establishing the triple-technique protocol (lymphoscintigraphy + blue dye + gamma probe). More recently, Miura et al. (2017) validated the technique in an Asian multicenter Phase II trial.
+> Sentinel node biopsy (SNB) has emerged as a validated staging technique for early oral cancer with cN0 neck. The SENT trial (Schilling et al. 2015) — the largest prospective study — demonstrated a 99.5% identification rate and 95% NPV in 415 T1-T2N0 patients across 14 European centres. The Senti-MERORL RCT by Garrel et al. (2020) provided definitive Level I evidence, showing equivalence between SNB and [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] (END) with 2-year neck recurrence-free survival of 90.7% vs 89.6% respectively. Alkureishi et al. (2010) reported 5-year follow-up of a European multicenter trial confirming long-term reliability. Shoaib et al. (2001) published one of the earliest foundational prospective studies establishing the triple-technique protocol (lymphoscintigraphy + blue dye + gamma probe). More recently, Miura et al. (2017) validated the technique in an Asian multicenter Phase II trial.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -27,12 +25,12 @@ Jatin Shah Ch11 (Cervical Lymph Nodes); Stell & Maran's Ch14; Scott-Brown's Ch3;
 
 ## Introduction
 
-Sentinel node biopsy (SNB) identifies and removes the first-echelon lymph node(s) draining a primary tumour. If the sentinel node (SN) is negative for metastasis, the remainder of the nodal basin is assumed to be negative, sparing the patient an elective neck dissection. Long established in melanoma and breast cancer, SNB has now achieved Level I evidence for early oral cavity squamous cell carcinoma (T1-T2, cN0), following the landmark Senti-MERORL RCT demonstrating equivalence to END.
+Sentinel node biopsy (SNB) identifies and removes the first-echelon lymph node(s) draining a primary tumour. If the sentinel node (SN) is negative for metastasis, the remainder of the nodal basin is assumed to be negative, sparing the patient an elective neck dissection. Long established in [[Answers/Oral Cavity/Melanoma of the Oral Cavity|oral melanoma]] and breast cancer, SNB has now achieved Level I evidence for early oral cavity squamous cell carcinoma (T1-T2, cN0), following the landmark Senti-MERORL RCT demonstrating equivalence to END.
 
 ## Indications
 
 - **T1-T2 oral cavity SCC** with clinically and radiologically **N0 neck**
-- All oral cavity subsites (tongue, floor of mouth, buccal mucosa, alveolus, hard palate, lip)
+- All oral cavity subsites (tongue, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], buccal mucosa, alveolus, hard palate, lip)
 - Patient fit for general anaesthesia and neck exploration
 - **Caution**: floor of mouth tumours — higher false-negative rate due to "shine-through" phenomenon (radiotracer in primary obscures adjacent Level I nodes)
 
@@ -84,7 +82,7 @@ Sentinel node biopsy (SNB) identifies and removes the first-echelon lymph node(s
 
 ### Critical Principle
 
-- **Avoid routine frozen section** for sentinel nodes — sensitivity too low for micrometastases
+- **Avoid routine [[Answers/General/Frozen Section in Surgical Margins|frozen section]]** for sentinel nodes — sensitivity too low for micrometastases
 - Send for **rush permanent section** with enhanced pathological protocol:
 
 ### Step-Serial Sectioning Protocol
@@ -93,7 +91,7 @@ Sentinel node biopsy (SNB) identifies and removes the first-echelon lymph node(s
 2. Serial sections at **150 μm intervals** (step-serial sectioning)
 3. H&E staining at each level
 4. **Immunohistochemistry (IHC)**: pan-cytokeratin (AE1/AE3) on alternate sections
-5. Detects micrometastases (0.2-2 mm) and isolated tumour cells (≤0.2 mm) missed by routine H&E
+5. Detects micrometastases (0.2-2 mm) and [[Answers/General/Isolated Tumour Cells|isolated tumour cells]] (≤0.2 mm) missed by routine H&E
 
 ### Classification of Findings
 
@@ -181,3 +179,16 @@ Sentinel node biopsy (SNB) identifies and removes the first-echelon lymph node(s
 > - If the sentinel node contains **micrometastasis or macrometastasis**, completion neck dissection is mandatory; for ITC (≤0.2 mm), the evidence is evolving — discuss in MDT
 > - The **in vivo 3:1 rule** (SN count >3× background) and **ex vivo 10:1 rule** (>10× non-SN) ensure reliable identification — if residual basin activity >10% of hottest SN, continue exploring
 > - SNB can identify **skip metastases** (10-15%) in unexpected levels — a unique advantage over routine selective ND which may miss atypical drainage patterns
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|Node Negative Neck in Oral Cancer]] — alternatives for N0 neck management
+> - [[Answers/General/Isolated Tumour Cells|Isolated Tumour Cells]] — related topic
+> - [[Answers/Oral Cavity/Melanoma of the Oral Cavity|Melanoma of the Oral Cavity]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic

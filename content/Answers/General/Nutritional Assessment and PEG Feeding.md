@@ -1,10 +1,9 @@
 ---
 tags:
-  - general
-  - surgery
-  - radiotherapy
-  - rehabilitation
-  - survivorship
+  - General
+  - Rehabilitation
+  - Supportive-Care
+  - Surgery
 ---
 
 # Nutritional Assessment and PEG Feeding in Head and Neck Cancer
@@ -33,9 +32,9 @@ tags:
 
 ## Introduction
 
-Malnutrition is one of the most common and consequential comorbidities in head and neck cancer patients, yet it remains frequently underrecognized and undertreated. Studies have consistently estimated that between 44% and 57% of patients with head and neck cancer experience significant difficulties with eating or unintentional weight loss even before treatment commences — a prevalence far higher than in most other cancer types. This pre-existing nutritional compromise reflects the combined effects of tumour-related obstruction and pain (which directly impair eating and swallowing), the catabolic effects of the cancer itself (tumour-induced systemic inflammation, increased metabolic rate, and cytokine-mediated muscle wasting), and the lifestyle factors that predispose to head and neck cancer (heavy alcohol use, poor diet, social deprivation, and dental neglect).
+Malnutrition is one of the most common and consequential comorbidities in head and neck cancer patients, yet it remains frequently underrecognized and undertreated. Studies have consistently estimated that between 44% and 57% of patients with head and neck cancer experience significant difficulties with eating or unintentional weight loss even before treatment commences — a prevalence far higher than in most other cancer types. This pre-existing nutritional compromise reflects the combined effects of tumour-related obstruction and pain (which directly impair eating and [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]]), the catabolic effects of the cancer itself (tumour-induced systemic inflammation, increased metabolic rate, and cytokine-mediated muscle wasting), and the lifestyle factors that predispose to head and neck cancer (heavy alcohol use, poor diet, social deprivation, and dental neglect).
 
-Treatment for HNC — whether surgery, radiotherapy, chemoradiotherapy, or multimodality combinations — further and often dramatically compromises nutritional status. Surgical resection of oral, pharyngeal, or laryngeal tumours directly impairs the mechanical ability to chew, swallow, and protect the airway. Radiotherapy to the head and neck causes progressive mucositis (typically from week 2-3, peaking at 1-2 weeks post-treatment), xerostomia (salivary gland damage), taste disturbance (dysgeusia), fibrosis, and trismus — all of which impair oral intake for months to years after treatment. The addition of concurrent chemotherapy (particularly cisplatin) amplifies these toxicities while adding nausea, vomiting, and renal toxicity. The result is a "nutritional perfect storm" in which pre-existing compromise is compounded by treatment-related toxicity, leading to a downward spiral of weight loss, muscle wasting, treatment interruptions, impaired wound healing, immunosuppression, and reduced survival.
+Treatment for HNC — whether surgery, radiotherapy, chemoradiotherapy, or multimodality combinations — further and often dramatically compromises nutritional status. Surgical resection of oral, pharyngeal, or laryngeal tumours directly impairs the mechanical ability to chew, swallow, and protect the airway. Radiotherapy to the head and neck causes progressive mucositis (typically from week 2-3, peaking at 1-2 weeks post-treatment), [[Answers/General/Xerostomia Management|xerostomia]] (salivary gland damage), taste disturbance (dysgeusia), fibrosis, and [[Answers/General/Trismus Prevention|trismus]] — all of which impair oral intake for months to years after treatment. The addition of concurrent chemotherapy (particularly cisplatin) amplifies these toxicities while adding nausea, vomiting, and renal toxicity. The result is a "nutritional perfect storm" in which pre-existing compromise is compounded by treatment-related toxicity, leading to a downward spiral of weight loss, muscle wasting, treatment interruptions, impaired wound healing, immunosuppression, and reduced survival.
 
 Nutritional intervention in head and neck cancer therefore aims to identify, prevent, and treat malnutrition at every stage of the cancer pathway — from initial diagnosis through treatment, rehabilitation, and long-term survivorship. Nutritional status has been recognized as a long-term prognostic factor in head and neck cancer for almost 30 years, and critical weight loss (>5% during treatment) has been shown to be an independent predictor of worse overall survival. A specialist head and neck dietitian should be a key member of the multidisciplinary team, and nutritional screening, assessment, and intervention should be integrated into standard clinical pathways for every patient.
 
@@ -51,7 +50,7 @@ Malnutrition is defined as a BMI < 18.5 kg/m², or unintentional weight loss > 1
 - Decreased response rates to chemotherapy
 - Increased risk of loco-regional failure
 - Increased length of hospital stay
-- Depression and poor quality of life
+- Depression and poor [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]]
 - Increased mortality rate
 
 **Critical weight loss (>5%) during radiotherapy is an independent prognostic factor for overall survival.**
@@ -206,3 +205,16 @@ Feed containing omega-3 fatty acids, arginine, and nucleotides:
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Speech Rehabilitation after Laryngectomy|Speech Rehabilitation after Laryngectomy]] — related topic
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic

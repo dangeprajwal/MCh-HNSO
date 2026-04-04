@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Screening
-  - Prevention
-  - Public-Health
+  - Premalignant
 ---
 
 > [!question] Questions Covered
@@ -77,7 +75,7 @@ This is the **only Level I evidence** for oral cancer screening:
 
 - Systematic examination of all oral mucosal surfaces under good illumination
 - Patient seated, dentures removed
-- Bimanual palpation of floor of mouth and tongue
+- Bimanual palpation of [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] and tongue
 - Assessment of lips, buccal mucosa, gingivae, hard and soft palate, tongue (dorsal, ventral, lateral borders), floor of mouth, retromolar trigone, tonsillar pillars
 
 ### Performance
@@ -96,9 +94,9 @@ The WHO (Warnakulasuriya 2007) recommends the term OPMD for conditions carrying 
 | OPMD | Transformation Rate |
 |---|---|
 | Leukoplakia | 1–5% (varies with type) |
-| Erythroplakia | 14–50% (highest risk) |
+| [[Answers/Oral Cavity/Oral Leukoplakia Management|erythroplakia]] | 14–50% (highest risk) |
 | [[Answers/Oral Cavity/Oral Lichen Planus|Oral lichen planus]] | ~1% |
-| Oral submucous fibrosis | 3–8% |
+| Oral [[Answers/Oral Cavity/Oral Submucous Fibrosis|oral submucous fibrosis]] | 3–8% |
 | Actinic cheilitis | 10–20% |
 | Dyskeratosis congenita | Variable |
 
@@ -119,9 +117,9 @@ The WHO (Warnakulasuriya 2007) recommends the term OPMD for conditions carrying 
 - **Mechanism:** Disruption of flavin adenine dinucleotide (FAD) and collagen cross-links in dysplastic tissue
 - **Sensitivity:** 84–100%; **Specificity:** 15–83% (high false positive rate)
 - **Limitations:** Inflammation, pigmented lesions, vascular lesions all cause loss of fluorescence → poor specificity
-- **Role:** May help delineate extent of field change; useful for margin assessment intraoperatively
+- **Role:** May help delineate extent of [[Answers/Oral Cavity/Field Cancerization|field cancerization]]; useful for margin assessment intraoperatively
 
-### 3. Narrow Band Imaging (NBI)
+### 3. [[Answers/General/Narrow Band Imaging|narrow band imaging]] (NBI)
 
 - **Principle:** Filters endoscopic light to specific wavelengths (415 nm blue, 540 nm green) that are absorbed by haemoglobin → enhances visualisation of superficial mucosal vasculature
 - **Application:** Identifies irregular vascular patterns (intrapapillary capillary loops — IPCLs) associated with dysplasia/early cancer
@@ -143,10 +141,10 @@ The WHO (Warnakulasuriya 2007) recommends the term OPMD for conditions carrying 
 - Resolution: 10–20 μm (comparable to low-power histology)
 - **Emerging technology** — not yet validated for screening
 
-### 6. Salivary Biomarkers
+### 6. [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|salivary biomarkers]]
 
 - Analysis of saliva for tumour-associated markers
-- Markers studied: IL-8, IL-6, TNF-α, VEGF, p53 antibodies, CD44, exosomal miRNA
+- Markers studied: IL-8, IL-6, TNF-α, [[Answers/General/Tumour Angiogenesis|VEGF]], p53 antibodies, CD44, exosomal [[Answers/General/MicroRNAs in Oral Cancer|miRNA]]
 - **Emerging field** — no validated salivary diagnostic test exists yet for routine screening
 - Potential for a non-invasive, low-cost screening tool in resource-limited settings
 
@@ -189,3 +187,16 @@ India has one of the highest burdens of oral cancer worldwide:
 > - Toluidine blue is most useful for guiding biopsy in a patient with widespread mucosal change — it highlights the most dysplastic areas
 > - VELscope is better for delineating the extent of field change than for initial screening — high false positive rate limits its standalone screening value
 > - A negative brush biopsy does NOT exclude malignancy — incisional biopsy remains the gold standard for any clinically suspicious lesion
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — related topic
+> - [[Answers/Oral Cavity/Oral Leukoplakia Management|Oral Leukoplakia Management]] — related topic
+> - [[Answers/Oral Cavity/Oral Lichen Planus|Oral Lichen Planus]] — related topic
+> - [[Answers/Oral Cavity/Oral Submucous Fibrosis|Oral Submucous Fibrosis]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|Salivary Biomarkers in Oral Cancer]] — screening biomarker development
+> - [[Answers/General/Epidemiology of HNC in India|Epidemiology of HNC in India]] — population screening in high-prevalence regions

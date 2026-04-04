@@ -1,10 +1,9 @@
 ---
 tags:
   - General
-  - Neck-Management
-  - Evidence-Based
-  - Staging
   - Pathology
+  - Staging
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -85,7 +84,7 @@ The AJCC 8th Edition (2017) incorporated ENE into the **N-classification** for t
 
 **Key principle:** Any pathological ENE can upstage the N-category — a single small node (≤3 cm) with microscopic ENE becomes pN2a; a single node >3 cm with ENE becomes pN3b.
 
-### HPV-Positive Oropharyngeal Cancer (Separate Staging)
+### [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] Oropharyngeal Cancer (Separate Staging)
 
 ENE is **not incorporated** into the clinical staging of p16-positive oropharyngeal cancer in the AJCC 8th Edition. This reflects the significantly better prognosis of HPV-positive disease regardless of ENE status. However, pathological ENE in HPV+ OPC still carries prognostic significance and influences adjuvant therapy decisions.
 
@@ -106,7 +105,7 @@ From the Memorial Sloan Kettering Cancer Center database (1986–1995):
 | ENE(+) vs ENE(−) | 2.0–3.5 |
 | N2–N3 vs N1 | 1.5–2.0 |
 | Positive margins | 1.5–2.5 |
-| Perineural invasion | 1.3–1.8 |
+| [[Answers/General/Perineural Invasion|perineural invasion]] | 1.3–1.8 |
 | Lymphovascular invasion | 1.3–1.7 |
 
 ENE supersedes nodal number, nodal size, and nodal level as a prognostic indicator.
@@ -120,7 +119,7 @@ ENE supersedes nodal number, nodal size, and nodal level as a prognostic indicat
 | CT with contrast | 65–80% | 70–85% | Irregular nodal margin, fat plane obliteration |
 | MRI | 70–85% | 75–90% | Signal change in perinodal fat |
 | Ultrasound | 50–70% | 75–85% | Irregular border, invasion into adjacent tissue |
-| PET-CT | Limited | Limited | Cannot reliably detect ENE |
+| [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] | Limited | Limited | Cannot reliably detect ENE |
 
 **Key imaging findings suggesting ENE:**
 - Irregular or spiculated nodal margin
@@ -197,7 +196,7 @@ Emerging data suggest that ENE may predict response to checkpoint inhibitors:
 > 6. RTOG 9501 and EORTC 22931 established that positive margins and/or ENE are the ONLY features mandating concurrent cisplatin + PORT
 > 7. Combined analysis (Bernier & Cooper 2005): other features (PNI, LVI, multiple nodes) showed inconsistent benefit from adding cisplatin
 > 8. ENE is NOT incorporated into HPV-positive oropharyngeal cancer staging — reflecting better prognosis regardless of ENE
-> 9. ENEmi vs ENEma distinction is not yet reflected in AJCC staging but may have prognostic implications
+> 9. ENEmi vs ENEma distinction is not yet reflected in [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC staging]] but may have prognostic implications
 > 10. ENE rates in N-positive oral cancer are 40–60% — routine pathological assessment of nodal capsule is mandatory
 
 > [!tip] Clinical Pearls
@@ -206,3 +205,16 @@ Emerging data suggest that ENE may predict response to checkpoint inhibitors:
 > 3. A **single small node (≤3 cm) with microscopic ENE** upstages from pN1 to pN2a — this staging change alone can alter the treatment plan
 > 4. In HPV-positive oropharyngeal cancer, ENE is prognostic but **not used for clinical staging** — this is a common exam pitfall
 > 5. If imaging shows **matted nodes or irregular margins**, plan for the possibility of a more extensive neck dissection including sacrifice of SCM, IJV, or XI if involved
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Isolated Tumour Cells|Isolated Tumour Cells]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/General/Perineural Invasion|Perineural Invasion]] — adverse pathological features
+>
+> **See Also:**
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — related topic

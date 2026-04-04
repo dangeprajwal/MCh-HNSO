@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - molecular-biology
-  - cell-biology
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Autophagy in Head and Neck Cancer
@@ -54,7 +53,7 @@ The process of macroautophagy proceeds through four sequential steps, each regul
 
 **1. Initiation**
 - Under nutrient-replete conditions, **mTORC1** (mammalian target of rapamycin complex 1) phosphorylates and inhibits the ULK1 complex (ULK1-ATG13-FIP200-ATG101)
-- Under stress — nutrient deprivation, hypoxia, DNA damage — mTORC1 is inhibited (via AMPK activation or PI3K/AKT downregulation)
+- Under stress — nutrient deprivation, hypoxia, DNA damage — mTORC1 is inhibited (via AMPK activation or [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] downregulation)
 - The ULK1 complex is released and activated, initiating autophagosome formation
 
 **2. Nucleation**
@@ -108,7 +107,7 @@ Once a tumour is established, cancer cells exploit autophagy as a critical survi
 
 1. **Metabolic stress survival:** Autophagy provides nutrients through self-digestion when the tumour outgrows its blood supply
 2. **Hypoxia tolerance:** Hypoxic tumour cells (a hallmark of HNSCC) activate autophagy via HIF-1α/BNIP3 to survive oxygen deprivation
-3. **Therapeutic resistance:** Autophagy protects cancer cells from the cytotoxic effects of radiotherapy, cisplatin, cetuximab, and other therapeutic agents — by recycling damaged cellular components and preventing apoptosis
+3. **Therapeutic resistance:** Autophagy protects cancer cells from the cytotoxic effects of radiotherapy, cisplatin, [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]], and other therapeutic agents — by recycling damaged cellular components and preventing apoptosis
 4. **Anoikis resistance:** Autophagy helps detached cells survive during metastasis
 5. **Dormancy maintenance:** Tumour cells in a dormant state rely on autophagy for survival
 
@@ -165,7 +164,7 @@ Since autophagy predominantly promotes tumour survival in established HNSCC, inh
 
 ### Autophagy Induction (Context-Dependent)
 
-In specific contexts — particularly early carcinogenesis or when the goal is to induce autophagic cell death (type II programmed cell death) — promoting excessive autophagy may be therapeutic:
+In specific contexts — particularly early carcinogenesis or when the goal is to induce autophagic cell death (type II [[Answers/General/Apoptosis|programmed cell death]]) — promoting excessive autophagy may be therapeutic:
 - **mTOR inhibitors** (rapamycin, everolimus): Activate autophagy; may have a role in HNSCC when p53 is wild-type
 - **Metformin:** AMPK activation → mTORC1 inhibition → autophagy induction; epidemiological data suggest reduced cancer risk
 
@@ -193,3 +192,16 @@ In specific contexts — particularly early carcinogenesis or when the goal is t
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — alternative programmed cell death
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic

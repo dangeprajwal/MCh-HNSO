@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - genomics
-  - oncology
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Next Generation Sequencing in Head and Neck Cancers
@@ -11,7 +10,7 @@ tags:
 > [!question] Questions Covered
 > - What is the role of Next Gen Sequencing in Head Neck Cancers? (PGI 2021)
 
-**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 7 (Molecular Biology), Chapter 12 (Chemoprevention)
+**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 7 (Molecular Biology), Chapter 12 ([[Answers/Oral Cavity/Chemoprevention in Oral Cancer|chemoprevention]])
 
 > [!cite] Landmark Articles
 > Next-generation sequencing (NGS) has revolutionized our understanding of head and neck squamous cell carcinoma (HNSCC) at the molecular level. In 2011, two simultaneous publications in *Science* provided the first comprehensive exome-level view of HNSCC: Agrawal et al. (2011) sequenced 32 HNSCC tumours and identified inactivating mutations in NOTCH1 — a novel finding implicating loss of squamous differentiation control. Stransky et al. (2011) sequenced 74 tumour-normal pairs and confirmed NOTCH1 as one of the most commonly mutated genes, along with novel mutations in genes regulating squamous differentiation (IRF6, TP63). Both studies are referenced in Harrison's Chapter 7. The landmark TCGA study (Cancer Genome Atlas Network, 2015) then provided the definitive genomic landscape of HNSCC based on 279 tumours — identifying four molecular subtypes, confirming distinct HPV+ and HPV- genomic profiles, and revealing novel therapeutic targets. Leemans et al. (2018) published the comprehensive review translating these genomic findings into clinical relevance for head and neck oncologists. India et al. (2020) extended NGS findings to the Indian subcontinent, revealing unique genomic alterations in betel-associated oral cancers.
@@ -72,15 +71,15 @@ Scott-Brown's notes that in addition to high depth of coverage sequence analysis
 
 ### The TCGA Study (Cancer Genome Atlas Network, 2015)
 
-The definitive genomic characterization of HNSCC profiled **279 tumours** using multiple platforms (WES, RNA-Seq, DNA methylation, copy number, protein expression). Scott-Brown's Chapter 6 specifically references the TCGA consortium as providing the most extensive recent studies of the head and neck cancer genome.
+The definitive genomic characterization of HNSCC profiled **279 tumours** using multiple platforms (WES, RNA-Seq, [[Answers/General/Epigenetics in Oncogenesis|DNA methylation]], copy number, protein expression). Scott-Brown's Chapter 6 specifically references the TCGA consortium as providing the most extensive recent studies of the head and neck cancer genome.
 
 ### Most Frequently Mutated Genes in HNSCC
 
 | Gene | Frequency | Function | HPV Status |
 |------|-----------|----------|-----------|
-| **TP53** | 72% (HPV-), <5% (HPV+) | Tumour suppressor; cell cycle/apoptosis | HPV- predominantly |
+| **TP53** | 72% (HPV-), <5% (HPV+) | Tumour suppressor; cell cycle/[[Answers/General/Apoptosis|apoptosis]] | HPV- predominantly |
 | **CDKN2A (p16)** | 58% (inactivation in HPV-) | Cell cycle inhibitor; CDK4/6 inhibition | HPV- (silenced); HPV+ (overexpressed as surrogate marker) |
-| **PIK3CA** | 21% overall (56% HPV+) | PI3K catalytic subunit; growth signalling | Both; especially HPV+ |
+| **PIK3CA** | 21% overall (56% HPV+) | [[Answers/General/PI3-Kinase Pathway|PI3K pathway]] catalytic subunit; growth signalling | Both; especially HPV+ |
 | **NOTCH1** | 17% | Squamous differentiation | HPV- predominantly |
 | **FAT1** | 12% | Wnt pathway regulation | HPV- |
 | **CASP8** | 8% | Apoptosis (caspase-8) | HPV- (oral cavity subgroup) |
@@ -90,7 +89,7 @@ The definitive genomic characterization of HNSCC profiled **279 tumours** using 
 
 Scott-Brown's Chapter 6 confirms: these studies have confirmed the findings of many older studies that had correctly identified that the **most commonly mutated gene in head and neck cancers was the TP53 tumour suppressor**. In addition, however, these studies identified several genes as harbouring mutations in head and neck cancers that had not been identified by earlier studies.
 
-### HPV-Positive vs HPV-Negative: Two Distinct Genomic Diseases
+### [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] vs HPV-Negative: Two Distinct Genomic Diseases
 
 Scott-Brown's Chapter 6 emphasizes that examining the pathways affected by mutations, there are **two clearly different patterns of genetic alterations** depending on whether the disease has been promoted by HPV or not.
 
@@ -123,7 +122,7 @@ Scott-Brown's Chapter 6 emphasizes that examining the pathways affected by mutat
 
 | Application | NGS Role | Clinical Impact |
 |------------|---------|----------------|
-| **HPV status determination** | RNA-Seq for viral transcript detection | Staging (AJCC 8th edition separates HPV+ oropharynx) |
+| **HPV status determination** | RNA-Seq for viral transcript detection | Staging ([[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] edition separates HPV+ oropharynx) |
 | **Tumour of unknown primary** | Gene expression profiling + mutational signature | Identifies site of origin when conventional methods fail |
 | **Histological subtyping** | Characteristic mutational profiles | Distinguishes SCC subtypes, adenoid cystic, NUT carcinoma |
 | **Hereditary cancer screening** | Germline sequencing (BRCA, TP53, etc.) | Identifies familial cancer syndromes (Li-Fraumeni, Fanconi anaemia) |
@@ -141,7 +140,7 @@ Harrison's Chapter 12 references a "precision medicine" approach using molecular
 
 | Genomic Target | Frequency in HNSCC | Targeted Therapy | Status |
 |---------------|-------------------|-----------------|--------|
-| **EGFR overexpression** | >90% | Cetuximab, afatinib | FDA-approved (cetuximab) |
+| **EGFR overexpression** | >90% | [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]], afatinib | FDA-approved (cetuximab) |
 | **PIK3CA mutation/amplification** | 21% overall | Alpelisib, copanlisib | Clinical trials |
 | **FGFR amplification** | 10-15% | Erdafitinib, futibatinib | Clinical trials |
 | **CDKN2A loss / CDK amplification** | >50% | Palbociclib, ribociclib | Clinical trials |
@@ -151,7 +150,7 @@ Harrison's Chapter 12 references a "precision medicine" approach using molecular
 | **PD-L1 expression** | Variable | Pembrolizumab, nivolumab | FDA-approved |
 | **NSD1 mutation** | 10% | Epigenetic modulators | Preclinical |
 
-Scott-Brown's Chapter 6 notes the use of the TCGA consortium data to identify alterations in **EGFR, FGFR, PIK3CA, and cyclin-dependent kinases** as candidate targets for therapeutic intervention in most HNSCCs.
+Scott-Brown's Chapter 6 notes the use of the TCGA consortium data to identify alterations in **EGFR, FGFR, PIK3CA, and [[Answers/General/Cell Cycle and Cancer|cyclin-dependent kinases]]** as candidate targets for therapeutic intervention in most HNSCCs.
 
 ### 4. Liquid Biopsy and ctDNA
 
@@ -215,3 +214,16 @@ Scott-Brown's Chapter 6 discusses the role of **epigenetic alterations** identif
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic

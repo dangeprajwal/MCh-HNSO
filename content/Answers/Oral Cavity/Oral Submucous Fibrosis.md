@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Premalignant
-  - Mucosal-Disease
   - Pathology
+  - Premalignant
 ---
 
 > [!question] Questions Covered
@@ -26,12 +25,12 @@ Montgomery Ch11, Ch12; Stell & Maran's Ch29; Harrison's Head and Neck Cancer; Ja
 > | Pindborg & Sirsat — First Description | Oral Surg Oral Med Oral Pathol | 1966 | [10.1016/0030-4220(66)90367-7](https://doi.org/10.1016/0030-4220(66)90367-7) |
 > | Murti — 17-Year Transformation Rate | Community Dent Oral Epidemiol | 1985 | [10.1111/j.1600-0528.1985.tb00468.x](https://doi.org/10.1111/j.1600-0528.1985.tb00468.x) |
 > | Tilakaratne — Pathogenesis Review | J Oral Pathol Med | 2006 | [10.1111/j.1600-0714.2006.00417.x](https://doi.org/10.1111/j.1600-0714.2006.00417.x) |
-> | Angadi & Rao — Histological Grading | J Oral Maxillofac Pathol | 2011 | [10.4103/0973-029X.84481](https://doi.org/10.4103/0973-029X.84481) |
+> | Angadi & Rao — [[Answers/General/Histological Grading of SCC|histological grading]] | J Oral Maxillofac Pathol | 2011 | [10.4103/0973-029X.84481](https://doi.org/10.4103/0973-029X.84481) |
 > | Arakeri — Management Review | J Oral Maxillofac Surg | 2017 | [10.1016/j.joms.2016.09.019](https://doi.org/10.1016/j.joms.2016.09.019) |
 
 ## Introduction
 
-Oral submucous fibrosis (OSMF) is a chronic, progressive, fibrotic condition of the oral mucosa caused primarily by the habitual chewing of areca nut (betel nut). It is classified by the WHO as an oral potentially malignant disorder (OPMD) with one of the highest malignant transformation rates among all OPMDs. The disease is virtually confined to South and Southeast Asia, the Pacific Islands, and diaspora communities where areca nut chewing is practised. It is characterised by progressive fibrosis of the oral submucosa, leading to mucosal rigidity, restricted mouth opening (trismus), and epithelial atrophy that predisposes to squamous cell carcinoma.
+Oral submucous fibrosis (OSMF) is a chronic, progressive, fibrotic condition of the oral mucosa caused primarily by the habitual chewing of areca nut (betel nut). It is classified by the WHO as an oral potentially malignant disorder (OPMD) with one of the highest malignant transformation rates among all OPMDs. The disease is virtually confined to South and Southeast Asia, the Pacific Islands, and diaspora communities where areca nut chewing is practised. It is characterised by progressive fibrosis of the oral submucosa, leading to mucosal rigidity, restricted mouth opening ([[Answers/General/Trismus Prevention|trismus]]), and epithelial atrophy that predisposes to squamous cell carcinoma.
 
 ## Aetiology
 
@@ -87,7 +86,7 @@ Oral submucous fibrosis (OSMF) is a chronic, progressive, fibrotic condition of 
 3. **Mucosal rigidity** — blanching and loss of normal elasticity
 4. **Trismus** — progressive reduction in mouth opening (the hallmark feature)
 5. **Difficulty in eating** — inability to tolerate spicy foods, difficulty chewing
-6. **Dysphagia** — if fibrosis extends to the oropharynx/soft palate
+6. **[[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]]** — if fibrosis extends to the oropharynx/soft palate
 7. **Hearing loss** — Eustachian tube involvement (rare)
 
 ### Clinical Staging (Khanna & Andrade)
@@ -97,7 +96,7 @@ Oral submucous fibrosis (OSMF) is a chronic, progressive, fibrotic condition of 
 | Group I (Early) | >35 mm | Burning sensation, blanching |
 | Group II (Moderate) | 20–35 mm | Palpable fibrous bands, restricted tongue protrusion |
 | Group III (Severe) | <20 mm | Thick fibrous bands, severe trismus, restricted mouth opening |
-| Group IVa | Trismus + OPMD | Leukoplakia/erythroplakia superimposed |
+| Group IVa | Trismus + OPMD | Leukoplakia/[[Answers/Oral Cavity/Oral Leukoplakia Management|erythroplakia]] superimposed |
 | Group IVb | Trismus + SCC | Malignant transformation |
 
 ### Sites Involved
@@ -107,7 +106,7 @@ Oral submucous fibrosis (OSMF) is a chronic, progressive, fibrotic condition of 
 - Retromolar trigone
 - Lip mucosa
 - Tongue (restricted mobility)
-- Floor of mouth (rare)
+- [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] (rare)
 
 ## Histopathology
 
@@ -217,3 +216,16 @@ Surgery is indicated for severe trismus (mouth opening <20 mm) refractory to med
 > - Always screen OSMF patients for iron deficiency anaemia — correction improves mucosal health
 > - Severe trismus in an OSMF patient with rapid worsening should raise suspicion for malignant transformation — biopsy urgently (may need an awake fibreoptic intubation for examination under anaesthesia)
 > - The combination of intralesional dexamethasone + hyaluronidase (1500 IU) injected weekly for 6–8 weeks, combined with mouth-opening exercises, is the standard first-line medical regimen
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Oral Lichen Planus|Oral Lichen Planus]] — related topic
+> - [[Answers/Oral Cavity/Oral Cancer Screening|Oral Cancer Screening]] — related topic
+> - [[Answers/Oral Cavity/Oral Leukoplakia Management|Oral Leukoplakia Management]] — potentially malignant disorders
+> - [[Answers/General/Epidemiology of HNC in India|Epidemiology of HNC in India]] — betel quid and OSMF prevalence
+>
+> **See Also:**
+> - [[Answers/General/Histological Grading of SCC|Histological Grading of SCC]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic

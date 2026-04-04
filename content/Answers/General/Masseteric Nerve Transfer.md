@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - surgery
-  - facial-nerve
-  - reconstruction
+  - General
+  - Complications
+  - Surgery
 ---
 
 # Masseteric Nerve Transfer
@@ -110,7 +109,7 @@ As Stell and Maran's Chapter 50 states: the most important predictor of long-ter
 
 This is the procedure described in detail in Scott-Brown's Chapter 95 and Stell and Maran's Chapter 56 for chronic facial palsy:
 
-1. **Muscle harvest:** A segment of gracilis muscle is harvested from the medial thigh with its neurovascular pedicle (obturator nerve branch, medial circumflex femoral vessels)
+1. **Muscle harvest:** A segment of gracilis muscle is harvested from the medial thigh with its neurovascular pedicle ([[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] nerve branch, medial circumflex femoral vessels)
 2. **Inset:** The muscle is tunnelled subcutaneously in the cheek and secured to the modiolus/oral commissure distally and the zygomatic arch/temporal fascia proximally
 3. **Vascular anastomosis:** The facial or superficial temporal vessels are used for microvascular anastomosis
 4. **Neural coaptation:** The obturator nerve branch of the gracilis is coapted to the masseteric nerve using microsurgical technique
@@ -164,7 +163,7 @@ Stell and Maran's Chapter 56 provides a clear comparison:
 
 | Parameter | Masseteric Nerve | Hypoglossal Nerve |
 |-----------|-----------------|-------------------|
-| **Donor morbidity** | Minimal (slight masticatory weakness) | Hemitongue atrophy, speech difficulty, swallowing difficulty, synkinesis |
+| **Donor morbidity** | Minimal (slight masticatory weakness) | Hemitongue atrophy, speech difficulty, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] difficulty, synkinesis |
 | **Contraindications** | Few | Young children (developing speech), patients with pre-existing swallowing difficulty |
 | **Reinnervation speed** | 2-3 months | 4-6 months |
 | **Spontaneous smile** | 60-80% with rehabilitation | Uncommon |
@@ -208,3 +207,16 @@ Stell and Maran's notes that masseteric nerve use may be indicated in patients w
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Postoperative Anuria|Postoperative Anuria]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Postoperative Fever Day 3|Postoperative Fever Day 3]] — related topic
+> - [[Answers/General/Postoperative Hyponatremia|Postoperative Hyponatremia]] — related topic

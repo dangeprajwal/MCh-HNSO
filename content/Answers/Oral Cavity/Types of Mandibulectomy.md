@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgical-Oncology
-  - Mandible
-  - Reconstruction
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -31,7 +29,7 @@ Jatin Shah Ch8 (Oral Cavity); Stell & Maran's Ch18; Scott-Brown's Vol 3; Harriso
 
 ## Introduction
 
-The mandible is frequently involved in oral cavity cancers due to its anatomical proximity to the gingiva, floor of mouth, retromolar trigone, and buccal mucosa. The fundamental question in surgical management is **when to preserve and when to sacrifice the mandible**. The historical "commando" operation (composite resection with routine segmental mandibulectomy) has been replaced by individualised decision-making based on tumour biology, pattern of invasion, imaging, and patient factors. No lymphatic channels pass through the mandible — therefore, routine sacrifice of uninvolved mandible for en-bloc lymphatic clearance is not justified.
+The mandible is frequently involved in oral cavity cancers due to its anatomical proximity to the gingiva, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], retromolar trigone, and buccal mucosa. The fundamental question in surgical management is **when to preserve and when to sacrifice the mandible**. The historical "commando" operation (composite resection with routine segmental mandibulectomy) has been replaced by individualised decision-making based on tumour biology, pattern of invasion, imaging, and patient factors. No lymphatic channels pass through the mandible — therefore, routine sacrifice of uninvolved mandible for en-bloc lymphatic clearance is not justified.
 
 ## Pathways of Mandibular Invasion
 
@@ -81,7 +79,7 @@ The mandible is frequently involved in oral cavity cancers due to its anatomical
 - Tumour encasing the mandible
 
 **Technical principles (Jatin Shah):**
-- Marginal mandibulectomy should be performed in a **smooth curve** (not right-angled cuts) to distribute stress evenly and prevent fracture
+- [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]] should be performed in a **smooth curve** (not right-angled cuts) to distribute stress evenly and prevent fracture
 - Exposed cancellous bone after resection should be covered with soft tissue (buccal fat pad or local flap)
 - Minimum 1 cm residual mandibular height is required
 
@@ -104,7 +102,7 @@ The mandible is frequently involved in oral cavity cancers due to its anatomical
 1. Gross invasion of mandible by oral cancer
 2. Invasion of inferior alveolar nerve or canal by tumour
 3. Massive soft tissue disease adjacent to the mandible (where adequate access requires bone removal)
-4. Primary malignant tumour of the mandible (e.g., osteosarcoma, ameloblastoma)
+4. Primary malignant tumour of the mandible (e.g., osteosarcoma, [[Answers/Oral Cavity/Ameloblastoma of Mandible|ameloblastoma]])
 5. Tumour that has metastasised to the mandible
 
 **Subtypes by location:**
@@ -133,7 +131,7 @@ The mandible is frequently involved in oral cavity cancers due to its anatomical
 
 **Indications:**
 - Extensive tumour involving the body and ramus
-- Tumour extending to the masticator space/infratemporal fossa
+- Tumour extending to the [[Answers/Oral Cavity/Masticator Space|masticator space]]/[[Answers/Oral Cavity/Infratemporal Fossa Spread|infratemporal fossa]]
 - Recurrent tumour after prior mandibular surgery
 
 ### 4. Total Mandibulectomy
@@ -180,7 +178,7 @@ Defects are described by combining symbols, e.g., BSB = body + symphysis + contr
 4. **Gross invasion of cancellous bone or IAN canal** → Segmental mandibulectomy
 5. **Massive soft tissue disease with encasement** → Segmental mandibulectomy
 6. **Pipestem mandible or prior radiation** → Segmental mandibulectomy (marginal too risky)
-7. **Intraoperative frozen section** of the marrow cavity should guide extent of resection
+7. **Intraoperative [[Answers/General/Frozen Section in Surgical Margins|frozen section]]** of the marrow cavity should guide extent of resection
 
 > [!abstract] Key Points
 > 1. No lymphatic channels pass through the mandible — routine composite resection is not justified
@@ -199,3 +197,16 @@ Defects are described by combining symbols, e.g., BSB = body + symphysis + contr
 > - If frozen section of the mandibular marrow is positive, convert to segmental mandibulectomy intraoperatively
 > - A bridging reconstruction plate without bone graft can be used as a temporising measure in patients unfit for free flap, but long-term plate exposure and fracture rates are high
 > - The "commando" concept of routine composite resection is obsolete — individualise based on tumour biology and imaging
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — mandibulectomy for odontogenic tumours
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Marginal Mandibulectomy|Marginal Mandibulectomy]] — mandibulectomy classification
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — related topic
+> - [[Answers/Oral Cavity/Jaw Osteosarcoma|Jaw Osteosarcoma]] — related topic

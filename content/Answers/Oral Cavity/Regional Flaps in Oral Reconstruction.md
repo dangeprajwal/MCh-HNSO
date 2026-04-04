@@ -1,8 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Surgical-Technique
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -56,7 +55,7 @@ The **workhorse pedicled flap** for head and neck reconstruction since Ariyan's 
 **Indications in oral reconstruction:**
 - Salvage after free flap failure
 - Through-and-through cheek defects (composite)
-- Large floor of mouth or tongue defects when free flap not feasible
+- Large [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] or tongue defects when free flap not feasible
 - Mandibular reconstruction (soft tissue coverage over reconstruction plate)
 - Patients unfit for microvascular surgery
 
@@ -88,7 +87,7 @@ Described by Martin et al. (1993), this has become increasingly popular for oral
 **Oncological concern:**
 - **Level IA nodes** are in the submental triangle — flap harvest may compromise nodal clearance
 - Contraindicated in **cN+ level I disease** or tumours with high risk of submental nodal metastasis
-- For cN0 oral cancers, the flap can be harvested after completion of level I dissection with frozen section confirmation of negative nodes
+- For cN0 oral cancers, the flap can be harvested after completion of level I dissection with [[Answers/General/Frozen Section in Surgical Margins|frozen section]] confirmation of negative nodes
 
 **Advantages:** Thin, pliable, excellent colour match for intraoral use, reliable blood supply, single-field surgery (same operative field as tumour resection).
 
@@ -153,7 +152,7 @@ A resurgent flap gaining popularity:
 | Best for | Maxillary defects, palatal reconstruction |
 | Technique | Coronoid process osteotomy allows increased reach |
 
-Used for infrastructure maxillectomy defects and palatal reconstruction. Can be combined with an obturator prosthesis.
+Used for infrastructure maxillectomy defects and palatal reconstruction. Can be combined with an [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] prosthesis.
 
 ## Comparison of Regional Flaps for Oral Defects
 
@@ -207,3 +206,16 @@ Used for infrastructure maxillectomy defects and palatal reconstruction. Can be 
 > 3. **SCAIF is replacing PMMF** in many centres as the go-to pedicled flap — better tissue match, less bulk, lower donor morbidity
 > 4. For **small anterior FOM defects**, a nasolabial flap provides excellent reconstruction without the morbidity of a free flap — remember it usually needs a second stage for pedicle division
 > 5. In the exam, remember Ariyan (1979) for PMMF and Martin (1993) for submental flap — these are commonly asked eponyms
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|Obturator vs Flap Reconstruction]] — reconstruction options comparison
+> - [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|Osteoradionecrosis of the Mandible]] — related topic
+> - [[Answers/Oral Cavity/Tongue Reconstruction Algorithm|Tongue Reconstruction Algorithm]] — flap options for tongue defects
+>
+> **See Also:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic

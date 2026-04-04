@@ -1,10 +1,8 @@
 ---
 tags:
   - General
-  - Clinical-Trials
-  - Radiology
-  - Response-Assessment
-  - Chemotherapy
+  - Diagnostics
+  - Systemic-Therapy
 ---
 
 > [!question] Q39
@@ -172,7 +170,7 @@ Montgomery Chapter 5 provides critical insight into RECIST limitations specific 
 
 ### Alternative Approaches
 
-Montgomery notes that **FDG-PET/CT** has gained interest as an alternative response assessment tool:
+Montgomery notes that **FDG-[[Answers/General/PET-CT in Head and Neck Cancer|PET/CT]]** has gained interest as an alternative response assessment tool:
 - Overall accuracy: **85.5%** (PET/CT) vs **67.9%** (CT alone)
 - PET-based criteria (PERCIST) assess metabolic response rather than size
 - Particularly useful for targeted agents where size change may not reflect biological response
@@ -193,3 +191,16 @@ Montgomery notes that **FDG-PET/CT** has gained interest as an alternative respo
 > - **RECIST Was Designed for Metastatic Disease:** It was never intended for locally advanced curable HNC assessment, which is why pathological correlation is poor in the induction chemotherapy setting
 > - **PET Superiority:** FDG-PET/CT accuracy (85.5%) significantly exceeds CT-based RECIST (67.9%) for response assessment in HNC — consider PERCIST criteria for metabolic response
 > - **Immunotherapy Caveat:** Never stop checkpoint inhibitor therapy based on a single scan showing progression — always confirm with repeat imaging at 4-8 weeks (iRECIST iUPD → iCPD protocol)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|Neoadjuvant Chemotherapy in Oral Cancer]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Diffusion Weighted MRI|Diffusion Weighted MRI]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — related topic

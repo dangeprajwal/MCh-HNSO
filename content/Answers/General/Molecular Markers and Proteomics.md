@@ -1,23 +1,22 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - oncology
-  - diagnostics
-  - basic-science
+  - General
+  - Diagnostics
+  - Molecular-Biology
+  - Oncology
 ---
 
-# Molecular Markers, NGS, and Proteomics in Head and Neck Cancer
+# Molecular Markers, [[Answers/General/Next Generation Sequencing in HNC|NGS]], and Proteomics in Head and Neck Cancer
 
 > [!question] Questions Covered
 > - What is the role of Next Gen Sequencing in Head Neck Cancers? (PGI 2021)
 > - What is proteomics? Enumerate the salient molecular markers for head and neck cancers and explain their diagnostic and therapeutic significance (AMRITA 2009)
-> - FISH (Fluorescent in situ hybridization) (AMRITA 2016)
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH]] (Fluorescent in situ hybridization) (AMRITA 2016)
 
 **Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Molecular Biology of HNC); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapters 12-13
 
 > [!cite] Landmark Articles
-> The molecular landscape of HNSCC has been progressively elucidated through increasingly sophisticated technologies. Agrawal et al. (2011) published the first whole-exome sequencing study of HNSCC, identifying recurrent mutations in NOTCH1 as a novel finding alongside known TP53 and CDKN2A alterations. The Cancer Genome Atlas Network (2015) provided the definitive comprehensive genomic characterization of 279 HNSCC cases, establishing the complete mutational landscape including differences between HPV+ and HPV− tumours. Stransky et al. (2011) independently confirmed the HNSCC mutational spectrum via exome sequencing. Schaaij-Visser et al. (2010) authored a key review of proteomic approaches for biomarker discovery in HNSCC. Bonner et al.'s 2006 landmark trial established cetuximab (anti-EGFR) as the first molecularly targeted therapy approved for HNSCC, translating the most consistent molecular marker — EGFR overexpression — into clinical practice.
+> The molecular landscape of HNSCC has been progressively elucidated through increasingly sophisticated technologies. Agrawal et al. (2011) published the first whole-exome sequencing study of HNSCC, identifying recurrent mutations in NOTCH1 as a novel finding alongside known TP53 and CDKN2A alterations. The Cancer Genome Atlas Network (2015) provided the definitive comprehensive genomic characterization of 279 HNSCC cases, establishing the complete mutational landscape including differences between HPV+ and HPV− tumours. Stransky et al. (2011) independently confirmed the HNSCC mutational spectrum via exome sequencing. Schaaij-Visser et al. (2010) authored a key review of proteomic approaches for biomarker discovery in HNSCC. Bonner et al.'s 2006 landmark trial established [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] (anti-EGFR) as the first molecularly targeted therapy approved for HNSCC, translating the most consistent molecular marker — EGFR overexpression — into clinical practice.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -31,7 +30,7 @@ tags:
 
 ## Introduction
 
-The molecular biology of head and neck squamous cell carcinoma (HNSCC) has been transformed over the past two decades by extraordinary advances in genomic and proteomic technologies. Where once the molecular understanding of HNSCC was limited to observations about individual genes (such as the overexpression of EGFR first noted in the 1980s, or the frequent mutation of TP53 identified in the 1990s), the advent of next-generation sequencing (NGS) has enabled comprehensive, unbiased characterization of the entire mutational landscape of HNSCC at a resolution that was previously unimaginable. The Cancer Genome Atlas (TCGA) Network's landmark 2015 paper provided the definitive genomic profile of 279 HNSCC cases, revealing the full spectrum of genetic alterations, distinguishing the fundamentally different molecular landscapes of HPV-positive and HPV-negative disease, and identifying potential therapeutic targets.
+The molecular biology of head and neck squamous cell carcinoma (HNSCC) has been transformed over the past two decades by extraordinary advances in genomic and proteomic technologies. Where once the molecular understanding of HNSCC was limited to observations about individual genes (such as the overexpression of EGFR first noted in the 1980s, or the frequent mutation of TP53 identified in the 1990s), the advent of next-generation sequencing (NGS) has enabled comprehensive, unbiased characterization of the entire mutational landscape of HNSCC at a resolution that was previously unimaginable. The Cancer Genome Atlas (TCGA) Network's landmark 2015 paper provided the definitive genomic profile of 279 HNSCC cases, revealing the full spectrum of genetic alterations, distinguishing the fundamentally different molecular landscapes of [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] and HPV-negative disease, and identifying potential therapeutic targets.
 
 In parallel with genomic advances, proteomics — the large-scale study of the complete protein complement of a cell, tissue, or organism — has offered complementary insights that cannot be obtained from DNA or RNA analysis alone. Because proteins are the functional effectors of cellular processes, and because post-translational modifications (phosphorylation, glycosylation, ubiquitination) critically regulate protein function without being detectable at the DNA or mRNA level, proteomic profiling provides a more direct window into the functional state of cancer cells. Proteomic biomarker discovery has been particularly promising in HNSCC because of the accessibility of tumour tissue and body fluids (saliva, blood) for non-invasive sampling.
 
@@ -45,11 +44,11 @@ The identification of recurring molecular alterations — TP53 mutation, CDKN2A 
 
 | Marker | Alteration | Frequency | Significance |
 |--------|-----------|-----------|-------------|
-| TP53 | Missense mutation | 60-80% (HPV−) | Most common alteration; loss of cell cycle control and apoptosis; associated with worse prognosis |
+| TP53 | Missense mutation | 60-80% (HPV−) | Most common alteration; loss of [[Answers/General/Cell Cycle and Cancer|cell cycle]] control and [[Answers/General/Apoptosis|apoptosis]]; associated with worse prognosis |
 | EGFR | Overexpression | 80-90% | Most commonly overexpressed protein; target for cetuximab; associated with poor prognosis |
 | CDKN2A (p16) | Deletion/methylation | 50-60% (HPV−) | Loss of CDK4/6 inhibition; overexpressed in HPV+ (surrogate marker) |
 | Cyclin D1 (CCND1) | Amplification | 30-40% | Drives G1→S transition; associated with aggressive disease |
-| PIK3CA | Mutation/amplification | 20-30% | Activates PI3K/AKT/mTOR survival pathway; therapeutic target |
+| PIK3CA | Mutation/amplification | 20-30% | Activates [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]]/mTOR survival pathway; therapeutic target |
 | NOTCH1 | Inactivating mutation | 10-15% | Novel tumour suppressor in HNSCC; discovered via NGS |
 
 ### Emerging Markers
@@ -153,12 +152,12 @@ Proteomics is the large-scale study of the entire complement of proteins (the pr
 | Mass spectrometry (MS) | Protein identification by mass/charge ratio | Biomarker discovery, protein identification |
 | MALDI-TOF | Matrix-assisted laser ionization + MS | Rapid protein profiling |
 | LC-MS/MS | Liquid chromatography + tandem MS | High-throughput biomarker identification |
-| Protein microarrays | Antibody-based high-throughput detection | Screening multiple proteins simultaneously |
+| Protein [[Answers/General/PCR and Microarray Analysis|microarray]] | Antibody-based high-throughput detection | Screening multiple proteins simultaneously |
 | RPPA | Reverse-phase protein array | Quantitative protein expression profiling |
 
 ### Proteomic Biomarker Candidates in HNSCC
 
-- **Salivary biomarkers:** IL-8, IL-6, M2BP, MRP14 — potential for non-invasive oral cancer screening
+- **[[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|salivary biomarkers]]:** IL-8, IL-6, M2BP, MRP14 — potential for non-invasive [[Answers/Oral Cavity/Oral Cancer Screening|oral cancer screening]]
 - **Serum biomarkers:** SCC antigen, CYFRA 21-1 — monitoring treatment response
 - **Tissue markers:** S100A proteins, annexins, heat shock proteins — diagnostic and prognostic significance
 - **Exosomal proteins:** Emerging area — tumour-derived exosomes carry protein signatures detectable in saliva and blood
@@ -206,3 +205,16 @@ Proteomics is the large-scale study of the entire complement of proteins (the pr
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Next Generation Sequencing in HNC|Next Generation Sequencing in HNC]] — related topic
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic

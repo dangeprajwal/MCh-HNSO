@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - perioperative
-  - surgery
-  - complications
+  - General
+  - Complications
+  - Surgery
 ---
 
 # Postoperative Fever on Day 3: Differential Diagnosis and Approach
@@ -76,7 +75,7 @@ Stell and Maran's Chapter 14 states: the creation of a tracheostomy or tracheoto
 
 **Pneumonia:** Stell and Maran's Box 11.3 lists symptoms and signs: pleuritic chest pain, cough, sputum production, rigors, **fever >38°C**, decreased air entry, bronchial breathing, crackles.
 
-**Aspiration pneumonia:** Stell and Maran's emphasizes: impaired postoperative swallowing with aspiration will eventually lead to **bronchopneumonia**. Strict "nil by mouth" policy with alternative nutritional route is necessary.
+**Aspiration pneumonia:** Stell and Maran's emphasizes: impaired postoperative [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] with aspiration will eventually lead to **bronchopneumonia**. Strict "nil by mouth" policy with alternative nutritional route is necessary.
 
 ### 2. Urinary Tract Infection (Water)
 
@@ -193,3 +192,16 @@ Head and neck wound infections are typically **polymicrobial** due to contaminat
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — postoperative complications
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Postoperative Anuria|Postoperative Anuria]] — related topic
+> - [[Answers/General/Postoperative Hyponatremia|Postoperative Hyponatremia]] — related topic

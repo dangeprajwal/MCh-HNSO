@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Staging
-  - AJCC
   - Pathology
+  - Staging
 ---
 
 > [!question] AIIMS 2020
@@ -15,7 +14,7 @@ Jatin Shah Ch8; Stell & Maran's Ch7; Harrison's Head and Neck Cancer Ch1; Scott-
 
 > [!cite] Landmark Articles
 >
-> The AJCC 8th edition (2017) introduced three major changes to head and neck cancer staging. The pivotal evidence for oral cavity changes came from the ICOR multicenter study by Ebrahimi et al. (2014), which demonstrated in 3,149 patients that depth of invasion (DOI) is an independent predictor of disease-specific survival and proposed the cutpoints that were adopted for T-staging. Lydiatt et al. (2017) published the definitive overview in CA: A Cancer Journal for Clinicians, detailing the three key changes: DOI in oral cavity T-staging, separate HPV+ oropharyngeal staging, and extranodal extension (ENE) in nodal staging. The meta-analysis by Huang et al. (2009) established that tumour thickness >4 mm predicts cervical lymph node metastasis (pooled OR 7.3), informing the DOI thresholds. Zanoni et al. (2019) provided a comprehensive review of the rationale and implications. Validation studies confirmed significant stage migration from 7th to 8th edition with improved prognostic discrimination.
+> The AJCC 8th edition (2017) introduced three major changes to head and neck cancer staging. The pivotal evidence for oral cavity changes came from the ICOR multicenter study by Ebrahimi et al. (2014), which demonstrated in 3,149 patients that [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]] (DOI) is an independent predictor of disease-specific survival and proposed the cutpoints that were adopted for T-staging. Lydiatt et al. (2017) published the definitive overview in CA: A Cancer Journal for Clinicians, detailing the three key changes: DOI in oral cavity T-staging, separate HPV+ oropharyngeal staging, and [[Answers/General/Extranodal Extension|extranodal extension]] (ENE) in nodal staging. The meta-analysis by Huang et al. (2009) established that tumour thickness >4 mm predicts cervical lymph node metastasis (pooled OR 7.3), informing the DOI thresholds. Zanoni et al. (2019) provided a comprehensive review of the rationale and implications. Validation studies confirmed significant stage migration from 7th to 8th edition with improved prognostic discrimination.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -83,8 +82,8 @@ The American Joint Committee on Cancer (AJCC) 8th edition staging manual, effect
 | **T1** | ≤2 cm | ≤2 cm AND DOI ≤5 mm |
 | **T2** | >2-4 cm | ≤2 cm AND DOI >5-10 mm; OR >2-4 cm AND DOI ≤10 mm |
 | **T3** | >4 cm | ≤2 cm AND DOI >10 mm; OR >2-4 cm AND DOI >10 mm; OR >4 cm AND DOI ≤10 mm |
-| **T4a** | Invasion through cortical bone, IAN, floor of mouth, skin | >4 cm AND DOI >10 mm; OR invasion through cortical bone, IAN, floor of mouth, skin |
-| **T4b** | Masticator space, pterygoid plates, skull base, ICA | Same as 7th edition |
+| **T4a** | Invasion through cortical bone, IAN, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], skin | >4 cm AND DOI >10 mm; OR invasion through cortical bone, IAN, floor of mouth, skin |
+| **T4b** | [[Answers/Oral Cavity/Masticator Space|masticator space]], pterygoid plates, skull base, ICA | Same as 7th edition |
 
 ### DOI Upstaging Rules
 
@@ -100,7 +99,7 @@ The American Joint Committee on Cancer (AJCC) 8th edition staging manual, effect
 - DOI **cannot be reliably measured clinically** — it is a **pathological parameter**
 - Preoperative imaging (MRI with contrast, high-resolution US) provides estimates
 - DOI measurement requires adequate biopsy depth — superficial biopsies may underestimate
-- Impacts decision for **elective neck dissection**: DOI >4 mm (some guidelines use DOI ≥5 mm) → consider END even for cN0 neck
+- Impacts decision for **[[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]]**: DOI >4 mm (some guidelines use DOI ≥5 mm) → consider END even for cN0 neck
 
 ## Part B: Extranodal Extension in N-Staging
 
@@ -156,7 +155,7 @@ The American Joint Committee on Cancer (AJCC) 8th edition staging manual, effect
 
 | Finding | Treatment Implication |
 |---|---|
-| DOI-based T upstaging | More patients qualify for adjuvant RT |
+| DOI-based T upstaging | More patients qualify for [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] |
 | DOI >4 mm in cN0 | Consider elective neck dissection |
 | ENE on pathology | Adjuvant concurrent CRT (not RT alone) |
 | Stage migration (24.8%) | Approximately 1 in 4 patients reclassified |
@@ -174,3 +173,16 @@ The American Joint Committee on Cancer (AJCC) 8th edition staging manual, effect
 > - Ensure biopsy specimens are **deep enough** to estimate DOI preoperatively — superficial biopsies will underestimate invasion depth
 > - ENE detection on imaging (irregular nodal border, infiltration into fat) has moderate sensitivity — **pathological assessment** remains the gold standard
 > - The combination of **positive margins + ENE** on pathology mandates concurrent cisplatin + PORT (Cooper/Bernier RCTs) — not RT alone
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|Depth of Invasion in Oral Cancer]] — DOI-based T-staging
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Histological Risk Assessment in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Isolated Tumour Cells|Isolated Tumour Cells]] — related topic
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic

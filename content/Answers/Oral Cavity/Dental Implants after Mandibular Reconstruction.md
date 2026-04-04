@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Mandible
   - Rehabilitation
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -15,7 +14,7 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Stel
 
 > [!cite] Landmark Articles
 >
-> Hidalgo (1989) published the landmark description of the fibula free flap for mandibular reconstruction, establishing it as the gold standard donor site with consistent shape and ample bone length. Chiapasco et al. (2006) demonstrated that dental implants placed in fibula free flaps achieve reliable osseointegration and functional rehabilitation in tumour and ORN patients. Schiegnitz et al. (2022) published a systematic review showing significantly higher implant failure in irradiated bone (55.3% survival in irradiated fibula vs 96% in non-irradiated fibula). Gangwani et al. (2022) published a meta-analysis reporting 94% overall implant success rate in fibula free flaps. Illand et al. (2023) estimated 97% implant survival at 1 year post-loading with no significant difference between immediate and delayed placement in non-irradiated cases.
+> Hidalgo (1989) published the landmark description of the fibula free flap for mandibular reconstruction, establishing it as the gold standard donor site with consistent shape and ample bone length. Chiapasco et al. (2006) demonstrated that dental implants placed in fibula free flaps achieve reliable osseointegration and functional rehabilitation in tumour and [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|ORN]] patients. Schiegnitz et al. (2022) published a systematic review showing significantly higher implant failure in irradiated bone (55.3% survival in irradiated fibula vs 96% in non-irradiated fibula). Gangwani et al. (2022) published a meta-analysis reporting 94% overall implant success rate in fibula free flaps. Illand et al. (2023) estimated 97% implant survival at 1 year post-loading with no significant difference between immediate and delayed placement in non-irradiated cases.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -27,7 +26,7 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Stel
 
 ## Overview
 
-Complete rehabilitation after mandibular reconstruction requires restoration of **occlusion and masticatory function** through dental prostheses. Osseointegrated implants with fixed dentures represent the gold standard for dental rehabilitation, but the timing of implant placement — immediate (at the time of flap reconstruction) versus delayed (secondary procedure) — remains debated.
+Complete rehabilitation after mandibular reconstruction requires restoration of **occlusion and masticatory function** through dental prostheses. [[Answers/General/Osseointegrated Implants|osseointegrated implants]] implants with fixed dentures represent the gold standard for dental rehabilitation, but the timing of implant placement — immediate (at the time of flap reconstruction) versus delayed (secondary procedure) — remains debated.
 
 ## Timing of Implant Placement
 
@@ -44,7 +43,7 @@ Implants are placed into the fibula or other bone graft at the time of initial r
 
 **Disadvantages:**
 - Implant position may be compromised by oncological needs
-- If adjuvant RT is required → increased implant failure risk (20–40%)
+- If [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] is required → increased implant failure risk (20–40%)
 - Longer operative time at initial surgery
 - No histopathological confirmation of margins before implant commitment
 - If flap fails, implants are lost
@@ -169,3 +168,16 @@ Mean implant survival in fibula flaps (meta-analysis): **83%** with minimum 5-ye
 > 3. The **skin paddle** of the fibula often needs debulking before implant exposure — plan a minor revision surgery at the time of implant uncovering
 > 4. For anterior mandibular defects, the **double-barrel technique** is essential to provide adequate bone height for implant placement
 > 5. Always involve the **prosthodontist from the outset** — implant positioning must be driven by the planned prosthesis, not just available bone
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — VSP for implant-guided reconstruction
+> - [[Answers/General/Osseointegrated Implants|Osseointegrated Implants]] — implant rehabilitation principles
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic

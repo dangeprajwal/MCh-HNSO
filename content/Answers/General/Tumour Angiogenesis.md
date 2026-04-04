@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - targeted-therapy
-  - oncology
+  - General
+  - Molecular-Biology
+  - Oncology
+  - Systemic-Therapy
 ---
 
 # Tumour Angiogenesis in Head and Neck Cancer
@@ -62,7 +62,7 @@ Scott-Brown's Chapter 6 provides the molecular mechanisms:
 
 **3. NF-κB pathway:** Scott-Brown's states that NF-κB target genes affect angiogenesis, linking inflammatory signalling to neovascularization.
 
-**4. Oncogene activation:** Activation of RAS, PI3K/AKT/mTOR, and EGFR pathways all converge on VEGF upregulation.
+**4. Oncogene activation:** Activation of RAS, [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]]/mTOR, and EGFR pathways all converge on VEGF upregulation.
 
 ---
 
@@ -92,7 +92,7 @@ VEGF binding to its receptors triggers multiple downstream events:
 - **Endothelial cell proliferation** — mitogenic effect
 - **Endothelial cell migration** — chemotactic effect
 - **Vascular permeability** — increases vessel leakiness (hence the original name: Vascular Permeability Factor)
-- **Endothelial cell survival** — anti-apoptotic signalling via PI3K/AKT
+- **Endothelial cell survival** — anti-[[Answers/General/Apoptosis|apoptosis]] signalling via PI3K/AKT
 - **Extracellular matrix remodelling** — MMP activation for vessel sprouting
 
 ---
@@ -196,3 +196,16 @@ Several mechanisms of resistance have been identified:
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — VEGF regulation via PI3K/AKT
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — bevacizumab anti-VEGF therapy
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — related topic

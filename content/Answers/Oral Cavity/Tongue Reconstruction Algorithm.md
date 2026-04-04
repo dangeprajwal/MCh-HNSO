@@ -1,9 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Surgical-Technique
-  - Free-Flaps
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -19,7 +17,7 @@ Harrison's Head and Neck Cancer Ch8; Montgomery Ch29; Jatin Shah Ch8, Ch21; Stel
 
 > [!cite] Landmark Articles
 >
-> Urken et al. (1994) established the first systematic defect-oriented classification for tongue reconstruction, matching reconstructive options to defect type and size. Haughey (1993) described the concepts and principles of tongue reconstruction, introducing the reinnervated latissimus dorsi flap for total glossectomy. Lam and Samman (2013) published a comprehensive systematic review of speech and swallowing outcomes following tongue cancer surgery and free flap reconstruction. Ansarin et al. (2019) proposed a standardised glossectomy classification (Types I–V) that unified terminology across institutions. Kimata et al. (2003) analysed the relationship between reconstructed tongue shape and postoperative function, demonstrating that volume restoration is critical for swallowing after subtotal/total glossectomy.
+> Urken et al. (1994) established the first systematic defect-oriented classification for tongue reconstruction, matching reconstructive options to defect type and size. Haughey (1993) described the concepts and principles of tongue reconstruction, introducing the reinnervated latissimus dorsi flap for total glossectomy. Lam and Samman (2013) published a comprehensive systematic review of speech and [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] outcomes following tongue cancer surgery and free flap reconstruction. Ansarin et al. (2019) proposed a standardised glossectomy classification (Types I–V) that unified terminology across institutions. Kimata et al. (2003) analysed the relationship between reconstructed tongue shape and postoperative function, demonstrating that volume restoration is critical for swallowing after subtotal/total glossectomy.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -31,7 +29,7 @@ Harrison's Head and Neck Cancer Ch8; Montgomery Ch29; Jatin Shah Ch8, Ch21; Stel
 
 ## Introduction
 
-Tongue reconstruction after glossectomy is one of the most challenging problems in head and neck reconstructive surgery. The tongue is a uniquely dynamic organ essential for swallowing, speech articulation, airway protection, and mastication. The goals of reconstruction are to restore the patient's ability to swallow without aspiration and to form words with the greatest possible clarity. The approach to reconstruction is fundamentally defect-driven — determined by the volume of tongue resected, whether the floor of mouth is involved, the status of the hypoglossal and lingual nerves, and the integrity of the mandible. The reconstructive algorithm has evolved from primary closure and skin grafts to an era dominated by microvascular free tissue transfer, with the radial forearm free flap (RFFF) and anterolateral thigh (ALT) flap as the two workhorses.
+Tongue reconstruction after glossectomy is one of the most challenging problems in head and neck reconstructive surgery. The tongue is a uniquely dynamic organ essential for swallowing, speech articulation, airway protection, and mastication. The goals of reconstruction are to restore the patient's ability to swallow without aspiration and to form words with the greatest possible clarity. The approach to reconstruction is fundamentally defect-driven — determined by the volume of tongue resected, whether the [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] is involved, the status of the hypoglossal and lingual nerves, and the integrity of the mandible. The reconstructive algorithm has evolved from primary closure and skin grafts to an era dominated by microvascular free tissue transfer, with the radial forearm free flap (RFFF) and anterolateral thigh (ALT) flap as the two workhorses.
 
 ## Principles of Tongue Reconstruction
 
@@ -72,7 +70,7 @@ Urken classified tongue defects based on:
 1. Mobile tongue vs base of tongue involvement
 2. Amount of tongue resected (minimal, subtotal, total)
 3. Floor of mouth involvement
-4. Mandibular integrity (intact vs segmental mandibulectomy)
+4. Mandibular integrity (intact vs [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]])
 
 This classification directly guides the choice of reconstructive flap.
 
@@ -176,7 +174,7 @@ This classification directly guides the choice of reconstructive flap.
 - **Disadvantages:** Abdominal wall morbidity (hernia risk); bulky; non-sensate
 - **Best for:** Total mobile tongue and total glossectomy defects
 
-### Regional Flaps (Pectoralis Major)
+### Regional Flaps ([[Answers/Oral Cavity/Regional Flaps in Oral Reconstruction|pectoralis major flap]])
 
 - Not recommended as primary choice — provides good initial results but does not stand the test of time due to muscle atrophy and loss of bulk
 - Role limited to salvage situations where microvascular surgery is not feasible
@@ -236,3 +234,16 @@ This classification directly guides the choice of reconstructive flap.
 > - After total glossectomy, placing the rectus abdominis fascial layer sutured to drill holes in the mandible creates a hammock that prevents the neotongue from sagging under gravity
 > - Adjuvant radiotherapy significantly reduces tongue strength — counsel patients preoperatively about expected functional decline
 > - Total glossectomy patients can still achieve surprisingly intelligible speech (75% understandability) — aggressive speech therapy rehabilitation is worthwhile
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Access Mandibulotomy|Access Mandibulotomy]] — related topic
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Regional Flaps in Oral Reconstruction|Regional Flaps in Oral Reconstruction]] — flap options for tongue defects
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic

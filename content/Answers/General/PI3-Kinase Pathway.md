@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - targeted-therapy
-  - oncology
+  - General
+  - Molecular-Biology
+  - Oncology
+  - Systemic-Therapy
 ---
 
 # The PI3-Kinase Pathway in Head and Neck Cancer
@@ -63,11 +63,11 @@ Scott-Brown's Chapter 6 provides a detailed description of the pathway:
 ### Downstream Effects of AKT Activation
 
 Scott-Brown's explains that AKT activation promotes:
-- **Cell survival** — inhibits pro-apoptotic proteins (BAD, caspase-9)
+- **Cell survival** — inhibits pro-[[Answers/General/Apoptosis|apoptosis]] proteins (BAD, caspase-9)
 - **Cell proliferation** — activates cell cycle progression
 - **Cell metabolism** — regulates glucose uptake
 - **Cell movement** — promotes invasion and metastasis
-- **Angiogenesis** — activates mTOR → HIF-1α → VEGF
+- **[[Answers/General/Tumour Angiogenesis|angiogenesis]]** — activates mTOR → HIF-1α → VEGF
 - **Protein synthesis** — mTOR pathway activation
 
 ---
@@ -88,7 +88,7 @@ Stell and Maran's Chapter 3 catalogues the mechanisms:
 
 Harrison's Chapter 7 confirms: constitutive AKT activation has been associated with amplification of PIK3CA or AKT2, activating mutations in PIK3CA or AKT1, and PTEN loss. In SCCHN tumour specimens, PIK3CA, AKT2, or PTEN alterations were found in **30-50%**.
 
-### HPV-Positive vs HPV-Negative
+### [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] vs HPV-Negative
 
 Scott-Brown's Chapter 6 provides the critical distinction:
 
@@ -112,7 +112,7 @@ Lui et al. (2013) found that in a subset of HPV+ tumours, **PIK3CA or PIK3R1 was
 | Agent | Target | Class | Status in HNSCC |
 |-------|--------|-------|----------------|
 | **Alpelisib (BYL719)** | PI3Kα-selective | PI3K inhibitor | Phase II trials; approved in PIK3CA-mutant breast cancer |
-| **Copanlisib** | Pan-PI3K (p110α/δ) | PI3K inhibitor | Phase I/II with cetuximab in PIK3CA-mutant HNSCC |
+| **Copanlisib** | Pan-PI3K (p110α/δ) | PI3K inhibitor | Phase I/II with [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] in PIK3CA-mutant HNSCC |
 | **Buparlisib (BKM120)** | Pan-PI3K | PI3K inhibitor | Phase II in R/M HNSCC |
 
 ### mTOR Inhibitors
@@ -163,7 +163,7 @@ Lui et al. (2013) established that PI3K pathway mutations serve as **predictive 
 
 Scott-Brown's Chapter 6 places PI3K in the broader signalling context, noting that the most commonly mutated genes in HNSCC are: **TP53, PIK3CA, CDKN2A, NOTCH, FADD, FAT1, CCND1, PTEN, TP63** — and that PIK3CA is the most commonly mutated oncogene.
 
-The TCGA study (2015) confirmed that alterations in **EGFR, FGFR, PIK3CA, and cyclin-dependent kinases** represent candidate targets for therapeutic intervention in most HNSCCs.
+The TCGA study (2015) confirmed that alterations in **EGFR, FGFR, PIK3CA, and [[Answers/General/Cell Cycle and Cancer|cyclin-dependent kinases]]** represent candidate targets for therapeutic intervention in most HNSCCs.
 
 ---
 
@@ -189,3 +189,16 @@ The TCGA study (2015) confirmed that alterations in **EGFR, FGFR, PIK3CA, and cy
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — VEGF regulation via PI3K/AKT
+> - [[Answers/General/Apoptosis|Apoptosis]] — AKT survival signalling vs apoptosis
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — growth factor signalling and proliferation
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic

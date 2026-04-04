@@ -1,9 +1,9 @@
 ---
 tags:
   - General
-  - Pharmacology
-  - Smoking-Cessation
+  - Epidemiology
   - Rehabilitation
+  - Systemic-Therapy
 ---
 
 > [!question] TMH 2019
@@ -42,8 +42,8 @@ Smoking cessation is one of the most impactful interventions in head and neck ca
 ### Nicotine in Head and Neck Cancer
 
 - Nicotine itself is **not a direct carcinogen** but promotes tumour progression through:
-  - Activation of nAChRs on tumour cells → proliferation, anti-apoptosis
-  - Stimulation of angiogenesis via VEGF upregulation
+  - Activation of nAChRs on tumour cells → proliferation, anti-[[Answers/General/Apoptosis|apoptosis]]
+  - Stimulation of [[Answers/General/Tumour Angiogenesis|angiogenesis]] via VEGF upregulation
   - Promotion of epithelial-mesenchymal transition (EMT)
 - Despite these concerns, NRT use during cessation provides **net clinical benefit** — risk of continued smoking far outweighs theoretical NRT risks
 
@@ -71,8 +71,8 @@ Smoking cessation is one of the most impactful interventions in head and neck ca
 
 - **Oral mucositis**: gum and lozenges may be poorly tolerated during/after RT; prefer patch or nasal spray
 - **Post-laryngectomy**: inhaler device not effective (no nasal airflow); use patch, gum, or sublingual tablet
-- **Trismus**: limits use of gum; prefer patch, lozenge, or sublingual tablet
-- **Xerostomia**: affects gum efficacy (requires saliva for nicotine release); prefer patch
+- **[[Answers/General/Trismus Prevention|trismus]]**: limits use of gum; prefer patch, lozenge, or sublingual tablet
+- **[[Answers/General/Xerostomia Management|xerostomia]]**: affects gum efficacy (requires saliva for nicotine release); prefer patch
 
 ## Non-Nicotine Pharmacotherapies
 
@@ -150,3 +150,16 @@ Smoking cessation is one of the most impactful interventions in head and neck ca
 > - For patients undergoing concurrent chemoradiation with mucositis, the **transdermal patch** is the best-tolerated NRT option
 > - Nicotine itself does not cause cancer — the benefits of NRT for cessation far outweigh theoretical concerns about tumour promotion
 > - **Preoperative cessation ≥4 weeks** reduces wound complications; even 24-48 hours improves CO levels and oxygen-carrying capacity
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+> - [[Answers/General/Cancer and AIDS|Cancer and AIDS]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Epidemiology of HNC in India|Epidemiology of HNC in India]] — related topic

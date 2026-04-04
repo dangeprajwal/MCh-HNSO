@@ -1,10 +1,7 @@
 ---
 tags:
-  - general
-  - larynx
-  - oral-cavity
-  - imaging
-  - diagnostics
+  - General
+  - Diagnostics
 ---
 
 # Narrow Band Imaging in Head and Neck Cancers
@@ -31,7 +28,7 @@ tags:
 
 ## Introduction
 
-Narrow band imaging (NBI) is a novel endoscopic optical imaging technique that enhances visualization of mucosal and submucosal microvascular patterns without the use of dyes or contrast agents. By filtering white light into specific narrow-band wavelengths, NBI dramatically improves the contrast between blood-containing vessels and surrounding mucosa, enabling identification of neoangiogenic patterns associated with precancerous and malignant lesions. In head and neck oncology, NBI has emerged as a powerful tool for early detection of superficial squamous cell carcinoma, assessment of surgical margins, surveillance after treatment, and detection of unknown primaries in cervical lymph node metastasis.
+Narrow band imaging (NBI) is a novel endoscopic optical imaging technique that enhances visualization of mucosal and submucosal microvascular patterns without the use of dyes or contrast agents. By filtering white light into specific narrow-band wavelengths, NBI dramatically improves the contrast between blood-containing vessels and surrounding mucosa, enabling identification of neoangiogenic patterns associated with precancerous and malignant lesions. In head and neck oncology, NBI has emerged as a powerful tool for early detection of superficial squamous cell carcinoma, assessment of [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]], surveillance after treatment, and detection of unknown primaries in cervical lymph node metastasis.
 
 The fundamental principle behind NBI rests on the understanding that neoplastic transformation of mucosal epithelium is invariably accompanied by neoangiogenesis — the formation of new, abnormal blood vessels that supply the proliferating tumour cells. These neoangiogenic vessels are morphologically different from normal mucosal vasculature: they are dilated, tortuous, and irregularly branched, forming characteristic patterns known as intrapapillary capillary loops (IPCLs) that can be visualized by NBI but are invisible under conventional white light endoscopy. The ability to detect these vascular changes in real-time, without the need for tissue biopsy, represents a significant advance in the endoscopic assessment of head and neck mucosal lesions.
 
@@ -96,21 +93,21 @@ The European Laryngological Society (ELS) subsequently proposed a simplified cla
 
 NBI has achieved its greatest clinical impact in laryngeal oncology, where the ability to detect early mucosal changes on the vocal folds and supraglottic structures has direct therapeutic implications. In the primary diagnostic setting, NBI has demonstrated a sensitivity of 89% and specificity of 93% for the diagnosis of laryngeal lesions, significantly outperforming conventional white light endoscopy. These figures are derived from Piazza et al.'s prospective study of 279 patients, which remains the largest single-institution NBI study in laryngeal cancer.
 
-The role of NBI in laryngeal cancer extends beyond simple diagnosis. During transoral laser microsurgery (TLM), NBI is used intraoperatively to delineate the superficial extent of the tumour, which is often difficult to appreciate under white light — particularly in the presence of surrounding leukoplakia, inflammation, or oedema. By mapping the neoangiogenic margins of the lesion, NBI allows the surgeon to plan more precise resection boundaries, potentially reducing the rate of positive margins while minimizing unnecessary excision of normal tissue. This is particularly important in the glottis, where even a few millimetres of additional resection can significantly affect voice quality.
+The role of NBI in laryngeal cancer extends beyond simple diagnosis. During transoral laser microsurgery (TLM), NBI is used intraoperatively to delineate the superficial extent of the tumour, which is often difficult to appreciate under white light — particularly in the presence of surrounding [[Answers/Oral Cavity/Oral Leukoplakia Management|leukoplakia]], inflammation, or oedema. By mapping the neoangiogenic margins of the lesion, NBI allows the surgeon to plan more precise resection boundaries, potentially reducing the rate of positive margins while minimizing unnecessary excision of normal tissue. This is particularly important in the glottis, where even a few millimetres of additional resection can significantly affect voice quality.
 
 NBI is also valuable in the assessment of laryngeal lesions that are clinically ambiguous. A glottic leukoplakia, for example, may harbour anything from hyperkeratosis to carcinoma in situ to microinvasive carcinoma beneath its surface. Under white light, these entities are indistinguishable. NBI can reveal the underlying IPCL pattern: if the vessels are regular (Type I-II), the lesion is likely benign; if there are Type V changes, the lesion is almost certainly malignant. This information can guide the decision between biopsy and definitive excision, and can direct the depth of resection if TLM is performed.
 
 ### 2. Oral Cancer
 
-In the oral cavity, NBI enhances the detection of early mucosal lesions that may be invisible or equivocal under white light examination. This is particularly important for identifying areas of field cancerization — the multifocal premalignant changes that often surround an established oral cancer and can extend well beyond the visible tumour margins. The ability to detect these subclinical areas of dysplasia has implications for surgical margin planning and for identifying patients at high risk of developing second primary tumours.
+In the oral cavity, NBI enhances the detection of early mucosal lesions that may be invisible or equivocal under white light examination. This is particularly important for identifying areas of [[Answers/Oral Cavity/Field Cancerization|field cancerization]] — the multifocal premalignant changes that often surround an established oral cancer and can extend well beyond the visible tumour margins. The ability to detect these subclinical areas of dysplasia has implications for surgical margin planning and for identifying patients at high risk of developing second primary tumours.
 
-NBI-guided examination of the oral cavity can be performed using a flexible NBI-equipped videoendoscope in the outpatient clinic, allowing non-invasive surveillance of patients with a history of oral premalignant lesions, oral submucous fibrosis, or treated oral cancer. Brown discolouration on NBI that is not apparent under white light suggests underlying neoangiogenesis and warrants targeted biopsy. However, the oral cavity presents some challenges for NBI interpretation: saliva, blood, and the thicker keratinized mucosa of the hard palate and attached gingiva can obscure the vascular patterns, and heavily keratinized leukoplakia blocks light penetration, preventing visualization of the underlying IPCLs.
+NBI-guided examination of the oral cavity can be performed using a flexible NBI-equipped videoendoscope in the outpatient clinic, allowing non-invasive surveillance of patients with a history of oral premalignant lesions, oral [[Answers/Oral Cavity/Oral Submucous Fibrosis|oral submucous fibrosis]], or treated oral cancer. Brown discolouration on NBI that is not apparent under white light suggests underlying neoangiogenesis and warrants targeted biopsy. However, the oral cavity presents some challenges for NBI interpretation: saliva, blood, and the thicker keratinized mucosa of the hard palate and attached gingiva can obscure the vascular patterns, and heavily keratinized leukoplakia blocks light penetration, preventing visualization of the underlying IPCLs.
 
 ### 3. Unknown Primary Detection
 
 One of the most clinically impactful applications of NBI is in the workup of patients presenting with cervical lymph node metastasis from an unknown primary squamous cell carcinoma. Identifying the primary tumour is crucial for directing treatment — particularly for determining the radiation field. Conventional white light panendoscopy (direct laryngoscopy, pharyngoscopy, oesophagoscopy) detects the occult primary in only 20-30% of cases.
 
-NBI significantly improves the detection rate by revealing small, flat mucosal primaries — particularly in the oropharynx (base of tongue, tonsillar fossa) — that are invisible under white light. In published series, NBI-guided examination identified additional primaries missed by conventional endoscopy in 10-30% of cases. Current best practice for unknown primary workup includes NBI-guided panendoscopy combined with bilateral tonsillectomy and base of tongue mucosectomy, along with PET-CT imaging. The addition of NBI to this protocol has reduced the proportion of patients who proceed to treatment without an identified primary site, allowing more targeted and less toxic radiation fields.
+NBI significantly improves the detection rate by revealing small, flat mucosal primaries — particularly in the oropharynx (base of tongue, tonsillar fossa) — that are invisible under white light. In published series, NBI-guided examination identified additional primaries missed by conventional endoscopy in 10-30% of cases. Current best practice for unknown primary workup includes NBI-guided panendoscopy combined with bilateral tonsillectomy and base of tongue mucosectomy, along with [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] imaging. The addition of NBI to this protocol has reduced the proportion of patients who proceed to treatment without an identified primary site, allowing more targeted and less toxic radiation fields.
 
 ### 4. Post-Treatment Surveillance
 
@@ -176,3 +173,16 @@ A systematic review and meta-analysis (Towns et al., 2020) of NBI in laryngeal c
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|Salivary Biomarkers in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic

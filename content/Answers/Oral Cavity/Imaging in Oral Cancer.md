@@ -1,9 +1,9 @@
 ---
 tags:
   - Oral-Cavity
-  - Radiology
+  - Diagnostics
   - Staging
-  - Mandible
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -32,8 +32,8 @@ Harrison's Head and Neck Cancer Ch4; Jatin Shah Ch3; Stell & Maran's Ch5; Scott-
 ### Goals of Imaging in Oral Cancer
 
 1. **Define primary tumour extent** — size, depth of invasion (DOI), involvement of adjacent structures
-2. **Assess mandibular invasion** — critical for surgical planning (marginal vs segmental mandibulectomy)
-3. **Evaluate cervical lymph nodes** — identify metastatic nodes, extranodal extension
+2. **Assess mandibular invasion** — critical for surgical planning (marginal vs [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]])
+3. **Evaluate cervical lymph nodes** — identify metastatic nodes, [[Answers/General/Extranodal Extension|extranodal extension]]
 4. **Identify distant metastases** — lung, liver, bone
 5. **Detect synchronous primaries** — second primary tumours in the upper aerodigestive tract
 6. **Guide reconstruction planning** — vascularity, donor site assessment
@@ -46,7 +46,7 @@ Harrison's Head and Neck Cancer Ch4; Jatin Shah Ch3; Stell & Maran's Ch5; Scott-
 | CT neck with contrast | Pre-treatment | Nodal assessment, mandible cortex |
 | Chest CT | Pre-treatment | Lung metastases, second primary |
 | OPG (orthopantomogram) | Pre-treatment | Dental status, mandible overview |
-| PET-CT | Selected cases | Distant metastases, equivocal nodes |
+| [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] | Selected cases | Distant metastases, equivocal nodes |
 | Ultrasound-guided FNAC | When nodes equivocal | Cytological confirmation of nodal disease |
 
 ## MRI — Primary Tumour Assessment
@@ -60,7 +60,7 @@ MRI is the **modality of choice for primary tumour evaluation** in oral cancer b
 - T1-weighted (anatomy), T2-weighted (tumour bright against muscle), post-contrast T1 with fat saturation (enhancement)
 - Axial and coronal planes; sagittal for tongue tumours
 - 3 mm slice thickness for small tumours
-- Diffusion-weighted imaging (DWI) adds functional information
+- Diffusion-weighted imaging ([[Answers/General/Diffusion Weighted MRI|DWI]]) adds functional information
 
 ### What MRI Shows Best
 
@@ -71,7 +71,7 @@ MRI is the **modality of choice for primary tumour evaluation** in oral cancer b
 | Bone marrow invasion | Superior to CT |
 | Perineural spread | Best modality (fat-suppressed T1 post-contrast) |
 | Tongue intrinsic/extrinsic muscles | Excellent |
-| Floor of mouth involvement | Good |
+| [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] involvement | Good |
 | Pre-epiglottic/paraglottic space | Good |
 
 ### DOI Measurement on MRI
@@ -83,7 +83,7 @@ MRI is the **modality of choice for primary tumour evaluation** in oral cancer b
 
 ### Limitations
 
-- Motion artefact from swallowing/breathing
+- Motion artefact from [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]]/breathing
 - Dental amalgam artefacts degrade images
 - Overestimates tumour extent (peri-tumoural oedema)
 - Limited for cortical bone assessment
@@ -132,7 +132,7 @@ CT is the **preferred modality for assessing mandibular cortical invasion** and 
 | CT Finding | Surgical Implication |
 |---|---|
 | No cortical contact | No mandibulectomy needed |
-| Tumour abutting periosteum | Consider marginal mandibulectomy |
+| Tumour abutting periosteum | Consider [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]] |
 | Cortical erosion without marrow | Marginal mandibulectomy |
 | Marrow invasion | Segmental mandibulectomy |
 | Inferior alveolar canal involvement | Segmental mandibulectomy |
@@ -144,7 +144,7 @@ CT is the **preferred modality for assessing mandibular cortical invasion** and 
 - Useful for:
   - Pre-RT dental assessment (identifies teeth needing extraction)
   - Overall mandible survey
-  - Dental implant planning for reconstruction
+  - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] planning for reconstruction
 - **Not sufficient as sole imaging** for mandibular invasion — always supplement with CT ± MRI
 
 ## Intraoral Ultrasound
@@ -208,12 +208,12 @@ Emerging modality for **measuring tumour thickness/DOI in anterior oral tongue c
 - Useful for implant planning in reconstructed mandible
 - Limited soft tissue contrast
 
-### Narrow-Band Imaging (NBI)
+### Narrow-Band Imaging ([[Answers/General/Narrow Band Imaging|NBI]])
 
 - Endoscopic technique enhancing mucosal vasculature visualisation
 - Improves detection of superficial oral mucosal lesions and margins
 - Used intraoperatively to guide excision margins
-- See also fluorescence-guided surgery (autofluorescence, VELscope)
+- See also [[Answers/Oral Cavity/[[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] and Fluorescence-Guided Surgery|fluorescence-guided surgery]] surgery (autofluorescence, VELscope)
 
 ## Postoperative Imaging
 
@@ -246,8 +246,21 @@ Emerging modality for **measuring tumour thickness/DOI in anterior oral tongue c
 > 10. Standard preoperative workup for cT3N0 oral SCC: MRI face/neck + CT neck + chest CT + OPG
 
 > [!tip] Clinical Pearls
-> - The AMRITA 2008 question asks for a complete imaging protocol for cT3N0 lateral tongue SCC — structure your answer as: preoperative (MRI + CT + chest CT + OPG), intraoperative (frozen section margins), and postoperative (baseline scan at 3–6 months + annual chest CT)
+> - The AMRITA 2008 question asks for a complete imaging protocol for cT3N0 lateral tongue SCC — structure your answer as: preoperative (MRI + CT + chest CT + OPG), intraoperative ([[Answers/General/Frozen Section in Surgical Margins|frozen section]] margins), and postoperative (baseline scan at 3–6 months + annual chest CT)
 > - For mandibular invasion: CT for cortical bone, MRI for marrow invasion — they are complementary, not interchangeable. In exam answers, always state both
 > - MRI overestimating DOI by 1–3 mm is a commonly tested fact — mention it alongside the strong correlation coefficient to show you understand the practical limitation
 > - When discussing "advances," focus on dual-energy CT, DWI-MRI, intraoral ultrasound, and NBI — these are the four most exam-relevant emerging technologies
 > - For mandible management decisions, always correlate imaging with clinical assessment (mobility, anaesthesia of IAN) — imaging alone can be misleading in previously irradiated or infected bone
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic

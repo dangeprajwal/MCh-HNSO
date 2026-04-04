@@ -2,9 +2,7 @@
 tags:
   - Oral-Cavity
   - Anatomy
-  - Skull-Base
-  - Radiology
-  - Paranasal-Sinuses
+  - Diagnostics
 ---
 
 > [!question] Questions Covered
@@ -28,7 +26,7 @@ Jatin Shah Ch4, Ch6; Harrison's Head and Neck Cancer Ch6; Stell & Maran's Ch40; 
 
 ## Introduction
 
-The pterygopalatine fossa (PPF, also known as the pterygomaxillary fossa or sphenomaxillary fossa) is a small, fat-filled pyramidal space located deep in the face, posterior to the maxilla. It has been described as the "Piccadilly Circus" or "crossroads" of the deep face due to its extraordinary number of communications with surrounding anatomical compartments — the orbit, nasal cavity, oral cavity, infratemporal fossa, middle cranial fossa, and nasopharynx. In head and neck oncology, the PPF is critically important as a conduit for tumour spread (both direct invasion and perineural spread) from the oral cavity, paranasal sinuses, and nasopharynx to the skull base and intracranial cavity. Understanding its anatomy is essential for surgical planning, imaging interpretation, and radiation field design.
+The pterygopalatine fossa (PPF, also known as the pterygomaxillary fossa or sphenomaxillary fossa) is a small, fat-filled pyramidal space located deep in the face, posterior to the maxilla. It has been described as the "Piccadilly Circus" or "crossroads" of the deep face due to its extraordinary number of communications with surrounding anatomical compartments — the orbit, nasal cavity, oral cavity, [[Answers/Oral Cavity/Infratemporal Fossa Spread|infratemporal fossa]], middle cranial fossa, and nasopharynx. In head and neck oncology, the PPF is critically important as a conduit for tumour spread (both direct invasion and perineural spread) from the oral cavity, paranasal sinuses, and nasopharynx to the skull base and intracranial cavity. Understanding its anatomy is essential for surgical planning, imaging interpretation, and radiation field design.
 
 ## Boundaries
 
@@ -130,7 +128,7 @@ The PPF is a critical junction through which tumours from multiple primary sites
 
 ### Staging Implications
 
-- PPF invasion by maxillary sinus carcinoma → **T4a** (AJCC 8th edition)
+- PPF invasion by maxillary sinus carcinoma → **T4a** ([[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] edition)
 - PPF involvement represents a critical threshold — tumours reaching the PPF can access the middle cranial fossa via foramen rotundum
 - Intracranial extension via the PPF → **T4b** (unresectable by conventional criteria)
 
@@ -205,3 +203,16 @@ The PPF is a critical junction through which tumours from multiple primary sites
 > - Adenoid cystic carcinoma of the palate is the classic tumour that spreads perineurally through the greater palatine canal to the PPF and then to the skull base — always image the PPF in palatal ACC
 > - Widening of the foramen rotundum on CT bone algorithm is a subtle but critical sign of perineural spread — compare both sides
 > - The endoscopic endonasal transpterygoid approach has revolutionised access to the PPF — but for large tumours with lateral extension into the infratemporal fossa, a combined open-endoscopic approach may still be needed
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — skull base anatomy and spread pathways
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — parasellar space anatomy
+> - [[Answers/Oral Cavity/Referred Otalgia in Oral Cancer|Referred Otalgia in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|Salivary Biomarkers in Oral Cancer]] — related topic

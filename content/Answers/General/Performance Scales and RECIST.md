@@ -1,15 +1,14 @@
 ---
 tags:
-  - general
-  - oncology
-  - staging
-  - clinical-trials
+  - General
+  - Oncology
+  - Staging
 ---
 
-# Performance Scales and RECIST Criteria
+# Performance Scales and [[Answers/General/RECIST Criteria|RECIST criteria]] Criteria
 
 > [!question] Questions Covered
-> - WHO performance scale (KIDWAI 2020)
+> - [[Answers/General/WHO Performance Scale|WHO performance scale]] scale (KIDWAI 2020)
 > - Karnofsky performance score (AMRITA 2016)
 > - Response evaluation criteria in solid tumours (RECIST) (AMRITA 2016)
 > - Karnofsky performance status scale and its relevance in oncology (TMH 2019)
@@ -33,7 +32,7 @@ tags:
 
 Performance status scales and response evaluation criteria are two indispensable pillars of clinical oncology that serve fundamentally different but complementary purposes. Performance status quantifies a patient's overall functional ability — their capacity to carry out daily activities, care for themselves, and tolerate treatment — and is one of the most powerful independent prognostic factors across all tumour types. In practical terms, performance status often determines whether a patient is a candidate for curative treatment, palliative chemotherapy, or best supportive care alone. Response evaluation criteria, on the other hand, provide standardized, objective methods for measuring whether a tumour is responding to treatment, remaining stable, or progressing — information that is essential for treatment decision-making in individual patients and for comparing treatment efficacy across clinical trials.
 
-In head and neck oncology, both tools are used daily. Performance status assessment guides the multidisciplinary team discussion about treatment intensity — a patient with ECOG PS 0-1 may be offered concurrent chemoradiation for advanced laryngeal cancer, while a patient with PS 3 is better served by palliative radiotherapy or best supportive care. RECIST criteria are used to assess the response of recurrent or metastatic HNSCC to systemic therapy (cetuximab, immunotherapy), determining whether treatment should be continued, changed, or discontinued. The examiner expects familiarity with the specific scales, their scoring systems, their clinical applications, and — importantly — their limitations in the context of head and neck cancer.
+In head and neck oncology, both tools are used daily. Performance status assessment guides the multidisciplinary team discussion about treatment intensity — a patient with ECOG PS 0-1 may be offered concurrent chemoradiation for advanced laryngeal cancer, while a patient with PS 3 is better served by palliative radiotherapy or best supportive care. RECIST criteria are used to assess the response of recurrent or metastatic HNSCC to systemic therapy ([[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]], immunotherapy), determining whether treatment should be continued, changed, or discontinued. The examiner expects familiarity with the specific scales, their scoring systems, their clinical applications, and — importantly — their limitations in the context of head and neck cancer.
 
 ---
 
@@ -67,7 +66,7 @@ Performance status directly determines treatment intensity in head and neck canc
 - **KPS 30-40 (ECOG 3):** Palliative intent treatment only — short-course radiotherapy for symptom control (pain, bleeding, airway obstruction), best supportive care, palliative care referral
 - **KPS 10-20 (ECOG 4):** Best supportive care and hospice referral only
 
-The KPS is independently predictive of overall survival across all HNSCC subsites and treatment modalities. However, KPS has a significant limitation in head and neck cancer: it misses disease-specific functional morbidity. List et al. (1996) demonstrated that 43% of patients with good KPS scores (i.e., globally functional) still had significant dietary limitations that were only detected by the disease-specific PSS-HN scale. This is because KPS measures global functional status but does not assess the specific impairments in eating, speaking, and swallowing that dominate the morbidity burden in HNC patients. For this reason, KPS/ECOG should be used in conjunction with disease-specific QOL instruments (UW-QOL, EORTC QLQ-H&N35, PSS-HN) rather than as the sole functional assessment.
+The KPS is independently predictive of overall survival across all HNSCC subsites and treatment modalities. However, KPS has a significant limitation in head and neck cancer: it misses disease-specific functional morbidity. List et al. (1996) demonstrated that 43% of patients with good KPS scores (i.e., globally functional) still had significant dietary limitations that were only detected by the disease-specific PSS-HN scale. This is because KPS measures global functional status but does not assess the specific impairments in eating, speaking, and [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] that dominate the morbidity burden in HNC patients. For this reason, KPS/ECOG should be used in conjunction with disease-specific QOL instruments (UW-QOL, EORTC QLQ-H&N35, PSS-HN) rather than as the sole functional assessment.
 
 ---
 
@@ -162,7 +161,7 @@ RECIST has several important limitations, particularly in head and neck oncology
 
 - **Measures only anatomical size:** RECIST captures tumour shrinkage or growth but does not assess metabolic activity, tumour viability, or functional response. A tumour may remain the same size on CT but be metabolically inactive (complete metabolic response on PET).
 - **Pseudo-progression with immunotherapy:** Immune checkpoint inhibitors (pembrolizumab, nivolumab) can cause initial apparent tumour enlargement on imaging due to immune cell infiltration, followed by delayed response. RECIST may classify this as progressive disease, leading to premature treatment discontinuation. The iRECIST modification addresses this by requiring confirmation of progression at a subsequent scan 4-8 weeks later before declaring true PD.
-- **Cystic nodal disease in HPV+ OPSCC:** HPV-positive oropharyngeal cancers frequently present with cystic lymph node metastases. After treatment, these cystic nodes may persist as thin-walled fluid collections on imaging — they meet size criteria for "measurable disease" under RECIST but represent dead tumour/cyst rather than viable cancer. PET-CT is more useful than RECIST for assessing these residual cystic nodes.
+- **Cystic nodal disease in HPV+ OPSCC:** [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] oropharyngeal cancers frequently present with cystic lymph node metastases. After treatment, these cystic nodes may persist as thin-walled fluid collections on imaging — they meet size criteria for "measurable disease" under RECIST but represent dead tumour/cyst rather than viable cancer. [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] is more useful than RECIST for assessing these residual cystic nodes.
 - **Post-treatment changes in irradiated fields:** Radiation causes tissue oedema, fibrosis, and inflammation that can mimic residual or recurrent tumour on CT/MRI, making RECIST measurements unreliable in the post-CRT setting. FDG-PET performed at 12 weeks post-CRT (as recommended by NCCN) is superior to anatomical imaging for response assessment.
 - **Not applicable to bone metastases, diffuse mucosal disease, or leptomeningeal disease** — these are classified as non-measurable by RECIST.
 - Modified criteria exist for specific situations: **iRECIST** (immunotherapy response), **PERCIST** (PET-based metabolic response), and **mRECIST** (hepatocellular carcinoma).
@@ -202,3 +201,16 @@ RECIST has several important limitations, particularly in head and neck oncology
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/WHO Performance Scale|WHO Performance Scale]] — performance status assessment
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Cancer Pain Management|Cancer Pain Management]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic

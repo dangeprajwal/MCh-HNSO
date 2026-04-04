@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - perioperative
-  - electrolyte
-  - surgery
+  - General
+  - Complications
+  - Surgery
 ---
 
 # Hyponatremia Management in the Postoperative Setting
@@ -11,7 +10,7 @@ tags:
 > [!question] Questions Covered
 > - Hyponatremia management in the postoperative setting (PGI 2021)
 
-**Source:** Jatin Shah - Head and Neck Surgery and Oncology, Chapter 7 (Postoperative Care — Skull Base); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 27 (Pituitary Surgery — SIADH and DI), Chapter 32 (Hypopharyngeal Cancer — Paraneoplastic)
+**Source:** Jatin Shah - Head and Neck Surgery and Oncology, Chapter 7 (Postoperative Care — Skull Base); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 27 (Pituitary Surgery — SIADH and DI), Chapter 32 (Hypopharyngeal Cancer — [[Answers/General/Paraneoplastic Syndrome|paraneoplastic syndrome]])
 
 > [!cite] Landmark Articles
 > Postoperative hyponatremia (serum sodium <135 mmol/L) is a common and potentially dangerous electrolyte disorder following head and neck surgery, occurring in up to 67% of patients undergoing major HNC resection. Schwartz et al. (1957) first described the syndrome of inappropriate antidiuretic hormone secretion (SIADH) — the most common cause of euvolaemic hyponatremia in cancer patients. Arieff (1986) established that acute symptomatic hyponatremia carries a significant risk of permanent neurological damage and death if not corrected promptly. Sterns (1987) then defined the complication of osmotic demyelination syndrome (ODS) from overly rapid correction, establishing the critical rate limit. Verbalis et al. (2013) published the American Expert Panel Consensus Recommendations — the current standard for diagnosis and treatment of hyponatremia. Castillo et al. (2012) provided the definitive review of hyponatremia diagnosis and management specifically in cancer patients, including the role of tolvaptan.
@@ -172,7 +171,7 @@ Excessive hypotonic fluid administration perioperatively — a common iatrogenic
 | **Chronic (>48 hours)** | ≤8-10 mmol/L in 24 hours; ≤18 mmol/L in 48 hours |
 | **High-risk for ODS** (alcoholism, malnutrition, hypokalaemia, Na⁺ <105) | ≤6-8 mmol/L in 24 hours |
 
-**WARNING:** Overcorrection causes **osmotic demyelination syndrome (ODS)** — previously called central pontine myelinolysis — presenting with dysarthria, dysphagia, quadriparesis, and "locked-in" syndrome 2-6 days after correction.
+**WARNING:** Overcorrection causes **osmotic demyelination syndrome (ODS)** — previously called central pontine myelinolysis — presenting with dysarthria, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|dysphagia]], quadriparesis, and "locked-in" syndrome 2-6 days after correction.
 
 ### Treatment by Aetiology
 
@@ -269,3 +268,16 @@ Cisplatin causes renal tubular damage leading to salt-wasting nephropathy and hy
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Impact of Tracheotomy on Respiratory Physiology|Impact of Tracheotomy on Respiratory Physiology]] — related topic
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Postoperative Anuria|Postoperative Anuria]] — perioperative fluid/electrolyte issues
+> - [[Answers/General/Postoperative Fever Day 3|Postoperative Fever Day 3]] — related topic

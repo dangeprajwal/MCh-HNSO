@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - molecular-biology
-  - cell-biology
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Apoptosis in Head and Neck Cancer
@@ -32,7 +31,7 @@ Apoptosis (from the Greek, meaning "falling off," as leaves from a tree) is a ge
 
 Unlike necrosis — which is a passive, disordered process resulting from acute cellular injury, characterized by cell swelling, membrane rupture, and inflammation — apoptosis is an orderly, regulated process. Apoptotic cells undergo cell shrinkage, chromatin condensation (pyknosis), nuclear fragmentation (karyorrhexis), membrane blebbing, and formation of apoptotic bodies that are rapidly phagocytosed without triggering an inflammatory response.
 
-As described in Scott-Brown's Chapter 30, normal cells constantly audit the balance between incoming survival and death signals, requiring constant "reassurance" from their environment to prevent activation of death signalling pathways. DNA damage — including that induced by radiotherapy or chemotherapy — leads to a block in proliferation (cell cycle arrest) and an evaluation of the cell's capacity for repair. If the damage exceeds the repair capacity, the balance of survival and death signals swings in favour of the death signals and the cell commits to programmed cell death. Loss of normal apoptotic pathway signalling is an extremely common event in cancer — and indeed, the best known cancer-associated gene (p53) is intimately involved in controlling apoptosis and is functionally inactivated in the majority of head and neck cancers.
+As described in Scott-Brown's Chapter 30, normal cells constantly audit the balance between incoming survival and death signals, requiring constant "reassurance" from their environment to prevent activation of death signalling pathways. DNA damage — including that induced by radiotherapy or chemotherapy — leads to a block in proliferation ([[Answers/General/Cell Cycle and Cancer|cell cycle]] arrest) and an evaluation of the cell's capacity for repair. If the damage exceeds the repair capacity, the balance of survival and death signals swings in favour of the death signals and the cell commits to programmed cell death. Loss of normal apoptotic pathway signalling is an extremely common event in cancer — and indeed, the best known cancer-associated gene (p53) is intimately involved in controlling apoptosis and is functionally inactivated in the majority of head and neck cancers.
 
 Hanahan and Weinberg (2000) identified **evading apoptosis** as one of the six original hallmarks of cancer, underscoring its central importance in tumour development and progression.
 
@@ -128,9 +127,9 @@ Scott-Brown's Chapter 30 states that by circumventing normal apoptotic signallin
 
 ### 1. TP53 Mutation (50-80% of HNSCC)
 
-The most common mechanism. As described in Montgomery Chapter 2, alterations of the p53 gene by allelic losses, point mutations, deletion, or inactivation disrupt its role as guardian of the genome by impairing the cell's ability to repair and undergo apoptosis in response to DNA damage. Harrison Chapter 6 notes that p53 is involved in the regulation of diverse cellular processes including cell cycle, apoptosis, autophagy, DNA repair, and metabolism, and that mutations generally render the gene nonfunctional and provide growth advantage to cancer cells.
+The most common mechanism. As described in Montgomery Chapter 2, alterations of the p53 gene by allelic losses, point mutations, deletion, or inactivation disrupt its role as guardian of the genome by impairing the cell's ability to repair and undergo apoptosis in response to DNA damage. Harrison Chapter 6 notes that p53 is involved in the regulation of diverse cellular processes including cell cycle, apoptosis, [[Answers/General/Autophagy in Head and Neck Cancer|autophagy]], DNA repair, and metabolism, and that mutations generally render the gene nonfunctional and provide growth advantage to cancer cells.
 
-In HPV-positive HNSCC, p53 is functionally inactivated not by mutation but by the viral oncoprotein E6, which targets p53 for proteasomal degradation via the E6AP ubiquitin ligase pathway.
+In [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] HNSCC, p53 is functionally inactivated not by mutation but by the viral oncoprotein E6, which targets p53 for proteasomal degradation via the E6AP ubiquitin ligase pathway.
 
 ### 2. Overexpression of Anti-Apoptotic BCL-2 Family Proteins
 
@@ -140,13 +139,13 @@ Ow et al. (2020) demonstrated that HNSCC cells rely on inhibition of apoptosis v
 
 CASP8 mutations are found in 8-10% of HNSCC, predominantly in oral cavity tumours. These mutations disable the extrinsic apoptotic pathway. As noted in Scott-Brown's Chapter 6, CASP8 mutations were often associated with wild-type TP53, suggesting that tumours may evolve to evade apoptosis through either the intrinsic or extrinsic pathway — but rarely both simultaneously.
 
-### 4. PI3K/AKT Pathway Activation
+### 4. [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] Pathway Activation
 
 The PI3K/AKT pathway is a major survival signalling pathway. As described in Scott-Brown's Chapter 6, activation of the PI3K/AKT pathway is involved in cellular proliferation and apoptosis resistance via activation of mTOR. Constitutive activation through PIK3CA mutations (common in both HPV+ and HPV− HNSCC) or loss of the opposing phosphatase PTEN promotes cell survival by phosphorylating and inactivating pro-apoptotic proteins BAD and procaspase-9, while activating NF-κB-mediated survival signalling.
 
 ### 5. EGFR Overexpression
 
-Harrison notes that activation of EGFR by TGF-α functions to promote cellular proliferation and inhibit apoptosis. EGFR expression positively correlates with increased radioresistance and inversely correlates with radiation-induced apoptosis. Blockade of EGFR with cetuximab (C225) downregulates anti-apoptotic proteins such as STAT3 and thus promotes radiation-induced apoptosis.
+Harrison notes that activation of EGFR by TGF-α functions to promote cellular proliferation and inhibit apoptosis. EGFR expression positively correlates with increased radioresistance and inversely correlates with radiation-induced apoptosis. Blockade of EGFR with [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] (C225) downregulates anti-apoptotic proteins such as STAT3 and thus promotes radiation-induced apoptosis.
 
 ### 6. Overexpression of IAPs (Survivin)
 
@@ -201,3 +200,16 @@ NF-κB is a transcription factor that promotes expression of anti-apoptotic gene
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — alternative programmed cell death
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — checkpoint regulation and apoptotic triggers
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — AKT survival signalling vs apoptosis
+> - [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV in Oral and Oropharyngeal Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic

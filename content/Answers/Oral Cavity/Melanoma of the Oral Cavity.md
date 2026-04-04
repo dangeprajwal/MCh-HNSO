@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Rare-Tumours
-  - Evidence-Based
-  - Immunotherapy
+  - Oncology
+  - Systemic-Therapy
 ---
 
 > [!question] Questions Covered
@@ -87,7 +86,7 @@ Mucosal melanoma of the head and neck uses the **AJCC 8th Edition mucosal melano
 |---|---|
 | T3 | Mucosal disease only |
 | T4a | Moderately advanced — deep soft tissue, cartilage, bone, overlying skin |
-| T4b | Very advanced — brain, dura, skull base, lower cranial nerves, masticator space, carotid artery, prevertebral space |
+| T4b | Very advanced — brain, dura, skull base, lower cranial nerves, [[Answers/Oral Cavity/Masticator Space|masticator space]], carotid artery, prevertebral space |
 
 This staging reflects the inherently **aggressive biology** — even "early" mucosal melanoma starts at T3.
 
@@ -98,7 +97,7 @@ This staging reflects the inherently **aggressive biology** — even "early" muc
 1. **Incisional biopsy** — punch or incisional (NOT excisional for pigmented oral lesions >1 cm) with IHC panel (S-100, HMB-45, Melan-A, SOX10)
 2. **MRI face and neck with gadolinium** — soft tissue extent, perineural spread, bone marrow invasion
 3. **CT neck with contrast** — nodal assessment, cortical bone erosion
-4. **PET-CT whole body** — essential for distant metastasis staging (lung, liver, brain, bone are common sites)
+4. **[[Answers/General/PET-CT in Head and Neck Cancer|PET-CT]] whole body** — essential for distant metastasis staging (lung, liver, brain, bone are common sites)
 5. **CT chest** — pulmonary metastases
 6. **Molecular profiling** — c-KIT, BRAF, NRAS mutations for targeted therapy options
 
@@ -112,20 +111,20 @@ Surgery is the **primary treatment** when feasible. However, complete excision w
 
 - **Wide local excision** with ≥1.5–2 cm clinical margins where anatomy permits
 - Upper alveolar lesions → **partial or infrastructure maxillectomy**
-- Palatal lesions → **palatectomy ± obturator reconstruction**
+- Palatal lesions → **palatectomy ± [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]] reconstruction**
 - No consensus on optimal margin distance — mucosal melanoma spreads submucosally
 
 ### Neck Management
 
 | Scenario | Approach |
 |---|---|
-| cN0 neck | Elective neck dissection controversial; ~25% occult rate |
+| cN0 neck | [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] controversial; ~25% occult rate |
 | cN+ neck | Therapeutic neck dissection (levels I–V) |
-| Sentinel node biopsy | Under investigation; not standard of care for mucosal melanoma |
+| [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|sentinel node biopsy]] | Under investigation; not standard of care for mucosal melanoma |
 
 ### Adjuvant Therapy
 
-- **Adjuvant RT (50–60 Gy):** Improves locoregional control; standard recommendation for most resected cases given high local recurrence risk (40–80%)
+- **[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] (50–60 Gy):** Improves locoregional control; standard recommendation for most resected cases given high local recurrence risk (40–80%)
 - Mucosal melanoma considered **relatively radiosensitive** compared to prior assumptions — hypofractionated regimens (6 Gy × 5 or 8 Gy × 4) studied
 
 ### Systemic Therapy
@@ -170,7 +169,7 @@ For a **3 cm upper alveolar melanoma (T4a)**:
 > [!abstract] Key Points
 > 1. Oral mucosal melanoma is rare (<1% of all melanomas) with hard palate and upper gingiva as the commonest sites
 > 2. One-third of cases preceded by melanosis — all pigmented oral lesions warrant surveillance and biopsy if suspicious
-> 3. AJCC staging starts at T3 (mucosal disease) reflecting inherent aggressiveness — there are no T1 or T2 categories
+> 3. [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC staging]] starts at T3 (mucosal disease) reflecting inherent aggressiveness — there are no T1 or T2 categories
 > 4. IHC diagnosis relies on S-100 (most sensitive), HMB-45 and Melan-A (most specific), and SOX10 (emerging gold standard)
 > 5. Molecular profile differs from cutaneous melanoma: low BRAF (3–10%) but high c-KIT mutations (15–40%)
 > 6. Surgery with wide margins is the primary treatment; infrastructure maxillectomy for upper alveolar lesions
@@ -182,6 +181,19 @@ For a **3 cm upper alveolar melanoma (T4a)**:
 > [!tip] Clinical Pearls
 > 1. **Amelanotic mucosal melanoma** (10–30%) mimics SCC or granulation tissue — always include S-100/SOX10 in IHC panel for atypical oral mucosal lesions
 > 2. For upper alveolar melanoma, **PET-CT is mandatory** before surgery — distant metastases are present in 10–20% at diagnosis
-> 3. **Depth of invasion** does not correlate with prognosis as reliably as in cutaneous melanoma — Clark levels are not applicable to mucosal melanoma
+> 3. **[[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion]]** does not correlate with prognosis as reliably as in cutaneous melanoma — Clark levels are not applicable to mucosal melanoma
 > 4. Always send for **c-KIT mutational analysis** — imatinib can provide durable responses in the 15–40% of patients harbouring these mutations
 > 5. In the exam scenario of a "blackish expanding lesion on upper alveolus" — the structured answer should be: differential diagnosis → biopsy with IHC → staging → surgical plan → adjuvant therapy → prognosis
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]] — related topic
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel Node Biopsy in Oral Cancer]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Jaw Osteosarcoma|Jaw Osteosarcoma]] — related topic
+> - [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|Neoadjuvant Chemotherapy in Oral Cancer]] — related topic

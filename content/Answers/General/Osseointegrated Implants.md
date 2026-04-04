@@ -2,9 +2,6 @@
 tags:
   - General
   - Rehabilitation
-  - Prosthetics
-  - Dental-Oncology
-  - Reconstruction
 ---
 
 > [!question] Q47
@@ -20,7 +17,7 @@ tags:
 > | 1 | Osseointegrated implants in the treatment of the edentulous jaw: 10-year experience | Branemark PI, Hansson BO, Adell R, et al. | Scand J Plast Reconstr Surg Suppl, 1977 | PMID: 356184 (pre-DOI) | Established osseointegration: direct bone-titanium interface |
 > | 2 | A 15-year study of osseointegrated implants in the treatment of the edentulous jaw | Adell R, Lekholm U, Rockler B, Branemark PI | Int J Oral Surg, 1981 | [10.1016/s0300-9785(81)80077-4](https://doi.org/10.1016/s0300-9785(81)80077-4) | 2,768 fixtures: mandible 91%, maxilla 81%; bone loss 0.1 mm/year |
 > | 3 | Osseointegration in irradiated cancer patients: analysis with respect to implant failures | Granstrom G | J Oral Maxillofac Surg, 2005 | [10.1016/j.joms.2005.01.008](https://doi.org/10.1016/j.joms.2005.01.008) | 631 implants in irradiated patients; higher failure with high dose RT |
-> | 4 | Oral rehabilitation with dental implants in irradiated patients: meta-analysis on implant survival | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA | Clin Oral Investig, 2014 | [10.1007/s00784-013-1134-9](https://doi.org/10.1007/s00784-013-1134-9) | Mean implant survival 83% in irradiated patients |
+> | 4 | Oral rehabilitation with [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] in irradiated patients: meta-analysis on implant survival | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA | Clin Oral Investig, 2014 | [10.1007/s00784-013-1134-9](https://doi.org/10.1007/s00784-013-1134-9) | Mean implant survival 83% in irradiated patients |
 > | 5 | Clinical outcome of dental implants placed in fibula-free flaps for maxillo-mandibular reconstruction | Chiapasco M, Biglioli F, Autelitano L, et al. | Clin Oral Implants Res, 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) | Fibula implant survival comparable to native bone |
 
 ---
@@ -72,7 +69,7 @@ Stell Ch57 notes that mandibular implants have **higher success rates** than max
 ### Intraoral (Dental) Implants
 
 **After Mandibulectomy (Jatin Shah Ch8):**
-- Osseointegrated implants with a fixed denture should be considered in edentulous patients after marginal mandibulectomy
+- Osseointegrated implants with a fixed denture should be considered in edentulous patients after [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]]
 - If adequate vertical height of remaining mandible is available, implants can be inserted **at the time of mandibulectomy** or later
 - If postoperative RT is required, **extreme caution** should be exercised placing implants in irradiated bone
 
@@ -124,7 +121,7 @@ Radiotherapy impairs bone vascularity, reduces osteocyte viability, and slows th
 ### Practical Considerations
 
 - **Timing:** Montgomery notes osseointegration in irradiated orbital bone may take **up to 1 year** (vs 3-6 months normally)
-- **Hyperbaric Oxygen (HBO):** Scott-Brown's states there is "currently **inadequate information** to support routine use" of HBO before implant placement in irradiated bone
+- **[[Answers/General/Hyperbaric Oxygen Therapy|hyperbaric oxygen therapy]] (HBO):** Scott-Brown's states there is "currently **inadequate information** to support routine use" of HBO before implant placement in irradiated bone
 - **Dose Effect:** Higher RT dose correlates with higher implant failure (Granstrom 2005)
 - **Site Matters:** Highest failure rates in frontal bone, zygoma; better outcomes in mandible even after RT
 
@@ -148,7 +145,20 @@ Stell Ch57 lists:
 
 > [!tip] Clinical Pearls
 > - **Primary vs Delayed Placement:** Implants can be placed at the time of mandibulectomy (primary) or later — primary placement avoids a second surgery but requires careful treatment planning with the prosthodontist preoperatively
-> - **The RT Dilemma:** If adjuvant RT is anticipated, exercise extreme caution with implant placement in the radiation field — consider delaying implant placement until after RT completion and healing (Jatin Shah Ch8)
+> - **The RT Dilemma:** If [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] is anticipated, exercise extreme caution with implant placement in the radiation field — consider delaying implant placement until after RT completion and healing (Jatin Shah Ch8)
 > - **HBO Is Not Proven:** Despite theoretical rationale, Scott-Brown's states evidence is inadequate to support routine HBO before implant placement — don't assume it's standard of care
 > - **Smoking Must Stop:** Smoking has a direct detrimental effect on osseointegration — cessation is mandatory before implant placement
 > - **Bite Force Recovery:** Harrison reports that hemimandibulectomy patients with iliac crest free flap and primary implants achieve bite force comparable to non-cancer patients — this is the strongest functional outcome evidence
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — implant rehabilitation principles
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Nicotine Replacement Therapy|Nicotine Replacement Therapy]] — related topic
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Post-treatment Lymphedema|Post-treatment Lymphedema]] — related topic
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic

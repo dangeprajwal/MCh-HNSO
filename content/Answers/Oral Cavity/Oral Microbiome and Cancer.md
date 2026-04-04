@@ -3,7 +3,6 @@ tags:
   - Oral-Cavity
   - Molecular-Biology
   - Pathology
-  - Basic-Science
 ---
 
 > [!question] Questions Covered
@@ -59,7 +58,7 @@ The oral microbiome of cancer patients shows significant **dysbiosis** compared 
 The most well-established mechanism:
 - Periodontal pathogens (*Porphyromonas gingivalis*, *Fusobacterium nucleatum*) induce **chronic inflammatory response**
 - NF-κB activation → IL-6, IL-8, TNF-α, PGE2 production
-- Chronic inflammation promotes: cell proliferation, angiogenesis, inhibition of apoptosis, DNA damage
+- Chronic inflammation promotes: cell proliferation, [[Answers/General/Tumour Angiogenesis|angiogenesis]], inhibition of [[Answers/General/Apoptosis|apoptosis]], DNA damage
 - **Periodontitis** independently associated with increased oral cancer risk (OR 2.0–5.0)
 
 ### 2. Direct Genotoxic Effects
@@ -107,7 +106,7 @@ The strongest candidate for a direct carcinogenic role:
 
 Best established in colorectal cancer, increasingly implicated in oral cancer:
 - FadA adhesin binds E-cadherin → β-catenin nuclear translocation → Wnt pathway activation
-- Promotes chemoresistance through autophagy activation
+- Promotes chemoresistance through [[Answers/General/Autophagy in Head and Neck Cancer|autophagy]] activation
 - Enriched in tumour tissue and associated with advanced T-stage
 - May create an immunosuppressive tumour microenvironment
 
@@ -115,7 +114,7 @@ Best established in colorectal cancer, increasingly implicated in oral cancer:
 
 A fungal organism with established carcinogenic potential:
 - Produces carcinogenic **nitrosamines**
-- Chronic candidiasis associated with oral leukoplakia → SCC transformation
+- Chronic candidiasis associated with [[Answers/Oral Cavity/Oral Leukoplakia Management|oral leukoplakia]] → SCC transformation
 - **Candidal leukoplakia** has higher malignant transformation rate than non-candidal leukoplakia
 
 ## Clinical Evidence
@@ -131,7 +130,7 @@ A fungal organism with established carcinogenic potential:
 ### Poor Oral Hygiene as Independent Risk Factor
 
 - Poor oral hygiene is an **independent risk factor** for oral cancer after adjusting for tobacco and alcohol
-- The effect is most pronounced in the **floor of mouth and lateral tongue** — the "cancer-prone crescent" where carcinogen-laden saliva pools
+- The effect is most pronounced in the **[[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] and lateral tongue** — the "cancer-prone crescent" where carcinogen-laden saliva pools
 
 ## Diagnostic and Therapeutic Implications
 
@@ -169,3 +168,16 @@ A fungal organism with established carcinogenic potential:
 > 3. The **acetaldehyde pathway** is the exam-friendly mechanism: alcohol → bacterial ADH → acetaldehyde (carcinogen) → DNA adducts → mutation
 > 4. *P. gingivalis* is the oral cancer equivalent of *H. pylori* — remember its pathways: ERK1/2, JAK/STAT3, MMP-9, anti-apoptosis
 > 5. Poor oral hygiene compounds the risk from tobacco and alcohol — this is actionable public health knowledge for oral cancer prevention programmes
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Tumour Angiogenesis|Tumour Angiogenesis]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/Oral Cavity/Basaloid Squamous Cell Carcinoma|Basaloid Squamous Cell Carcinoma]] — related topic

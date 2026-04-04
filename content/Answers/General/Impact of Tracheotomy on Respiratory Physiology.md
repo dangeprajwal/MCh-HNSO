@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - perioperative
-  - surgery
-  - airway
+  - General
+  - Complications
+  - Surgery
 ---
 
 # Impact of Tracheotomy on Respiratory Physiology
@@ -22,7 +21,7 @@ tags:
 > | 2 | Tracheostomy tubes and related appliances | Hess DR | Respir Care, 2005 | [10.4187/respcare.05500497](https://doi.org/10.4187/respcare.05500497) | Tube design affects resistance, dead space, and phonation |
 > | 3 | Late complications of tracheostomy | Epstein SK | Respir Care, 2005 | [10.4187/respcare.05500542](https://doi.org/10.4187/respcare.05500542) | Tracheal stenosis, tracheomalacia, TIF as long-term consequences |
 > | 4 | Multidisciplinary guidelines for management of tracheostomy and laryngectomy airway emergencies | McGrath BA, Bates L, Atkinson D, Moore JA | Anaesthesia, 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) | National Tracheostomy Safety Project emergency algorithms |
-> | 5 | Tracheostomy: epidemiology, indications, timing, technique, and outcomes | Cheung NH, Napolitano LM | Respir Care, 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) | Evidence-based review: early vs late timing, PDT vs open technique |
+> | 5 | Tracheostomy: epidemiology, indications, timing, technique, and outcomes | Cheung NH, Napolitano LM | Respir Care, 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) | Evidence-based review: early vs late timing, [[Answers/General/Photodynamic Therapy|PDT]] vs open technique |
 
 ---
 
@@ -107,7 +106,7 @@ Olfaction requires airflow through the nasal cavity past the olfactory epitheliu
 - **Complete anosmia** (inability to smell)
 - Reduced appetite (flavour is 80% olfaction)
 - Loss of protective warning (smoke, gas, spoiled food)
-- Reduced quality of life
+- Reduced [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]]
 
 ### 6. Impaired Phonation
 
@@ -117,7 +116,7 @@ With a cuffed, inflated tracheostomy tube, expired air cannot pass through the v
 - Using a **speaking valve** (Passy-Muir valve — one-way valve allowing inspiration through tube but expiration through glottis)
 - **Finger occlusion** of the tube during exhalation
 
-### 7. Impaired Swallowing
+### 7. Impaired [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]]
 
 Tracheotomy affects swallowing through multiple mechanisms:
 - **Tethering of the larynx** — the tube restricts normal laryngeal elevation during swallowing
@@ -192,3 +191,16 @@ The tube imposes **additional resistance** due to its smaller internal diameter 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic
+> - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — related topic
+> - [[Answers/General/Masseteric Nerve Transfer|Masseteric Nerve Transfer]] — related topic
+> - [[Answers/General/Postoperative Anuria|Postoperative Anuria]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Postoperative Fever Day 3|Postoperative Fever Day 3]] — related topic
+> - [[Answers/General/Postoperative Hyponatremia|Postoperative Hyponatremia]] — related topic

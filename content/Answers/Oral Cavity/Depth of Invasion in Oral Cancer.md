@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Staging
   - Pathology
-  - Evidence-Based
-  - Prognostic-Factors
+  - Staging
 ---
 
 > [!question] Questions Covered
@@ -17,7 +15,7 @@ Harrison's Head and Neck Cancer Ch6; Jatin Shah Ch6, Ch8; Stell & Maran's Ch8; M
 
 > [!cite] Landmark Articles
 >
-> Huang et al. (2009) published a definitive meta-analysis of 16 studies confirming the predictive value of tumour thickness for cervical lymph node metastasis in oral SCC, establishing the evidence base that would later influence AJCC staging changes. Ebrahimi et al. (2014) conducted a landmark international multicenter study of 3,149 patients proposing incorporation of depth of invasion into T staging for oral cavity cancer, directly informing the AJCC 8th edition revision. Lydiatt et al. (2017) described the major changes in the AJCC 8th edition, in which DOI was officially incorporated into T classification for oral cavity cancers — the most significant staging change for oral cancer in decades. Almangush et al. (2015) demonstrated that DOI and worst pattern of invasion are the strongest pathological predictors of locoregional recurrence in early-stage oral tongue cancer, with a 4 mm cutoff as the critical threshold. Ganly et al. (2012) published a Memorial Sloan Kettering analysis validating the prognostic significance of DOI in oral tongue cancer, showing its superiority over tumour thickness in predicting nodal metastasis.
+> Huang et al. (2009) published a definitive meta-analysis of 16 studies confirming the predictive value of tumour thickness for cervical lymph node metastasis in oral SCC, establishing the evidence base that would later influence [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC staging]] changes. Ebrahimi et al. (2014) conducted a landmark international multicenter study of 3,149 patients proposing incorporation of depth of invasion into T staging for oral cavity cancer, directly informing the AJCC 8th edition revision. Lydiatt et al. (2017) described the major changes in the AJCC 8th edition, in which DOI was officially incorporated into T classification for oral cavity cancers — the most significant staging change for oral cancer in decades. Almangush et al. (2015) demonstrated that DOI and worst pattern of invasion are the strongest pathological predictors of locoregional recurrence in early-stage oral tongue cancer, with a 4 mm cutoff as the critical threshold. Ganly et al. (2012) published a Memorial Sloan Kettering analysis validating the prognostic significance of DOI in oral tongue cancer, showing its superiority over tumour thickness in predicting nodal metastasis.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -50,7 +48,7 @@ The key change in the 8th edition was incorporating DOI as a modifier of T stage
 | T2 | ≤2 cm with DOI >5 mm, OR >2–4 cm | DOI ≤10 mm |
 | T3 | >2 cm with DOI >10 mm, OR >4 cm | DOI >10 mm |
 | T4a | Moderately advanced local disease | Invades adjacent structures |
-| T4b | Very advanced local disease | Masticator space, skull base, ICA |
+| T4b | Very advanced local disease | [[Answers/Oral Cavity/Masticator Space|masticator space]], skull base, ICA |
 
 **Important:** A small tumour (≤2 cm) with deep invasion (>5 mm) is upstaged to T2; a ≤2 cm tumour with DOI >10 mm becomes T3. This reflects the clinical reality that deeply invasive small tumours behave aggressively despite their deceptively small surface dimensions.
 
@@ -71,7 +69,7 @@ The **4 mm DOI cutoff** has emerged as the most widely accepted threshold for re
 
 ### 2. Decision-Making for Elective Neck Dissection
 
-- DOI ≤4 mm and clinically N0 → observation with close surveillance may be acceptable (sentinel node biopsy is an alternative)
+- DOI ≤4 mm and clinically N0 → observation with close surveillance may be acceptable ([[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|sentinel node biopsy]] is an alternative)
 - DOI >4 mm and clinically N0 → **elective neck dissection is recommended** (levels I–III or I–IV)
 - This DOI-based approach has been validated in multiple international studies and is now incorporated into NCCN guidelines
 
@@ -79,13 +77,13 @@ The **4 mm DOI cutoff** has emerged as the most widely accepted threshold for re
 
 DOI influences the decision to recommend adjuvant radiotherapy even in the absence of other adverse features:
 
-**Adjuvant RT indications in oral SCC (NCCN):**
+**[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] indications in oral SCC (NCCN):**
 - DOI >5 mm (some guidelines use >4 mm)
-- Perineural invasion
+- [[Answers/General/Perineural Invasion|perineural invasion]]
 - Lymphovascular invasion
 - Close margins (<5 mm)
 - pN+ disease
-- Extranodal extension (indication for concurrent chemoRT)
+- [[Answers/General/Extranodal Extension|extranodal extension]] (indication for concurrent chemoRT)
 
 DOI as a **sole criterion** for adjuvant RT: A deeply invasive tumour (DOI >5 mm) with clear margins and no other adverse features still warrants consideration for adjuvant RT because of the high risk of occult nodal disease and local recurrence. The TMH 2019 question specifically addresses this — the answer is that DOI alone can justify adjuvant treatment.
 
@@ -153,3 +151,16 @@ The management of the clinically N0 neck in oral cavity cancer is heavily influe
 > - DOI as a sole criterion for adjuvant RT is a nuanced but important concept — a pT2N0 oral tongue SCC with 7 mm DOI and clear margins still warrants adjuvant RT discussion because the biology is aggressive
 > - Pre-operative MRI DOI measurement guides surgical planning, but always correlate with final pathological DOI — MRI overestimates by 1–3 mm due to peri-tumoural inflammation
 > - Extrinsic tongue muscle invasion is no longer a T4a criterion in AJCC 8th edition — it was removed because DOI captures the same prognostic information more reproducibly
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — DOI-based T-staging
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/General/Perineural Invasion|Perineural Invasion]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Histological Risk Assessment in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic

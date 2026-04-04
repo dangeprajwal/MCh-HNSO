@@ -1,14 +1,12 @@
 ---
 tags:
   - Oral-Cavity
-  - Oropharynx
-  - Surgical-Technique
-  - Mandible
+  - Surgery
 ---
 
 > [!question] Questions Covered
 > - Access mandibulotomies for head and neck cancer resection – indications, techniques, complications (AMRITA 2010)
-> - Discuss the new changes in AJCC 8th Edition staging of Oral Cavity cancer. Describe the surgical approaches to a posterior oral tongue carcinoma (AMRITA 2020) — surgical approaches portion
+> - Discuss the new changes in [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] Edition staging of Oral Cavity cancer. Describe the surgical approaches to a posterior oral tongue carcinoma (AMRITA 2020) — surgical approaches portion
 
 ## Source
 
@@ -39,12 +37,12 @@ Access mandibulotomy (also called mandibular swing or lip-splitting mandibulotom
 3. **Tonsillar and lateral oropharyngeal tumours** — especially when transoral access is insufficient
 4. **Soft palate tumours** with posterior extension
 5. **Parapharyngeal space tumours** — both pre-styloid and post-styloid compartments
-6. **Infratemporal fossa tumours** — extended mandibular swing
+6. **[[Answers/Oral Cavity/Infratemporal Fossa Spread|infratemporal fossa]] tumours** — extended mandibular swing
 7. **Nasopharyngeal tumours** — selected cases requiring lateral access
 
 ### When Access Mandibulotomy Is Preferred Over Transoral Surgery
 
-- Limited mouth opening (trismus)
+- Limited mouth opening ([[Answers/General/Trismus Prevention|trismus]])
 - Large tumour requiring wide en bloc resection
 - Tumour proximity to the carotid sheath requiring controlled exposure
 - Need for combined tumour resection + neck dissection through a single approach
@@ -53,7 +51,7 @@ Access mandibulotomy (also called mandibular swing or lip-splitting mandibulotom
 ### Contraindications
 
 - Tumour directly invading the mandible (requires mandibulectomy, not access mandibulotomy)
-- Previously irradiated mandible (high risk of osteoradionecrosis and non-union)
+- Previously irradiated mandible (high risk of [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|osteoradionecrosis]] and non-union)
 - Patient unfit for prolonged surgery
 - Tumour amenable to adequate transoral resection (TORS or conventional)
 
@@ -108,7 +106,7 @@ Access mandibulotomy (also called mandibular swing or lip-splitting mandibulotom
 - Reduce the mandible to its anatomical position
 - Fix with pre-bent miniplates and monocortical screws (typically 2.0 mm system)
 - **Rigid fixation is essential** for mandibular union
-- Close floor of mouth, lip, and skin in layers
+- Close [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]], lip, and skin in layers
 
 ## Complications
 
@@ -171,3 +169,16 @@ The lip-split mandibulotomy incision is designed to incorporate a neck dissectio
 > - The chin crease incision for the lip split is critical for cosmesis — a poorly placed lip scar is immediately visible and permanent
 > - If the mandible has been previously irradiated, avoid mandibulotomy if at all possible — consider transoral approaches or lateral pharyngotomy instead
 > - For the exam, emphasise that mandibular swing provides the widest access to the oropharynx and parapharyngeal space — it remains the gold standard open approach despite the rise of TORS
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Infratemporal Fossa Spread|Infratemporal Fossa Spread]] — surgical access for deep tumours
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Marginal Mandibulectomy|Marginal Mandibulectomy]] — related topic
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|Osteoradionecrosis of the Mandible]] — related topic
+> - [[Answers/Oral Cavity/Tongue Reconstruction Algorithm|Tongue Reconstruction Algorithm]] — related topic

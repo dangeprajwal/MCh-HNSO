@@ -1,8 +1,8 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - oncology
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Epigenetics in Oncogenesis
@@ -10,10 +10,10 @@ tags:
 > [!question] Questions Covered
 > - Epigenetics in oncogenesis (KIDWAI 2020)
 
-**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer — Epigenetic Modifications, MLL2, let-7c); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 16 (Molecular Underpinnings — Promoter Hypermethylation, MicroRNA); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 3 (Molecular Biology — Epigenetic Silencing, p16 Hypermethylation)
+**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Molecular Biology of Head and Neck Cancer — Epigenetic Modifications, MLL2, let-7c); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 16 (Molecular Underpinnings — Promoter Hypermethylation, [[Answers/General/MicroRNAs in Oral Cancer|microRNAs]]); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 3 (Molecular Biology — Epigenetic Silencing, p16 Hypermethylation)
 
 > [!cite] Landmark Articles
-> Epigenetic alterations — heritable changes in gene expression without changes in DNA sequence — are now recognized as a fundamental mechanism in cancer development, complementing genetic mutations. Jones and Baylin (2002) published the seminal review in Nature Reviews Genetics establishing that epigenetic events, particularly promoter hypermethylation and genome-wide hypomethylation, are fundamental to cancer initiation and progression — this paper provided the conceptual framework for cancer epigenetics. Esteller (2002) published the landmark Oncogene review establishing that CpG island hypermethylation of tumour suppressor gene promoters is a universal mechanism for gene inactivation across virtually every tumour type. Dawson and Kouzarides (2012) published the comprehensive Cell review connecting epigenetic mechanisms (DNA methylation, histone modification, nucleosome remodelling, non-coding RNAs) to cancer hallmarks, and highlighting the emergence of epigenetic drugs as a new therapeutic class. Shaw (2006) published the first focused review of epigenetics in oral cancer, demonstrating that DNA methylation, histone modifications, and chromatin remodelling silence key tumour suppressor genes in HNSCC and proposing methylation profiling for molecular staging. The Cancer Genome Atlas Network (2015) provided the definitive genomic landscape of HNSCC, revealing that the histone methyltransferase MLL2 is mutated in 18% of head and neck cancers — establishing epigenetic regulators as major targets in HNSCC.
+> Epigenetic alterations — heritable changes in gene expression without changes in DNA sequence — are now recognized as a fundamental mechanism in cancer development, complementing genetic mutations. Jones and Baylin (2002) published the seminal review in Nature Reviews Genetics establishing that epigenetic events, particularly promoter hypermethylation and genome-wide hypomethylation, are fundamental to cancer initiation and progression — this paper provided the conceptual framework for cancer epigenetics. Esteller (2002) published the landmark Oncogene review establishing that CpG island hypermethylation of [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]] promoters is a universal mechanism for gene inactivation across virtually every tumour type. Dawson and Kouzarides (2012) published the comprehensive Cell review connecting epigenetic mechanisms (DNA methylation, histone modification, nucleosome remodelling, non-coding RNAs) to cancer hallmarks, and highlighting the emergence of epigenetic drugs as a new therapeutic class. Shaw (2006) published the first focused review of epigenetics in oral cancer, demonstrating that DNA methylation, histone modifications, and chromatin remodelling silence key tumour suppressor genes in HNSCC and proposing methylation profiling for molecular staging. The Cancer Genome Atlas Network (2015) provided the definitive genomic landscape of HNSCC, revealing that the histone methyltransferase MLL2 is mutated in 18% of head and neck cancers — establishing epigenetic regulators as major targets in HNSCC.
 >
 > | No. | Article | Authors | Journal, Year | DOI | Key Finding |
 > |-----|---------|---------|---------------|-----|-------------|
@@ -53,7 +53,7 @@ Scott-Brown's explains: typically, increased methylation of cytosines in CpG isl
 
 **In HNSCC:**
 - **CDKN2A (p16) hypermethylation** — the most frequent epigenetic alteration; observed in 10-20% of cases (Stell and Maran's), associated with reduced overall survival (Scott-Brown's)
-- **PTEN** promoter methylation — loss of PI3K pathway regulation
+- **PTEN** promoter methylation — loss of [[Answers/General/PI3-Kinase Pathway|PI3K pathway]] pathway regulation
 - **DCC (Deleted in Colon Carcinoma)** — promoter hypermethylation frequent in HNSCC, rarely mutated (Harrison)
 - **MDM2, Interferon-alpha, RAR-beta** — commonly hypermethylated (Harrison)
 
@@ -76,7 +76,7 @@ Scott-Brown's Chapter 6 notes: the TCGA network found mutations in the **histone
 
 Harrison's Chapter 16 describes: **microRNA (miRNA)** — short 22-base sequences that can selectively block gene transcription — promises to provide yet another substantial mechanism for epigenetic tumour-specific alteration.
 
-Scott-Brown's Chapter 6 provides a specific example: **let-7c** is a microRNA that regulates a number of target genes and has been found to be **down-regulated/deleted in approximately 40% of HPV-negative** head and neck cancers, associated with increased CDK6 expression and cell cycle progression.
+Scott-Brown's Chapter 6 provides a specific example: **let-7c** is a microRNA that regulates a number of target genes and has been found to be **down-regulated/deleted in approximately 40% of HPV-negative** head and neck cancers, associated with increased CDK6 expression and [[Answers/General/Cell Cycle and Cancer|cell cycle]] progression.
 
 ### 4. Chromatin Remodelling
 
@@ -108,7 +108,7 @@ Jones and Baylin (2002) established that cancers exhibit a characteristic dual p
 
 Stell and Maran's Chapter 3 provides a critical insight: p16 is inactivated through three mechanisms — somatic mutations (5-15%), homozygous deletions (30-60%), and **epigenetic silencing by hypermethylation (10-20%)**. As a result, immunohistochemical analysis demonstrates that **p16 absence is present in at least 80% of HNSCC**.
 
-### HPV-Positive vs HPV-Negative Epigenetic Profiles
+### [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV-positive]] vs HPV-Negative Epigenetic Profiles
 
 Stell and Maran's notes: HPV positivity and intrinsic p16 silencing are **mutually exclusive events**, suggesting they are functionally redundant. In HPV+ tumours, the E7 oncoprotein degrades pRB directly, while in HPV- tumours, p16 hypermethylation achieves the same functional effect of cell cycle deregulation.
 
@@ -118,7 +118,7 @@ Stell and Maran's notes: HPV positivity and intrinsic p16 silencing are **mutual
 
 ### Molecular Detection and Staging
 
-Stell and Maran's Chapter 3 describes the clinical utility: studies have included PCR-based analysis of **promoter hypermethylation events** and mitochondrial DNA mutations, suggesting improved sensitivity and specificity over traditional LOH analysis.
+Stell and Maran's Chapter 3 describes the clinical utility: studies have included [[Answers/General/PCR and Microarray Analysis|PCR]]-based analysis of **promoter hypermethylation events** and mitochondrial DNA mutations, suggesting improved sensitivity and specificity over traditional LOH analysis.
 
 Critically: tumour-specific methylation events can be detected in the **saliva and serum** of patients with HNSCC, foreseeing development of a **non-invasive routine screening test** for smokers and drinkers.
 
@@ -167,3 +167,16 @@ Dawson and Kouzarides (2012) emphasize that the **reversibility** of epigenetic 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Tumour Suppressor Genes|Tumour Suppressor Genes]] — promoter methylation silencing TSGs
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — epigenetic silencing of cell cycle regulators
+> - [[Answers/General/Next Generation Sequencing in HNC|Next Generation Sequencing in HNC]] — related topic
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/PI3-Kinase Pathway|PI3-Kinase Pathway]] — related topic
+> - [[Answers/General/Telomerase and Cancer|Telomerase and Cancer]] — related topic

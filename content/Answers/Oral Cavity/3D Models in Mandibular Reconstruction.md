@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Reconstruction
-  - Mandible
-  - Technology
+  - Diagnostics
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -39,7 +38,7 @@ Mandibular reconstruction following ablative surgery for oral cancer requires re
 2. **Segmentation** — 3D reconstruction of mandible and fibula from DICOM data using dedicated software (e.g., Materialise ProPlan CMF, Synthes, Stryker)
 3. **Virtual tumour resection** — Margins defined on the 3D model; osteotomy lines planned
 4. **Fibula segmentation** — Number and angulation of osteotomies determined to match the mandibular defect; fibula segments virtually positioned into the mandibular gap
-5. **Prosthetic-driven backward planning** — Dental implant positions planned first (if immediate implant placement is intended), and the fibula positioned to optimize implant axis and prosthetic occlusion (the "Jaw-in-a-Day" concept)
+5. **Prosthetic-driven backward planning** — [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] positions planned first (if immediate implant placement is intended), and the fibula positioned to optimize implant axis and prosthetic occlusion (the "Jaw-in-a-Day" concept)
 6. **Plate design** — Patient-specific reconstruction plate designed to match the planned neo-mandible contour
 
 ### Manufacturing
@@ -132,7 +131,20 @@ VSP-guided reconstruction demonstrates superior accuracy compared to freehand te
 
 > [!tip] Clinical Pearls
 > - Always obtain thin-slice CT (0.5–1 mm) of both mandible and donor site for accurate 3D reconstruction
-> - Plan a "safety margin" in the virtual resection — cutting guides should allow 5 mm extra resection if intraoperative frozen sections require wider margins
+> - Plan a "safety margin" in the virtual resection — cutting guides should allow 5 mm extra resection if intraoperative [[Answers/General/Frozen Section in Surgical Margins|frozen section]] require wider margins
 > - For edentulous patients with atrophic mandible, VSP is particularly valuable as it allows pre-planning the minimum bone stock needed
 > - In multi-segment reconstructions (≥3 segments), the benefit of VSP over freehand is most pronounced
 > - Consider the vascular pedicle length when planning fibula segmentation — the peroneal artery limits segment mobilisation
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — VSP for implant-guided reconstruction
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Masticator Space|Masticator Space]] — related topic
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — related topic

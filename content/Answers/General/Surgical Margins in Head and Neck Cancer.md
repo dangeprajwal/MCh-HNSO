@@ -1,9 +1,8 @@
 ---
 tags:
   - General
-  - Surgical-Oncology
   - Pathology
-  - Margins
+  - Surgery
 ---
 
 > [!question] AIIMS 2020
@@ -15,7 +14,7 @@ Harrison's Head and Neck Cancer Ch4, Ch8; Scott-Brown's Ch14; Jatin Shah Ch4, Ch
 
 > [!cite] Landmark Articles
 >
-> Surgical margins are the single most important modifiable prognostic factor in head and neck cancer surgery. Looser et al. (1978) at MSKCC classified positive margins in 1,775 resections, demonstrating 64-85% local recurrence for any margin involvement vs 32% for negative margins. Brandwein-Gensler et al. (2005) challenged the primacy of margin status alone, proposing a histologic risk assessment incorporating worst pattern of invasion (WPOI) that was more predictive than margins alone. Smits et al. (2014) published a systematic review defining the impact of close vs positive margins on locoregional recurrence. The Cooper (EORTC 22931) and Bernier (RTOG 9501) concurrent RCTs (2004) established that positive margins and extranodal extension mandate concurrent cisplatin + PORT. Brennan et al. (2017) reviewed the concept of molecular surgical margins — using p53 mutations and microsatellite analysis to detect subclinical field cancerisation beyond histological margins.
+> Surgical margins are the single most important modifiable prognostic factor in head and neck cancer surgery. Looser et al. (1978) at MSKCC classified positive margins in 1,775 resections, demonstrating 64-85% local recurrence for any margin involvement vs 32% for negative margins. [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Brandwein-Gensler risk model]] et al. (2005) challenged the primacy of margin status alone, proposing a histologic risk assessment incorporating worst pattern of invasion (WPOI) that was more predictive than margins alone. Smits et al. (2014) published a systematic review defining the impact of close vs positive margins on locoregional recurrence. The Cooper (EORTC 22931) and Bernier (RTOG 9501) concurrent RCTs (2004) established that positive margins and [[Answers/General/Extranodal Extension|extranodal extension]] mandate concurrent cisplatin + PORT. Brennan et al. (2017) reviewed the concept of molecular surgical margins — using p53 mutations and microsatellite analysis to detect subclinical [[Answers/Oral Cavity/Field Cancerization|field cancerization]] beyond histological margins.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -36,7 +35,7 @@ Achieving clear surgical margins is the primary goal of ablative head and neck c
 | Classification | UK RCPath | NCCN | Clinical Implication |
 |---|---|---|---|
 | **Clear (negative)** | >5 mm | >5 mm | Adequate resection |
-| **Close** | 1-5 mm | 1-5 mm | Increased recurrence risk; consider adjuvant RT |
+| **Close** | 1-5 mm | 1-5 mm | Increased recurrence risk; consider [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] |
 | **Positive (involved)** | <1 mm | Tumour at ink | High recurrence risk; adjuvant CRT |
 
 - **Note**: no universal consensus on exact cutoffs — some centres use "clear" as >5 mm, others >10 mm
@@ -89,9 +88,9 @@ Achieving clear surgical margins is the primary goal of ablative head and neck c
 
 | Method | Description | Advantage | Limitation |
 |---|---|---|---|
-| **Frozen section** | Rapid cryostat sections, H&E staining | Gold standard intraoperative; 95-99% accuracy | Sampling error; tissue distortion |
+| **[[Answers/General/Frozen Section in Surgical Margins|frozen section]]** | Rapid cryostat sections, H&E staining | Gold standard intraoperative; 95-99% accuracy | Sampling error; tissue distortion |
 | **Imprint cytology** | Touch preparation from margin surface | Quick (5 min); high sensitivity | Operator-dependent; no architecture |
-| **NBI-guided** | Narrow band imaging of mucosal margins | Real-time; no tissue sampling | Mucosal margins only |
+| **NBI-guided** | [[Answers/General/Narrow Band Imaging|narrow band imaging]] of mucosal margins | Real-time; no tissue sampling | Mucosal margins only |
 | **Fluorescence** | 5-ALA or autofluorescence | Real-time mucosal assessment | Early evidence; not validated |
 
 ### Specimen-Driven vs Defect-Driven Margins
@@ -144,7 +143,7 @@ Achieving clear surgical margins is the primary goal of ablative head and neck c
 |---|---|
 | **Worst pattern of invasion (WPOI)** | Type 1 (pushing) to Type 5 (tumour satellites ≥1 mm from main mass) |
 | **Lymphocytic host response** | Strong → moderate → weak |
-| **Perineural invasion** | Small nerve (<1 mm) vs large nerve (≥1 mm) |
+| **[[Answers/General/Perineural Invasion|perineural invasion]]** | Small nerve (<1 mm) vs large nerve (≥1 mm) |
 
 - WPOI-5 is the **strongest independent predictor** of local recurrence in OSCC
 - Histologic risk assessment was more predictive than margin status alone
@@ -190,3 +189,16 @@ Achieving clear surgical margins is the primary goal of ablative head and neck c
 > - The **Brandwein-Gensler WPOI-5** (tumour satellites ≥1 mm from main mass) is more predictive of local recurrence than margin distance — request WPOI scoring from your pathologist
 > - A national average of **16% positive margin rate** in advanced HNC means 1 in 6 patients leave the operating room with inadequate resection — frozen section is essential, not optional
 > - For oral tongue SCC: **mucosal margins** are the problem in T1/T2, **deep soft tissue margins** are the challenge in T3/T4 — tailor your sampling strategy accordingly
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Frozen Section in Surgical Margins|Frozen Section in Surgical Margins]] — intraoperative margin assessment
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — positive margins and adjuvant RT indication
+> - [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Histological Risk Assessment in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — margin assessment techniques
+> - [[Answers/General/Isolated Tumour Cells|Isolated Tumour Cells]] — related topic

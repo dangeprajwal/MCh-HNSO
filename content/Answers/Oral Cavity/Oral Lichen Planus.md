@@ -1,9 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Premalignant
-  - Mucosal-Disease
   - Pathology
+  - Premalignant
 ---
 
 > [!question] Questions Covered
@@ -37,7 +36,7 @@ OLP is a **T-cell mediated autoimmune disease** targeting the basal cell layer o
 
 1. **Antigen presentation** — An unknown antigen (possibly a self-antigen modified by drugs, dental materials, or infection) is presented by basal keratinocytes or Langerhans cells via MHC class I molecules
 2. **CD8+ cytotoxic T-cell activation** — Antigen-specific and non-specific mechanisms trigger CD8+ T-cell attack on basal keratinocytes
-3. **Basal cell apoptosis** — TNF-α, granzyme B, and Fas-FasL interactions cause basal cell death
+3. **Basal cell [[Answers/General/Apoptosis|apoptosis]]** — TNF-α, granzyme B, and Fas-FasL interactions cause basal cell death
 4. **Basement membrane disruption** — T-cell attack disrupts the epithelial-connective tissue interface → basement membrane degeneration
 5. **Chronic inflammation** — CD4+ helper T cells (Th1 predominant) and mast cells perpetuate the inflammatory cycle through cytokine release (IL-2, IFN-γ, TNF-α)
 
@@ -57,7 +56,7 @@ OLP is a **T-cell mediated autoimmune disease** targeting the basal cell layer o
 |---|---|---|
 | **Reticular** | White lace-like striae (Wickham's striae) | Usually asymptomatic |
 | **Papular** | Small white raised dots | Mild or none |
-| **Plaque-like** | White patches (mimics leukoplakia) | Mild or none |
+| **Plaque-like** | White patches (mimics [[Answers/Oral Cavity/Oral Leukoplakia Management|leukoplakia]]) | Mild or none |
 | **Erosive** | Central red atrophic areas with surrounding striae | Painful |
 | **Ulcerative** | Yellowish ulcers with surrounding erythema and striae | Most painful |
 | **Bullous** | Fluid-filled vesicles/bullae | Painful when ruptured |
@@ -182,3 +181,16 @@ This is the most examined and debated aspect of OLP:
 > - Desquamative gingivitis has three main causes: LP, pemphigus, and pemphigoid — biopsy is essential to differentiate
 > - The presence of dysplasia on biopsy EXCLUDES a diagnosis of OLP — reclassify as lichenoid dysplasia and manage more aggressively
 > - Tacrolimus ointment is an excellent second-line option for localised refractory lesions but requires monitoring (theoretical concern of long-term malignancy risk)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Oral Leukoplakia Management|Oral Leukoplakia Management]] — premalignant mucosal conditions
+> - [[Answers/Oral Cavity/Oral Submucous Fibrosis|Oral Submucous Fibrosis]] — related topic
+> - [[Answers/Oral Cavity/Lichen Planus and Oral Cancer|Lichen Planus and Oral Cancer]] — malignant transformation risk
+> - [[Answers/Oral Cavity/Oral Cancer Screening|Oral Cancer Screening]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Epidemiology of HNC in India|Epidemiology of HNC in India]] — related topic
+> - [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th Edition Oral Cavity Staging]] — related topic

@@ -2,13 +2,11 @@
 tags:
   - Oral-Cavity
   - Rehabilitation
-  - Swallowing
-  - Functional-Outcomes
 ---
 
 > [!question] Questions Covered
 > - Compare and Contrast FEES and Modified Barium swallow for Swallow Assessment (AIIMS 2020)
-> - Describe swallowing restoration following base tongue resection (KIDWAI 2020)
+> - Describe [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]] restoration following base tongue resection (KIDWAI 2020)
 > - Modified barium swallow (KIDWAI 2020)
 > - Swallowing restoration following surgical treatment of Base of Tongue cancer (AMRITA 2008)
 > - Describe the role of videoendoscopic swallow studies in the management of post-surgical dysphagia in oral and pharyngeal cancers (AMRITA 2019)
@@ -44,7 +42,7 @@ Dysphagia is one of the most significant functional consequences of head and nec
 | Phase | Structures | Function |
 |---|---|---|
 | Oral preparatory | Lips, teeth, tongue, palate | Mastication, bolus formation |
-| Oral transit | Tongue, floor of mouth | Tongue propels bolus posteriorly |
+| Oral transit | Tongue, [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] | Tongue propels bolus posteriorly |
 | Pharyngeal | Tongue base, pharynx, larynx | Pharyngeal contraction, airway closure, UES relaxation |
 | Oesophageal | Oesophagus | Peristalsis to stomach |
 
@@ -164,7 +162,7 @@ FEES has been shown to be equivalent to MBS in its ability to detect aspiration.
 
 ### MD Anderson Dysphagia Inventory (MDADI)
 
-- Patient-reported outcome measure for swallowing-related quality of life
+- Patient-reported outcome measure for swallowing-related [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]]
 - 20-item questionnaire covering global, emotional, functional, and physical domains
 
 ## Swallowing Disorders After Oral/Oropharyngeal Surgery
@@ -196,7 +194,7 @@ The tongue base is the most critical structure for safe swallowing — its retra
 
 - Mucositis → odynophagia → reduced oral intake
 - Oedema of pharyngeal/laryngeal structures
-- Xerostomia → difficulty forming and propelling bolus
+- [[Answers/General/Xerostomia Management|xerostomia]] → difficulty forming and propelling bolus
 - Most patients recover oral function within 3–6 months of RT completion
 
 ### Late Effects (>3 months post-RT)
@@ -205,7 +203,7 @@ The tongue base is the most critical structure for safe swallowing — its retra
 - **Reduced hyolaryngeal excursion** → impaired UES opening → aspiration
 - **Tongue base fibrosis** → reduced retraction → pharyngeal residue
 - **Laryngeal oedema** → impaired airway closure
-- **Trismus** → restricted oral access → difficulty eating
+- **[[Answers/General/Trismus Prevention|trismus]]** → restricted oral access → difficulty eating
 - **Xerostomia** — persistent in most patients after bilateral parotid irradiation
 
 ### Late Radiation-Associated Dysphagia (Late RAD)
@@ -257,7 +255,7 @@ There is growing evidence that swallowing exercises initiated **before and durin
 ### Prosthetic Interventions
 
 - **Palatal augmentation prosthesis** — lowers the palatal vault for patients with reduced tongue mobility; more useful for speech than swallowing (except when it fills a pooling defect)
-- **Palatal obturator** — for oronasal fistulae after palatal resection
+- **Palatal [[Answers/Oral Cavity/Obturator vs Flap Reconstruction|obturator reconstruction]]** — for oronasal fistulae after palatal resection
 - **Palatal drop prosthesis** — for soft palate deficiency/velopharyngeal incompetence
 
 ### Dietary Modifications
@@ -291,3 +289,16 @@ There is growing evidence that swallowing exercises initiated **before and durin
 > - The Shaker exercise (supine head lift) is the simplest evidence-based exercise for improving UES opening — teach it to every patient with pharyngeal residue or reduced hyolaryngeal excursion
 > - Start prophylactic swallowing exercises BEFORE chemoradiotherapy begins — waiting until after treatment results in worse outcomes due to fibrosis and disuse atrophy
 > - The quality of reconstruction matters more than the extent of resection — a total glossectomy with a well-inset flap can swallow better than a partial glossectomy with a tethered, bulky reconstruction
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — swallowing evaluation and therapy
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — related topic
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic

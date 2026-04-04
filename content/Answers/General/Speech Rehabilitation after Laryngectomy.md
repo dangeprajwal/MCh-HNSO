@@ -1,10 +1,9 @@
 ---
 tags:
-  - general
-  - larynx
-  - rehabilitation
-  - survivorship
-  - surgery
+  - General
+  - Rehabilitation
+  - Supportive-Care
+  - Surgery
 ---
 
 # Speech Rehabilitation after Laryngectomy
@@ -35,7 +34,7 @@ tags:
 
 ## Introduction
 
-Total laryngectomy results in the permanent loss of the vocal cords and normal voice production, along with the formation of a permanent neck stoma and separation of the trachea from the oesophagus into discrete systems. As described in Montgomery's textbook (Chapter 32), the loss of the voice, altered swallowing, and a permanent tracheostoma continue to have profound effects on the patient's physical and psychological rehabilitation. For patients who undergo laryngectomy, the speech pathologist is a critical member of the multidisciplinary team because of the loss of laryngeal voice and the inability to produce audible and intelligible speech.
+Total laryngectomy results in the permanent loss of the vocal cords and normal voice production, along with the formation of a permanent neck stoma and separation of the trachea from the oesophagus into discrete systems. As described in Montgomery's textbook (Chapter 32), the loss of the voice, altered [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], and a permanent tracheostoma continue to have profound effects on the patient's physical and psychological rehabilitation. For patients who undergo laryngectomy, the speech pathologist is a critical member of the multidisciplinary team because of the loss of laryngeal voice and the inability to produce audible and intelligible speech.
 
 ### What is Speech?
 
@@ -245,3 +244,16 @@ Nasal functions of air humidification, filtration, and warming are lost when air
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/General/Swallowing Assessment in Head and Neck Cancer|Swallowing Assessment in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Infrared Therapy in Head and Neck Cancer|Infrared Therapy in Head and Neck Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — rehabilitation and QoL outcomes
+> - [[Answers/General/Xerostomia Management|Xerostomia Management]] — related topic

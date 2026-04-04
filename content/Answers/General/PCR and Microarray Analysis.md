@@ -1,9 +1,9 @@
 ---
 tags:
-  - general
-  - molecular-biology
-  - diagnostics
-  - oncology
+  - General
+  - Diagnostics
+  - Molecular-Biology
+  - Oncology
 ---
 
 # PCR and Microarray Analysis in Head and Neck Cancer
@@ -63,7 +63,7 @@ Harrison's notes: most PCR methods typically amplify DNA fragments of up to **10
 | **RT-PCR** | Reverse transcribes RNA → cDNA → PCR | Gene expression analysis |
 | **qRT-PCR** | Quantitative RT-PCR | HPV E6/E7 mRNA detection — gold standard for HPV biological activity |
 | **Methylation-specific PCR** | Detects methylated CpG islands | Promoter hypermethylation analysis |
-| **LOH analysis** | PCR-based microsatellite analysis | Molecular staging of surgical margins |
+| **LOH analysis** | PCR-based microsatellite analysis | Molecular staging of [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] |
 
 ### Applications of PCR in HNSCC
 
@@ -138,7 +138,7 @@ Stell and Maran's acknowledges: reproducibility issues associated with **RNA-bas
 
 | Technique | Principle | Application |
 |-----------|-----------|-------------|
-| **FISH** | Fluorescent probes hybridize to chromosomal targets | Gene amplification (EGFR, CCND1); HPV detection |
+| **[[Answers/General/FISH in Head and Neck Cancer|FISH]]** | Fluorescent probes hybridize to chromosomal targets | Gene amplification (EGFR, CCND1); HPV detection |
 | **CISH** | Chromogenic detection of hybridized probes | HPV detection on FFPE tissue |
 | **CGH** | Compares tumour vs normal genome for copy number | Identifies chromosomal gains/losses |
 | **IHC** | Antibody-based protein detection | p16, p53, Ki-67 expression |
@@ -169,3 +169,16 @@ Stell and Maran's acknowledges: reproducibility issues associated with **RNA-bas
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/FISH in Head and Neck Cancer|FISH in Head and Neck Cancer]] — molecular diagnostic techniques
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — related topic
+> - [[Answers/Oral Cavity/Salivary Biomarkers in Oral Cancer|Salivary Biomarkers in Oral Cancer]] — related topic

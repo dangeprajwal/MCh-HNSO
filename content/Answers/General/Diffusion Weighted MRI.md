@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - radiology
-  - imaging
-  - oncology
+  - General
+  - Diagnostics
+  - Oncology
 ---
 
 # Diffusion Weighted MRI in Head and Neck Cancer
@@ -148,7 +147,7 @@ Stell and Maran's notes that recurrent tumour tends to have a low ADC in compari
 Scott-Brown's Chapter 7 notes that T2 and diffusion-weighted sequences are useful in distinguishing between retained secretions, tumour, or mucosal thickening in sinonasal malignancy — a common diagnostic dilemma where conventional MRI alone may be insufficient.
 
 ### Salivary Gland Tumours
-Scott-Brown's Chapter 10 describes DW-MRI as having superior diagnostic efficacy in identifying malignancy based on a specific diffusion pattern. DW-MRI is of value for the characterization of minor salivary gland tumours and parotid masses. However, Warthin's tumours may show low ADC values mimicking malignancy.
+Scott-Brown's Chapter 10 describes DW-MRI as having superior diagnostic efficacy in identifying malignancy based on a specific diffusion pattern. DW-MRI is of value for the characterization of [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|minor salivary gland tumours]] tumours and parotid masses. However, Warthin's tumours may show low ADC values mimicking malignancy.
 
 ### Larynx and Hypopharynx
 Stell and Maran's Chapter 32 lists DW-MRI among newer imaging modalities that should be employed more widely in difficult cases of hypopharyngeal cancer, particularly for post-treatment assessment. For laryngeal cancer, DW-MRI aids in distinguishing post-chemoradiation changes from recurrence.
@@ -172,7 +171,7 @@ As detailed in Part B, DW-MRI provides functional information complementary to m
 ### Limitations
 
 1. **Susceptibility artefacts** — air-tissue interfaces in the head and neck (paranasal sinuses, skull base, dental amalgam) cause signal distortion
-2. **Motion artefacts** — swallowing, breathing, and vascular pulsation degrade image quality
+2. **Motion artefacts** — [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], breathing, and vascular pulsation degrade image quality
 3. **Spatial resolution** — lower than conventional MRI
 4. **ADC overlap** — some benign lesions (Warthin's tumour, abscess) show low ADC values, and some malignant lesions with extensive necrosis show high values
 5. **Lack of standardization** — different scanners, b-values, and measurement techniques limit comparability across institutions
@@ -210,3 +209,16 @@ As detailed in Part B, DW-MRI provides functional information complementary to m
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Molecular Markers and Proteomics|Molecular Markers and Proteomics]] — related topic
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic
+> - [[Answers/General/Paraneoplastic Syndrome|Paraneoplastic Syndrome]] — related topic
+> - [[Answers/Oral Cavity/Imaging in Oral Cancer|Imaging in Oral Cancer]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic

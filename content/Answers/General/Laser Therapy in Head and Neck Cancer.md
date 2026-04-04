@@ -1,10 +1,8 @@
 ---
 tags:
-  - general
-  - larynx
-  - oral-cavity
-  - surgery
-  - treatment
+  - General
+  - Oncology
+  - Surgery
 ---
 
 # Laser Therapy in Head and Neck Cancer
@@ -34,7 +32,7 @@ Laser technology has transformed the surgical management of head and neck cancer
 
 TLM differs fundamentally from traditional surgical oncology by departing from the classic Halstedian principle of en bloc resection — the idea that tumour must be removed in a single, intact block with a wide margin of normal tissue. Instead, Steiner demonstrated that dividing the tumour with the laser beam and following the margin under magnification — what he termed "mosaic resection" — allowed the surgeon to precisely map the three-dimensional extent of the tumour, achieve complete excision with minimal removal of normal tissue, and obtain multiple specimens for comprehensive histopathological assessment. This paradigm shift was initially met with considerable scepticism from the oncological surgery community, which viewed cutting through tumour as oncologically unsound. However, Steiner's results — 100% adjusted 5-year survival with only 6% local recurrence in early glottic cancer — silenced the critics and established TLM as a standard of care.
 
-In contrast to radiation-based organ preservation protocols, TLM places no limit on future treatment options — if a patient recurs after TLM, they can be re-treated with further TLM, undergo open surgery, or receive radiotherapy. This is a crucial advantage, because radiotherapy is a one-time treatment (re-irradiation carries unacceptable toxicity), and patients treated initially with radiotherapy who recur often have no option other than total laryngectomy. TLM also avoids the long-term side effects of radiotherapy — xerostomia, mucositis, dysphagia, fibrosis, hypothyroidism, and osteoradionecrosis — all of which can significantly impair quality of life for decades after treatment.
+In contrast to radiation-based organ preservation protocols, TLM places no limit on future treatment options — if a patient recurs after TLM, they can be re-treated with further TLM, undergo open surgery, or receive radiotherapy. This is a crucial advantage, because radiotherapy is a one-time treatment (re-irradiation carries unacceptable toxicity), and patients treated initially with radiotherapy who recur often have no option other than total laryngectomy. TLM also avoids the long-term side effects of radiotherapy — [[Answers/General/Xerostomia Management|xerostomia]], mucositis, dysphagia, fibrosis, hypothyroidism, and [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|osteoradionecrosis]] — all of which can significantly impair [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]] for decades after treatment.
 
 ---
 
@@ -146,7 +144,7 @@ As described in Scott-Brown's Volume 3 (Chapter 22), TLM is a minimally invasive
 
 ### Advantages of TLM
 
-- **Organ preservation:** Maintains laryngeal function — voice, swallowing, airway
+- **Organ preservation:** Maintains laryngeal function — voice, [[Answers/General/Swallowing Assessment in Head and Neck Cancer|swallowing assessment]], airway
 - **No limit on future treatment:** Unlike RT, TLM does not preclude further options if recurrence occurs
 - **Avoids RT sequelae:** No xerostomia, fibrosis, dysphagia from radiation
 - **Diagnostic precision:** Microsurgical examination defines true tumour extent
@@ -155,7 +153,7 @@ As described in Scott-Brown's Volume 3 (Chapter 22), TLM is a minimally invasive
 
 ### Limitations of TLM
 
-- Requires adequate endoscopic exposure — patients with trismus, limited neck extension, or bulky tumours may not be accessible
+- Requires adequate endoscopic exposure — patients with [[Answers/General/Trismus Prevention|trismus]], limited neck extension, or bulky tumours may not be accessible
 - Learning curve — requires microsurgical expertise
 - Piecemeal resection complicates margin assessment
 - Not suitable for deeply invasive tumours (T3-T4 with cartilage invasion)
@@ -188,9 +186,22 @@ As described in Scott-Brown's Volume 3 (Chapter 22), TLM is a minimally invasive
 > - TLM is not just "burning away" tumour — it is precision microsurgery under magnification with frozen-section margin control
 > - The biggest contraindication to TLM is inadequate exposure, not tumour size — always assess access before committing to TLM
 > - Voice outcomes after TLM depend on the depth and extent of cordectomy — Type I-II have excellent voice, Type IV-V have poor voice
-> - Unlike RT, TLM can be repeated without cumulative toxicity — this is a major advantage for field cancerization and second primaries
+> - Unlike RT, TLM can be repeated without cumulative toxicity — this is a major advantage for [[Answers/Oral Cavity/Field Cancerization|field cancerization]] and second primaries
 > - In post-RT recurrence, TLM is often the only organ-preserving surgical option — total laryngectomy is the alternative
 > - The CO2 laser smoke plume can contain HPV DNA — always use a smoke evacuator, especially when treating papillomatosis
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Jaw Osteosarcoma|Jaw Osteosarcoma]] — related topic
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Trismus Prevention|Trismus Prevention]] — related topic
+> - [[Answers/Oral Cavity/Osteoradionecrosis of the Mandible|Osteoradionecrosis of the Mandible]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic

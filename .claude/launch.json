@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "quartz-dev",
-      "runtimeExecutable": "npx",
+      "runtimeExecutable": "/Users/prajwaldange/.nvm/versions/node/v24.6.0/bin/npx",
       "runtimeArgs": ["quartz", "build", "--serve"],
       "port": 8080
     }

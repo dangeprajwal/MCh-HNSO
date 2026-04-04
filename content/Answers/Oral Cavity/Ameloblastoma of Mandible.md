@@ -1,10 +1,8 @@
 ---
 tags:
   - Oral-Cavity
-  - Mandible
-  - Surgical-Technique
   - Pathology
-  - Reconstruction
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -119,8 +117,8 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 | Conservative | Enucleation ± curettage | 50–90% | NOT recommended for solid type |
 | Conservative | Enucleation + Carnoy's solution | 10–30% | Unicystic (selected cases) |
 | Conservative | Marsupialization → enucleation | 10–20% | Large unicystic in young patients |
-| Radical | Marginal mandibulectomy | 5–15% | Small, localized tumours away from inferior border |
-| Radical | Segmental mandibulectomy | 0–5% | Standard for solid/multicystic type |
+| Radical | [[Answers/Oral Cavity/Marginal Mandibulectomy|marginal mandibulectomy]] | 5–15% | Small, localized tumours away from inferior border |
+| Radical | [[Answers/Oral Cavity/Types of Mandibulectomy|segmental mandibulectomy]] | 0–5% | Standard for solid/multicystic type |
 
 ### Treatment by Type
 
@@ -146,13 +144,13 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 - More aggressive behaviour than mandibular — thinner bone barriers allow rapid spread to nasal cavity, maxillary sinus, orbit, skull base
 - **Partial or total maxillectomy** required
 - Higher recurrence rate than mandibular ameloblastoma
-- Consider adjuvant RT for close/positive margins in maxillary cases
+- Consider [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] for close/positive margins in maxillary cases
 
 ## Reconstruction
 
 | Defect | Reconstruction Option | Advantages |
 |---|---|---|
-| Lateral mandible defect | Fibula free flap | Gold standard; 25 cm bone stock; allows dental implants |
+| Lateral mandible defect | Fibula free flap | Gold standard; 25 cm bone stock; allows [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] |
 | Anterior mandible (arch) | Fibula with double-barrel | Restores height; implant-ready |
 | Posterior body/ramus | Fibula or iliac crest | Bulk for masticatory function |
 | Soft tissue only (peripheral) | Primary closure | Minimal defect |
@@ -212,3 +210,16 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 > 3. Always get **CT with 3D reconstruction** before surgery — OPG alone underestimates the extent of cortical perforation and soft tissue extension
 > 4. For large mandibular ameloblastoma, **pre-plate the fibula** using 3D-printed cutting guides — this dramatically improves occlusal and contour outcomes
 > 5. If a patient with unresectable or multiply recurrent ameloblastoma — request **BRAF V600E testing**; vemurafenib has produced dramatic shrinkage in case series
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Types of Mandibulectomy|Types of Mandibulectomy]] — mandibulectomy for odontogenic tumours
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+> - [[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D Models in Mandibular Reconstruction]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Adjuvant Radiation Therapy in Oral Cancer]] — related topic
+> - [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|Dental Implants after Mandibular Reconstruction]] — related topic

@@ -1,17 +1,17 @@
 ---
 tags:
-  - general
-  - oncology
-  - staging
-  - perioperative
+  - General
+  - Complications
+  - Oncology
+  - Staging
 ---
 
 # WHO/ECOG Performance Status Scale
 
 > [!question] Questions Covered
-> - WHO performance scale (KIDWAI 2020)
+> - WHO [[Answers/General/Performance Scales and [[Answers/General/RECIST Criteria|RECIST criteria]]|performance scales]] (KIDWAI 2020)
 
-**Source:** Stell and Maran's Textbook of Head and Neck Surgery, Chapter 4 (Assessment of HNC Patient — Table 4.1), Chapter 7 (Treatment Options — Karnofsky Index, Table 7.3), Chapter 9 (Measures of Treatment Outcomes — Comorbidity Indices); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Pretreatment Evaluation), Chapter 8 (Quality of Life)
+**Source:** Stell and Maran's Textbook of Head and Neck Surgery, Chapter 4 (Assessment of HNC Patient — Table 4.1), Chapter 7 (Treatment Options — Karnofsky Index, Table 7.3), Chapter 9 (Measures of Treatment Outcomes — Comorbidity Indices); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Pretreatment Evaluation), Chapter 8 ([[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]])
 
 > [!cite] Landmark Articles
 > Performance status assessment is a cornerstone of oncological decision-making, influencing treatment selection, clinical trial eligibility, and prognostic stratification. Karnofsky and Burchenal (1949) developed the first formal performance status scale — the Karnofsky Performance Status (KPS) — as a standardization tool to quantify the effects of chemotherapeutic agents, using an 11-point scale from 0% (dead) to 100% (normal). Oken et al. (1982) published the formal ECOG Performance Status Scale (also known as the WHO/Zubrod scale), a simpler 6-point scale (0-5) that has become the most widely used performance measure in clinical trials. Miller et al. (1981) established the WHO criteria for reporting results of cancer treatment, endorsing the ECOG scale as the standard. List et al. (1990) developed the Performance Status Scale for Head and Neck Cancer (PSS-HN) — the only performance instrument specifically designed for head and neck cancer patients, measuring understandability of speech, normalcy of diet, and eating in public. Piccirillo (2000) demonstrated that comorbidity assessment (ACE-27) is an essential complement to performance status, being an independent prognostic factor in head and neck cancer.
@@ -177,3 +177,16 @@ Stell and Maran's Chapter 7 notes: the prognostic impact of comorbidities could 
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Performance Scales and RECIST|Performance Scales and RECIST]] — performance status assessment
+> - [[Answers/General/Oncologic Emergencies and End of Life|Oncologic Emergencies and End of Life]] — related topic
+> - [[Answers/General/Paraneoplastic Syndrome|Paraneoplastic Syndrome]] — related topic
+> - [[Answers/General/Decision Making Factors in HNC|Decision Making Factors in HNC]] — related topic
+>
+> **See Also:**
+> - [[Answers/General/Quality of Life in Head and Neck Cancer|Quality of Life in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic

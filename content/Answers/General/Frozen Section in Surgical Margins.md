@@ -1,13 +1,12 @@
 ---
 tags:
   - General
-  - Surgical-Oncology
   - Pathology
-  - Margins
+  - Surgery
 ---
 
 > [!question] AMRITA 2017
-> Frozen section in surgical margins
+> Frozen section in [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]
 
 ## Source
 
@@ -15,7 +14,7 @@ Harrison's Head and Neck Cancer Ch4, Ch8; Scott-Brown's Ch14, Ch29; Jatin Shah C
 
 > [!cite] Landmark Articles
 >
-> Frozen section assessment of surgical margins remains fundamental to head and neck surgical oncology. Looser et al. (1978) at MSKCC classified positive margins in 1,775 resections into four categories (close, atypia, CIS, invasive carcinoma), demonstrating local recurrence of 64-85% for any positive margin vs 32% for negative margins — establishing the foundational margin classification. Byers et al. (1978) demonstrated the therapeutic value of intraoperative frozen section, showing that additional resection guided by frozen section reduced local recurrence from 80% to 13%. Ord & Aisner (1997) reported 99% frozen section accuracy vs permanent section, but identified sampling error as the key limitation — 7/49 patients had positive final margins missed at frozen section. DiNardo et al. (2000) evaluated the accuracy, utility, and cost-effectiveness of frozen section margins in HNC surgery. Brandwein-Gensler et al. (2005) challenged the primacy of margin status alone, proposing a histologic risk assessment model incorporating worst pattern of invasion that was more predictive of outcomes.
+> Frozen section assessment of surgical margins remains fundamental to head and neck surgical oncology. Looser et al. (1978) at MSKCC classified positive margins in 1,775 resections into four categories (close, atypia, CIS, invasive carcinoma), demonstrating local recurrence of 64-85% for any positive margin vs 32% for negative margins — establishing the foundational margin classification. Byers et al. (1978) demonstrated the therapeutic value of intraoperative frozen section, showing that additional resection guided by frozen section reduced local recurrence from 80% to 13%. Ord & Aisner (1997) reported 99% frozen section accuracy vs permanent section, but identified sampling error as the key limitation — 7/49 patients had positive final margins missed at frozen section. DiNardo et al. (2000) evaluated the accuracy, utility, and cost-effectiveness of frozen section margins in HNC surgery. [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Brandwein-Gensler risk model]] et al. (2005) challenged the primacy of margin status alone, proposing a histologic risk assessment model incorporating worst pattern of invasion that was more predictive of outcomes.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -133,7 +132,7 @@ Further refined positive margins into:
 
 ### Positive Margins and Adjuvant Therapy
 
-- **Cooper/Bernier RCTs (2004)**: concurrent cisplatin + PORT improves locoregional control for positive margins and extracapsular spread
+- **Cooper/Bernier RCTs (2004)**: concurrent cisplatin + PORT improves locoregional control for positive margins and [[Answers/General/Extranodal Extension|extranodal extension]]
 - **Zelefsky**: 7-year local control 92% with ≥60 Gy vs 44% with <60 Gy for positive margins
 - **Beitler**: brachytherapy boost to 120-160 Gy yielded 92% 2-year local control
 
@@ -147,11 +146,11 @@ Margin status alone is **not an independent predictor** of local recurrence in O
 |---|---|
 | **Worst pattern of invasion (WPOI)** | Type 1-4 (cohesive → single cells/satellites) |
 | **Lymphocytic host response** | Strong, moderate, weak |
-| **Perineural invasion** | Small nerve (<1 mm) vs large nerve (≥1 mm) |
+| **[[Answers/General/Perineural Invasion|perineural invasion]]** | Small nerve (<1 mm) vs large nerve (≥1 mm) |
 
 - WPOI-5 (tumour satellites ≥1 mm from main tumour mass) later added — strongest predictor of local recurrence
 - Histologic risk assessment was more predictive than margin status alone for local disease-free and overall survival
-- Adjuvant RT benefited only high-risk patients by this model
+- [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant RT]] benefited only high-risk patients by this model
 
 ## Advanced Margin Assessment Techniques
 
@@ -164,12 +163,12 @@ Margin status alone is **not an independent predictor** of local recurrence in O
 
 ### Molecular Margins
 
-- Conventional frozen section misses molecular field change
+- Conventional frozen section misses molecular [[Answers/Oral Cavity/Field Cancerization|field cancerization]]
 - **p53 mutations**: detected in histologically normal margins — predictor of local recurrence
 - **Microsatellite analysis**: loss of heterozygosity (LOH) at tumour-specific loci in margins
 - **Limitation**: not available intraoperatively; research tools only
 
-### Narrow Band Imaging (NBI)
+### [[Answers/General/Narrow Band Imaging|narrow band imaging]] (NBI)
 
 - Intraoperative NBI-guided margin assessment for mucosal margins
 - Enhanced visualisation of irregular intrapapillary capillary loops (IPCL) at mucosal edge
@@ -197,3 +196,16 @@ Margin status alone is **not an independent predictor** of local recurrence in O
 > - In tongue SCC, mucosal margins are more commonly positive in early-stage disease, while deep soft tissue margins are the challenge in advanced disease
 > - **Do not rely solely on frozen section** — 99% of American HN surgeons use it, but over-reliance may result in under-treatment; always consider tumour biology and WPOI
 > - For laryngeal resections, the anatomical constraint of the laryngeal framework means **2 mm margins** are acceptable — wider margins are physically not achievable
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]] — intraoperative margin assessment
+> - [[Answers/General/Extranodal Extension|Extranodal Extension]] — related topic
+> - [[Answers/General/Isolated Tumour Cells|Isolated Tumour Cells]] — related topic
+> - [[Answers/Oral Cavity/Minor Salivary Gland Tumours of the Oral Cavity|Minor Salivary Gland Tumours of the Oral Cavity]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Surgical Margins and Fluorescence-Guided Surgery|Surgical Margins and Fluorescence-Guided Surgery]] — related topic
+> - [[Answers/Oral Cavity/Ameloblastoma of Mandible|Ameloblastoma of Mandible]] — related topic

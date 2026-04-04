@@ -2,8 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oral-Cavity
-  - Biomarkers
 ---
 
 > [!question] Questions Covered
@@ -16,7 +14,7 @@ Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed.
 
 > [!cite] Landmark Articles
 >
-> Wong et al. (2008) published the first study profiling 156 mature miRNAs in tongue SCC, identifying miR-184 as significantly overexpressed and functioning as an oncogenic miRNA promoting cell proliferation. Li et al. (2009) established miR-21 as an independent prognostic factor for poor survival in tongue SCC, functioning as an apoptosis inhibitor partly through TPM1 and PTEN silencing. Liu et al. (2010) identified miR-24 as upregulated in tongue SCC, targeting DND1 to promote proliferation and inhibit apoptosis. Manikandan et al. (2016) published an integrative miRNA-mRNA analysis in OSCC identifying key dysregulated miRNAs and their target networks. Karatas et al. (2017) published a comprehensive review summarising miRNAs as diagnostic/prognostic biomarkers and promising therapeutic targets for tongue cancer.
+> Wong et al. (2008) published the first study profiling 156 mature miRNAs in tongue SCC, identifying miR-184 as significantly overexpressed and functioning as an oncogenic miRNA promoting cell proliferation. Li et al. (2009) established miR-21 as an independent prognostic factor for poor survival in tongue SCC, functioning as an [[Answers/General/Apoptosis|apoptosis]] inhibitor partly through TPM1 and PTEN silencing. Liu et al. (2010) identified miR-24 as upregulated in tongue SCC, targeting DND1 to promote proliferation and inhibit apoptosis. Manikandan et al. (2016) published an integrative miRNA-mRNA analysis in OSCC identifying key dysregulated miRNAs and their target networks. Karatas et al. (2017) published a comprehensive review summarising miRNAs as diagnostic/prognostic biomarkers and promising therapeutic targets for tongue cancer.
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
@@ -49,7 +47,7 @@ MicroRNAs (miRNAs) are **small non-coding RNA molecules** (18–25 nucleotides) 
 |---|---|---|---|
 | miR-21 | PTEN, PDCD4, TPM1 | Anti-apoptosis, invasion | Most consistently upregulated; poor prognosis |
 | miR-155 | SOCS1, TP53INP1 | Immune evasion, proliferation | Elevated in saliva of OSCC patients |
-| miR-31 | FIH-1, ARID1A | Proliferation, hypoxia | Early marker; elevated in oral leukoplakia |
+| miR-31 | FIH-1, ARID1A | Proliferation, hypoxia | Early marker; elevated in [[Answers/Oral Cavity/Oral Leukoplakia Management|oral leukoplakia]] |
 | miR-211 | TCF12, BIN1 | EMT, migration | Promotes tongue SCC invasion |
 | miR-196a | HOX genes, Annexin A1 | Migration, metastasis | Associated with lymph node metastasis |
 
@@ -57,7 +55,7 @@ MicroRNAs (miRNAs) are **small non-coding RNA molecules** (18–25 nucleotides) 
 
 | miRNA | Targets | Function Lost | Clinical Relevance |
 |---|---|---|---|
-| miR-34a | CDK6, SIRT1, Notch1 | Cell cycle arrest, apoptosis | Downstream effector of p53 |
+| miR-34a | CDK6, SIRT1, Notch1 | [[Answers/General/Cell Cycle and Cancer|cell cycle]] arrest, apoptosis | Downstream effector of p53 |
 | miR-200 family | ZEB1, ZEB2, BMI1 | EMT inhibition | Loss → EMT and metastasis |
 | miR-375 | PDK1, IGF1R | Growth suppression | Consistently downregulated in OSCC |
 | miR-125b | STAT3, ErbB2, Bcl-2 | Proliferation control | Low levels → cisplatin resistance |
@@ -77,13 +75,13 @@ MicroRNAs (miRNAs) are **small non-coding RNA molecules** (18–25 nucleotides) 
 
 - Loss of **miR-200 family** leads to upregulation of ZEB1/ZEB2 → E-cadherin repression → EMT
 - EMT enables detachment, invasion, and metastasis
-- **miR-21** promotes invasion through PTEN suppression → PI3K/Akt activation
+- **miR-21** promotes invasion through PTEN suppression → [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] activation
 
 ### 3. Lymph Node Metastasis
 
 - **miR-196a** and **miR-211** are associated with nodal metastasis in tongue SCC
 - Loss of **miR-375** correlates with advanced N-stage
-- miRNA signatures can predict occult nodal metastasis in cN0 patients — potential to guide elective neck dissection decisions
+- miRNA signatures can predict occult nodal metastasis in cN0 patients — potential to guide [[Answers/Oral Cavity/Node Negative Neck in Oral Cancer|elective neck dissection]] decisions
 
 ### 4. Drug Resistance
 
@@ -101,7 +99,7 @@ MicroRNAs (miRNAs) are **small non-coding RNA molecules** (18–25 nucleotides) 
 | Plasma | miR-21, miR-184 | Circulating biomarker for detection |
 | Tissue | miR-375, miR-200c | Diagnostic confirmation |
 
-Salivary miRNAs are particularly attractive for oral cancer screening — they are **stable, detectable by qRT-PCR**, and can be collected non-invasively.
+Salivary miRNAs are particularly attractive for [[Answers/Oral Cavity/Oral Cancer Screening|oral cancer screening]] — they are **stable, detectable by qRT-PCR**, and can be collected non-invasively.
 
 ### Prognostic Biomarkers
 
@@ -135,7 +133,7 @@ Salivary miRNAs are particularly attractive for oral cancer screening — they a
 |---|---|
 | Delivery of miRNA therapeutics | Nanoparticle, exosome, and viral vector approaches |
 | Off-target effects | Single miRNA affects hundreds of genes |
-| Standardisation of detection | qRT-PCR, microarray, NGS — no consensus |
+| Standardisation of detection | qRT-PCR, [[Answers/General/PCR and Microarray Analysis|microarray]], [[Answers/General/Next Generation Sequencing in HNC|NGS]] — no consensus |
 | Validation in large cohorts | Most studies are small, single-centre |
 | Clinical trials | Very few miRNA-based interventions in HNC |
 
@@ -157,3 +155,16 @@ Salivary miRNAs are particularly attractive for oral cancer screening — they a
 > 3. The **miR-200/ZEB1 axis** is the key molecular switch for EMT in oral cancer — loss of miR-200 = gain of mesenchymal phenotype
 > 4. **Salivary miRNA testing** may be the future of oral cancer screening — non-invasive, stable, quantifiable by qRT-PCR
 > 5. For the exam, frame miRNAs as both **diagnostic biomarkers** (saliva, plasma) and **therapeutic targets** (mimics, antagomiRs)
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — related topic
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — related topic
+> - [[Answers/General/EBV Testing in Head and Neck Cancer|EBV Testing in Head and Neck Cancer]] — related topic
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — miRNA as epigenetic regulators
+>
+> **See Also:**
+> - [[Answers/General/Next Generation Sequencing in HNC|Next Generation Sequencing in HNC]] — related topic
+> - [[Answers/General/PCR and Microarray Analysis|PCR and Microarray Analysis]] — related topic

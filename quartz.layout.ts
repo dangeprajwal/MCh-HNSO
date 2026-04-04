@@ -39,7 +39,24 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      filterFn: (node) => {
+        if (node.slugSegment === "tags") return false
+        if (node.isFolder && node.children.length === 0) return false
+        return true
+      },
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -63,7 +80,24 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      filterFn: (node) => {
+        if (node.slugSegment === "tags") return false
+        if (node.isFolder && node.children.length === 0) return false
+        return true
+      },
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [],
 }

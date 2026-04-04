@@ -1,9 +1,8 @@
 ---
 tags:
-  - general
-  - oncology
-  - molecular-biology
-  - cell-biology
+  - General
+  - Molecular-Biology
+  - Oncology
 ---
 
 # Telomerase and Cancer
@@ -11,7 +10,7 @@ tags:
 > [!question] Questions Covered
 > - Write briefly on Telomerase and cancer (TMH 2018)
 
-**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Introducing Molecular Biology of HNC), Chapter 30 (Principles of Non-Surgical Treatment); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 10 (Chemoprevention); Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology), Chapter 39 (Investigational Drugs)
+**Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 6 (Introducing Molecular Biology of HNC), Chapter 30 (Principles of Non-Surgical Treatment); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 10 ([[Answers/Oral Cavity/Chemoprevention in Oral Cancer|chemoprevention]]); Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology), Chapter 39 (Investigational Drugs)
 
 > [!cite] Landmark Articles
 > Telomerase was discovered in 1985 by Greider and Blackburn in Tetrahymena extracts — work that contributed to the 2009 Nobel Prize in Physiology or Medicine. Kim et al. (1994) subsequently demonstrated that telomerase is reactivated in 90% of human cancers but absent in normal somatic tissues, establishing telomerase as a near-universal cancer biomarker. Patel et al. (2002) specifically demonstrated the clinical usefulness of telomerase activation and telomere length in head and neck cancer, showing activity in 78-82% of HNSCC. Vinagre et al. (2013) identified recurrent TERT promoter mutations across multiple cancer types, providing the genetic basis for telomerase reactivation. Hanahan and Weinberg (2000) identified "limitless replicative potential" — achieved through telomerase reactivation — as one of the six hallmarks of cancer.
@@ -28,7 +27,7 @@ tags:
 
 ## Introduction
 
-Normal somatic cells can complete a finite number of cell divisions — the **Hayflick limit** (typically 50-70 divisions) — before they permanently arrest their growth in a process of replicative senescence. As described in Scott-Brown's Chapter 30, this process occurs because cells cannot fully replicate the telomeric terminal portions of chromosomes at each cell division. Over time, telomeres shorten progressively, effectively behaving like molecular clocks that count down a normal cell's lifespan. When telomeres become critically short, they trigger cell cycle arrest or apoptosis through p53 and RB-dependent pathways — a critical tumour-suppressive mechanism.
+Normal somatic cells can complete a finite number of cell divisions — the **Hayflick limit** (typically 50-70 divisions) — before they permanently arrest their growth in a process of replicative senescence. As described in Scott-Brown's Chapter 30, this process occurs because cells cannot fully replicate the telomeric terminal portions of chromosomes at each cell division. Over time, telomeres shorten progressively, effectively behaving like molecular clocks that count down a normal cell's lifespan. When telomeres become critically short, they trigger [[Answers/General/Cell Cycle and Cancer|cell cycle]] arrest or [[Answers/General/Apoptosis|apoptosis]] through p53 and RB-dependent pathways — a critical tumour-suppressive mechanism.
 
 In contrast, stem cells and malignant cells achieve immortality by maintaining the length of their telomeres. In most tumours, this involves upregulation of cellular **telomerase**, but in 10-15% of cases a different mechanism called **alternative lengthening of the telomeres (ALT)** is responsible (Scott-Brown's Chapter 30).
 
@@ -91,7 +90,7 @@ In cancer cells, hTERT is reactivated through:
 - **TERT promoter mutations** (C228T, C250T) — create de novo ETS transcription factor binding sites, increasing TERT transcription
 - **MYC activation** — MYC directly activates TERT transcription (Scott-Brown's Chapter 6 notes that MYC has effects on TERT, a gene implicated in immortalization of cancer cells)
 - **HPV E6 oncoprotein** — degrades the NFX1 repressor of hTERT, resulting in loss of repression and consequent reduction in telomere erosion, thereby contributing to cellular immortality (Scott-Brown's Chapter 13)
-- Epigenetic remodelling of the TERT promoter region
+- [[Answers/General/Epigenetics in Oncogenesis|epigenetics]] remodelling of the TERT promoter region
 
 ---
 
@@ -136,8 +135,8 @@ Montgomery's Chapter 39 describes the rationale: telomeres are tandem repeats of
 ### Telomerase as a Diagnostic Biomarker
 
 The near-universal reactivation of telomerase in cancer (90% of all cancers, 78-82% of HNSCC) and its absence in normal somatic tissues makes it an attractive:
-- **Diagnostic marker:** Detection of telomerase in brushings, fine needle aspirates, or surgical margins
-- **Margin assessment tool:** Montgomery notes telomerase may play a role in the molecular assessment of tumour margins — telomerase-positive histologically normal tissue at margins may indicate field cancerization
+- **Diagnostic marker:** Detection of telomerase in brushings, fine needle aspirates, or [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]
+- **Margin assessment tool:** Montgomery notes telomerase may play a role in the molecular assessment of tumour margins — telomerase-positive histologically normal tissue at margins may indicate [[Answers/Oral Cavity/Field Cancerization|field cancerization]]
 - **Prognostic marker:** Higher telomere length and TERT promoter mutations correlate with aggressive disease and poor survival
 
 ---
@@ -175,3 +174,16 @@ ALT is more common in tumours of mesenchymal origin (sarcomas, gliomas) and is r
 
 ---
 END OF ANSWER
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/General/index|General Topics]]
+>
+> **Related Notes:**
+> - [[Answers/General/Apoptosis|Apoptosis]] — cellular immortalisation and death pathways
+> - [[Answers/General/Cell Cycle and Cancer|Cell Cycle and Cancer]] — immortalisation and proliferation
+> - [[Answers/General/Epigenetics in Oncogenesis|Epigenetics in Oncogenesis]] — related topic
+> - [[Answers/General/Viral Carcinogenesis|Viral Carcinogenesis]] — related topic
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — telomerase activation in premalignant fields
+> - [[Answers/General/Autophagy in Head and Neck Cancer|Autophagy in Head and Neck Cancer]] — related topic

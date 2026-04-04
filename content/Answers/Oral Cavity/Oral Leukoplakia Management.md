@@ -2,8 +2,7 @@
 tags:
   - Oral-Cavity
   - Premalignant
-  - Evidence-Based
-  - Surgical-Technique
+  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -23,7 +22,7 @@ Harrison's Head and Neck Cancer Ch6, Ch13; Stell & Maran's Ch8; Montgomery Ch11;
 > | Mehanna — Oral Dysplasia Treatment Review | Head Neck | 2009 | [10.1002/hed.21131](https://doi.org/10.1002/hed.21131) |
 > | Warnakulasuriya — Leukoplakia Transformation | J Oral Pathol Med | 2016 | [10.1111/jop.12339](https://doi.org/10.1111/jop.12339) |
 > | Speight — OPMD Risk of Progression | Oral Surg Oral Med Oral Pathol | 2018 | [10.1016/j.oooo.2017.12.011](https://doi.org/10.1016/j.oooo.2017.12.011) |
-> | Lodi — Consensus on OLP Management | Oral Surg Oral Med Oral Pathol | 2005 | [10.1016/j.tripleo.2004.06.076](https://doi.org/10.1016/j.tripleo.2004.06.076) |
+> | Lodi — Consensus on [[Answers/Oral Cavity/Oral Lichen Planus|OLP]] Management | Oral Surg Oral Med Oral Pathol | 2005 | [10.1016/j.tripleo.2004.06.076](https://doi.org/10.1016/j.tripleo.2004.06.076) |
 
 ## Introduction
 
@@ -48,7 +47,7 @@ Oral leukoplakia is defined as a **white plaque of questionable risk having excl
 | Site | Transformation Risk |
 |---|---|
 | Lateral tongue | Highest (~12.7%) |
-| Floor of mouth | High |
+| [[Answers/Oral Cavity/Floor of Mouth Carcinoma|floor of mouth carcinoma]] | High |
 | Ventral tongue | High |
 | Soft palate | Moderate |
 | Buccal mucosa | Low–Moderate |
@@ -56,7 +55,7 @@ Oral leukoplakia is defined as a **white plaque of questionable risk having excl
 
 Tongue and floor of mouth ("high-risk sites") together account for the majority of malignant transformations.
 
-## Histological Grading of Dysplasia
+## [[Answers/General/Histological Grading of SCC|histological grading]] of Dysplasia
 
 ### WHO 2017 Classification
 
@@ -141,7 +140,7 @@ Leukoplakia in non-smokers has a **higher per-lesion transformation rate** than 
 | Cold knife excision | Gold standard; all grades | Complete histology; margin assessment | Scarring; functional impairment |
 | CO₂ laser excision | Superficial lesions | Precise; minimal bleeding; good healing | Margins may be thermally damaged |
 | CO₂ laser ablation | Large homogeneous leukoplakia | Treats wide areas; repeatable | No histology; recurrence common |
-| Photodynamic therapy | Widespread/multifocal lesions | Non-destructive; repeatable | Variable response; cost |
+| [[Answers/General/Photodynamic Therapy|photodynamic therapy]] | Widespread/multifocal lesions | Non-destructive; repeatable | Variable response; cost |
 | Cryotherapy | Small, accessible lesions | Simple; outpatient | No histology; unpredictable depth |
 
 ### Step 4: Post-Treatment Surveillance
@@ -190,3 +189,16 @@ See [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|Chemoprevention in Oral
 > - The take-home message from Mehanna 2009: surgery halves the risk but doesn't eliminate it. This is why follow-up is lifelong, not just 5 years
 > - PVL is the most important special entity to mention — examiners expect you to know it. Remember: multifocal, progressive, women > men, non-smokers, ~70% transformation, treatment-resistant
 > - For a non-homogeneous leukoplakia on the lateral tongue with moderate-severe dysplasia, the answer is always excision with clear margins + close surveillance — this is the exam's prototypical high-risk OPMD
+
+> [!compass]- Navigate
+> **Parent:** [[Answers/Oral Cavity/index|Oral Cavity]]
+>
+> **Related Notes:**
+> - [[Answers/Oral Cavity/Chemoprevention in Oral Cancer|Chemoprevention in Oral Cancer]] — chemoprevention of leukoplakia progression
+> - [[Answers/Oral Cavity/Oral Lichen Planus|Oral Lichen Planus]] — premalignant mucosal conditions
+> - [[Answers/Oral Cavity/Reconstruction of Total Lower Lip|Reconstruction of Total Lower Lip]] — related topic
+> - [[Answers/Oral Cavity/Field Cancerization|Field Cancerization]] — leukoplakia as field change marker
+>
+> **See Also:**
+> - [[Answers/Oral Cavity/Floor of Mouth Carcinoma|Floor of Mouth Carcinoma]] — related topic
+> - [[Answers/Oral Cavity/Oral Cancer Screening|Oral Cancer Screening]] — related topic
