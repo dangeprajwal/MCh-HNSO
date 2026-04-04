@@ -15,7 +15,15 @@ Greenhalgh T. *How to Read a Paper*. 6th ed. Wiley-Blackwell; 2019. Ch6; Introdu
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Piaggio et al. (2012) published the CONSORT extension for non-inferiority and equivalence trials, providing the definitive reporting checklist including specific items on margin justification, ITT vs per-protocol analysis, and confidence interval interpretation. Mauri and D'Agostino (2017) published the comprehensive NEJM review defining seven essential features of non-inferiority trial design, documenting a sixfold increase in NI trials between 2005–2015. Fleming (2008) addressed foundational issues in non-inferiority trial design including assay sensitivity and the constancy assumption, establishing the quality standards for valid inference. Snapinn (2000) identified the inherent weaknesses of NI trials — no internal demonstration of assay sensitivity, no single conservative analysis approach, and difficulty specifying the margin — in the most widely cited single-reference overview. Gillison et al. (2019) published the NRG/RTOG 1016 trial, the definitive head and neck non-inferiority trial demonstrating that cetuximab failed to show non-inferiority to cisplatin in HPV-positive oropharyngeal cancer.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Piaggio — CONSORT Extension for NI Trials | JAMA | 2012 | [10.1001/jama.2012.87802](https://doi.org/10.1001/jama.2012.87802) |
+> | Mauri & D'Agostino — NI Trial Design Review | N Engl J Med | 2017 | [10.1056/NEJMra1510063](https://doi.org/10.1056/NEJMra1510063) |
+> | Fleming — Current Issues in NI Trials | Stat Med | 2008 | [10.1002/sim.2855](https://doi.org/10.1002/sim.2855) |
+> | Snapinn — NI Trials: Foundational Overview | Trials | 2000 | [10.1186/cvm-1-1-019](https://doi.org/10.1186/cvm-1-1-019) |
+> | Gillison — RTOG 1016 (Cetuximab Failed NI) | Lancet | 2019 | [10.1016/S0140-6736(18)32779-X](https://doi.org/10.1016/S0140-6736(18)32779-X) |
 
 ## Definition and Rationale
 

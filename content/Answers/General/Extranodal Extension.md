@@ -16,7 +16,15 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch11; Har
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Bernier et al. (2004) published the EORTC 22931 trial demonstrating that concurrent cisplatin plus PORT improved PFS and OS in high-risk patients including those with ENE. Cooper et al. (2004) published the RTOG 9501 trial confirming the CRT benefit, with subsequent analysis showing the benefit confined to positive margins and/or ENE. Bernier and Cooper (2005) published a combined analysis of both trials, establishing that only positive margins and ENE consistently benefited from adding cisplatin to PORT — other features showed inconsistent benefit. Myers et al. (2001) published the first large single-institution study establishing extracapsular spread as the most significant predictor of regional recurrence and distant metastasis in oral tongue SCC. Wreesmann et al. (2016) demonstrated that ENE extent (>1.7 mm beyond capsule) is clinically relevant, supporting substratification of ENE and informing its incorporation into the AJCC 8th Edition N-staging.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Bernier — EORTC 22931 (CRT for ENE) | N Engl J Med | 2004 | [10.1056/NEJMoa032641](https://doi.org/10.1056/NEJMoa032641) |
+> | Cooper — RTOG 9501 (CRT for ENE) | N Engl J Med | 2004 | [10.1056/NEJMoa032646](https://doi.org/10.1056/NEJMoa032646) |
+> | Bernier & Cooper — Combined Analysis | Head Neck | 2005 | [10.1002/hed.20279](https://doi.org/10.1002/hed.20279) |
+> | Myers — ECS as Prognostic Predictor | Cancer | 2001 | [10.1002/1097-0142(20011215)92:12<3030::AID-CNCR10148>3.0.CO;2-P](https://doi.org/10.1002/1097-0142(20011215)92:12<3030::AID-CNCR10148>3.0.CO;2-P) |
+> | Wreesmann — ENE Extent and Prognosis | Head Neck | 2016 | [10.1002/hed.24190](https://doi.org/10.1002/hed.24190) |
 
 ## Definition
 
