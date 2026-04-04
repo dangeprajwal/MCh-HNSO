@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > Paraneoplastic syndromes (PNS) are remote effects of malignancy not caused by direct tumour invasion, metastasis, or treatment toxicity. They result from tumour secretion of hormones, peptides, or cytokines, or from immune cross-reactivity between tumour and normal tissue antigens. In head and neck cancer, the most common paraneoplastic syndrome is humoral hypercalcaemia of malignancy (HHM), mediated by parathyroid hormone-related protein (PTHrP). Ferlito et al. (2007) provided the most comprehensive review of PNS specifically in head and neck cancer patients, categorizing them into endocrine, dermatological, haematological, neurological, rheumatological, and ocular manifestations. Toro et al. (2010) further defined the associations specifically in oral cancer, while Chapireau et al. (2010) published the first systematic review of PNS in primary oral cancers. Sridhar and Hussein (1990) described the clinical characteristics and prognostic significance of hypercalcaemia specifically in head and neck squamous cell carcinoma. Pelosof and Gerber (2010) provided the definitive general review of paraneoplastic syndromes across all cancer types, outlining the approach to diagnosis and treatment.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Paraneoplastic syndromes in patients with primary head and neck cancer | Ferlito A, Elsheikh MN, Manni JJ, Rinaldo A | Eur Arch Otorhinolaryngol, 2007 | [10.1007/s00405-006-0217-5](https://doi.org/10.1007/s00405-006-0217-5) | Comprehensive review categorizing PNS in HNC into endocrine, dermatological, haematological, neurological, rheumatological, and ocular types |
-> | 2 | Paraneoplastic syndromes in patients with oral cancer | Toro C, Rinaldo A, Silver CE, Politi M, Ferlito A | Oral Oncol, 2010 | [10.1016/j.oraloncology.2009.09.007](https://doi.org/10.1016/j.oraloncology.2009.09.007) | Only endocrine and dermatological PNS have documented associations with oral cancer |
-> | 3 | Paraneoplastic syndromes in patients with primary oral cancers: a systematic review | Chapireau D, Adlam D, Cameron M, Thompson M | Br J Oral Maxillofac Surg, 2010 | [10.1016/j.bjoms.2009.08.025](https://doi.org/10.1016/j.bjoms.2009.08.025) | First systematic review: hypercalcaemia is the most common PNS in oral SCC |
-> | 4 | Hypercalcemia in head and neck squamous-cell carcinoma | Sridhar KS, Hussein AM | Am J Clin Oncol, 1990 | [10.1097/00000421-199010000-00005](https://doi.org/10.1097/00000421-199010000-00005) | Hypercalcaemia is a late manifestation of advanced HNSCC and an ominous prognostic sign |
-> | 5 | Paraneoplastic syndromes: an approach to diagnosis and treatment | Pelosof LC, Gerber DE | Mayo Clin Proc, 2010 | [10.4065/mcp.2010.0099](https://doi.org/10.4065/mcp.2010.0099) | Comprehensive review of PNS across all cancers: endocrine, neurological, dermatological, haematological |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Ferlito A — Paraneoplastic syndromes in patients with pri... | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-006-0217-5](https://doi.org/10.1007/s00405-006-0217-5) |
+> | Toro C — Paraneoplastic syndromes in patients with oral c... | Oral Oncol | 2010 | [10.1016/j.oraloncology.2009.09.007](https://doi.org/10.1016/j.oraloncology.2009.09.007) |
+> | Chapireau D — Paraneoplastic syndromes in patients with p... | Br J Oral Maxillofac Surg | 2010 | [10.1016/j.bjoms.2009.08.025](https://doi.org/10.1016/j.bjoms.2009.08.025) |
+> | Sridhar KS — Hypercalcemia in head and neck squamous-cell... | Am J Clin Oncol | 1990 | [10.1097/00000421-199010000-00005](https://doi.org/10.1097/00000421-199010000-00005) |
+> | Pelosof LC — Paraneoplastic syndromes: an approach to dia... | Mayo Clin Proc | 2010 | [10.4065/mcp.2010.0099](https://doi.org/10.4065/mcp.2010.0099) |
 
 ---
 

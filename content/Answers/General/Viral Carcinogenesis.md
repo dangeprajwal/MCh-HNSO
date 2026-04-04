@@ -17,13 +17,13 @@ tags:
 > [!cite] Landmark Articles
 > The causal role of viruses in head and neck carcinogenesis was established through landmark studies on two major oncogenic viruses — HPV and EBV. Gillison et al. (2000) provided the first convincing molecular evidence that HPV16 causes a distinct subset of head and neck cancers, fundamentally changing the understanding of oropharyngeal cancer aetiology. Ang et al. (2010) demonstrated in a landmark RTOG trial that HPV-positive oropharyngeal cancer has dramatically better survival than HPV-negative disease, leading to the creation of a separate staging system. Hanahan and Weinberg (2000) provided the hallmarks framework through which viral oncogenesis is understood — E6/E7 disrupting the p53 and Rb pathways. Raab-Traub (2002) authored the definitive review of EBV's role in nasopharyngeal carcinoma. zur Hausen's Nobel Prize-winning work (2009 review) established the fundamental link between papillomaviruses and human cancer.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Evidence for a causal association between HPV and a subset of head and neck cancers | Gillison ML, Koch WM, Capone RB et al. | J Natl Cancer Inst, 2000 | [10.1093/jnci/92.9.709](https://doi.org/10.1093/jnci/92.9.709) | First molecular proof that HPV16 causes a distinct subset of HNSCC; 22% HPV prevalence in 253 biopsies |
-> | 2 | HPV and survival of patients with oropharyngeal cancer | Ang KK, Harris J, Wheeler R et al. | N Engl J Med, 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) | RTOG 0129: HPV+ OPC has 58% reduction in death risk; 3-year OS 82% vs 57% for HPV− |
-> | 3 | [[Answers/General/EBV Testing in Head and Neck Cancer|Epstein-Barr virus]] virus in the pathogenesis of NPC | Raab-Traub N | Semin Cancer Biol, 2002 | [10.1016/S1044-579X(02)00023-9](https://doi.org/10.1016/S1044-579X(02)00023-9) | Definitive review of EBV's role: LMP1, LMP2, EBNA1 in NPC pathogenesis |
-> | 4 | Papillomaviruses and cancer: from basic studies to clinical application | zur Hausen H | Nat Rev Cancer, 2002 | [10.1038/nrc798](https://doi.org/10.1038/nrc798) | Nobel laureate review; established papillomavirus-cancer link; basis for HPV vaccine |
-> | 5 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) | Framework for understanding viral oncogenesis: evading [[Answers/General/Apoptosis|apoptosis]], self-sufficiency in growth signals |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Gillison ML — Evidence for a causal association between H... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.9.709](https://doi.org/10.1093/jnci/92.9.709) |
+> | Ang KK — HPV and survival of patients with oropharyngeal ... | N Engl J Med | 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) |
+> | Epstein-Barr virus]] virus in the pathogenesis of NPC — [... | Raab-Traub N |  | Semin Cancer Biol, 2002 |
+> | zur Hausen H — Papillomaviruses and cancer: from basic st... | Nat Rev Cancer | 2002 | [10.1038/nrc798](https://doi.org/10.1038/nrc798) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
 
 ---
 

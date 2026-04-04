@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Histological grading of squamous cell carcinoma (SCC) has evolved from Broders' (1920) whole-tumour differentiation-based system to modern approaches focusing on the invasive tumour front. Broders (1920) published the foundational paper establishing the first histological grading system, dividing 537 lip SCCs into four grades based on the ratio of differentiated to undifferentiated cells — proving for the first time that numerical tumour grading could predict prognosis. Bryne et al. (1992) demonstrated that malignancy grading of the deep invasive margins of oral SCC has high prognostic value, while conventional Broders' grading of the whole biopsy had none — shifting the paradigm to invasive front grading. Bryne (1998) published the comprehensive review establishing the theoretical basis for why the invasive front is the most important area for prognostication. [[Answers/Oral Cavity/Histological Risk Assessment in Oral Cancer|Brandwein-Gensler risk model]] et al. (2005) developed the histologic risk assessment model for oral SCC based on worst pattern of invasion (WPOI), [[Answers/General/Perineural Invasion|perineural invasion]], and lymphocytic host response — showing it is strongly predictive of local recurrence and survival, while margin status alone is not. The WPOI-5 pattern (dispersed tumour satellites ≥1 mm from main tumour) from this model was subsequently incorporated into the [[Answers/Oral Cavity/AJCC 8th Edition Oral Cavity Staging|AJCC 8th edition staging]] edition staging system.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Squamous cell cancer of the lip: a study of 537 cases | Broders AC | JAMA, 1920 | [10.1001/jama.1920.02620090024009](https://doi.org/10.1001/jama.1920.02620090024009) | First histological grading system; 4 grades by % differentiation |
-> | 2 | Malignancy grading of the deep invasive margins of oral SCC has high prognostic value | Bryne M, Koppang HS, Lilleng R, Kjaerheim A | J Pathol, 1992 | [10.1002/path.1711660409](https://doi.org/10.1002/path.1711660409) | Invasive front grading is prognostic; whole-biopsy Broders' grading is not |
-> | 3 | Is the invasive front of an oral carcinoma the most important area for prognostication? | Bryne M | Oral Dis, 1998 | [10.1111/j.1601-0825.1998.tb00260.x](https://doi.org/10.1111/j.1601-0825.1998.tb00260.x) | Comprehensive review: molecular events at invasive front predict prognosis |
-> | 4 | Oral SCC: histologic risk assessment, but not margin status, is strongly predictive of local disease-free and overall survival | Brandwein-Gensler MS, Teixeira MS, Lewis CM et al. | Am J Surg Pathol, 2005 | [10.1097/01.pas.0000149687.90710.21](https://doi.org/10.1097/01.pas.0000149687.90710.21) | WPOI + PNI + LHR risk model; margin status not independently predictive |
-> | 5 | Validation of the risk model: high-risk classification and WPOI predict outcome for low-stage oral cavity SCC | Brandwein-Gensler MS, Smith RV, Wang B et al. | Head Neck Pathol, 2013 | [10.1007/s12105-012-0412-1](https://doi.org/10.1007/s12105-012-0412-1) | External validation of risk model in low-stage oral SCC |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Broders AC — Squamous cell cancer of the lip: a study of ... | JAMA | 1920 | [10.1001/jama.1920.02620090024009](https://doi.org/10.1001/jama.1920.02620090024009) |
+> | Bryne M — Malignancy grading of the deep invasive margins... | J Pathol | 1992 | [10.1002/path.1711660409](https://doi.org/10.1002/path.1711660409) |
+> | Bryne M — Is the invasive front of an oral carcinoma the ... | Oral Dis | 1998 | [10.1111/j.1601-0825.1998.tb00260.x](https://doi.org/10.1111/j.1601-0825.1998.tb00260.x) |
+> | Brandwein-Gensler MS — Oral SCC: histologic risk assessme... | Am J Surg Pathol | 2005 | [10.1097/01.pas.0000149687.90710.21](https://doi.org/10.1097/01.pas.0000149687.90710.21) |
+> | Brandwein-Gensler MS — Validation of the risk model: high... | Head Neck Pathol | 2013 | [10.1007/s12105-012-0412-1](https://doi.org/10.1007/s12105-012-0412-1) |
 
 ---
 

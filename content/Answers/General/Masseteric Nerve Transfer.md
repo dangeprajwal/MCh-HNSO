@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > The masseteric nerve transfer has emerged as one of the most significant advances in facial reanimation surgery over the past two decades. Spira (1978) first described the concept of anastomosing the masseteric nerve to the lower division of the facial nerve for correction of lower facial paralysis — the foundational work upon which all subsequent developments were built. Manktelow et al. (2006) published the landmark study demonstrating the effectiveness of free gracilis muscle transfer innervated by the masseter motor nerve in adults, with 96% patient satisfaction and evidence of cerebral adaptation enabling spontaneous smiling. In the same year, Bae, Zuker, and Manktelow (2006) provided the critical comparative data showing that masseter nerve-innervated gracilis produced greater commissure excursion than cross-facial nerve graft innervation. Borschel et al. (2012) established the anatomical and histomorphometric basis for the masseteric nerve's superiority — demonstrating a 3:1 axonal ratio advantage over cross-facial nerve grafts. Biglioli et al. (2012) then popularized the direct masseteric-facial nerve anastomosis technique for early facial reanimation, avoiding the need for free muscle transfer entirely.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Anastomosis of masseteric nerve to lower division of facial nerve for correction of lower facial paralysis | Spira M | Plast Reconstr Surg, 1978 | [10.1097/00006534-197803000-00004](https://doi.org/10.1097/00006534-197803000-00004) | First description of masseteric-to-facial nerve transfer |
-> | 2 | Smile reconstruction in adults with free muscle transfer innervated by the masseter motor nerve | Manktelow RT, Tomat LR, Zuker RM, Chang M | Plast Reconstr Surg, 2006 | [10.1097/01.prs.0000232195.20293.bd](https://doi.org/10.1097/01.prs.0000232195.20293.bd) | 96% satisfaction; 80% smile without biting; cerebral adaptation |
-> | 3 | Comparison of commissure excursion: cross-face nerve graft vs motor nerve to masseter | Bae YC, Zuker RM, Manktelow RT, Wade S | Plast Reconstr Surg, 2006 | [10.1097/01.prs.0000218798.95027.21](https://doi.org/10.1097/01.prs.0000218798.95027.21) | Masseter nerve gives greater commissure excursion than CFNG |
-> | 4 | The motor nerve to the masseter: anatomic and histomorphometric study | Borschel GH, Kawamura DH, Kasukurthi R et al. | JPRAS, 2012 | [10.1016/j.bjps.2011.09.026](https://doi.org/10.1016/j.bjps.2011.09.026) | ~2800 myelinated axons; 3:1 ratio advantage over CFNG |
-> | 5 | Masseteric-facial nerve anastomosis for early facial reanimation | Biglioli F, Frigerio A, Colombo V et al. | J Craniomaxillofac Surg, 2012 | [10.1016/j.jcms.2011.03.005](https://doi.org/10.1016/j.jcms.2011.03.005) | 91.2% reactivation; direct neurorrhaphy without free muscle |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Spira M — Anastomosis of masseteric nerve to lower divisi... | Plast Reconstr Surg | 1978 | [10.1097/00006534-197803000-00004](https://doi.org/10.1097/00006534-197803000-00004) |
+> | Manktelow RT — Smile reconstruction in adults with free m... | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000232195.20293.bd](https://doi.org/10.1097/01.prs.0000232195.20293.bd) |
+> | Bae YC — Comparison of commissure excursion: cross-face n... | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000218798.95027.21](https://doi.org/10.1097/01.prs.0000218798.95027.21) |
+> | Borschel GH — The motor nerve to the masseter: anatomic a... | JPRAS | 2012 | [10.1016/j.bjps.2011.09.026](https://doi.org/10.1016/j.bjps.2011.09.026) |
+> | Biglioli F — Masseteric-facial nerve anastomosis for earl... | J Craniomaxillofac Surg | 2012 | [10.1016/j.jcms.2011.03.005](https://doi.org/10.1016/j.jcms.2011.03.005) |
 
 ---
 

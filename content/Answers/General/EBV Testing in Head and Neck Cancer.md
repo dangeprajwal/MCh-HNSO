@@ -6,7 +6,7 @@ tags:
   - Molecular-Biology
 ---
 
-> [!question] TMH 2020
+> [!question] Questions Covered
 > EBV testing
 
 ## Source

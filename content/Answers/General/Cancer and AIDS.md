@@ -4,7 +4,7 @@ tags:
   - Epidemiology
 ---
 
-> [!question] Q34
+> [!question] Questions Covered
 > **Q34 (AMRITA 2016):** Cancer and AIDS
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 11 (Oral Cavity — Kaposi's Sarcoma, Immunosuppression), Chapter 12 (Oropharynx — HIV and SCC), Chapter 24 (Soft Tissue Sarcomas — Kaposi's Sarcoma in HIV), Chapter 25 (Non-[[Answers/Oral Cavity/Melanoma of the Oral Cavity|oral melanoma]] Skin Cancer — Immunosuppression); Stell and Maran's Textbook of Head and Neck Surgery (Epidemiology — HIV Prevalence in HNC Patients); Harrison - Head and Neck Cancer: A Multidisciplinary Approach (Oral Cavity — KS, Oropharynx — HPV in HIV); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 1 (Introduction — Immunocompromised Patients), Chapter 2 (Skin), Chapter 13 (Salivary Glands — Lymphoepithelial Lesions)
@@ -12,13 +12,13 @@ tags:
 > [!cite] Landmark Articles
 > Frisch et al. (2001) analyzed 302,834 HIV/AIDS adults from the AIDS-Cancer Match Registry, finding standardized incidence ratios (SIR) of 258 for Kaposi's sarcoma and 78 for non-Hodgkin lymphoma, with each 100-cell drop in CD4 count increasing KS risk by 36%. Franceschi et al. (2008) demonstrated from the Swiss HIV Cohort Study that HAART dramatically reduced KS incidence, with hazard ratio declining to 0.06 at 7-10 years after HAART initiation. Epstein and Silverman (1992) published the seminal review establishing KS and NHL as the most common oral malignancies in HIV, with SCC also associated. Beachler et al. (2014) showed that both HPV-related (SIR 3.2) and HPV-unrelated (SIR 3.0) HNSCC were significantly elevated in HIV-infected individuals, with lower CD4 count increasing risk. Purgina, Pantanowitz, and Seethala (2011) reviewed all carcinomas arising in the head and neck in HIV-positive patients, finding younger presentation, more aggressive disease, and worse prognosis despite HAART.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Association of cancer with AIDS-related immunosuppression in adults | Frisch M, Biggar RJ, Engels EA, Goedert JJ | JAMA, 2001 | [10.1001/jama.285.13.1736](https://doi.org/10.1001/jama.285.13.1736) | SIR for KS=258, NHL=78; each 100 CD4 drop → RR 1.36 for KS |
-> | 2 | Kaposi sarcoma incidence in the Swiss HIV Cohort Study before and after HAART | Franceschi S, Dal Maso L, Rickenbach M, et al. | Br J Cancer, 2008 | [10.1038/sj.bjc.6604520](https://doi.org/10.1038/sj.bjc.6604520) | KS HR declined to 0.06 at 7-10 years after HAART initiation |
-> | 3 | Head and neck malignancies associated with HIV infection | Epstein JB, Silverman S Jr | Oral Surg Oral Med Oral Pathol, 1992 | [10.1016/0030-4220(92)90194-u](https://doi.org/10.1016/0030-4220(92)90194-u) | KS and NHL most common oral cancers in HIV; SCC also associated |
-> | 4 | Incidence and risk factors of HPV-related and HPV-unrelated HNSCC in HIV-infected individuals | Beachler DC, Abraham AG, Engels EA, et al. | Oral Oncol, 2014 | [10.1016/j.oraloncology.2014.09.011](https://doi.org/10.1016/j.oraloncology.2014.09.011) | SIR 3.2 for HPV-related and 3.0 for HPV-unrelated HNSCC in HIV |
-> | 5 | A review of carcinomas arising in the head and neck region in HIV-positive patients | Purgina B, Pantanowitz L, Seethala RR | Patholog Res Int, 2011 | [10.4061/2011/469150](https://doi.org/10.4061/2011/469150) | HIV patients: younger, more aggressive HNC, worse prognosis |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Frisch M — Association of cancer with AIDS-related immuno... | JAMA | 2001 | [10.1001/jama.285.13.1736](https://doi.org/10.1001/jama.285.13.1736) |
+> | Franceschi S — Kaposi sarcoma incidence in the Swiss HIV ... | Br J Cancer | 2008 | [10.1038/sj.bjc.6604520](https://doi.org/10.1038/sj.bjc.6604520) |
+> | Epstein JB — Head and neck malignancies associated with H... | Oral Surg Oral Med Oral Pathol | 1992 | [10.1016/0030-4220(92)90194-u](https://doi.org/10.1016/0030-4220(92)90194-u) |
+> | Beachler DC — Incidence and risk factors of HPV-related a... | Oral Oncol | 2014 | [10.1016/j.oraloncology.2014.09.011](https://doi.org/10.1016/j.oraloncology.2014.09.011) |
+> | Purgina B — A review of carcinomas arising in the head an... | Patholog Res Int | 2011 | [10.4061/2011/469150](https://doi.org/10.4061/2011/469150) |
 
 ---
 

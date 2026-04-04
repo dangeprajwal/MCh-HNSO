@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > Xerostomia is the most common chronic complaint following radiotherapy for head and neck cancer, significantly impairing [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]] for decades after treatment. Nutting et al. (2011) published the landmark PARSPORT trial — the first phase III RCT demonstrating that parotid-sparing IMRT significantly reduces xerostomia compared to conventional RT in HNC. Deasy et al. (2010) established the dose-volume constraints for parotid glands that predict salivary recovery. Brizel et al. (2000) conducted the pivotal amifostine trial demonstrating reduction in acute and chronic xerostomia without compromising tumour control. Eisbruch et al. (2001) published the foundational work on parotid-sparing RT and salivary function recovery thresholds. Jensen et al. (2010) provided the comprehensive systematic review of xerostomia management interventions.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Intensity-modulated RT versus conventional RT for parotid sparing (PARSPORT): a phase 3 multicentre RCT | Nutting CM, Morden JP, Harrington KJ et al. | Lancet Oncol, 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) | First phase III RCT: IMRT significantly reduced grade ≥2 xerostomia (38% vs 74%) at 12 months |
-> | 2 | Salivary gland dose-function relationships for IMRT of HNC | Deasy JO, Moiseenko V, Marks L et al. | Int J Radiat Oncol Biol Phys, 2010 | [10.1016/j.ijrobp.2009.11.030](https://doi.org/10.1016/j.ijrobp.2009.11.030) | Established parotid mean dose <25-26 Gy threshold for salivary recovery |
-> | 3 | Randomized trial of amifostine in patients receiving RT for HNC | Brizel DM, Wasserman TH, Henke M et al. | J Clin Oncol, 2000 | [10.1200/JCO.2000.18.19.3339](https://doi.org/10.1200/JCO.2000.18.19.3339) | Amifostine reduced acute xerostomia (51% vs 78%) and chronic xerostomia without affecting tumour control |
-> | 4 | Parotid-sparing RT yields superior salivary output and QOL | Eisbruch A, Ten Haken RK, Kim HM et al. | Int J Radiat Oncol Biol Phys, 2001 | [10.1016/S0360-3016(00)01441-3](https://doi.org/10.1016/S0360-3016(00)01441-3) | Established mean parotid dose thresholds; salivary flow recovery possible if contralateral parotid spared |
-> | 5 | A systematic review of xerostomia management in HNC patients | Jensen SB, Pedersen AML, Vissink A et al. | Support Care Cancer, 2010 | [10.1007/s00520-010-0837-1](https://doi.org/10.1007/s00520-010-0837-1) | Comprehensive review of pharmacological and non-pharmacological interventions |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Nutting CM — Intensity-modulated RT versus conventional R... | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
+> | Deasy JO — Salivary gland dose-function relationships for... | Int J Radiat Oncol Biol Phys | 2010 | [10.1016/j.ijrobp.2009.11.030](https://doi.org/10.1016/j.ijrobp.2009.11.030) |
+> | Brizel DM — Randomized trial of amifostine in patients re... | J Clin Oncol | 2000 | [10.1200/JCO.2000.18.19.3339](https://doi.org/10.1200/JCO.2000.18.19.3339) |
+> | Eisbruch A — Parotid-sparing RT yields superior salivary ... | Int J Radiat Oncol Biol Phys | 2001 | [10.1016/S0360-3016(00)01441-3](https://doi.org/10.1016/S0360-3016(00)01441-3) |
+> | Jensen SB — A systematic review of xerostomia management ... | Support Care Cancer | 2010 | [10.1007/s00520-010-0837-1](https://doi.org/10.1007/s00520-010-0837-1) |
 
 ---
 

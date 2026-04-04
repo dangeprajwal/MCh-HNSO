@@ -17,13 +17,13 @@ tags:
 > [!cite] Landmark Articles
 > The polymerase chain reaction (PCR) and DNA microarray technology represent the two most transformative molecular techniques in cancer diagnostics. Mullis et al. (1986) published the first description of the polymerase chain reaction — a technique for exponential amplification of specific DNA sequences in vitro — which earned Kary Mullis the 1993 Nobel Prize in Chemistry and revolutionized molecular biology. Saiki et al. (1988) published the landmark Science paper introducing thermostable Taq DNA polymerase for PCR, enabling automated thermal cycling and making PCR practical for routine laboratory use. Schena et al. (1995) published the first DNA microarray paper in Science, demonstrating that complementary DNA immobilized on glass slides could simultaneously monitor expression of thousands of genes — launching the era of genomics. Chung et al. (2004) applied microarray-based gene expression profiling to 60 HNSCC tumours, identifying four distinct molecular subtypes with different survival outcomes and achieving 80% accuracy in predicting lymph node metastasis — the landmark molecular classification of HNSCC. van de Vijver et al. (2002) validated the 70-gene microarray prognostic signature in 295 breast cancer patients, establishing the paradigm that microarray-based molecular signatures outperform clinicopathological factors in outcome prediction — a model subsequently applied to HNSCC.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Specific enzymatic amplification of DNA in vitro: the polymerase chain reaction | Mullis K, Faloona F, Scharf S et al. | Cold Spring Harb Symp Quant Biol, 1986 | [10.1101/sqb.1986.051.01.032](https://doi.org/10.1101/sqb.1986.051.01.032) | First description of PCR; Nobel Prize 1993 |
-> | 2 | Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase | Saiki RK, Gelfand DH, Stoffel S et al. | Science, 1988 | [10.1126/science.2448875](https://doi.org/10.1126/science.2448875) | Taq polymerase enabled automated PCR |
-> | 3 | Quantitative monitoring of gene expression patterns with a complementary DNA microarray | Schena M, Shalon D, Davis RW, Brown PO | Science, 1995 | [10.1126/science.270.5235.467](https://doi.org/10.1126/science.270.5235.467) | First DNA microarray; launched genomics era |
-> | 4 | Molecular classification of HNSCC using patterns of gene expression | Chung CH, Parker JS, Karaca G et al. | Cancer Cell, 2004 | [10.1016/S1535-6108(04)00112-6](https://doi.org/10.1016/S1535-6108(04)00112-6) | Four HNSCC subtypes by microarray; 80% accuracy for nodal metastasis |
-> | 5 | A gene-expression signature as a predictor of survival in breast cancer | van de Vijver MJ, He YD, van 't Veer LJ et al. | N Engl J Med, 2002 | [10.1056/NEJMoa021967](https://doi.org/10.1056/NEJMoa021967) | 70-gene microarray signature outperformed clinicopathological staging |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Mullis K — Specific enzymatic amplification of DNA in vit... | Cold Spring Harb Symp Quant Biol | 1986 | [10.1101/sqb.1986.051.01.032](https://doi.org/10.1101/sqb.1986.051.01.032) |
+> | Saiki RK — Primer-directed enzymatic amplification of DNA... | Science | 1988 | [10.1126/science.2448875](https://doi.org/10.1126/science.2448875) |
+> | Schena M — Quantitative monitoring of gene expression pat... | Science | 1995 | [10.1126/science.270.5235.467](https://doi.org/10.1126/science.270.5235.467) |
+> | Chung CH — Molecular classification of HNSCC using patter... | Cancer Cell | 2004 | [10.1016/S1535-6108(04)00112-6](https://doi.org/10.1016/S1535-6108(04)00112-6) |
+> | van de Vijver MJ — A gene-expression signature as a predi... | N Engl J Med | 2002 | [10.1056/NEJMoa021967](https://doi.org/10.1056/NEJMoa021967) |
 
 ---
 

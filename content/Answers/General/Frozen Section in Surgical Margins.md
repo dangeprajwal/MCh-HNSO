@@ -5,7 +5,7 @@ tags:
   - Surgery
 ---
 
-> [!question] AMRITA 2017
+> [!question] Questions Covered
 > Frozen section in [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]]
 
 ## Source

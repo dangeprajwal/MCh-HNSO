@@ -18,13 +18,13 @@ tags:
 > [!cite] Landmark Articles
 > Performance status assessment and treatment response evaluation are two pillars of clinical oncology. The Karnofsky Performance Scale, introduced in 1948, was the first systematic attempt to quantify functional status in cancer patients. Oken et al. (1982) standardized the ECOG/WHO performance status scale, which became the most widely used functional assessment in clinical trials due to its simplicity. Therasse et al. (2000) published the original RECIST criteria, providing the first standardized method for measuring tumour response. Eisenhauer et al. (2009) revised these as RECIST 1.1 — reducing target lesion requirements, incorporating lymph node assessment, and adding FDG-PET guidance — based on a data warehouse of >6,500 patients. Verweij and Therasse (2007) provided a critical commentary on the evolution and limitations of imaging-based response assessment in solid tumours.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | New response evaluation criteria in solid tumours: revised RECIST guideline (v1.1) | Eisenhauer EA, Therasse P, Bogaerts J et al. | Eur J Cancer, 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) | Revised RECIST: max 5 target lesions; LN short axis ≥15 mm; 20%+5 mm for PD |
-> | 2 | Toxicity and response criteria of the Eastern Cooperative Oncology Group | Oken MM, Creech RH, Tormey DC et al. | Am J Clin Oncol, 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) | Defined ECOG PS 0-5 scale; most widely used performance scale in oncology trials |
-> | 3 | New guidelines to evaluate response to treatment in solid tumours (RECIST) | Therasse P, Arbuck SG, Eisenhauer EA et al. | J Natl Cancer Inst, 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) | Original RECIST criteria; standardized unidimensional tumour measurement |
-> | 4 | The rational basis for systematic functional evaluation of the patient with cancer | Karnofsky DA, Burchenal JH | 1949 (textbook chapter) | N/A | Introduced KPS 0-100 scale; first systematic cancer performance assessment |
-> | 5 | Imaging in the evaluation of response to cancer treatment | Verweij J, Therasse P | Eur J Cancer, 2007 | [10.1016/j.ejca.2007.07.014](https://doi.org/10.1016/j.ejca.2007.07.014) | Critical review of RECIST evolution; discusses limitations and future directions |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Eisenhauer EA — New response evaluation criteria in solid... | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
+> | Oken MM — Toxicity and response criteria of the Eastern C... | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
+> | Therasse P — New guidelines to evaluate response to treat... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
+> | Karnofsky DA — The rational basis for systematic function... | 1949 (textbook chapter) |  | N/A |
+> | Verweij J — Imaging in the evaluation of response to canc... | Eur J Cancer | 2007 | [10.1016/j.ejca.2007.07.014](https://doi.org/10.1016/j.ejca.2007.07.014) |
 
 ---
 

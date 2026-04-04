@@ -5,7 +5,7 @@ tags:
   - Supportive-Care
 ---
 
-> [!question] TMH 2021
+> [!question] Questions Covered
 > Swallowing assessment and prevention strategies in advanced laryngeal cancer
 
 ## Source

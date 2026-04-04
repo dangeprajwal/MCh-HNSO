@@ -6,7 +6,7 @@ tags:
   - Surgery
 ---
 
-> [!question] Q35
+> [!question] Questions Covered
 > **Q35 (AMRITA 2016):** Isolated tumour cells
 
 **Source:** Stell and Maran's Textbook of Head and Neck Surgery (Micrometastases and Isolated Tumour Cells — Dedicated Section: Definitions, Detection, Clinical Significance); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 11 (Cervical Lymph Nodes — Sentinel Node Mapping, Micrometastases, IHC Detection); Montgomery - Principles and Practice of HN Surgery ([[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|sentinel node biopsy]] — Tschopp Series); Harrison - Head and Neck Cancer: A Multidisciplinary Approach ([[Answers/Oral Cavity/Melanoma of the Oral Cavity|oral melanoma]] — AJCC Micrometastasis Staging)
@@ -14,13 +14,13 @@ tags:
 > [!cite] Landmark Articles
 > Hermanek et al. (1999) published the landmark UICC classification defining isolated tumour cells (ITC) as distinct from micrometastasis, recommending that ITCs should not be considered in TNM staging at that time. Ferlito et al. (2008) provided the definitive review of lymph node micrometastasis detection in head and neck SCC, establishing rigorous definitions (micrometastasis >0.2 to <=2.0 mm; ITC <=0.2 mm) for uniform reporting. The SENT trial (Schilling et al. 2015) prospectively validated sentinel node biopsy in 415 T1-T2 N0 oral SCC patients across 14 European centres, establishing SNB as reliable for staging the N0 neck. Garrel et al. (2020) published the first randomized equivalence trial demonstrating that SNB is oncologically equivalent to neck dissection with lower morbidity for early oral cancer. Dhawan et al. (2016) showed that IHC with pan-cytokeratin (AE1/AE3) combined with serial sectioning detects occult micrometastases and ITCs that are missed by routine H&E.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Classification of isolated tumor cells and micrometastasis | Hermanek P, Hutter RV, Sobin LH, Wittekind C | Cancer, 1999 | PMID: 10594862 | UICC landmark: ITC defined as distinct from micrometastasis |
-> | 2 | Detection of lymph node micrometastases in patients with squamous carcinoma of the head and neck | Ferlito A, Rinaldo A, Devaney KO, et al. | Eur Arch Otorhinolaryngol, 2008 | [10.1007/s00405-008-0715-8](https://doi.org/10.1007/s00405-008-0715-8) | Micrometastasis >0.2-2.0 mm; ITC <=0.2 mm; rigorous definitions for HNC |
-> | 3 | Sentinel European Node Trial (SENT): 3-year results of sentinel node biopsy in oral cancer | Schilling C, Stoeckli SJ, Haerle SK, et al. | Eur J Cancer, 2015 | [10.1016/j.ejca.2015.08.023](https://doi.org/10.1016/j.ejca.2015.08.023) | 415 T1-T2 N0 OSCC: SNB identified in 99.5%; reliable and safe staging |
-> | 4 | Equivalence randomized trial to compare treatment on the basis of sentinel node biopsy versus neck node dissection in operable T1-T2N0 oral and oropharyngeal cancer | Garrel R, Poissonnet G, Moya Plana A, et al. | J Clin Oncol, 2020 | [10.1200/JCO.20.01661](https://doi.org/10.1200/JCO.20.01661) | First RCT: SNB oncologically equivalent to ND with lower morbidity |
-> | 5 | Detection of cervical lymph node micrometastasis and isolated tumor cells in oral squamous cell carcinoma using IHC and serial sectioning | Dhawan I, Sandhu SV, Bhandari R, et al. | J Oral Maxillofac Pathol, 2016 | [10.4103/0973-029X.190946](https://doi.org/10.4103/0973-029X.190946) | Pan-CK (AE1/AE3) + serial sectioning detects occult metastases missed by H&E |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Hermanek P — Classification of isolated tumor cells and m... | Cancer | 1999 | PMID: 10594862 |
+> | Ferlito A — Detection of lymph node micrometastases in pa... | Eur Arch Otorhinolaryngol | 2008 | [10.1007/s00405-008-0715-8](https://doi.org/10.1007/s00405-008-0715-8) |
+> | Schilling C — Sentinel European Node Trial (SENT): 3-year... | Eur J Cancer | 2015 | [10.1016/j.ejca.2015.08.023](https://doi.org/10.1016/j.ejca.2015.08.023) |
+> | Garrel R — Equivalence randomized trial to compare treatm... | J Clin Oncol | 2020 | [10.1200/JCO.20.01661](https://doi.org/10.1200/JCO.20.01661) |
+> | Dhawan I — Detection of cervical lymph node micrometastas... | J Oral Maxillofac Pathol | 2016 | [10.4103/0973-029X.190946](https://doi.org/10.4103/0973-029X.190946) |
 
 ---
 

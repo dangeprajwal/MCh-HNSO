@@ -4,7 +4,7 @@ tags:
   - Surgery
 ---
 
-> [!question] AIIMS 2020
+> [!question] Questions Covered
 > Obturator versus flap reconstruction in upper alveolus defect
 
 ## Source

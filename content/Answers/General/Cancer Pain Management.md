@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > The WHO analgesic ladder, introduced in 1986, is the foundational framework for cancer pain management worldwide. Zech et al. (1995) provided the most robust validation in a landmark 10-year prospective study of 2,118 patients, demonstrating good pain relief in 76% using the stepwise approach. Jadad and Browman's 1995 JAMA systematic review critically evaluated the evidence behind the ladder, noting that while the available studies provided valuable information, more rigorous controlled trials were needed. Grond et al. (1993) specifically validated the WHO guidelines for head and neck cancer pain. Ferreira et al. (2006) reviewed 20 years of WHO ladder use, confirming its continued relevance. Most recently, Bandieri et al. (2022) conducted the first international RCT comparing a two-step versus three-step approach, finding no significant difference in time to stable pain control — reopening the debate on whether the second step (weak opioids) is necessary.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Validation of WHO guidelines for cancer pain relief: a 10-year prospective study | Zech DFJ, Grond S, Lynch J et al. | Pain, 1995 | [10.1016/0304-3959(95)00017-M](https://doi.org/10.1016/0304-3959(95)00017-M) | 2,118 patients; good pain relief in 76%; validated all 3 steps of WHO ladder over 140,478 treatment days |
-> | 2 | The WHO analgesic ladder for cancer pain management: stepping up the quality of its evaluation | Jadad AR, Browman GP | JAMA, 1995 | [10.1001/jama.1995.03530230066035](https://doi.org/10.1001/jama.1995.03530230066035) | Systematic review; called for rigorous controlled trials to validate the WHO ladder |
-> | 3 | Validation of WHO guidelines for pain relief in head and neck cancer: a prospective study | Grond S, Zech D, Lynch J et al. | Ann Otol Rhinol Laryngol, 1993 | [10.1177/000348949310200504](https://doi.org/10.1177/000348949310200504) | Specific validation of WHO ladder for head and neck cancer pain |
-> | 4 | The WHO analgesic ladder for cancer pain control, twenty years of use | Ferreira KA, Kimura M, Teixeira MJ | Support Care Cancer, 2006 | [10.1007/s00520-006-0086-x](https://doi.org/10.1007/s00520-006-0086-x) | 20-year review confirming continued relevance of the three-step approach |
-> | 5 | Two-step vs three-step WHO analgesic ladder in cancer: international open-label RCT | Bandieri E, Romero M, Ripamonti CI et al. | Ann Oncol, 2022 | [10.1016/j.annonc.2022.08.083](https://doi.org/10.1016/j.annonc.2022.08.083) | No significant difference between 2-step and 3-step approaches; questions role of weak opioids |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Zech DFJ — Validation of WHO guidelines for cancer pain r... | Pain | 1995 | [10.1016/0304-3959(95)00017-M](https://doi.org/10.1016/0304-3959(95)00017-M) |
+> | Jadad AR — The WHO analgesic ladder for cancer pain manag... | JAMA | 1995 | [10.1001/jama.1995.03530230066035](https://doi.org/10.1001/jama.1995.03530230066035) |
+> | Grond S — Validation of WHO guidelines for pain relief in... | Ann Otol Rhinol Laryngol | 1993 | [10.1177/000348949310200504](https://doi.org/10.1177/000348949310200504) |
+> | Ferreira KA — The WHO analgesic ladder for cancer pain co... | Support Care Cancer | 2006 | [10.1007/s00520-006-0086-x](https://doi.org/10.1007/s00520-006-0086-x) |
+> | Bandieri E — Two-step vs three-step WHO analgesic ladder ... | Ann Oncol | 2022 | [10.1016/j.annonc.2022.08.083](https://doi.org/10.1016/j.annonc.2022.08.083) |
 
 ---
 

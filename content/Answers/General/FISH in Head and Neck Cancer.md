@@ -5,7 +5,7 @@ tags:
   - Molecular-Biology
 ---
 
-> [!question] Q36
+> [!question] Questions Covered
 > **Q36 (AMRITA 2016):** FISH (Fluorescent in situ hybridization)
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology — FISH, M-FISH, SKY, CGH, Chromosomal Changes, EGFR Amplification, Cyclin D1, p16 Deletion); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 2 (Pathology — ISH Principles, FISH/CISH, EBER, HPV Detection), Chapter 5 (EGFR Gene Copy Number by FISH, Cyclin D1 Amplification); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 1 (Spectral Karyotyping, FISH for Translocations), Chapter on HPV (ISH for HPV DNA)
@@ -13,13 +13,13 @@ tags:
 > [!cite] Landmark Articles
 > Chung et al. (2006) used FISH to demonstrate that 58% of 75 HNSCC samples had increased EGFR gene copy number (high polysomy and/or amplification), with FISH-positive patients having significantly worse progression-free and overall survival. Namazie et al. (2002) applied dual-colour FISH to 103 HNSCC patients, finding cyclin D1 amplification in 30% and p16 deletion in 52%, both correlating with recurrence, distant metastasis, and survival. Ukpo et al. (2011) demonstrated that RNA in situ hybridization (RNAscope) for HPV E6/E7 mRNA is more sensitive than DNA ISH and strongly correlates with p16 expression and outcomes in oropharyngeal SCC. Pectasides et al. (2011) compared EGFR FISH with quantitative protein expression, finding that EGFR protein level (not FISH alone) predicts outcome in HNSCC. Dreyer et al. (2013) proposed a practical HPV detection algorithm using p16 IHC as initial screen followed by DNA ISH or RNA ISH for confirmation.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Increased EGFR gene copy number is associated with poor prognosis in HNSCC | Chung CH, Ely K, McGavran L, et al. | J Clin Oncol, 2006 | [10.1200/JCO.2006.07.2587](https://doi.org/10.1200/JCO.2006.07.2587) | 58% FISH-positive; significantly worse PFS and OS |
-> | 2 | Cyclin D1 amplification and p16 deletion correlate with poor prognosis in HN tumors | Namazie A, Alavi S, Olopade OI, et al. | Laryngoscope, 2002 | [10.1097/00005537-200203000-00013](https://doi.org/10.1097/00005537-200203000-00013) | Dual-colour FISH: cyclin D1 amp 30%, p16 del 52%; both predict poor outcome |
-> | 3 | High-risk HPV E6/E7 mRNA detection by a novel ISH assay strongly correlates with p16 and outcomes in OPSCC | Ukpo OC, Flanagan JJ, Ma XJ, et al. | Am J Surg Pathol, 2011 | [10.1097/PAS.0b013e318220e59d](https://doi.org/10.1097/PAS.0b013e318220e59d) | RNA ISH (RNAscope) for HPV more sensitive than DNA ISH |
-> | 4 | Comparative prognostic value of EGFR quantitative protein expression compared with FISH for HNSCC | Pectasides E, Rampias T, Kountourakis P, et al. | Clin Cancer Res, 2011 | [10.1158/1078-0432.CCR-10-2040](https://doi.org/10.1158/1078-0432.CCR-10-2040) | EGFR protein levels predict outcome; FISH alone insufficient |
-> | 5 | Detection of HPV infection in head and neck SCC: a practical proposal | Dreyer JH, Hauck F, Oliveira-Silva M, et al. | Virchows Arch, 2013 | [10.1007/s00428-013-1393-5](https://doi.org/10.1007/s00428-013-1393-5) | Practical algorithm: p16 IHC screen → DNA/RNA ISH confirmation |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Chung CH — Increased EGFR gene copy number is associated ... | J Clin Oncol | 2006 | [10.1200/JCO.2006.07.2587](https://doi.org/10.1200/JCO.2006.07.2587) |
+> | Namazie A — Cyclin D1 amplification and p16 deletion corr... | Laryngoscope | 2002 | [10.1097/00005537-200203000-00013](https://doi.org/10.1097/00005537-200203000-00013) |
+> | Ukpo OC — High-risk HPV E6/E7 mRNA detection by a novel I... | Am J Surg Pathol | 2011 | [10.1097/PAS.0b013e318220e59d](https://doi.org/10.1097/PAS.0b013e318220e59d) |
+> | Pectasides E — Comparative prognostic value of EGFR quant... | Clin Cancer Res | 2011 | [10.1158/1078-0432.CCR-10-2040](https://doi.org/10.1158/1078-0432.CCR-10-2040) |
+> | Dreyer JH — Detection of HPV infection in head and neck S... | Virchows Arch | 2013 | [10.1007/s00428-013-1393-5](https://doi.org/10.1007/s00428-013-1393-5) |
 
 ---
 

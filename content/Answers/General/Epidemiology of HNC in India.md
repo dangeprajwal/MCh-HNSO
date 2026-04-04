@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > India bears a disproportionately high burden of head and neck cancer, driven primarily by widespread tobacco use in diverse forms. Mathur et al. (2020) published the comprehensive ICMR-NCRP cancer statistics report projecting 1,392,179 cancer patients in India for 2020, with mouth and tongue among leading sites and 66.6% of HNC diagnosed at locally advanced stage. Bagal et al. (2023) published the definitive analysis of HNC burden across 37 population-based cancer registries in India, revealing that HNC accounts for 26% of all male cancers with an ASR of 25.9/100,000 — the northeast region having the highest incidence (31.7/100,000). Sankaranarayanan et al. (2005) published the landmark Trivandrum [[Answers/Oral Cavity/Oral Cancer Screening|oral cancer screening]] Study in The Lancet — the only randomized controlled trial worldwide demonstrating that visual oral inspection by trained health workers significantly reduces oral cancer mortality among tobacco/alcohol users. Gupta and Johnson (2014) published the definitive meta-analysis confirming that smokeless tobacco (OR 7.46) and betel quid without tobacco (OR 2.82) are strong independent risk factors for oral cancer in South Asia. Sathishkumar et al. (2022) published the updated NCRP cancer incidence estimates for India with projections to 2025, showing mouth cancer contributes 5.7% of total cancer burden.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Cancer Statistics, 2020: Report From NCRP, India | Mathur P, Sathishkumar K et al. | JCO Glob Oncol, 2020 | [10.1200/GO.20.00122](https://doi.org/10.1200/GO.20.00122) | 1.39 million cancer cases projected; mouth among top sites; 66.6% HNC at advanced stage |
-> | 2 | Head and neck cancer burden in India: analysis from 37 PBCRs | Bagal S, Budukh A, Thakur JS et al. | ecancermedicalscience, 2023 | [10.3332/ecancer.2023.1603](https://doi.org/10.3332/ecancer.2023.1603) | HNC = 26% of male cancers; ASR 25.9/100,000; northeast highest incidence |
-> | 3 | Effect of screening on oral cancer mortality in Kerala, India (Trivandrum RCT) | Sankaranarayanan R, Ramadas K et al. | Lancet, 2005 | [10.1016/S0140-6736(05)66658-5](https://doi.org/10.1016/S0140-6736(05)66658-5) | Only RCT worldwide: visual screening reduces oral cancer mortality in tobacco users |
-> | 4 | Smokeless tobacco and betel quid without tobacco and oral cancer in South Asia: meta-analysis | Gupta B, Johnson NW | PLoS One, 2014 | [10.1371/journal.pone.0113385](https://doi.org/10.1371/journal.pone.0113385) | Smokeless tobacco OR 7.46; betel quid without tobacco OR 2.82 for oral SCC |
-> | 5 | Cancer incidence estimates for 2022 & projection for 2025: NCRP, India | Sathishkumar K, Chaturvedi M et al. | Indian J Med Res, 2022 | [10.4103/ijmr.ijmr_1821_22](https://doi.org/10.4103/ijmr.ijmr_1821_22) | Mouth cancer = 5.7% of total cancer burden; updated incidence projections |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Mathur P — Cancer Statistics, 2020: Report From NCRP, India | JCO Glob Oncol | 2020 | [10.1200/GO.20.00122](https://doi.org/10.1200/GO.20.00122) |
+> | Bagal S — Head and neck cancer burden in India: analysis ... | ecancermedicalscience | 2023 | [10.3332/ecancer.2023.1603](https://doi.org/10.3332/ecancer.2023.1603) |
+> | Sankaranarayanan R — Effect of screening on oral cancer m... | Lancet | 2005 | [10.1016/S0140-6736(05)66658-5](https://doi.org/10.1016/S0140-6736(05)66658-5) |
+> | Gupta B — Smokeless tobacco and betel quid without tobacc... | PLoS One | 2014 | [10.1371/journal.pone.0113385](https://doi.org/10.1371/journal.pone.0113385) |
+> | Sathishkumar K — Cancer incidence estimates for 2022 & pr... | Indian J Med Res | 2022 | [10.4103/ijmr.ijmr_1821_22](https://doi.org/10.4103/ijmr.ijmr_1821_22) |
 
 ---
 

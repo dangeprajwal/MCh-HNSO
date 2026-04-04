@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Apoptosis — programmed cell death — was first described and named by Kerr, Wyllie, and Currie in 1972, who identified it as a fundamental biological phenomenon distinct from necrosis. Hanahan and Weinberg (2000) identified "evading apoptosis" as one of the six hallmarks of cancer, establishing a conceptual framework for understanding how loss of apoptotic signalling contributes to malignancy. Ashkenazi and Dixit (1998) published the seminal review of death receptor signalling, defining the extrinsic apoptotic pathway. Leemans et al. (2011) provided the comprehensive molecular biology review of head and neck cancer, integrating apoptosis evasion with the other molecular aberrations in HNSCC. Ow et al. (2020) specifically evaluated BCL-2 family signalling as treatment targets in HNSCC, demonstrating that these tumours rely on BCL-xL and MCL-1 overexpression to inhibit apoptosis.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics | Kerr JF, Wyllie AH, Currie AR | Br J Cancer, 1972 | [10.1038/bjc.1972.33](https://doi.org/10.1038/bjc.1972.33) | Coined the term "apoptosis" — defined controlled cell deletion as complement to mitosis |
-> | 2 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) | Identified "evading apoptosis" as one of six hallmarks of cancer |
-> | 3 | Death receptors: signaling and modulation | Ashkenazi A, Dixit VM | Science, 1998 | [10.1126/science.281.5381.1305](https://doi.org/10.1126/science.281.5381.1305) | Defined extrinsic apoptotic pathway via death receptors (FAS, TRAIL-R, TNF-R) |
-> | 4 | The molecular biology of head and neck cancer | Leemans CR, Braakhuis BJM, Brakenhoff RH | Nat Rev Cancer, 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) | Comprehensive review integrating apoptosis evasion with HNSCC molecular pathogenesis |
-> | 5 | Apoptosis signaling molecules as treatment targets in HNSCC | Ow TJ, Thomas C, Fulcher CD et al. | Laryngoscope, 2020 | [10.1002/lary.28441](https://doi.org/10.1002/lary.28441) | HNSCC cells rely on BCL-xL and MCL-1 overexpression to inhibit apoptosis |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Kerr JF — Apoptosis: a basic biological phenomenon with w... | Br J Cancer | 1972 | [10.1038/bjc.1972.33](https://doi.org/10.1038/bjc.1972.33) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
+> | Ashkenazi A — Death receptors: signaling and modulation | Science | 1998 | [10.1126/science.281.5381.1305](https://doi.org/10.1126/science.281.5381.1305) |
+> | Leemans CR — The molecular biology of head and neck cancer | Nat Rev Cancer | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
+> | Ow TJ — Apoptosis signaling molecules as treatment target... | Laryngoscope | 2020 | [10.1002/lary.28441](https://doi.org/10.1002/lary.28441) |
 
 ---
 

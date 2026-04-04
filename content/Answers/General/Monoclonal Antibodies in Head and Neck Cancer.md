@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Monoclonal antibodies (MABs) have fundamentally changed the treatment landscape of head and neck squamous cell carcinoma. Bonner et al. (2006) published the landmark phase III trial demonstrating that adding cetuximab (an anti-EGFR MAB) to radiotherapy significantly improved locoregional control and overall survival in locoregionally advanced HNSCC — the first targeted therapy to show a survival benefit in this disease. Vermorken et al. (2008) established the EXTREME regimen (cetuximab + platinum/5-FU) as the first-line standard for recurrent/metastatic HNSCC, improving median OS from 7.4 to 10.1 months. Ferris et al. (2016) reported the CheckMate-141 trial — the first phase III RCT of an immune checkpoint inhibitor (nivolumab, anti-PD-1) in HNSCC — demonstrating superior overall survival over investigator's choice in platinum-refractory recurrent/metastatic disease. Burtness et al. (2019) published KEYNOTE-048, which established pembrolizumab (anti-PD-1) ± chemotherapy as the new first-line standard for recurrent/metastatic HNSCC, replacing the EXTREME regimen. Cohen et al. (2019) reported the KEYNOTE-040 trial confirming single-agent pembrolizumab's superiority over standard chemotherapy in second-line recurrent/metastatic HNSCC.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck | Bonner JA, Harari PM, Giralt J et al. | N Engl J Med, 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) | Cetuximab + RT improved OS (49 vs 29.3 months) and LRC vs RT alone in LA-HNSCC |
-> | 2 | Platinum-based chemotherapy plus cetuximab in HNC (EXTREME) | Vermorken JB, Mesia R, Rivera F et al. | N Engl J Med, 2008 | [10.1056/NEJMoa0802656](https://doi.org/10.1056/NEJMoa0802656) | Cetuximab + platinum/5-FU improved OS (10.1 vs 7.4 months) in R/M HNSCC |
-> | 3 | Nivolumab for recurrent squamous-cell carcinoma of the head and neck (CheckMate-141) | Ferris RL, Blumenschein G Jr, Fayette J et al. | N Engl J Med, 2016 | [10.1056/NEJMoa1602252](https://doi.org/10.1056/NEJMoa1602252) | First checkpoint inhibitor phase III in HNSCC; nivolumab improved OS vs standard therapy |
-> | 4 | Pembrolizumab ± chemotherapy vs cetuximab + chemotherapy for R/M HNSCC (KEYNOTE-048) | Burtness B, Harrington KJ, Greil R et al. | Lancet, 2019 | [10.1016/S0140-6736(19)32591-7](https://doi.org/10.1016/S0140-6736(19)32591-7) | Pembrolizumab ± chemo became new first-line standard for R/M HNSCC |
-> | 5 | Pembrolizumab vs standard therapy for R/M HNSCC (KEYNOTE-040) | Cohen EEW, Soulieres D, Le Tourneau C et al. | Lancet, 2019 | [10.1016/S0140-6736(18)31999-8](https://doi.org/10.1016/S0140-6736(18)31999-8) | Single-agent pembrolizumab superior to standard chemotherapy in second-line R/M HNSCC |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
+> | Vermorken JB — Platinum-based chemotherapy plus cetuximab... | N Engl J Med | 2008 | [10.1056/NEJMoa0802656](https://doi.org/10.1056/NEJMoa0802656) |
+> | Ferris RL — Nivolumab for recurrent squamous-cell carcino... | N Engl J Med | 2016 | [10.1056/NEJMoa1602252](https://doi.org/10.1056/NEJMoa1602252) |
+> | Burtness B — Pembrolizumab ± chemotherapy vs cetuximab + ... | Lancet | 2019 | [10.1016/S0140-6736(19)32591-7](https://doi.org/10.1016/S0140-6736(19)32591-7) |
+> | Cohen EEW — Pembrolizumab vs standard therapy for R/M HNS... | Lancet | 2019 | [10.1016/S0140-6736(18)31999-8](https://doi.org/10.1016/S0140-6736(18)31999-8) |
 
 ---
 

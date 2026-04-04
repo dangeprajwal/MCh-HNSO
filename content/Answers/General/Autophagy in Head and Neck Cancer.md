@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Autophagy (from the Greek, "self-eating") is a highly conserved cellular degradation process whereby cytoplasmic contents are sequestered within double-membrane vesicles (autophagosomes) and delivered to lysosomes for degradation and recycling. Yoshinori Ohsumi was awarded the 2016 Nobel Prize in Physiology or Medicine for identifying the genetic machinery of autophagy through his landmark 1993 yeast studies. In cancer, autophagy has a paradoxical dual role: it acts as a tumour suppressor in early carcinogenesis by preventing accumulation of damaged organelles and genomic instability, but once a tumour is established, cancer cells exploit autophagy as a survival mechanism under metabolic stress, hypoxia, and during therapy. In HNSCC specifically, Sannigrahi et al. (2015) provided the first comprehensive review of autophagy's role in HNC pathogenesis and therapeutic resistance, while Cosway and Lovat (2016) reviewed the prognostic significance of autophagy biomarkers and strategies to target autophagy in HNSCC.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Isolation and characterization of autophagy-defective mutants of Saccharomyces cerevisiae | Tsukada M, Ohsumi Y | FEBS Lett, 1993 | [10.1016/0014-5793(93)80398-e](https://doi.org/10.1016/0014-5793(93)80398-e) | Identified first autophagy genes (APG) in yeast — Nobel Prize 2016 |
-> | 2 | Autophagy in malignant transformation and cancer progression | Galluzzi L, Pietrocola F, Kroemer G et al. | EMBO J, 2015 | [10.15252/embj.201490784](https://doi.org/10.15252/embj.201490784) | Comprehensive review of autophagy's dual role in cancer — tumour suppression vs tumour promotion |
-> | 3 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) | Deregulating cellular energetics identified as emerging hallmark — autophagy is a key effector |
-> | 4 | Role of autophagy in head and neck cancer and therapeutic resistance | Sannigrahi MK, Singh V, Sharma R et al. | Oral Dis, 2015 | [10.1111/odi.12254](https://doi.org/10.1111/odi.12254) | First comprehensive review: autophagy is a double-edged sword in HNSCC therapeutic resistance |
-> | 5 | The role of autophagy in squamous cell carcinoma of the head and neck | Cosway B, Lovat P | Oral Oncol, 2016 | [10.1016/j.oraloncology.2015.12.007](https://doi.org/10.1016/j.oraloncology.2015.12.007) | Autophagy biomarkers have prognostic significance in HNSCC; strategies for therapeutic targeting |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Tsukada M — Isolation and characterization of autophagy-d... | FEBS Lett | 1993 | [10.1016/0014-5793(93)80398-e](https://doi.org/10.1016/0014-5793(93)80398-e) |
+> | Galluzzi L — Autophagy in malignant transformation and ca... | EMBO J | 2015 | [10.15252/embj.201490784](https://doi.org/10.15252/embj.201490784) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
+> | Sannigrahi MK — Role of autophagy in head and neck cancer... | Oral Dis | 2015 | [10.1111/odi.12254](https://doi.org/10.1111/odi.12254) |
+> | Cosway B — The role of autophagy in squamous cell carcino... | Oral Oncol | 2016 | [10.1016/j.oraloncology.2015.12.007](https://doi.org/10.1016/j.oraloncology.2015.12.007) |
 
 ---
 

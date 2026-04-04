@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > The clinical application of NBI in head and neck oncology was established through a series of key studies beginning with Muto et al.'s 2010 multicenter RCT in the Journal of Clinical Oncology, which demonstrated 100% sensitivity for detecting superficial head and neck cancers with NBI versus conventional white light. Piazza et al. (2010) conducted the largest prospective laryngeal NBI study (279 patients), confirming high sensitivity and specificity for assessing laryngeal lesions. Ni et al. (2011) proposed the first IPCL classification system for laryngeal mucosal microvasculature (Types I-V), enabling standardized NBI interpretation. A systematic review and meta-analysis by Towns et al. (2020) pooled evidence showing NBI achieves 88.5% sensitivity and 95.6% specificity for laryngeal cancer detection. Piazza et al. (2015) authored the comprehensive review summarizing NBI's role across all head and neck subsites.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Early detection of superficial SCC in head and neck by NBI: a multicenter RCT | Muto M, Minashi K, Yano T et al. | J Clin Oncol, 2010 | [10.1200/JCO.2009.25.4680](https://doi.org/10.1200/JCO.2009.25.4680) | 100% sensitivity for superficial HN cancer; NBI significantly superior to white light imaging |
-> | 2 | NBI and HDTV in assessment of laryngeal cancer: prospective study on 279 patients | Piazza C, Cocco D, De Benedetto L et al. | Eur Arch Otorhinolaryngol, 2010 | [10.1007/s00405-009-1121-6](https://doi.org/10.1007/s00405-009-1121-6) | Largest prospective laryngeal NBI study; high diagnostic accuracy for glottic lesions |
-> | 3 | Endoscopic diagnosis of laryngeal cancer and precancerous lesions by NBI | Ni XG, He S, Xu ZG et al. | J Laryngol Otol, 2011 | [10.1017/S0022215110002033](https://doi.org/10.1017/S0022215110002033) | First IPCL classification (Types I-V) for laryngeal mucosal microvasculature |
-> | 4 | Use of NBI for diagnosis and screening of laryngeal cancer: systematic review and meta-analysis | Towns CI, Fishman JM, Mulla O et al. | Head Neck, 2020 | [10.1002/hed.26321](https://doi.org/10.1002/hed.26321) | Pooled sensitivity 88.5%, specificity 95.6%; diagnostic OR 121.26 |
-> | 5 | The role of NBI in head and neck cancers | Piazza C, Del Bon F, Paderno A et al. | Curr Oncol Rep, 2015 | [10.1007/s11912-015-0498-1](https://doi.org/10.1007/s11912-015-0498-1) | Comprehensive review of NBI across all HN subsites; recommends NBI as new standard |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Muto M — Early detection of superficial SCC in head and n... | J Clin Oncol | 2010 | [10.1200/JCO.2009.25.4680](https://doi.org/10.1200/JCO.2009.25.4680) |
+> | Piazza C — NBI and HDTV in assessment of laryngeal cancer... | Eur Arch Otorhinolaryngol | 2010 | [10.1007/s00405-009-1121-6](https://doi.org/10.1007/s00405-009-1121-6) |
+> | Ni XG — Endoscopic diagnosis of laryngeal cancer and prec... | J Laryngol Otol | 2011 | [10.1017/S0022215110002033](https://doi.org/10.1017/S0022215110002033) |
+> | Towns CI — Use of NBI for diagnosis and screening of lary... | Head Neck | 2020 | [10.1002/hed.26321](https://doi.org/10.1002/hed.26321) |
+> | Piazza C — The role of NBI in head and neck cancers | Curr Oncol Rep | 2015 | [10.1007/s11912-015-0498-1](https://doi.org/10.1007/s11912-015-0498-1) |
 
 ---
 

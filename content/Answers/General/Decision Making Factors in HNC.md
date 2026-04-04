@@ -14,13 +14,13 @@ tags:
 > [!cite] Landmark Articles
 > Treatment decision-making in head and neck squamous cell carcinoma (HNSCC) is among the most complex in oncology, requiring integration of tumour factors, patient factors, and healthcare system factors within a multidisciplinary framework. Piccirillo (2000) published the landmark study demonstrating the importance of comorbidity in head and neck cancer, showing that 21% of HNC patients had moderate-to-severe comorbidity and that comorbidity severity significantly affected overall survival — leading to the development of the Adult Comorbidity Evaluation-27 (ACE-27) instrument. Wheless et al. (2010) conducted the first prospective study evaluating the clinical impact of a multidisciplinary head and neck tumour board, finding that diagnosis, stage, or treatment plan was changed in 27% of cases — establishing the evidence base for MDT decision-making. Piccirillo et al. (2004) extended the comorbidity work in a JAMA publication demonstrating that comorbidity is an independent prognostic factor across cancer sites, including head and neck, and should be incorporated into staging systems. Prades et al. (2015) published the definitive systematic review of MDT impact on cancer outcomes, confirming improved survival in head and neck, colorectal, breast, and lung cancer with structured multidisciplinary care. Liu et al. (2020) provided the most recent evidence that implementation of a dedicated multidisciplinary tumour board significantly improved 5-year disease-specific survival in HNSCC.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Importance of comorbidity in head and neck cancer | Piccirillo JF | Laryngoscope, 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) | 21% moderate-severe comorbidity; ACE-27 instrument developed |
-> | 2 | A prospective study of the clinical impact of a multidisciplinary head and neck tumor board | Wheless SA, McKinney KA, Zanation AM | Otolaryngol Head Neck Surg, 2010 | [10.1016/j.otohns.2010.07.020](https://doi.org/10.1016/j.otohns.2010.07.020) | 27% of cases had diagnosis/stage/treatment changed at MDT |
-> | 3 | Prognostic importance of comorbidity in a hospital-based cancer registry | Piccirillo JF, Tierney RM, Costas I et al. | JAMA, 2004 | [10.1001/jama.291.20.2441](https://doi.org/10.1001/jama.291.20.2441) | Comorbidity is independent prognostic factor; should be in staging |
-> | 4 | Is it worth reorganising cancer services on the basis of MDTs? | Prades J, Remue E, van Hoof E, Borras JM | Health Policy, 2015 | [10.1016/j.healthpol.2014.09.006](https://doi.org/10.1016/j.healthpol.2014.09.006) | Systematic review: MDTs improve survival in HNC, breast, colorectal, lung |
-> | 5 | The impact of the multidisciplinary tumor board on head and neck cancer outcomes | Liu JC, Kaplon A, Blackman E et al. | Laryngoscope, 2020 | [10.1002/lary.28066](https://doi.org/10.1002/lary.28066) | Dedicated MDT improved 5-year disease-specific survival in HNSCC |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Piccirillo JF — Importance of comorbidity in head and nec... | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
+> | Wheless SA — A prospective study of the clinical impact o... | Otolaryngol Head Neck Surg | 2010 | [10.1016/j.otohns.2010.07.020](https://doi.org/10.1016/j.otohns.2010.07.020) |
+> | Piccirillo JF — Prognostic importance of comorbidity in a... | JAMA | 2004 | [10.1001/jama.291.20.2441](https://doi.org/10.1001/jama.291.20.2441) |
+> | Prades J — Is it worth reorganising cancer services on th... | Health Policy | 2015 | [10.1016/j.healthpol.2014.09.006](https://doi.org/10.1016/j.healthpol.2014.09.006) |
+> | Liu JC — The impact of the multidisciplinary tumor board ... | Laryngoscope | 2020 | [10.1002/lary.28066](https://doi.org/10.1002/lary.28066) |
 
 ---
 

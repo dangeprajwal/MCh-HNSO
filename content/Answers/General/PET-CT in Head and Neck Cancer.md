@@ -4,7 +4,7 @@ tags:
   - Diagnostics
 ---
 
-> [!question] AIIMS 2020
+> [!question] Questions Covered
 > Role of PET-CT scan in the surveillance imaging
 
 ## Source

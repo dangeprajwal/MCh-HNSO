@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > Trismus, defined as restricted mouth opening ≤35 mm, affects 25-38% of head and neck cancer patients following treatment and has a profound impact on [[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]], nutrition, oral hygiene, speech, and cancer surveillance. Dijkstra et al. (2004) published the first comprehensive systematic review of trismus in head and neck oncology, establishing the ≤35 mm diagnostic criterion and demonstrating that radiotherapy involving the TMJ and/or pterygoid muscles reduces mouth opening by 18%. Buchbinder et al. (1993) conducted the seminal comparative study of jaw mobilization techniques, showing that the TheraBite device produced significantly greater mouth opening improvement (13.6 mm) than tongue depressors (4.4 mm) or unassisted exercise (6.0 mm). Bensadoun et al. (2010) in their MASCC/ISOO systematic review found that IMRT significantly reduced trismus prevalence (5%) compared to conventional RT (25.4%). Kamstra et al. (2017) systematically reviewed exercise therapy for trismus, finding that while exercises can improve established trismus, they may not prevent its development. Shao et al. (2020) provided the most comprehensive meta-analysis of 13 RCTs confirming that exercise therapy improves maximal interincisal opening (MIO) in established trismus.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Trismus in head and neck oncology: a systematic review | Dijkstra PU, Kalk WWI, Roodenburg JLN | Oral Oncol, 2004 | [10.1016/j.oraloncology.2004.04.003](https://doi.org/10.1016/j.oraloncology.2004.04.003) | Established ≤35 mm criterion; RT to TMJ/pterygoids reduces MIO by 18% |
-> | 2 | Mobilization regimens for prevention of jaw hypomobility in the radiated patient | Buchbinder D, Currivan RB, Kaplan AJ, Urken ML | J Oral Maxillofac Surg, 1993 | [10.1016/s0278-2391(10)80104-1](https://doi.org/10.1016/s0278-2391(10)80104-1) | TheraBite superior: 13.6 mm gain vs 4.4 mm (tongue blades) vs 6.0 mm (unassisted) |
-> | 3 | Systematic review of trismus induced by cancer therapies in HNC | Bensadoun RJ, Riesenbeck D, Lockhart PB et al. | Support Care Cancer, 2010 | [10.1007/s00520-010-0847-4](https://doi.org/10.1007/s00520-010-0847-4) | IMRT prevalence 5% vs conventional RT 25.4% |
-> | 4 | Exercise therapy for trismus secondary to HNC: systematic review | Kamstra JI, van Leeuwen M, Roodenburg JLN, Dijkstra PU | Head Neck, 2017 | [10.1002/hed.24859](https://doi.org/10.1002/hed.24859) | Exercises improve established trismus but may not prevent it |
-> | 5 | Exercise therapy for cancer treatment-induced trismus: meta-analysis of RCTs | Shao CH, Chiang CC, Huang TW | Radiother Oncol, 2020 | [10.1016/j.radonc.2020.08.024](https://doi.org/10.1016/j.radonc.2020.08.024) | 13 RCTs: exercise therapy improves MIO in established trismus |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Dijkstra PU — Trismus in head and neck oncology: a system... | Oral Oncol | 2004 | [10.1016/j.oraloncology.2004.04.003](https://doi.org/10.1016/j.oraloncology.2004.04.003) |
+> | Buchbinder D — Mobilization regimens for prevention of ja... | J Oral Maxillofac Surg | 1993 | [10.1016/s0278-2391(10)80104-1](https://doi.org/10.1016/s0278-2391(10)80104-1) |
+> | Bensadoun RJ — Systematic review of trismus induced by ca... | Support Care Cancer | 2010 | [10.1007/s00520-010-0847-4](https://doi.org/10.1007/s00520-010-0847-4) |
+> | Kamstra JI — Exercise therapy for trismus secondary to HN... | Head Neck | 2017 | [10.1002/hed.24859](https://doi.org/10.1002/hed.24859) |
+> | Shao CH — Exercise therapy for cancer treatment-induced t... | Radiother Oncol | 2020 | [10.1016/j.radonc.2020.08.024](https://doi.org/10.1016/j.radonc.2020.08.024) |
 
 ---
 

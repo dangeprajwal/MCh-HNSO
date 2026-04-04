@@ -4,7 +4,7 @@ tags:
   - Rehabilitation
 ---
 
-> [!question] Q47
+> [!question] Questions Covered
 > **Q47 (AMRITA 2018):** Osteointegrated implants
 
 **Source:** Stell and Maran's Textbook of Head and Neck Surgery, Chapter 57 (Principles of Osseointegration — Branemark, Tissue Interface, Surgical Technique); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 9 (Dental Oncology — Implant Success Rates, Fibula Reconstruction); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 8 (Oral Cavity — Implants after Mandibulectomy); Montgomery - Principles and Practice of HN Surgery (Branemark System, Extraoral Prostheses); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 31 (Maxillofacial Prosthetics — Implants in Irradiated Patients)
@@ -12,13 +12,13 @@ tags:
 > [!cite] Landmark Articles
 > Branemark et al. (1977) published the original 10-year clinical experience establishing osseointegration as the direct structural and functional connection between living bone and load-carrying titanium implants. Adell et al. (1981) reported the landmark 15-year follow-up of 2,768 fixtures in 371 patients, demonstrating 91% mandibular and 81% maxillary stability with marginal bone loss of only 0.1 mm/year after the first year. Granstrom (2005) retrospectively evaluated 631 implants in irradiated cancer patients over 25 years, establishing that RT increases failure rate, especially at high doses. Schiegnitz et al. (2014) published the first meta-analysis of implants in irradiated patients, finding mean survival of 83% (range 34-100%). Chiapasco et al. (2006) demonstrated that implants in fibula free-flap reconstructed areas achieve survival rates comparable to native bone.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Osseointegrated implants in the treatment of the edentulous jaw: 10-year experience | Branemark PI, Hansson BO, Adell R, et al. | Scand J Plast Reconstr Surg Suppl, 1977 | PMID: 356184 (pre-DOI) | Established osseointegration: direct bone-titanium interface |
-> | 2 | A 15-year study of osseointegrated implants in the treatment of the edentulous jaw | Adell R, Lekholm U, Rockler B, Branemark PI | Int J Oral Surg, 1981 | [10.1016/s0300-9785(81)80077-4](https://doi.org/10.1016/s0300-9785(81)80077-4) | 2,768 fixtures: mandible 91%, maxilla 81%; bone loss 0.1 mm/year |
-> | 3 | Osseointegration in irradiated cancer patients: analysis with respect to implant failures | Granstrom G | J Oral Maxillofac Surg, 2005 | [10.1016/j.joms.2005.01.008](https://doi.org/10.1016/j.joms.2005.01.008) | 631 implants in irradiated patients; higher failure with high dose RT |
-> | 4 | Oral rehabilitation with [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction|dental implants]] in irradiated patients: meta-analysis on implant survival | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA | Clin Oral Investig, 2014 | [10.1007/s00784-013-1134-9](https://doi.org/10.1007/s00784-013-1134-9) | Mean implant survival 83% in irradiated patients |
-> | 5 | Clinical outcome of dental implants placed in fibula-free flaps for maxillo-mandibular reconstruction | Chiapasco M, Biglioli F, Autelitano L, et al. | Clin Oral Implants Res, 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) | Fibula implant survival comparable to native bone |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Branemark PI — Osseointegrated implants in the treatment ... | Scand J Plast Reconstr Surg Suppl | 1977 | PMID: 356184 (pre-DOI) |
+> | Adell R — A 15-year study of osseointegrated implants in ... | Int J Oral Surg | 1981 | [10.1016/s0300-9785(81)80077-4](https://doi.org/10.1016/s0300-9785(81)80077-4) |
+> | Granstrom G — Osseointegration in irradiated cancer patie... | J Oral Maxillofac Surg | 2005 | [10.1016/j.joms.2005.01.008](https://doi.org/10.1016/j.joms.2005.01.008) |
+> | dental implants]] in irradiated patients: meta-analysis o... | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA |  | Clin Oral Investig, 2014 |
+> | Chiapasco M — Clinical outcome of dental implants placed ... | Clin Oral Implants Res | 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) |
 
 ---
 

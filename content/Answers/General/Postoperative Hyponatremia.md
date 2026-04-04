@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Postoperative hyponatremia (serum sodium <135 mmol/L) is a common and potentially dangerous electrolyte disorder following head and neck surgery, occurring in up to 67% of patients undergoing major HNC resection. Schwartz et al. (1957) first described the syndrome of inappropriate antidiuretic hormone secretion (SIADH) — the most common cause of euvolaemic hyponatremia in cancer patients. Arieff (1986) established that acute symptomatic hyponatremia carries a significant risk of permanent neurological damage and death if not corrected promptly. Sterns (1987) then defined the complication of osmotic demyelination syndrome (ODS) from overly rapid correction, establishing the critical rate limit. Verbalis et al. (2013) published the American Expert Panel Consensus Recommendations — the current standard for diagnosis and treatment of hyponatremia. Castillo et al. (2012) provided the definitive review of hyponatremia diagnosis and management specifically in cancer patients, including the role of tolvaptan.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | The inappropriate antidiuresis syndrome | Schwartz WB, Bennett W, Curelop S, Bartter FC | Am J Med, 1957 | [10.1016/0002-9343(57)90236-0](https://doi.org/10.1016/0002-9343(57)90236-0) | First description of SIADH — foundational to all euvolaemic hyponatremia |
-> | 2 | Hyponatremia, convulsions, respiratory arrest, and permanent brain damage after elective surgery in healthy women | Arieff AI | N Engl J Med, 1986 | [10.1056/NEJM198606123142401](https://doi.org/10.1056/NEJM198606123142401) | Acute hyponatremia causes cerebral oedema, herniation, and death |
-> | 3 | Severe symptomatic hyponatremia: treatment and outcome — a study of 64 cases | Sterns RH | Ann Intern Med, 1987 | [10.7326/0003-4819-107-5-656](https://doi.org/10.7326/0003-4819-107-5-656) | Defined ODS risk with rapid correction; established ≤10-12 mmol/L/day limit |
-> | 4 | Diagnosis, evaluation, and treatment of hyponatremia: Expert Panel Recommendations | Verbalis JG, Goldsmith SR, Greenberg A et al. | Am J Med, 2013 | [10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006) | Current consensus guidelines: diagnostic algorithm and treatment protocols |
-> | 5 | Diagnosis and management of hyponatremia in cancer patients | Castillo JJ, Vincent M, Justice E | Oncologist, 2012 | [10.1634/theoncologist.2011-0400](https://doi.org/10.1634/theoncologist.2011-0400) | Cancer-specific review: SIADH most common cause; role of tolvaptan |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Schwartz WB — The inappropriate antidiuresis syndrome | Am J Med | 1957 | [10.1016/0002-9343(57)90236-0](https://doi.org/10.1016/0002-9343(57)90236-0) |
+> | Arieff AI — Hyponatremia, convulsions, respiratory arrest... | N Engl J Med | 1986 | [10.1056/NEJM198606123142401](https://doi.org/10.1056/NEJM198606123142401) |
+> | Sterns RH — Severe symptomatic hyponatremia: treatment an... | Ann Intern Med | 1987 | [10.7326/0003-4819-107-5-656](https://doi.org/10.7326/0003-4819-107-5-656) |
+> | Verbalis JG — Diagnosis, evaluation, and treatment of hyp... | Am J Med | 2013 | [10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006) |
+> | Castillo JJ — Diagnosis and management of hyponatremia in... | Oncologist | 2012 | [10.1634/theoncologist.2011-0400](https://doi.org/10.1634/theoncologist.2011-0400) |
 
 ---
 

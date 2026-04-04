@@ -6,7 +6,7 @@ tags:
   - Systemic-Therapy
 ---
 
-> [!question] TMH 2019
+> [!question] Questions Covered
 > Nicotine replacement therapy
 
 ## Source

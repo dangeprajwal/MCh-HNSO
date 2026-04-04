@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Tracheotomy — one of the oldest and most commonly performed surgical procedures in head and neck surgery — fundamentally alters respiratory physiology by bypassing the upper airway. Durbin (2010) published the comprehensive review in Respiratory Care covering the physiological rationale, timing, and techniques of tracheostomy, establishing that of the many purported advantages, only patient comfort and reduced ICU stay have significant supporting evidence. Hess (2005) published the authoritative review of tracheostomy tubes and related appliances, detailing how tube design (cuffed, fenestrated, dual-cannula) affects airway resistance, dead space, and phonation — essential for understanding the respiratory physiological impact. Epstein (2005) published the landmark review of late complications of tracheostomy, including tracheal stenosis, tracheomalacia, tracheoinnominate fistula, and tracheoesophageal fistula — demonstrating the long-term physiological consequences of bypassing the upper airway. McGrath et al. (2012) published the National Tracheostomy Safety Project multidisciplinary guidelines for managing tracheostomy and laryngectomy airway emergencies, establishing the standardized emergency algorithms now used worldwide. Cheung and Napolitano (2014) published the comprehensive review of tracheostomy epidemiology, indications, timing, technique, and outcomes, providing the evidence base for modern tracheostomy practice.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Tracheostomy: why, when, and how? | Durbin CG Jr | Respir Care, 2010 | [10.4187/respcare.10551056](https://doi.org/10.4187/respcare.10551056) | Comprehensive review of physiological rationale and evidence for tracheostomy |
-> | 2 | Tracheostomy tubes and related appliances | Hess DR | Respir Care, 2005 | [10.4187/respcare.05500497](https://doi.org/10.4187/respcare.05500497) | Tube design affects resistance, dead space, and phonation |
-> | 3 | Late complications of tracheostomy | Epstein SK | Respir Care, 2005 | [10.4187/respcare.05500542](https://doi.org/10.4187/respcare.05500542) | Tracheal stenosis, tracheomalacia, TIF as long-term consequences |
-> | 4 | Multidisciplinary guidelines for management of tracheostomy and laryngectomy airway emergencies | McGrath BA, Bates L, Atkinson D, Moore JA | Anaesthesia, 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) | National Tracheostomy Safety Project emergency algorithms |
-> | 5 | Tracheostomy: epidemiology, indications, timing, technique, and outcomes | Cheung NH, Napolitano LM | Respir Care, 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) | Evidence-based review: early vs late timing, [[Answers/General/Photodynamic Therapy|PDT]] vs open technique |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Durbin CG Jr — Tracheostomy: why, when, and how? | Respir Care | 2010 | [10.4187/respcare.10551056](https://doi.org/10.4187/respcare.10551056) |
+> | Hess DR — Tracheostomy tubes and related appliances | Respir Care | 2005 | [10.4187/respcare.05500497](https://doi.org/10.4187/respcare.05500497) |
+> | Epstein SK — Late complications of tracheostomy | Respir Care | 2005 | [10.4187/respcare.05500542](https://doi.org/10.4187/respcare.05500542) |
+> | McGrath BA — Multidisciplinary guidelines for management ... | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
+> | Cheung NH — Tracheostomy: epidemiology, indications, timi... | Respir Care | 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) |
 
 ---
 

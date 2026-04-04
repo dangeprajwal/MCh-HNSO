@@ -17,13 +17,13 @@ tags:
 > [!cite] Landmark Articles
 > Tumour angiogenesis — the process by which tumours recruit new blood vessels to sustain growth — was first proposed as a therapeutic target by Folkman in 1971. Folkman (1971) published the seminal hypothesis in the New England Journal of Medicine that tumour growth is angiogenesis-dependent and that anti-angiogenic therapy could arrest tumour progression — a concept that took two decades to validate but revolutionized cancer therapeutics. Ferrara and Henzel (1989) isolated and characterized vascular endothelial growth factor (VEGF) from bovine pituitary follicular cells and coined the term "VEGF" — identifying the central mediator of tumour angiogenesis. Hanahan and Weinberg (2000) codified "sustained angiogenesis" as one of the six hallmarks of cancer in their landmark Cell review, establishing the conceptual framework that all cancers must acquire angiogenic capability. Argiris et al. (2019) published the pivotal phase III E1305 trial of chemotherapy with or without bevacizumab in recurrent/metastatic HNSCC — the largest anti-angiogenic trial in head and neck cancer, showing improved PFS but no OS benefit. Dong et al. (2020) published the definitive meta-analysis of microvessel density (MVD) as a prognostic marker in HNSCC, confirming that high MVD is significantly associated with poor overall survival and progression-free survival.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Tumor angiogenesis: therapeutic implications | Folkman J | N Engl J Med, 1971 | [10.1056/NEJM197111182852108](https://doi.org/10.1056/NEJM197111182852108) | Seminal hypothesis: tumour growth is angiogenesis-dependent |
-> | 2 | Pituitary follicular cells secrete a novel heparin-binding growth factor specific for vascular endothelial cells | Ferrara N, Henzel WJ | Biochem Biophys Res Commun, 1989 | [10.1016/0006-291X(89)92678-8](https://doi.org/10.1016/0006-291X(89)92678-8) | Isolation and naming of VEGF — the central angiogenic mediator |
-> | 3 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) | "Sustained angiogenesis" as one of six cancer hallmarks |
-> | 4 | Phase III randomized trial of chemotherapy with or without bevacizumab in R/M HNSCC (E1305) | Argiris A, Li S, Savvides P et al. | J Clin Oncol, 2019 | [10.1200/JCO.19.00555](https://doi.org/10.1200/JCO.19.00555) | Bevacizumab improved PFS (6.0 vs 4.3 mo) but not OS in R/M HNSCC |
-> | 5 | Prognostic value of microvessel density in HNSCC: a meta-analysis | Dong Y, Ma G, Liu Y et al. | Dis Markers, 2020 | [10.1155/2020/8842795](https://doi.org/10.1155/2020/8842795) | High MVD = poor OS (HR 1.66) and PFS (HR 2.07) in HNSCC |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Folkman J — Tumor angiogenesis: therapeutic implications | N Engl J Med | 1971 | [10.1056/NEJM197111182852108](https://doi.org/10.1056/NEJM197111182852108) |
+> | Ferrara N — Pituitary follicular cells secrete a novel he... | Biochem Biophys Res Commun | 1989 | [10.1016/0006-291X(89)92678-8](https://doi.org/10.1016/0006-291X(89)92678-8) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
+> | Argiris A — Phase III randomized trial of chemotherapy wi... | J Clin Oncol | 2019 | [10.1200/JCO.19.00555](https://doi.org/10.1200/JCO.19.00555) |
+> | Dong Y — Prognostic value of microvessel density in HNSCC... | Dis Markers | 2020 | [10.1155/2020/8842795](https://doi.org/10.1155/2020/8842795) |
 
 ---
 

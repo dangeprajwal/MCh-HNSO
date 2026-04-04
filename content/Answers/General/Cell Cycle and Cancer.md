@@ -17,13 +17,13 @@ tags:
 > [!cite] Landmark Articles
 > The understanding of cell cycle deregulation in cancer was revolutionized by Hanahan and Weinberg's seminal 2000 paper defining six hallmarks of cancer — cited over 14,000 times — which framed cell cycle dysregulation within the broader context of self-sufficiency in growth signals, insensitivity to anti-growth signals, and evasion of apoptosis. Vermeulen et al. (2003) authored the definitive review of cell cycle regulation, deregulation, and therapeutic targets in cancer. Suh et al. (2014) applied this framework specifically to head and neck cancer, detailing how TP53, CDKN2A, CCND1, and HPV oncoproteins E6/E7 disrupt cell cycle control. The Cancer Genome Atlas (TCGA) Network's 2015 comprehensive genomic analysis of HNSCC identified mutations in cell cycle regulators in the majority of tumours. Alsahafi et al. (2019) provided an updated molecular biology review of HNSCC, integrating the latest understanding of cell cycle and apoptosis pathways.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) | Defined 6 hallmarks including cell cycle deregulation, apoptosis evasion; >14,000 citations |
-> | 2 | The cell cycle: regulation, deregulation and therapeutic targets in cancer | Vermeulen K, Van Bockstaele DR, Berneman ZN | Cell Prolif, 2003 | [10.1046/j.1365-2184.2003.00266.x](https://doi.org/10.1046/j.1365-2184.2003.00266.x) | Comprehensive review of CDK-cyclin regulation, checkpoints, and cancer deregulation |
-> | 3 | Clinical update on cancer: molecular oncology of head and neck cancer | Suh Y, Amelio I, Guerrero Urbano T, Tavassoli M | Cell Death Dis, 2014 | [10.1038/cddis.2013.548](https://doi.org/10.1038/cddis.2013.548) | HNC-specific review of TP53, p16, Cyclin D1, HPV E6/E7 in cell cycle disruption |
-> | 4 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | The Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | TCGA analysis of 279 HNSCC; cell cycle regulators mutated in majority of tumours |
-> | 5 | Clinical update on head and neck cancer: molecular biology and ongoing challenges | Alsahafi E, Begg K, Amelio I et al. | Cell Death Dis, 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) | Updated molecular review; HPV E6 degrades p53, E7 inactivates Rb; p16 as surrogate marker |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
+> | Vermeulen K — The cell cycle: regulation, deregulation an... | Cell Prolif | 2003 | [10.1046/j.1365-2184.2003.00266.x](https://doi.org/10.1046/j.1365-2184.2003.00266.x) |
+> | Suh Y — Clinical update on cancer: molecular oncology of ... | Cell Death Dis | 2014 | [10.1038/cddis.2013.548](https://doi.org/10.1038/cddis.2013.548) |
+> | The Cancer Genome Atlas Network — Comprehensive genomic c... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Alsahafi E — Clinical update on head and neck cancer: mol... | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
 
 ---
 

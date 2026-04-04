@@ -6,7 +6,7 @@ tags:
   - Supportive-Care
 ---
 
-> [!question] Q33
+> [!question] Questions Covered
 > **Q33 (AMRITA 2009):** Enumerate the oncologic emergencies in head and neck region. Describe the end of life issues in head and neck cancers and their management.
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 10 (Palliation of Advanced HNC — Haemorrhage/Carotid Blowout, Dyspnoea, Hypercalcaemia, Fungating Wounds, Fistulae, The Dying Patient); Stell and Maran's Textbook of Head and Neck Surgery, Chapter on Postoperative Complications (Carotid Blowout Classification, Upper Airway Obstruction), Chapter 47 (Palliative Care — Causes of Death, Place of Death, Quality of Death); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 17 (Carotid Blowout Syndrome, Palliative Surgery)
@@ -14,13 +14,13 @@ tags:
 > [!cite] Landmark Articles
 > Chaloupka et al. (1996) published the seminal description of endovascular management of carotid blowout syndrome (CBS) in 18 consecutive HNC patients, establishing the standardized classification and tailored endovascular treatment protocol. Powitzky et al. (2010) reported 140 CBS patients, finding that 89% had prior RT, 50% presented with sentinel bleeding, and 60% developed life-threatening haemorrhage — establishing endovascular therapy as treatment of choice. Reyes-Gibby et al. (2017) prospectively characterized oncologic emergencies in 298 newly diagnosed HNSCC patients at MD Anderson, identifying the burden of treatment-related toxicities causing emergency presentations. Sesterhenn et al. (2008) described end-stage HNC as "one of the most unpleasant and agonizing ways a person may die," with median hospice survival of only 19.5 days indicating late referral. Mayland et al. (2021) conducted a scoping review identifying significant gaps in palliative care for advanced HNC and highlighting the under-researched nature of HNC-specific end-of-life needs.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Endovascular therapy for the carotid blowout syndrome in head and neck surgical patients | Chaloupka JC, Putman CM, Citardi MJ, et al. | AJNR, 1996 | PMID: 8733956 (pre-DOI) | First systematic endovascular CBS management; standardized classification |
-> | 2 | Carotid blowout in patients with head and neck cancer | Powitzky R, Vasan N, Krempl G, Medina J | Ann Otol Rhinol Laryngol, 2010 | [10.1177/000348941011900709](https://doi.org/10.1177/000348941011900709) | 140 CBS patients: 89% prior RT; endovascular therapy is treatment of choice |
-> | 3 | Cohort study of oncologic emergencies in patients with head and neck cancer | Reyes-Gibby CC, Melkonian SC, Hanna EY, et al. | Head Neck, 2017 | [10.1002/hed.24748](https://doi.org/10.1002/hed.24748) | Prospective characterization of emergency burden in 298 HNSCC patients |
-> | 4 | End-of-life care for terminal head and neck cancer patients | Sesterhenn AM, Folz BJ, Bieker M, et al. | Cancer Nursing, 2008 | [10.1097/01.NCC.0000305709.37530.a7](https://doi.org/10.1097/01.NCC.0000305709.37530.a7) | Median hospice survival 19.5 days; patients referred too late |
-> | 5 | The palliative care needs and experiences of people with advanced head and neck cancer: a scoping review | Mayland CR, Ho QM, Doughty HC, et al. | Palliat Med, 2021 | [10.1177/0269216320963892](https://doi.org/10.1177/0269216320963892) | Significant gaps in palliative care for HNC; under-researched despite high symptom burden |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Chaloupka JC — Endovascular therapy for the carotid blowo... | AJNR | 1996 | PMID: 8733956 (pre-DOI) |
+> | Powitzky R — Carotid blowout in patients with head and ne... | Ann Otol Rhinol Laryngol | 2010 | [10.1177/000348941011900709](https://doi.org/10.1177/000348941011900709) |
+> | Reyes-Gibby CC — Cohort study of oncologic emergencies in... | Head Neck | 2017 | [10.1002/hed.24748](https://doi.org/10.1002/hed.24748) |
+> | Sesterhenn AM — End-of-life care for terminal head and ne... | Cancer Nursing | 2008 | [10.1097/01.NCC.0000305709.37530.a7](https://doi.org/10.1097/01.NCC.0000305709.37530.a7) |
+> | Mayland CR — The palliative care needs and experiences of... | Palliat Med | 2021 | [10.1177/0269216320963892](https://doi.org/10.1177/0269216320963892) |
 
 ---
 

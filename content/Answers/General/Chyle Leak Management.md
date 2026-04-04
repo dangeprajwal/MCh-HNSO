@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > The management of chyle leak after head and neck surgery has evolved from largely surgical approaches to a predominantly conservative, nutrition-based strategy. Smoke and DeLegge (2008) published the first consensus review highlighting the lack of definitive evidence favouring one nutritional therapy over another. Delaney et al. (2017) provided the most comprehensive review of current treatment strategies, establishing an algorithmic approach based on output volume. Brennan et al. (2012) emphasized the anatomical variability of the thoracic duct as a predisposing factor and outlined contemporary conservative and surgical management. Ilczyszyn et al. (2011) championed thoracoscopic thoracic duct ligation for high-output leaks. Most recently, Campisi et al. (2024) published a comprehensive review synthesizing modern evidence on diagnosis and management strategies including octreotide and interventional radiology.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Management of chyle leak after head and neck surgery: review of current treatment strategies | Delaney SW, Shi H, Shokrani A, Sinha UK | Int J Otolaryngol, 2017 | [10.1155/2017/8362874](https://doi.org/10.1155/2017/8362874) | Comprehensive algorithmic approach; incidence 0.5-1.4% thyroidectomy, 2-8% neck dissection |
-> | 2 | Chyle leaks: consensus on management? | Smoke A, DeLegge MH | Nutr Clin Pract, 2008 | [10.1177/0884533608323424](https://doi.org/10.1177/0884533608323424) | First consensus review; no definitive evidence for one nutritional approach over another |
-> | 3 | The contemporary management of chyle leak following cervical thoracic duct damage | Brennan PA, Blythe JN, Herd MK et al. | Br J Oral Maxillofac Surg, 2012 | [10.1016/j.bjoms.2011.02.001](https://doi.org/10.1016/j.bjoms.2011.02.001) | Anatomical variation predisposes to injury; outlines conservative and surgical management |
-> | 4 | Management of chyle leak post neck dissection: a case report and literature review | Ilczyszyn A, Ridha H, Durrani AJ | J Plast Reconstr Aesthet Surg, 2011 | [10.1016/j.bjps.2010.12.018](https://doi.org/10.1016/j.bjps.2010.12.018) | Advocates early thoracoscopic thoracic duct ligation for high-output leaks (>1000 ml/day) |
-> | 5 | Chyle leak after head and neck surgeries: comprehensive review of diagnosis and management | Campisi CC, Boccardo F, Campisi C et al. | Head Neck, 2024 | [10.1002/hed.27642](https://doi.org/10.1002/hed.27642) | Modern comprehensive review including octreotide, sclerotherapy, and interventional radiology |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Delaney SW — Management of chyle leak after head and neck... | Int J Otolaryngol | 2017 | [10.1155/2017/8362874](https://doi.org/10.1155/2017/8362874) |
+> | Smoke A — Chyle leaks: consensus on management? | Nutr Clin Pract | 2008 | [10.1177/0884533608323424](https://doi.org/10.1177/0884533608323424) |
+> | Brennan PA — The contemporary management of chyle leak fo... | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2011.02.001](https://doi.org/10.1016/j.bjoms.2011.02.001) |
+> | Ilczyszyn A — Management of chyle leak post neck dissecti... | J Plast Reconstr Aesthet Surg | 2011 | [10.1016/j.bjps.2010.12.018](https://doi.org/10.1016/j.bjps.2010.12.018) |
+> | Campisi CC — Chyle leak after head and neck surgeries: co... | Head Neck | 2024 | [10.1002/hed.27642](https://doi.org/10.1002/hed.27642) |
 
 ---
 

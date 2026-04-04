@@ -20,13 +20,13 @@ tags:
 > [!cite] Landmark Articles
 > Nutritional management of head and neck cancer patients is guided by several key publications. The ESPEN guidelines (Arends et al., 2017) represent the most comprehensive evidence-based recommendations for cancer nutrition, covering screening, assessment, intervention, and monitoring. Bossola (2015) provided a narrative review specifically examining the evidence for prophylactic versus reactive enteral feeding during chemoradiotherapy, concluding that prophylactic feeding does not clearly offer survival or nutritional advantages over reactive approaches. McClelland et al. (2018) conducted the most thorough systematic review comparing prophylactic and reactive gastrostomy, finding that prophylactic PEG reduces malnourished patients but is associated with greater long-term PEG dependence. Wiggenraad et al. (2007) demonstrated that prophylactic PEG with early tube feeding limits weight loss to a mean of only 2.8% during CRT. Langius et al. (2013) showed that critical weight loss (>5%) during radiotherapy is an independent prognostic factor for overall survival.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | ESPEN guidelines on nutrition in cancer patients | Arends J, Bachmann P, Baracos V et al. | Clin Nutr, 2017 | [10.1016/j.clnu.2016.07.015](https://doi.org/10.1016/j.clnu.2016.07.015) | Comprehensive evidence-based guidelines for cancer nutrition; >2200 citations |
-> | 2 | Nutritional interventions in HNC patients undergoing chemoradiotherapy: a narrative review | Bossola M | Nutrients, 2015 | [10.3390/nu7010265](https://doi.org/10.3390/nu7010265) | Prophylactic feeding shows no clear advantage over reactive in nutritional outcomes or survival |
-> | 3 | Prophylactic vs reactive gastrostomy in advanced HNC treated with definitive CRT: systematic review | McClelland S, Andrews JZ, Chaudhry H et al. | Oral Oncol, 2018 | [10.1016/j.oraloncology.2018.10.028](https://doi.org/10.1016/j.oraloncology.2018.10.028) | pPEG reduces malnourished patients but associated with greater long-term PEG dependence |
-> | 4 | Prophylactic gastrostomy placement and early tube feeding may limit weight loss during CRT | Wiggenraad RG, Flierman L, Goossens A et al. | Clin Otolaryngol, 2007 | [10.1111/j.1749-4486.2007.01533.x](https://doi.org/10.1111/j.1749-4486.2007.01533.x) | Prophylactic PEG + early feeding limits weight loss to mean 2.8% during treatment |
-> | 5 | Critical weight loss is an independent prognostic factor in HNC patients receiving RT | Langius JA, Bakker S, Rietveld DH et al. | Clin Otolaryngol, 2013 | [10.1111/coa.12171](https://doi.org/10.1111/coa.12171) | >5% weight loss during RT independently predicts worse overall survival |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Arends J — ESPEN guidelines on nutrition in cancer patients | Clin Nutr | 2017 | [10.1016/j.clnu.2016.07.015](https://doi.org/10.1016/j.clnu.2016.07.015) |
+> | Bossola M — Nutritional interventions in HNC patients und... | Nutrients | 2015 | [10.3390/nu7010265](https://doi.org/10.3390/nu7010265) |
+> | McClelland S — Prophylactic vs reactive gastrostomy in ad... | Oral Oncol | 2018 | [10.1016/j.oraloncology.2018.10.028](https://doi.org/10.1016/j.oraloncology.2018.10.028) |
+> | Wiggenraad RG — Prophylactic gastrostomy placement and ea... | Clin Otolaryngol | 2007 | [10.1111/j.1749-4486.2007.01533.x](https://doi.org/10.1111/j.1749-4486.2007.01533.x) |
+> | Langius JA — Critical weight loss is an independent progn... | Clin Otolaryngol | 2013 | [10.1111/coa.12171](https://doi.org/10.1111/coa.12171) |
 
 ---
 

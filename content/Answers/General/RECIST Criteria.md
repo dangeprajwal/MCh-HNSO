@@ -5,7 +5,7 @@ tags:
   - Systemic-Therapy
 ---
 
-> [!question] Q39
+> [!question] Questions Covered
 > **Q39 (AMRITA 2016):** Response evaluation criteria in solid tumours (RECIST)
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 5 (Chemotherapy/Targeted Therapy — RECIST Limitations, FDG-PET vs CT Accuracy); Scott-Brown's Otorhinolaryngology Head & Neck Surgery Vol 3 (Checkpoint Inhibitors — RECIST v1.1 in KEYNOTE-012)
@@ -13,13 +13,13 @@ tags:
 > [!cite] Landmark Articles
 > Miller et al. (1981) established the original WHO criteria for tumour response using bidimensional measurements (product of longest diameter x greatest perpendicular), defining CR, PR, SD, and PD categories that standardized cancer trial reporting for two decades. Therasse et al. (2000) simplified this with RECIST 1.0, replacing bidimensional with unidimensional (longest diameter) measurement, allowing up to 10 target lesions, and requiring minimum 20 mm size by conventional imaging. Eisenhauer et al. (2009) refined this as RECIST 1.1, reducing target lesions to 5 total (2 per organ), incorporating lymph node short-axis criteria (>=15 mm = target), and requiring a 5 mm absolute increase for progressive disease. Seymour et al. (2017) introduced iRECIST for immunotherapy trials, addressing pseudoprogression with "unconfirmed progressive disease" (iUPD) requiring confirmation at 4-8 weeks. Patil et al. (2013) from Tata Memorial Hospital demonstrated that RECIST criteria show no linear correlation with pathological response in locally advanced HNSCC after induction chemotherapy (Spearman r = -0.039), highlighting limitations of single-diameter measurement in anatomically complex head and neck tumours.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Reporting results of cancer treatment | Miller AB, Hoogstraten B, Staquet M, Winkler A | Cancer, 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) | Original WHO criteria: bidimensional measurement; PR >=50% decrease in product |
-> | 2 | New guidelines to evaluate the response to treatment in solid tumors | Therasse P, Arbuck SG, Eisenhauer EA, et al. | J Natl Cancer Inst, 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) | RECIST 1.0: unidimensional measurement; PR >=30% decrease in sum of longest diameters |
-> | 3 | New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1) | Eisenhauer EA, Therasse P, Bogaerts J, et al. | Eur J Cancer, 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) | RECIST 1.1: max 5 target lesions; LN >=15 mm short axis; 5 mm absolute increase for PD |
-> | 4 | iRECIST: guidelines for response criteria for use in trials testing immunotherapeutics | Seymour L, Bogaerts J, Perrone A, et al. | Lancet Oncol, 2017 | [10.1016/S1470-2045(17)30074-8](https://doi.org/10.1016/S1470-2045(17)30074-8) | Addresses pseudoprogression: iUPD requires confirmation before iCPD |
-> | 5 | Is there a limitation of RECIST criteria in prediction of pathological response in head and neck cancers? | Patil V, Noronha V, Joshi A, et al. | ISRN Oncol, 2013 | [10.1155/2013/259154](https://doi.org/10.1155/2013/259154) | No correlation between RECIST size change and pathological response in HNSCC (r = -0.039) |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Miller AB — Reporting results of cancer treatment | Cancer | 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) |
+> | Therasse P — New guidelines to evaluate the response to t... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
+> | Eisenhauer EA — New response evaluation criteria in solid... | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
+> | Seymour L — iRECIST: guidelines for response criteria for... | Lancet Oncol | 2017 | [10.1016/S1470-2045(17)30074-8](https://doi.org/10.1016/S1470-2045(17)30074-8) |
+> | Patil V — Is there a limitation of RECIST criteria in pre... | ISRN Oncol | 2013 | [10.1155/2013/259154](https://doi.org/10.1155/2013/259154) |
 
 ---
 

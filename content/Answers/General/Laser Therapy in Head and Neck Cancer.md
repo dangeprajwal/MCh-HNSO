@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > The modern era of transoral laser surgery in head and neck cancer was pioneered by Strong and Jako in the 1970s, who first adapted the CO2 laser for endoscopic laryngeal use. However, it was Wolfgang Steiner's 1993 landmark publication reporting on 240 patients that established TLM as a genuine paradigm shift — achieving 100% adjusted 5-year survival in early glottic cancer with only 6% local recurrence. The European Laryngological Society's 2000 classification of endoscopic cordectomies (Remacle et al.) provided the standardized nomenclature still used today. Jackel et al. (2007) reviewed 25 years of experience with laser surgery across all head and neck subsites. Harris et al. (2018) analyzed the impact of Steiner's work, documenting over 6,400 citations for his original publications. Rigby and Hart (2011) provided the definitive review of TLM evidence across the upper aerodigestive tract.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Results of curative laser microsurgery of laryngeal carcinomas | Steiner W | Am J Otolaryngol, 1993 | [10.1016/0196-0709(93)90050-H](https://doi.org/10.1016/0196-0709(93)90050-H) | 240 patients; 6% local recurrence in early glottic; 100% adjusted 5-year survival; paradigm shift |
-> | 2 | Proposal for endoscopic CO2 laser cordectomy classification by ELS | Remacle M, Eckel HE, Antonelli A et al. | Eur Arch Otorhinolaryngol, 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) | Standardized ELS Types I-VI cordectomy classification; international consensus |
-> | 3 | Twenty-five years experience with laser surgery for head and neck tumors | Jackel MC, Martin A, Steiner W | Eur Arch Otorhinolaryngol, 2007 | [10.1007/s00405-007-0280-6](https://doi.org/10.1007/s00405-007-0280-6) | 25-year review across all HN subsites; established TLM as organ-preserving standard |
-> | 4 | Transoral laser surgery for laryngeal carcinoma: has Steiner achieved a genuine paradigm shift? | Harris AT, Tanyi A, Hart RD et al. | Ann R Coll Surg Engl, 2018 | [10.1308/rcsann.2017.0190](https://doi.org/10.1308/rcsann.2017.0190) | Bibliometric analysis; 6,436 citations for Steiner's work; confirmed paradigm shift in oncological surgery |
-> | 5 | Review of transoral laser microsurgery for cancer of the upper aerodigestive tract | Rigby MH, Hart RD | J Otolaryngol Head Neck Surg, 2011 | PMID: 21453646 | Comprehensive review supporting TLM role in glottic, supraglottic, and oropharyngeal cancers |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Steiner W — Results of curative laser microsurgery of lar... | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-H](https://doi.org/10.1016/0196-0709(93)90050-H) |
+> | Remacle M — Proposal for endoscopic CO2 laser cordectomy ... | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
+> | Jackel MC — Twenty-five years experience with laser surge... | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-007-0280-6](https://doi.org/10.1007/s00405-007-0280-6) |
+> | Harris AT — Transoral laser surgery for laryngeal carcino... | Ann R Coll Surg Engl | 2018 | [10.1308/rcsann.2017.0190](https://doi.org/10.1308/rcsann.2017.0190) |
+> | Rigby MH — Review of transoral laser microsurgery for can... | J Otolaryngol Head Neck Surg | 2011 | PMID: 21453646 |
 
 ---
 

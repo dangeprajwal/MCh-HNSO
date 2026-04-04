@@ -5,7 +5,7 @@ tags:
   - Systemic-Therapy
 ---
 
-> [!question] Q32
+> [!question] Questions Covered
 > **Q32 (AMRITA 2009):** What is proteonomics? Enumerate the salient molecular markers for head and neck cancers and explain their diagnostic & therapeutic significance?
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 2 (Molecular Biology — Proteomics, EGFR/ErbB Receptors, p53, Cyclin D1, p16, Anti-EGFR Targeted Therapy, Prognostic Applications, Biomarkers in Saliva/Serum); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Molecular Biology of HN Squamous Carcinogenesis), Chapter 7 (Targeted Agents in SCCHN — EGFR, [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]], HPV/p16); Stell and Maran's Textbook of Head and Neck Surgery, Chapter 3 (Molecular Biology — EGFR Overexpression, [[Answers/General/PI3-Kinase Pathway|PI3K/AKT pathway]] Pathway, Genetic Progression Model); Jatin Shah - Head and Neck Surgery and Oncology, Chapter 1 (Genetic Progression Model); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 6 (Molecular Biology — EGFR, p16, HPV)
@@ -13,13 +13,13 @@ tags:
 > [!cite] Landmark Articles
 > Bonner et al. (2006) conducted the pivotal phase III trial demonstrating that adding cetuximab (anti-EGFR monoclonal antibody) to high-dose radiotherapy significantly improved median overall survival from 29.3 to 49.0 months in locoregionally advanced HNSCC — leading to FDA approval of cetuximab. Ang et al. (2010) established HPV/p16 status as the strongest prognostic biomarker in oropharyngeal cancer, with 3-year OS of 82.4% (HPV-positive) vs 57.1% (HPV-negative). Leemans, Braakhuis, and Brakenhoff (2011) published the definitive review of molecular biology of head and neck cancer, cataloguing key pathways (EGFR, p53, p16/Rb, PI3K/AKT, Cyclin D1) and the [[Answers/Oral Cavity/Field Cancerization|field cancerization]] model. Hu et al. (2008) demonstrated salivary proteomics as a viable diagnostic tool, identifying a five-protein biomarker panel that discriminated oral cancer from healthy controls. The Cancer Genome Atlas Network (2015) performed comprehensive multi-platform genomic analysis of 279 HNSCCs, confirming HPV-positive and HPV-negative tumours as molecularly distinct entities with different mutational landscapes.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck | Bonner JA, Harari PM, Giralt J, et al. | N Engl J Med, 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) | Cetuximab + RT: median OS 49.0 vs 29.3 months (RT alone); HR 0.73 |
-> | 2 | [[Answers/General/HPV in Oral and Oropharyngeal Cancer|HPV]] and survival of patients with oropharyngeal cancer | Ang KK, Harris J, Wheeler R, et al. | N Engl J Med, 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) | HPV+ OPSCC 3-year OS 82.4% vs 57.1% HPV-negative; strongest prognostic factor |
-> | 3 | The molecular biology of head and neck cancer | Leemans CR, Braakhuis BJM, Brakenhoff RH | Nat Rev Cancer, 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) | Definitive review: field cancerization, EGFR/p53/p16/PI3K pathways in HNSCC |
-> | 4 | Salivary proteomics for oral cancer biomarker discovery | Hu S, Arellano M, Boontheung P, et al. | Clin Cancer Res, 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) | Five-protein salivary panel discriminates OSCC from controls |
-> | 5 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | HPV+ and HPV- HNSCC are molecularly distinct; TP53, CDKN2A, PIK3CA, NOTCH1 key mutations |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
+> | HPV]] and survival of patients with oropharyngeal cancer ... | Ang KK, Harris J, Wheeler R, et al. |  | N Engl J Med, 2010 |
+> | Leemans CR — The molecular biology of head and neck cancer | Nat Rev Cancer | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
+> | Hu S — Salivary proteomics for oral cancer biomarker disc... | Clin Cancer Res | 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) |
+> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
 
 ---
 

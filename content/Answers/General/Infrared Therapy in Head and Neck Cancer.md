@@ -5,7 +5,7 @@ tags:
   - Supportive-Care
 ---
 
-> [!question] KIDWAI 2020
+> [!question] Questions Covered
 > Infrared therapy
 
 ## Source

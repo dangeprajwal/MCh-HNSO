@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > The concept of tumour suppressor genes (TSGs) was founded on Knudson's 1971 two-hit hypothesis, which proposed that retinoblastoma requires two mutational events — one inherited and one somatic — to inactivate both alleles of a critical gene. This elegant statistical analysis of retinoblastoma cases established the framework for all subsequent TSG research. Califano et al. (1996) applied this understanding to head and neck cancer by constructing the first genetic progression model for HNSCC, demonstrating that sequential loss of heterozygosity at TSG loci (9p, 3p, 17p) accompanies histological progression from hyperplasia through dysplasia to invasive carcinoma. Sherr and McCormick (2002) authored the definitive review of the RB and p53 pathways — the two most frequently disrupted tumour suppressor pathways in cancer — explaining how the INK4-CDK-RB and ARF-MDM2-p53 networks are interconnected and universally subverted in cancer. The Cancer Genome Atlas Network (2015) provided the first comprehensive genomic characterization of 279 HNSCCs, confirming near-universal TSG inactivation (TP53 in 80% of HPV-negative tumours, CDKN2A in >50%) and identifying novel TSGs including NSD1, FAT1, NOTCH1, and AJUBA. Alsahafi et al. (2019) provided the most recent comprehensive molecular biology review of HNSCC, integrating TCGA data with the clinical implications of TSG loss for prognosis and therapy.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Mutation and cancer: statistical study of retinoblastoma | Knudson AG | Proc Natl Acad Sci USA, 1971 | [10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820) | Founded two-hit hypothesis: both alleles of a TSG must be inactivated for cancer; >5,000 citations |
-> | 2 | Genetic progression model for head and neck cancer: implications for [[Answers/Oral Cavity/Field Cancerization|field cancerization]] | Califano J, van der Riet P, Westra W et al. | Cancer Res, 1996 | PMID: [8653682](https://pubmed.ncbi.nlm.nih.gov/8653682/) | First genetic progression model for HNSCC; sequential LOH at 9p→3p→17p parallels histological progression |
-> | 3 | The RB and p53 pathways in cancer | Sherr CJ, McCormick F | Cancer Cell, 2002 | [10.1016/S1535-6108(02)00102-2](https://doi.org/10.1016/S1535-6108(02)00102-2) | Definitive review of the two central TSG pathways; INK4-CDK-RB and ARF-MDM2-p53 interconnection |
-> | 4 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | 279 HNSCCs profiled; TP53 mutated in 80% HPV−; identified NSD1, FAT1, NOTCH1 as novel TSGs |
-> | 5 | Clinical update on head and neck cancer: molecular biology and ongoing challenges | Alsahafi E, Begg K, Amelio I et al. | Cell Death Dis, 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) | Comprehensive molecular review; TSG loss drives HPV− HNSCC; p53 mutations predict poor OS |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Knudson AG — Mutation and cancer: statistical study of re... | Proc Natl Acad Sci USA | 1971 | [10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820) |
+> | field cancerization]] — Genetic progression model for hea... | Califano J, van der Riet P, Westra W et al. |  | Cancer Res, 1996 |
+> | Sherr CJ — The RB and p53 pathways in cancer | Cancer Cell | 2002 | [10.1016/S1535-6108(02)00102-2](https://doi.org/10.1016/S1535-6108(02)00102-2) |
+> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Alsahafi E — Clinical update on head and neck cancer: mol... | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
 
 ---
 

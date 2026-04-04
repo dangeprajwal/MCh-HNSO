@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Epigenetic alterations — heritable changes in gene expression without changes in DNA sequence — are now recognized as a fundamental mechanism in cancer development, complementing genetic mutations. Jones and Baylin (2002) published the seminal review in Nature Reviews Genetics establishing that epigenetic events, particularly promoter hypermethylation and genome-wide hypomethylation, are fundamental to cancer initiation and progression — this paper provided the conceptual framework for cancer epigenetics. Esteller (2002) published the landmark Oncogene review establishing that CpG island hypermethylation of [[Answers/General/Tumour Suppressor Genes|tumour suppressor genes]] promoters is a universal mechanism for gene inactivation across virtually every tumour type. Dawson and Kouzarides (2012) published the comprehensive Cell review connecting epigenetic mechanisms (DNA methylation, histone modification, nucleosome remodelling, non-coding RNAs) to cancer hallmarks, and highlighting the emergence of epigenetic drugs as a new therapeutic class. Shaw (2006) published the first focused review of epigenetics in oral cancer, demonstrating that DNA methylation, histone modifications, and chromatin remodelling silence key tumour suppressor genes in HNSCC and proposing methylation profiling for molecular staging. The Cancer Genome Atlas Network (2015) provided the definitive genomic landscape of HNSCC, revealing that the histone methyltransferase MLL2 is mutated in 18% of head and neck cancers — establishing epigenetic regulators as major targets in HNSCC.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | The fundamental role of epigenetic events in cancer | Jones PA, Baylin SB | Nat Rev Genet, 2002 | [10.1038/nrg816](https://doi.org/10.1038/nrg816) | Foundational review: promoter hypermethylation + global hypomethylation in cancer |
-> | 2 | CpG island hypermethylation and tumor suppressor genes: a booming present, a brighter future | Esteller M | Oncogene, 2002 | [10.1038/sj.onc.1205600](https://doi.org/10.1038/sj.onc.1205600) | CpG island hypermethylation is universal gene inactivation mechanism in cancer |
-> | 3 | Cancer epigenetics: from mechanism to therapy | Dawson MA, Kouzarides T | Cell, 2012 | [10.1016/j.cell.2012.06.013](https://doi.org/10.1016/j.cell.2012.06.013) | Comprehensive review linking epigenetic mechanisms to cancer hallmarks and therapy |
-> | 4 | The epigenetics of oral cancer | Shaw RJ | Int J Oral Maxillofac Surg, 2006 | [10.1016/j.ijom.2005.06.014](https://doi.org/10.1016/j.ijom.2005.06.014) | First HNC-specific epigenetics review; methylation profiling for molecular staging |
-> | 5 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | TCGA: MLL2 mutated in 18% of HNSCC; epigenetic regulators as major targets |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Jones PA — The fundamental role of epigenetic events in c... | Nat Rev Genet | 2002 | [10.1038/nrg816](https://doi.org/10.1038/nrg816) |
+> | Esteller M — CpG island hypermethylation and tumor suppre... | Oncogene | 2002 | [10.1038/sj.onc.1205600](https://doi.org/10.1038/sj.onc.1205600) |
+> | Dawson MA — Cancer epigenetics: from mechanism to therapy | Cell | 2012 | [10.1016/j.cell.2012.06.013](https://doi.org/10.1016/j.cell.2012.06.013) |
+> | Shaw RJ — The epigenetics of oral cancer | Int J Oral Maxillofac Surg | 2006 | [10.1016/j.ijom.2005.06.014](https://doi.org/10.1016/j.ijom.2005.06.014) |
+> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
 
 ---
 

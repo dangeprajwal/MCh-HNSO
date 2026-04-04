@@ -18,13 +18,13 @@ tags:
 > [!cite] Landmark Articles
 > The understanding of tobacco carcinogenesis in head and neck cancer rests on several foundational works. Hecht's 2003 Nature Reviews Cancer article is the definitive review identifying over 60 carcinogens in cigarette smoke and establishing the central role of tobacco-specific nitrosamines (TSNAs), polycyclic aromatic hydrocarbons (PAHs), and DNA adduct formation. Khariwala et al. (2012) translated this molecular understanding to head and neck cancer specifically, demonstrating tobacco carcinogen metabolites and DNA adducts as potential screening tools and prognostic indicators. Their 2017 follow-up in Cancer Metastasis Reviews detailed the complex interplay between [[Answers/General/Genetic Susceptibility to Oral Cancer|genetic susceptibility]], carcinogen metabolism, and the multistep progression from normal mucosa to invasive HNSCC. Slaughter et al.'s classic 1953 paper established the concept of [[Answers/Oral Cavity/Field Cancerization|field cancerization]] — the "condemned mucosa" exposed to chronic carcinogen damage. Hecht's updated 2022 review in Nature Reviews Cancer further addressed smokeless tobacco and betel quid carcinogenesis, particularly relevant to the Indian subcontinent.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Tobacco carcinogens, their biomarkers and tobacco-induced cancer | Hecht SS | Nat Rev Cancer, 2003 | [10.1038/nrc1190](https://doi.org/10.1038/nrc1190) | Identified 60+ carcinogens in smoke; TSNAs, PAHs, DNA adducts as central mechanism |
-> | 2 | Tobacco carcinogen metabolites and DNA adducts as biomarkers in head and neck cancer | Khariwala SS, Hatsukami D, Hecht SS | Head Neck, 2012 | [10.1002/hed.21705](https://doi.org/10.1002/hed.21705) | DNA adducts and carcinogen metabolites as screening tools and prognostic indicators in HNSCC |
-> | 3 | Tobacco-related carcinogenesis in head and neck cancer | Khariwala SS, Ma B, Guo Y et al. | Cancer Metastasis Rev, 2017 | [10.1007/s10555-017-9689-6](https://doi.org/10.1007/s10555-017-9689-6) | 10-fold higher HNSCC risk in smokers; 70-80% new cases associated with tobacco and alcohol |
-> | 4 | Field cancerization in oral stratified squamous epithelium | Slaughter DP, Southwick HW, Smejkal W | Cancer, 1953 | [10.1002/1097-0142(195309)6:5<963::AID-CNCR2820060515>3.0.CO;2-Q](https://doi.org/10.1002/1097-0142(195309)6:5%3C963::AID-CNCR2820060515%3E3.0.CO;2-Q) | Established "field cancerization" concept — condemned mucosa from chronic carcinogen exposure |
-> | 5 | Smokeless tobacco and cigarette smoking: chemical mechanisms and cancer prevention | Hecht SS | Nat Rev Cancer, 2022 | [10.1038/s41568-021-00423-4](https://doi.org/10.1038/s41568-021-00423-4) | Updated review including smokeless tobacco; NNK and NNN as key TSNAs; prevention strategies |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Hecht SS — Tobacco carcinogens, their biomarkers and toba... | Nat Rev Cancer | 2003 | [10.1038/nrc1190](https://doi.org/10.1038/nrc1190) |
+> | Khariwala SS — Tobacco carcinogen metabolites and DNA add... | Head Neck | 2012 | [10.1002/hed.21705](https://doi.org/10.1002/hed.21705) |
+> | Khariwala SS — Tobacco-related carcinogenesis in head and... | Cancer Metastasis Rev | 2017 | [10.1007/s10555-017-9689-6](https://doi.org/10.1007/s10555-017-9689-6) |
+> | Slaughter DP — Field cancerization in oral stratified squ... | Cancer | 1953 | [10.1002/1097-0142(195309)6:5<963::AID-CNCR2820060515>3.0.CO;2-Q](https://doi.org/10.1002/1097-0142(195309)6:5%3C963::AID-CNCR2820060515%3E3.0.CO;2-Q) |
+> | Hecht SS — Smokeless tobacco and cigarette smoking: chemi... | Nat Rev Cancer | 2022 | [10.1038/s41568-021-00423-4](https://doi.org/10.1038/s41568-021-00423-4) |
 
 ---
 

@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > The balloon occlusion test (BOT), also known as the balloon test occlusion (BTO), is a neurointerventional procedure used to assess the adequacy of cerebral collateral circulation before planned or potential sacrifice of the internal carotid artery. Mathis et al. (1995) published the largest single-centre experience of 500 temporary balloon occlusions, establishing the safety profile and complication rates (3.2% overall, 0.4% permanent deficit). Linskey et al. (1994) demonstrated that combining clinical BTO with stable xenon-enhanced CT cerebral blood flow measurement provided the most accurate preoperative stroke risk assessment — identifying patients at risk even when clinical testing was normal. Adams et al. (1999) specifically evaluated preoperative permanent balloon occlusion in patients with advanced head and neck SCC requiring carotid resection. The American Society of Interventional and Therapeutic Neuroradiology (ASITN) published consensus practice guidelines (2001) standardizing the technique and clinical indications for BTO. More recently, Sorteberg (2008) provided a comprehensive review of balloon occlusion tests and therapeutic vessel occlusions, addressing when, when not, and how to perform these procedures.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Temporary balloon test occlusion of the ICA: experience in 500 cases | Mathis JM, Barr JD, Jungreis CA et al. | AJNR, 1995 | PMID: 7611033 | Largest series: 3.2% complication rate, 0.4% permanent deficit — established safety |
-> | 2 | Stroke risk after abrupt ICA sacrifice: accuracy of BTO and stable xenon-enhanced CT | Linskey ME, Jungreis CA, Yonas H et al. | AJNR, 1994 | PMID: 8059649 | BTO + xenon CT CBF best predicts stroke risk; CBF <30 mL/100g/min = high risk |
-> | 3 | Preoperative permanent balloon occlusion of ICA in advanced head and neck SCC | Adams GL, Madison M, Remley K, Gapany M | Laryngoscope, 1999 | [10.1097/00005537-199903000-00022](https://doi.org/10.1097/00005537-199903000-00022) | 23 patients; 5/20 failed BTO; perioperative stroke risk even with passed BTO |
-> | 4 | Carotid artery balloon test occlusion (ASITN Practice Guidelines) | ASITN | AJNR, 2001 | PMID: 11686075 | Consensus guidelines: standardized technique, indications, and monitoring protocols |
-> | 5 | Balloon occlusion tests and therapeutic vessel occlusions revisited | Sorteberg A | Acta Neurochir Suppl, 2008 | [10.1007/978-3-211-09469-4_23](https://doi.org/10.1007/978-3-211-09469-4_23) | Comprehensive review: when, when not, and how to perform BTO |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Mathis JM — Temporary balloon test occlusion of the ICA: ... | AJNR | 1995 | PMID: 7611033 |
+> | Linskey ME — Stroke risk after abrupt ICA sacrifice: accu... | AJNR | 1994 | PMID: 8059649 |
+> | Adams GL — Preoperative permanent balloon occlusion of IC... | Laryngoscope | 1999 | [10.1097/00005537-199903000-00022](https://doi.org/10.1097/00005537-199903000-00022) |
+> | ASITN — Carotid artery balloon test occlusion (ASITN Prac... | AJNR | 2001 | PMID: 11686075 |
+> | Sorteberg A — Balloon occlusion tests and therapeutic ves... | Acta Neurochir Suppl | 2008 | [10.1007/978-3-211-09469-4_23](https://doi.org/10.1007/978-3-211-09469-4_23) |
 
 ---
 

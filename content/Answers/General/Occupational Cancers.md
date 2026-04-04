@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Occupational exposures account for an estimated 20-46% of sinonasal cancers and a smaller proportion of laryngeal and other head and neck cancers. Acheson et al. (1968) published the landmark paper identifying the association between hardwood dust exposure in the furniture industry and nasal cavity adenocarcinoma — one of the earliest descriptions of an occupational carcinogen causing head and neck cancer. Stell and McGill (1973) reported the association between asbestos exposure and laryngeal carcinoma. The International Agency for Research on Cancer (IARC) has progressively classified occupational carcinogens, with Loomis et al. (2018) providing a comprehensive update identifying 47 known occupational carcinogens by 2017. Binazzi et al. (2015) published the definitive systematic review and meta-analysis of occupational exposure and sinonasal cancer, quantifying risks for specific agents and occupations.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Nasal cancer in woodworkers in the furniture industry | Acheson ED, Cowdell RH, Hadfield E, Macbeth RG | BMJ, 1968 | [10.1136/bmj.2.5605.587](https://doi.org/10.1136/bmj.2.5605.587) | Landmark: hardwood dust causes sinonasal adenocarcinoma — 70x increased risk |
-> | 2 | Asbestos and laryngeal carcinoma | Stell PM, McGill T | Lancet, 1973 | [10.1016/s0140-6736(73)92275-7](https://doi.org/10.1016/s0140-6736(73)92275-7) | First report linking asbestos exposure with laryngeal cancer |
-> | 3 | Identifying occupational carcinogens: an update from the IARC Monographs | Loomis D, Guha N, Hall AL, Straif K | Occup Environ Med, 2018 | [10.1136/oemed-2017-104944](https://doi.org/10.1136/oemed-2017-104944) | 47 known occupational carcinogens identified by 2017; respiratory sites most affected |
-> | 4 | Occupational exposure and sinonasal cancer: a systematic review and meta-analysis | Binazzi A, Ferrante P, Marinaccio A | BMC Cancer, 2015 | [10.1186/s12885-015-1042-2](https://doi.org/10.1186/s12885-015-1042-2) | Quantified occupational risk: wood dust, leather dust, nickel, formaldehyde |
-> | 5 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) | Tumour-promoting inflammation identified as enabling characteristic — relevant to occupational carcinogenesis |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Acheson ED — Nasal cancer in woodworkers in the furniture... | BMJ | 1968 | [10.1136/bmj.2.5605.587](https://doi.org/10.1136/bmj.2.5605.587) |
+> | Stell PM — Asbestos and laryngeal carcinoma | Lancet | 1973 | [10.1016/s0140-6736(73)92275-7](https://doi.org/10.1016/s0140-6736(73)92275-7) |
+> | Loomis D — Identifying occupational carcinogens: an updat... | Occup Environ Med | 2018 | [10.1136/oemed-2017-104944](https://doi.org/10.1136/oemed-2017-104944) |
+> | Binazzi A — Occupational exposure and sinonasal cancer: a... | BMC Cancer | 2015 | [10.1186/s12885-015-1042-2](https://doi.org/10.1186/s12885-015-1042-2) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
 
 ---
 

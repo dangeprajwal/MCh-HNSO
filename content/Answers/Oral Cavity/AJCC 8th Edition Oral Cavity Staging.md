@@ -5,7 +5,7 @@ tags:
   - Staging
 ---
 
-> [!question] AIIMS 2020
+> [!question] Questions Covered
 > Discuss the evidence basis for the changes in AJCC 8th Edition staging of oral cavity cancers
 
 ## Source

@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Diffusion-weighted MRI (DW-MRI) is a functional imaging technique that measures the random Brownian motion of water molecules within tissues. The foundational physics was described by Le Bihan et al. (1986), who introduced the intravoxel incoherent motion (IVIM) model and the concept of the apparent diffusion coefficient (ADC) — work that underpins all modern clinical DWI applications. Sumi et al. (2003) published the first significant study applying DW-MRI to cervical lymph node assessment in head and neck cancer, demonstrating that ADC values could discriminate metastatic from benign nodes. Vandecaveye et al. (2007) then showed that DW-MRI could differentiate post-treatment changes from recurrent tumour with 94.6% accuracy — a finding of immense clinical importance referenced in Montgomery's Chapter 3. Kim et al. (2009) established DW-MRI as a biomarker for predicting and detecting early treatment response in HNSCC during chemoradiation. Thoeny et al. (2012) published the definitive review of DW-MRI applications in the head and neck in *Radiology*, synthesizing the evidence for tissue characterization, nodal staging, treatment monitoring, and recurrence detection.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | MR imaging of intravoxel incoherent motions: application to diffusion and perfusion in neurologic disorders | Le Bihan D, Breton E, Lallemand D et al. | Radiology, 1986 | [10.1148/radiology.161.2.3763909](https://doi.org/10.1148/radiology.161.2.3763909) | Introduced IVIM model and ADC concept — foundation of all clinical DWI |
-> | 2 | Discrimination of metastatic cervical lymph nodes with diffusion-weighted MR imaging in patients with head and neck cancer | Sumi M, Sakihama N, Sumi T et al. | AJNR, 2003 | PMID: 13679283 | First major study: ADC discriminates metastatic from benign neck nodes |
-> | 3 | Detection of head and neck SCC with diffusion-weighted MRI after (chemo)radiotherapy | Vandecaveye V, De Keyzer F, Nuyts S et al. | Int J Radiat Oncol Biol Phys, 2007 | [10.1016/j.ijrobp.2006.09.020](https://doi.org/10.1016/j.ijrobp.2006.09.020) | DW-MRI differentiates recurrence from post-RT changes: 94.6% accuracy |
-> | 4 | Diffusion-weighted MRI for predicting and detecting early response to chemoradiation therapy of HNSCC | Kim S, Loevner L, Quon H et al. | Clin Cancer Res, 2009 | [10.1158/1078-0432.CCR-08-1287](https://doi.org/10.1158/1078-0432.CCR-08-1287) | ADC increase within 1 week predicts treatment response (AUC 0.88) |
-> | 5 | Diffusion-weighted MR imaging in the head and neck | Thoeny HC, De Keyzer F, King AD | Radiology, 2012 | [10.1148/radiol.11101821](https://doi.org/10.1148/radiol.11101821) | Definitive review: DWI for tissue characterization, staging, monitoring, recurrence |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Le Bihan D — MR imaging of intravoxel incoherent motions:... | Radiology | 1986 | [10.1148/radiology.161.2.3763909](https://doi.org/10.1148/radiology.161.2.3763909) |
+> | Sumi M — Discrimination of metastatic cervical lymph node... | AJNR | 2003 | PMID: 13679283 |
+> | Vandecaveye V — Detection of head and neck SCC with diffu... | Int J Radiat Oncol Biol Phys | 2007 | [10.1016/j.ijrobp.2006.09.020](https://doi.org/10.1016/j.ijrobp.2006.09.020) |
+> | Kim S — Diffusion-weighted MRI for predicting and detecti... | Clin Cancer Res | 2009 | [10.1158/1078-0432.CCR-08-1287](https://doi.org/10.1158/1078-0432.CCR-08-1287) |
+> | Thoeny HC — Diffusion-weighted MR imaging in the head and... | Radiology | 2012 | [10.1148/radiol.11101821](https://doi.org/10.1148/radiol.11101821) |
 
 ---
 

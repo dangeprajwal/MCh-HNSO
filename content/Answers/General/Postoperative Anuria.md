@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Postoperative acute kidney injury (AKI) is a significant complication following major head and neck surgery, associated with markedly increased mortality. KDIGO AKI Work Group (2012) published the definitive international clinical practice guideline for AKI, establishing the standardized KDIGO staging system (stages 1-3) based on serum creatinine rise and urine output criteria — this guideline unified the prior RIFLE and AKIN classifications and is now the universal standard. Mulvey et al. (2017) published the landmark NSQIP analysis of 46,198 head and neck surgical cases, identifying progressive renal insufficiency as an independent predictor of 30-day mortality with an odds ratio of 21.28 — one of the strongest predictors of death after HNC surgery. van der Vorst et al. (2019) published the first dedicated study of AKI incidence and risk factors in head and neck cancer patients receiving concurrent chemoradiation with high-dose cisplatin, finding that AKI occurred in a significant proportion and was associated with long-term renal impairment. Goren et al. (2021) published the joint ADQI/POQI consensus report establishing the framework for postoperative AKI in non-cardiac surgery, defining PO-AKI as AKI occurring within 7 days of surgery and outlining prevention, detection, and management strategies. Bellomo et al. (2004) published the original RIFLE criteria for AKI classification — the foundational work that was subsequently refined into AKIN and finally KDIGO staging.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | KDIGO clinical practice guidelines for acute kidney injury | Khwaja A (KDIGO Work Group) | Nephron Clin Pract, 2012 | [10.1159/000339789](https://doi.org/10.1159/000339789) | Definitive KDIGO AKI staging: stages 1-3 by creatinine and urine output |
-> | 2 | Complications associated with mortality after head and neck surgery | Mulvey CL, Brant JA, Bur AM et al. | Otolaryngol Head Neck Surg, 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) | Renal insufficiency = OR 21.28 for 30-day mortality after HNC surgery |
-> | 3 | Incidence and risk factors for AKI in HNC patients treated with concurrent CRT with high-dose cisplatin | van der Vorst MJDL, Neefjes ECW, Toffoli EC et al. | BMC Cancer, 2019 | [10.1186/s12885-019-6233-9](https://doi.org/10.1186/s12885-019-6233-9) | AKI in cisplatin CRT; long-term renal impairment in affected patients |
-> | 4 | Postoperative AKI in adult non-cardiac surgery: ADQI and POQI joint consensus | Goren O, Matot I (ADQI/POQI) | Nat Rev Nephrol, 2021 | [10.1038/s41581-021-00418-2](https://doi.org/10.1038/s41581-021-00418-2) | PO-AKI framework: prevention, detection, management within 7 days |
-> | 5 | Acute renal failure — definition, outcome measures, animal models, fluid therapy and IT needs: the Second International Consensus Conference of the ADQI Group | Bellomo R, Ronco C, Kellum JA et al. | Crit Care, 2004 | [10.1186/cc2872](https://doi.org/10.1186/cc2872) | Original RIFLE criteria for AKI classification |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Khwaja A (KDIGO Work Group) — KDIGO clinical practice gui... | Nephron Clin Pract | 2012 | [10.1159/000339789](https://doi.org/10.1159/000339789) |
+> | Mulvey CL — Complications associated with mortality after... | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
+> | van der Vorst MJDL — Incidence and risk factors for AKI i... | BMC Cancer | 2019 | [10.1186/s12885-019-6233-9](https://doi.org/10.1186/s12885-019-6233-9) |
+> | Goren O — Postoperative AKI in adult non-cardiac surgery:... | Nat Rev Nephrol | 2021 | [10.1038/s41581-021-00418-2](https://doi.org/10.1038/s41581-021-00418-2) |
+> | Bellomo R — Acute renal failure — definition, outcome mea... | Crit Care | 2004 | [10.1186/cc2872](https://doi.org/10.1186/cc2872) |
 
 ---
 

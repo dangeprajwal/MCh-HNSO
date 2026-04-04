@@ -18,13 +18,13 @@ tags:
 > [!cite] Landmark Articles
 > The molecular landscape of HNSCC has been progressively elucidated through increasingly sophisticated technologies. Agrawal et al. (2011) published the first whole-exome sequencing study of HNSCC, identifying recurrent mutations in NOTCH1 as a novel finding alongside known TP53 and CDKN2A alterations. The Cancer Genome Atlas Network (2015) provided the definitive comprehensive genomic characterization of 279 HNSCC cases, establishing the complete mutational landscape including differences between HPV+ and HPV− tumours. Stransky et al. (2011) independently confirmed the HNSCC mutational spectrum via exome sequencing. Schaaij-Visser et al. (2010) authored a key review of proteomic approaches for biomarker discovery in HNSCC. Bonner et al.'s 2006 landmark trial established [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|cetuximab]] (anti-EGFR) as the first molecularly targeted therapy approved for HNSCC, translating the most consistent molecular marker — EGFR overexpression — into clinical practice.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Comprehensive genomic characterization of HNSCC | The Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | 279 HNSCC cases; complete mutational landscape; HPV+ vs HPV− genomic differences |
-> | 2 | Exome sequencing of head and neck SCC reveals inactivating mutations in NOTCH1 | Agrawal N, Frederick MJ, Pickering CR et al. | Science, 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) | First HNSCC exome sequencing; discovered NOTCH1 as novel tumour suppressor in HNSCC |
-> | 3 | The mutational landscape of head and neck SCC | Stransky N, Egloff AM, Tward AD et al. | Science, 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) | Independent exome sequencing confirming TP53, CDKN2A, PIK3CA, NOTCH1 as key drivers |
-> | 4 | Protein biomarker discovery for head and neck cancer | Schaaij-Visser TBM, Brakenhoff RH, Leemans CR et al. | J Proteomics, 2010 | [10.1016/j.jprot.2010.01.013](https://doi.org/10.1016/j.jprot.2010.01.013) | Comprehensive review of proteomic approaches for HNSCC biomarker discovery |
-> | 5 | Radiotherapy plus cetuximab for SCC of the head and neck | Bonner JA, Harari PM, Giralt J et al. | N Engl J Med, 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) | Cetuximab + RT improved OS vs RT alone; first targeted therapy for HNSCC |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | The Cancer Genome Atlas Network — Comprehensive genomic c... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Agrawal N — Exome sequencing of head and neck SCC reveals... | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
+> | Stransky N — The mutational landscape of head and neck SCC | Science | 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) |
+> | Schaaij-Visser TBM — Protein biomarker discovery for head... | J Proteomics | 2010 | [10.1016/j.jprot.2010.01.013](https://doi.org/10.1016/j.jprot.2010.01.013) |
+> | Bonner JA — Radiotherapy plus cetuximab for SCC of the he... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
 
 ---
 

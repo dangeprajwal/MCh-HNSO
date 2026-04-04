@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Postoperative fever is common after major head and neck surgery and requires systematic evaluation to differentiate benign inflammatory responses from life-threatening infections. Robbins et al. (1990) published the landmark prospective study from MD Anderson Cancer Center evaluating risk factors for wound infection in 400 consecutive HNC surgical cases, finding a 19.75% infection rate with surgery type, antibiotic choice, comorbidities, and N-stage as key predictors. Penel et al. (2001) published the prospective study of wound infection risk factors in HNC surgery, reporting an infection rate of 41.8% when upper aerodigestive tract mucosa was opened, with tumour stage and prior chemotherapy as significant risk factors. Mulvey et al. (2017) published the NSQIP analysis of 46,198 HNC surgical cases identifying seven complications independently associated with 30-day mortality, including sepsis, pneumonia, and progressive renal insufficiency. Wang et al. (2023) published the definitive meta-analysis of SSI incidence and risk factors in head and neck cancer, synthesizing evidence from multiple studies to establish pooled incidence and risk factor estimates. McGrath et al. (2012) published the National Tracheostomy Safety Project emergency guidelines, relevant because tracheostomy-related infections are a significant cause of postoperative fever in HNC patients.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Risk of wound infection in patients with head and neck cancer | Robbins KT, Favrot S, Hanna D, Cole R | Head Neck, 1990 | [10.1002/hed.2880120209](https://doi.org/10.1002/hed.2880120209) | 19.75% SSI rate; surgery type, antibiotics, comorbidity, N-stage as predictors |
-> | 2 | Risk factors for wound infection in head and neck cancer surgery: a prospective study | Penel N, Lefebvre D, Fournier C et al. | Head Neck, 2001 | [10.1002/hed.1058](https://doi.org/10.1002/hed.1058) | 41.8% infection rate with UADT mucosal breach; tumour stage a key risk factor |
-> | 3 | Complications associated with mortality after head and neck surgery | Mulvey CL, Brant JA, Bur AM et al. | Otolaryngol Head Neck Surg, 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) | NSQIP: sepsis, pneumonia, renal insufficiency as mortality predictors |
-> | 4 | Incidence and risk factors of SSI in patients with head and neck cancer: a meta-analysis | Wang Y et al. | Head Neck, 2023 | [10.1002/hed.27504](https://doi.org/10.1002/hed.27504) | Definitive meta-analysis of SSI incidence and risk factors in HNC |
-> | 5 | Multidisciplinary guidelines for management of tracheostomy and laryngectomy airway emergencies | McGrath BA, Bates L, Atkinson D, Moore JA | Anaesthesia, 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) | Emergency algorithms for tracheostomy complications |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Robbins KT — Risk of wound infection in patients with hea... | Head Neck | 1990 | [10.1002/hed.2880120209](https://doi.org/10.1002/hed.2880120209) |
+> | Penel N — Risk factors for wound infection in head and ne... | Head Neck | 2001 | [10.1002/hed.1058](https://doi.org/10.1002/hed.1058) |
+> | Mulvey CL — Complications associated with mortality after... | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
+> | Wang Y — Incidence and risk factors of SSI in patients wi... | Head Neck | 2023 | [10.1002/hed.27504](https://doi.org/10.1002/hed.27504) |
+> | McGrath BA — Multidisciplinary guidelines for management ... | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
 
 ---
 

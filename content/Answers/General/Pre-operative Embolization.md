@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > Preoperative embolization has become a standard adjunct to surgery for hypervascular head and neck tumours, particularly paragangliomas and juvenile nasopharyngeal angiofibromas (JNA). Valavanis (1986) published the foundational article establishing indications, patient selection, goals, and precautions for preoperative embolization of head and neck tumours — reporting on 39 patients with 44 paragangliomas and demonstrating significant improvements in surgical conditions. Persky et al. (2002) described the combined endovascular and surgical approach as a team treatment for 47 patients with 53 head and neck paragangliomas, establishing the multidisciplinary paradigm. Chaloupka et al. (1999) introduced the concept of direct puncture therapeutic embolization (DPTE) for hypervascular head and neck neoplasms as an alternative to transarterial embolization. Jackson et al. (2015) published the first systematic review and meta-analysis of preoperative embolization for carotid body paragangliomas, confirming significantly less estimated blood loss compared with surgery alone. Kothari et al. (2023) provided the most comprehensive systematic review of preoperative embolization techniques in JNA, reporting PVA particles as the most commonly used embolic material and an embolization complication rate of 3.16%.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Preoperative embolization of the head and neck: indications, patient selection, goals, and precautions | Valavanis A | AJNR, 1986 | [PMID: 3096120](https://pubmed.ncbi.nlm.nih.gov/3096120/) | Foundational article: established principles and indications |
-> | 2 | Combined endovascular and surgical treatment of head and neck paragangliomas — a team approach | Persky MS, Setton A, Niimi Y et al. | Head Neck, 2002 | [10.1002/hed.10068](https://doi.org/10.1002/hed.10068) | 47 patients/53 tumours; multidisciplinary embolization + surgery paradigm |
-> | 3 | Evolving experience with direct puncture therapeutic embolization for head and neck neoplasms | Chaloupka JC, Mangla S, Huddle DC et al. | Laryngoscope, 1999 | [10.1097/00005537-199911000-00028](https://doi.org/10.1097/00005537-199911000-00028) | Introduced direct puncture embolization as alternative to transarterial |
-> | 4 | The effects of preoperative embolization on carotid body paraganglioma surgery: systematic review and meta-analysis | Jackson RS, Myhill JA, Padhya TA et al. | Otolaryngol Head Neck Surg, 2015 | [10.1177/0194599815605323](https://doi.org/10.1177/0194599815605323) | Meta-analysis: embolization significantly reduces blood loss and operative time |
-> | 5 | Preoperative embolization techniques in the treatment of juvenile nasopharyngeal angiofibroma: systematic review | Kothari DS, Linker LA, Tham T et al. | Otolaryngol Head Neck Surg, 2023 | [10.1002/ohn.303](https://doi.org/10.1002/ohn.303) | PVA particles most common; complication rate 3.16%; surgery within 24-48 hrs |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Valavanis A — Preoperative embolization of the head and n... | AJNR | 1986 | [PMID: 3096120](https://pubmed.ncbi.nlm.nih.gov/3096120/) |
+> | Persky MS — Combined endovascular and surgical treatment ... | Head Neck | 2002 | [10.1002/hed.10068](https://doi.org/10.1002/hed.10068) |
+> | Chaloupka JC — Evolving experience with direct puncture t... | Laryngoscope | 1999 | [10.1097/00005537-199911000-00028](https://doi.org/10.1097/00005537-199911000-00028) |
+> | Jackson RS — The effects of preoperative embolization on ... | Otolaryngol Head Neck Surg | 2015 | [10.1177/0194599815605323](https://doi.org/10.1177/0194599815605323) |
+> | Kothari DS — Preoperative embolization techniques in the ... | Otolaryngol Head Neck Surg | 2023 | [10.1002/ohn.303](https://doi.org/10.1002/ohn.303) |
 
 ---
 

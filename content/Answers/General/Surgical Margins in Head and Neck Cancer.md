@@ -5,7 +5,7 @@ tags:
   - Surgery
 ---
 
-> [!question] AIIMS 2020
+> [!question] Questions Covered
 > Margins in head and neck cancer surgery - Surgical Margins
 
 ## Source

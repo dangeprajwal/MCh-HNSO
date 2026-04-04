@@ -14,13 +14,13 @@ tags:
 > [!cite] Landmark Articles
 > Phase III clinical trials are the pivotal step in establishing new treatments as standard of care. In head and neck oncology, phase III trials have transformed treatment paradigms — from the establishment of concurrent chemoradiotherapy (Pignon et al., MACH-NC meta-analysis) to the recent introduction of immune checkpoint inhibitors (KEYNOTE-048). Adelstein (2012) reviewed the evolution of clinical trial design in head and neck cancer, highlighting the lessons learned from decades of trials. Fortpied et al. (2011) addressed the statistical challenges specific to HNC trial design, including population selection, equipoise, and endpoint choice. Umscheid et al. (2011) provided a comprehensive narrative review of key clinical trial concepts from preclinical phase through post-marketing surveillance.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Clinical trial design in head and neck cancer: what has the oncologist learned? | Adelstein DJ | Lancet Oncol, 2012 | [10.1016/S1470-2045(12)70119-5](https://doi.org/10.1016/S1470-2045(12)70119-5) | Personal review of how trial design in HNC has evolved with changing disease epidemiology |
-> | 2 | Design issues in head and neck clinical trials: a statistician's perspective | Fortpied C, Liberatoscioli C, Bogaerts J | Anticancer Drugs, 2011 | [10.1097/CAD.0b013e3283417a0d](https://doi.org/10.1097/CAD.0b013e3283417a0d) | Statistical challenges: population selection, equipoise, endpoint definition in HNC trials |
-> | 3 | Key concepts of clinical trials: a narrative review | Umscheid CA, Margolis DJ, Grossman CE | Postgrad Med, 2011 | [10.3810/pgm.2011.09.2475](https://doi.org/10.3810/pgm.2011.09.2475) | Comprehensive review of trial phases, ethical foundations, and regulatory approval process |
-> | 4 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) | Molecular understanding of cancer → rational drug development → targeted therapy trials |
-> | 5 | Intensity-modulated RT versus conventional RT (PARSPORT): a phase 3 multicentre RCT | Nutting CM, Morden JP, Harrington KJ et al. | Lancet Oncol, 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) | Model phase III RCT: IMRT significantly reduced grade ≥2 [[Answers/General/Xerostomia Management|xerostomia]] (38% vs 74%) |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Adelstein DJ — Clinical trial design in head and neck can... | Lancet Oncol | 2012 | [10.1016/S1470-2045(12)70119-5](https://doi.org/10.1016/S1470-2045(12)70119-5) |
+> | Fortpied C — Design issues in head and neck clinical tria... | Anticancer Drugs | 2011 | [10.1097/CAD.0b013e3283417a0d](https://doi.org/10.1097/CAD.0b013e3283417a0d) |
+> | Umscheid CA — Key concepts of clinical trials: a narrativ... | Postgrad Med | 2011 | [10.3810/pgm.2011.09.2475](https://doi.org/10.3810/pgm.2011.09.2475) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
+> | Nutting CM — Intensity-modulated RT versus conventional R... | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
 
 ---
 

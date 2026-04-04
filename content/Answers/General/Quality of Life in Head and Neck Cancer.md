@@ -21,13 +21,13 @@ tags:
 > [!cite] Landmark Articles
 > The concept of systematically measuring QOL in head and neck cancer was formalized through several foundational instruments developed in the 1990s. Hassan and Weymuller (1993) created the University of Washington QOL scale (UW-QOL), a concise disease-specific tool preferred by 97% of patients over longer questionnaires. Cella et al. (1993) validated the FACT-G general cancer QOL measure, which became the parent instrument for the FACT-HN head and neck module. The EORTC QLQ-H&N35, validated by Bjordal et al. (1999) in a 500-patient multinational study, became the most widely used QOL instrument in HNC clinical trials. List et al. (1996) developed the clinician-rated Performance Status Scale (PSS-HN) covering diet, speech, and public eating domains. More recently, Laraway and Rogers (2012) provided a structured review of UW-QOL outcomes across published studies, confirming it as one of the two most frequently reported QOL instruments in HNC research alongside the EORTC QLQ-H&N35.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Quality of life in head and neck cancer patients: validation of the EORTC QLQ-H&N35 | Bjordal K, Hammerlid E, Ahlner-Elmqvist M et al. | J Clin Oncol, 1999 | [10.1200/JCO.1999.17.3.1008](https://doi.org/10.1200/JCO.1999.17.3.1008) | Validated 7-scale H&N-specific QOL module in 500 patients; most widely used HNC QOL instrument |
-> | 2 | Assessment of quality of life in head and neck cancer patients | Hassan SJ, Weymuller EA | Head Neck, 1993 | [10.1002/hed.2880150603](https://doi.org/10.1002/hed.2880150603) | Developed UW-QOL scale; 97% patient preference; criterion validity 0.849; superior responsiveness |
-> | 3 | The Functional Assessment of Cancer Therapy scale: development and validation of the general measure | Cella DF, Tulsky DS, Gray G et al. | J Clin Oncol, 1993 | [10.1200/JCO.1993.11.3.570](https://doi.org/10.1200/JCO.1993.11.3.570) | Validated FACT-G across 4 domains; parent instrument for FACT-HN head and neck module |
-> | 4 | The PSS-HN and FACT-HN: a study of utility and validity | List MA, D'Antonio LL, Cella DF et al. | Cancer, 1996 | [10.1002/(SICI)1097-0142(19960601)77:11<2294::AID-CNCR17>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1097-0142(19960601)77:11%3C2294::AID-CNCR17%3E3.0.CO;2-S) | Validated clinician-rated PSS-HN (diet, speech, public eating); complements patient-reported FACT-HN |
-> | 5 | A structured review of journal articles reporting outcomes using the UW-QOL scale | Laraway DC, Rogers SN | Br J Oral Maxillofac Surg, 2012 | [10.1016/j.bjoms.2010.12.005](https://doi.org/10.1016/j.bjoms.2010.12.005) | Comprehensive review of UW-QOL use across HNC studies; confirmed it as one of top 2 QOL instruments |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Bjordal K — Quality of life in head and neck cancer patie... | J Clin Oncol | 1999 | [10.1200/JCO.1999.17.3.1008](https://doi.org/10.1200/JCO.1999.17.3.1008) |
+> | Hassan SJ — Assessment of quality of life in head and nec... | Head Neck | 1993 | [10.1002/hed.2880150603](https://doi.org/10.1002/hed.2880150603) |
+> | Cella DF — The Functional Assessment of Cancer Therapy sc... | J Clin Oncol | 1993 | [10.1200/JCO.1993.11.3.570](https://doi.org/10.1200/JCO.1993.11.3.570) |
+> | List MA — The PSS-HN and FACT-HN: a study of utility and ... | Cancer | 1996 | [10.1002/(SICI)1097-0142(19960601)77:11<2294::AID-CNCR17>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1097-0142(19960601)77:11%3C2294::AID-CNCR17%3E3.0.CO;2-S) |
+> | Laraway DC — A structured review of journal articles repo... | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2010.12.005](https://doi.org/10.1016/j.bjoms.2010.12.005) |
 
 ---
 

@@ -22,13 +22,13 @@ tags:
 > [!cite] Landmark Articles
 > The modern era of surgical voice restoration began with Singer and Blom's 1980 landmark publication describing the tracheoesophageal puncture (TEP) technique with a one-way silicone valve prosthesis. In a series of 60 patients, 90% achieved fluent voice — transforming the expectation and quality of speech after total laryngectomy. Op de Coul et al. (2000) published the largest single-institution experience with consistent application of the Provox indwelling voice prosthesis in 318 patients over a decade at the Netherlands Cancer Institute, establishing the indwelling prosthesis as the standard of care. Brown et al. (2003) provided the definitive "state of the art" review of postlaryngectomy voice rehabilitation at the millennium, comparing all three alaryngeal speech methods and documenting the shift toward primary TEP. The Cancer Genome Atlas-era understanding was updated by van Sluis et al. (2018) who published the most comprehensive systematic review and meta-analysis on outcomes of total laryngectomy and laryngopharyngectomy with TEP voice restoration. Hilgers et al. (2010) reported the evolution from Provox to Provox Vega in a randomized controlled crossover trial, demonstrating improved perceptual voice quality with the latest generation of indwelling prostheses.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | An endoscopic technique for restoration of voice after laryngectomy | Singer MI, Blom ED | Ann Otol Rhinol Laryngol, 1980 | [10.1177/000348948008900608](https://doi.org/10.1177/000348948008900608) | Original TEP technique; 90% fluent voice in 60 patients; revolutionized alaryngeal speech |
-> | 2 | A decade of postlaryngectomy vocal rehabilitation in 318 patients | Op de Coul BM, Hilgers FJ, Balm AJ et al. | Arch Otolaryngol Head Neck Surg, 2000 | [10.1001/archotol.126.11.1320](https://doi.org/10.1001/archotol.126.11.1320) | Largest single-institution Provox series; 1,000 patient-years; established indwelling prosthesis as standard |
-> | 3 | Postlaryngectomy voice rehabilitation: state of the art at the millennium | Brown DH, Hilgers FJM, Irish JC, Balm AJM | World J Surg, 2003 | [10.1007/s00268-003-7107-4](https://doi.org/10.1007/s00268-003-7107-4) | Comprehensive review of all alaryngeal speech methods; shift toward primary TEP documented |
-> | 4 | Outcomes of total laryngectomy and laryngopharyngectomy in elderly patients | van Sluis KE, van der Molen L, van Son RJJH et al. | Head Neck, 2018 | [10.1002/hed.25236](https://doi.org/10.1002/hed.25236) | Systematic review; TEP voice success 70-90% across modern series |
-> | 5 | Provox Vega voice prosthesis: a randomized controlled crossover trial | Hilgers FJM, Ackerstaff AH, Balm AJM et al. | Head Neck, 2010 | [10.1002/hed.21412](https://doi.org/10.1002/hed.21412) | RCT: Provox Vega showed improved perceptual voice quality over Provox 2 |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Singer MI — An endoscopic technique for restoration of vo... | Ann Otol Rhinol Laryngol | 1980 | [10.1177/000348948008900608](https://doi.org/10.1177/000348948008900608) |
+> | Op de Coul BM — A decade of postlaryngectomy vocal rehabi... | Arch Otolaryngol Head Neck Surg | 2000 | [10.1001/archotol.126.11.1320](https://doi.org/10.1001/archotol.126.11.1320) |
+> | Brown DH — Postlaryngectomy voice rehabilitation: state o... | World J Surg | 2003 | [10.1007/s00268-003-7107-4](https://doi.org/10.1007/s00268-003-7107-4) |
+> | van Sluis KE — Outcomes of total laryngectomy and laryngo... | Head Neck | 2018 | [10.1002/hed.25236](https://doi.org/10.1002/hed.25236) |
+> | Hilgers FJM — Provox Vega voice prosthesis: a randomized ... | Head Neck | 2010 | [10.1002/hed.21412](https://doi.org/10.1002/hed.21412) |
 
 ---
 

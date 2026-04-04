@@ -4,7 +4,7 @@ tags:
   - Surgery
 ---
 
-> [!question] AIIMS 2020
+> [!question] Questions Covered
 > Sentinel node biopsy in Oral cancers
 
 ## Source

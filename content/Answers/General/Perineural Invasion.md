@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Perineural invasion (PNI) has emerged as one of the most important adverse histopathological features in HNSCC, consistently associated with reduced survival, increased local recurrence, and higher rates of regional and distant failure. Amit et al. (2016) published the definitive mechanistic review in Nature Reviews Cancer, elucidating how cancer cells actively recruit and invade nerves through reciprocal signalling between tumour cells and neural components. Schmitd et al. (2018) provided the most comprehensive clinical review in the Journal of Dental Research. Roh et al. (2015) reviewed the biology and mechanisms of perineural growth specifically in HNSCC. A 2019 systematic review and meta-analysis confirmed PNI as an independent prognostic factor across HNSCC subsites. Saidak et al. (2020) summarized the latest advances in PNI biology, including the concept of the tumour-nerve "dialogue."
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Mechanisms of cancer dissemination along nerves | Amit M, Na'ara S, Gil Z | Nat Rev Cancer, 2016 | [10.1038/nrc.2016.38](https://doi.org/10.1038/nrc.2016.38) | Definitive mechanistic review; reciprocal signalling between tumour cells and nerves |
-> | 2 | Perineural invasion in head and neck cancer | Schmitd LB, Scanlon CS, D'Silva NJ | J Dent Res, 2018 | [10.1177/0022034518756297](https://doi.org/10.1177/0022034518756297) | Comprehensive clinical review; PNI biology, diagnosis, prognosis, treatment implications |
-> | 3 | Perineural growth in head and neck squamous cell carcinoma: a review | Roh J, Muelleman T, Tawfik O, Thomas SM | Oral Oncol, 2015 | [10.1016/j.oraloncology.2014.10.004](https://doi.org/10.1016/j.oraloncology.2014.10.004) | Biology and mechanisms of perineural growth; neurotrophic factors in HNSCC |
-> | 4 | Perineural invasion as a prognostic factor in HNSCC: systematic review and meta-analysis | Chen SH, Zhang BY, Zhou B et al. | Acta Otolaryngol, 2019 | [10.1080/00016489.2019.1655167](https://doi.org/10.1080/00016489.2019.1655167) | PNI independently predicts worse survival across HNSCC subsites |
-> | 5 | PNI in HNSCC: background, mechanisms, and prognostic implications | Saidak Z, Lailler C, Clatot F, Galmiche A | Curr Opin Otolaryngol Head Neck Surg, 2020 | [10.1097/MOO.0000000000000610](https://doi.org/10.1097/MOO.0000000000000610) | PNI is a multistep process; tumour-nerve dialogue involves neurotrophins, chemokines, MMPs |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Amit M — Mechanisms of cancer dissemination along nerves | Nat Rev Cancer | 2016 | [10.1038/nrc.2016.38](https://doi.org/10.1038/nrc.2016.38) |
+> | Schmitd LB — Perineural invasion in head and neck cancer | J Dent Res | 2018 | [10.1177/0022034518756297](https://doi.org/10.1177/0022034518756297) |
+> | Roh J — Perineural growth in head and neck squamous cell ... | Oral Oncol | 2015 | [10.1016/j.oraloncology.2014.10.004](https://doi.org/10.1016/j.oraloncology.2014.10.004) |
+> | Chen SH — Perineural invasion as a prognostic factor in H... | Acta Otolaryngol | 2019 | [10.1080/00016489.2019.1655167](https://doi.org/10.1080/00016489.2019.1655167) |
+> | Saidak Z — PNI in HNSCC: background, mechanisms, and prog... | Curr Opin Otolaryngol Head Neck Surg | 2020 | [10.1097/MOO.0000000000000610](https://doi.org/10.1097/MOO.0000000000000610) |
 
 ---
 

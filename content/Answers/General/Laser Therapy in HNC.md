@@ -5,7 +5,7 @@ tags:
   - Surgery
 ---
 
-> [!question] Q29 + Q38
+> [!question] Questions Covered
 > **Q29 (AMRITA 2008):** Discuss the principles of application of laser therapy to Head Neck Cancer. What are the various forms of Lasers used in the treatment of Head and Neck Tumours? Discuss the role of CO2 laser in the management of laryngopharyngeal Cancers.
 > **Q38 (AMRITA 2016):** Use of lasers in head and neck cancer management and its current evidence and principle of practice.
 
@@ -14,13 +14,13 @@ tags:
 > [!cite] Landmark Articles
 > Strong and Jako (1972) published the foundational report of continuous CO2 laser coupled with an operating microscope for transoral laryngeal surgery. Steiner (1993) demonstrated that CO2 laser microsurgery achieved 100% adjusted 5-year survival for early glottic cancer (Tis-T2) with only 6% local recurrence despite piecemeal resection — establishing transoral laser microsurgery (TLM) as oncologically sound. Remacle et al. (2000) proposed the European Laryngological Society (ELS) classification of endoscopic cordectomies (Types I-VI), enabling standardized reporting across centres. Steiner et al. (2001) extended TLM to hypopharyngeal cancer, reporting 87% local control and 99% organ preservation in 129 piriform sinus carcinoma patients. Ambrosch (2007) consolidated evidence showing TLM achieves local tumour control with a functional residual larynx in 70-80% of cases across all stages, with outcomes comparable to open surgery and radiotherapy but superior functional preservation.
 >
-> | # | Title | Authors | Journal, Year | DOI | Key Finding |
-> |---|-------|---------|---------------|-----|-------------|
-> | 1 | Laser surgery in the larynx: early clinical experience with continuous CO2 laser | Strong MS, Jako GJ | Ann Otol Rhinol Laryngol, 1972 | [10.1177/000348947208100606](https://doi.org/10.1177/000348947208100606) | First clinical report of CO2 laser + microscope for transoral laryngeal surgery |
-> | 2 | Results of curative laser microsurgery of laryngeal carcinomas | Steiner W | Am J Otolaryngol, 1993 | [10.1016/0196-0709(93)90050-h](https://doi.org/10.1016/0196-0709(93)90050-h) | 100% adjusted 5-year survival for Tis-T2 glottic cancer; 6% local recurrence |
-> | 3 | Endoscopic cordectomy: a proposal for a classification by the Working Committee, ELS | Remacle M, Eckel HE, Antonelli A, et al. | Eur Arch Otorhinolaryngol, 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) | Standardized ELS cordectomy classification (Types I-V) for uniform reporting |
-> | 4 | Organ preservation by transoral laser microsurgery in piriform sinus carcinoma | Steiner W, Ambrosch P, Hess CF, Kron M | Otolaryngol Head Neck Surg, 2001 | [10.1067/mhn.2001.111597](https://doi.org/10.1067/mhn.2001.111597) | 87% local control, 99% organ preservation in 129 piriform sinus SCC patients |
-> | 5 | The role of laser microsurgery in the treatment of laryngeal cancer | Ambrosch P | Curr Opin Otolaryngol Head Neck Surg, 2007 | [10.1097/MOO.0b013e3280147336](https://doi.org/10.1097/MOO.0b013e3280147336) | TLM achieves functional larynx preservation in 70-80% across all stages |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Strong MS — Laser surgery in the larynx: early clinical e... | Ann Otol Rhinol Laryngol | 1972 | [10.1177/000348947208100606](https://doi.org/10.1177/000348947208100606) |
+> | Steiner W — Results of curative laser microsurgery of lar... | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-h](https://doi.org/10.1016/0196-0709(93)90050-h) |
+> | Remacle M — Endoscopic cordectomy: a proposal for a class... | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
+> | Steiner W — Organ preservation by transoral laser microsu... | Otolaryngol Head Neck Surg | 2001 | [10.1067/mhn.2001.111597](https://doi.org/10.1067/mhn.2001.111597) |
+> | Ambrosch P — The role of laser microsurgery in the treatm... | Curr Opin Otolaryngol Head Neck Surg | 2007 | [10.1097/MOO.0b013e3280147336](https://doi.org/10.1097/MOO.0b013e3280147336) |
 
 ---
 

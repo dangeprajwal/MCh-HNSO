@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Next-generation sequencing (NGS) has revolutionized our understanding of head and neck squamous cell carcinoma (HNSCC) at the molecular level. In 2011, two simultaneous publications in *Science* provided the first comprehensive exome-level view of HNSCC: Agrawal et al. (2011) sequenced 32 HNSCC tumours and identified inactivating mutations in NOTCH1 — a novel finding implicating loss of squamous differentiation control. Stransky et al. (2011) sequenced 74 tumour-normal pairs and confirmed NOTCH1 as one of the most commonly mutated genes, along with novel mutations in genes regulating squamous differentiation (IRF6, TP63). Both studies are referenced in Harrison's Chapter 7. The landmark TCGA study (Cancer Genome Atlas Network, 2015) then provided the definitive genomic landscape of HNSCC based on 279 tumours — identifying four molecular subtypes, confirming distinct HPV+ and HPV- genomic profiles, and revealing novel therapeutic targets. Leemans et al. (2018) published the comprehensive review translating these genomic findings into clinical relevance for head and neck oncologists. India et al. (2020) extended NGS findings to the Indian subcontinent, revealing unique genomic alterations in betel-associated oral cancers.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Exome sequencing of HNSCC reveals inactivating mutations in NOTCH1 | Agrawal N, Frederick MJ, Pickering CR et al. | Science, 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) | First exome sequencing of HNSCC; NOTCH1 as novel tumour suppressor |
-> | 2 | The mutational landscape of head and neck squamous cell carcinoma | Stransky N, Egloff AM, Tward AD et al. | Science, 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) | 74 tumour pairs; ≥30% harbour mutations in squamous differentiation genes |
-> | 3 | Comprehensive genomic characterization of head and neck squamous cell carcinomas | Cancer Genome Atlas Network | Nature, 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) | Definitive TCGA: 279 tumours; 4 molecular subtypes; HPV+/HPV- distinct profiles |
-> | 4 | The biology and management of head and neck cancer | Leemans CR, Snijders PJF, Brakenhoff RH | Nature, 2018 | [10.1038/s41586-019-1689-y](https://doi.org/10.1038/s41586-019-1689-y) | Translational review linking genomic findings to clinical management |
-> | 5 | Biology of head and neck cancer: key targets and therapies | Leemans CR, Braakhuis BJM, Brakenhoff RH | N Engl J Med, 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) | Comprehensive review of HNC biology including genomic alterations |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Agrawal N — Exome sequencing of HNSCC reveals inactivatin... | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
+> | Stransky N — The mutational landscape of head and neck sq... | Science | 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) |
+> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Leemans CR — The biology and management of head and neck ... | Nature | 2018 | [10.1038/s41586-019-1689-y](https://doi.org/10.1038/s41586-019-1689-y) |
+> | Leemans CR — Biology of head and neck cancer: key targets... | N Engl J Med | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
 
 ---
 

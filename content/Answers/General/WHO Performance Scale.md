@@ -16,13 +16,13 @@ tags:
 > [!cite] Landmark Articles
 > Performance status assessment is a cornerstone of oncological decision-making, influencing treatment selection, clinical trial eligibility, and prognostic stratification. Karnofsky and Burchenal (1949) developed the first formal performance status scale — the Karnofsky Performance Status (KPS) — as a standardization tool to quantify the effects of chemotherapeutic agents, using an 11-point scale from 0% (dead) to 100% (normal). Oken et al. (1982) published the formal ECOG Performance Status Scale (also known as the WHO/Zubrod scale), a simpler 6-point scale (0-5) that has become the most widely used performance measure in clinical trials. Miller et al. (1981) established the WHO criteria for reporting results of cancer treatment, endorsing the ECOG scale as the standard. List et al. (1990) developed the Performance Status Scale for Head and Neck Cancer (PSS-HN) — the only performance instrument specifically designed for head and neck cancer patients, measuring understandability of speech, normalcy of diet, and eating in public. Piccirillo (2000) demonstrated that comorbidity assessment (ACE-27) is an essential complement to performance status, being an independent prognostic factor in head and neck cancer.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | The clinical evaluation of chemotherapeutic agents in cancer | Karnofsky DA, Burchenal JH | Columbia University Press, 1949 | Book chapter (no DOI) | First performance status scale (KPS): 0-100% scale |
-> | 2 | Toxicity and response criteria of the Eastern Cooperative Oncology Group | Oken MM, Creech RH, Tormey DC et al. | Am J Clin Oncol, 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) | Formal ECOG/WHO/Zubrod PS scale (0-5) |
-> | 3 | Reporting results of cancer treatment | Miller AB, Hoogstraten B, Staquet M, Winkler A | Cancer, 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) | WHO standardized criteria for reporting cancer treatment results |
-> | 4 | A performance status scale for head and neck cancer patients | List MA, Ritter-Sterr C, Lansky SB | Cancer, 1990 | [PMID: 2364368](https://pubmed.ncbi.nlm.nih.gov/2364368/) | PSS-HN: first HNC-specific performance scale (speech, diet, eating in public) |
-> | 5 | Importance of comorbidity in head and neck cancer | Piccirillo JF | Laryngoscope, 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) | Comorbidity is independent prognostic factor; complements performance status |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Karnofsky DA — The clinical evaluation of chemotherapeuti... | Columbia University Press | 1949 | Book chapter (no DOI) |
+> | Oken MM — Toxicity and response criteria of the Eastern C... | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
+> | Miller AB — Reporting results of cancer treatment | Cancer | 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) |
+> | List MA — A performance status scale for head and neck ca... | Cancer | 1990 | [PMID: 2364368](https://pubmed.ncbi.nlm.nih.gov/2364368/) |
+> | Piccirillo JF — Importance of comorbidity in head and nec... | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
 
 ---
 

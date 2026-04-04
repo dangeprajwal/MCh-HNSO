@@ -15,13 +15,13 @@ tags:
 > [!cite] Landmark Articles
 > Telomerase was discovered in 1985 by Greider and Blackburn in Tetrahymena extracts — work that contributed to the 2009 Nobel Prize in Physiology or Medicine. Kim et al. (1994) subsequently demonstrated that telomerase is reactivated in 90% of human cancers but absent in normal somatic tissues, establishing telomerase as a near-universal cancer biomarker. Patel et al. (2002) specifically demonstrated the clinical usefulness of telomerase activation and telomere length in head and neck cancer, showing activity in 78-82% of HNSCC. Vinagre et al. (2013) identified recurrent TERT promoter mutations across multiple cancer types, providing the genetic basis for telomerase reactivation. Hanahan and Weinberg (2000) identified "limitless replicative potential" — achieved through telomerase reactivation — as one of the six hallmarks of cancer.
 >
-> | No. | Article | Authors | Journal, Year | DOI | Key Finding |
-> |-----|---------|---------|---------------|-----|-------------|
-> | 1 | Identification of a specific telomere terminal transferase activity in Tetrahymena extracts | Greider CW, Blackburn EH | Cell, 1985 | [10.1016/0092-8674(85)90170-9](https://doi.org/10.1016/0092-8674(85)90170-9) | Discovery of telomerase — Nobel Prize 2009 |
-> | 2 | Specific association of human telomerase activity with immortal cells and cancer | Kim NW, Piatyszek MA, Prowse KR et al. | Science, 1994 | [10.1126/science.7605428](https://doi.org/10.1126/science.7605428) | Telomerase active in 90% of cancers, absent in normal somatic tissues |
-> | 3 | Clinical usefulness of telomerase activation and telomere length in head and neck cancer | Patel MM, Parekh LJ, Jha FP et al. | Head Neck, 2002 | [10.1002/hed.10169](https://doi.org/10.1002/hed.10169) | Telomerase active in 78-82% of HNSCC; higher telomere length associated with poor survival |
-> | 4 | Frequency of TERT promoter mutations in human cancers | Vinagre J, Almeida A, Pópulo H et al. | Nat Commun, 2013 | [10.1038/ncomms3185](https://doi.org/10.1038/ncomms3185) | Identified recurrent TERT promoter mutations (C228T, C250T) across multiple cancer types |
-> | 5 | The hallmarks of cancer | Hanahan D, Weinberg RA | Cell, 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) | Limitless replicative potential (telomerase reactivation) identified as a hallmark of cancer |
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Greider CW — Identification of a specific telomere termin... | Cell | 1985 | [10.1016/0092-8674(85)90170-9](https://doi.org/10.1016/0092-8674(85)90170-9) |
+> | Kim NW — Specific association of human telomerase activit... | Science | 1994 | [10.1126/science.7605428](https://doi.org/10.1126/science.7605428) |
+> | Patel MM — Clinical usefulness of telomerase activation a... | Head Neck | 2002 | [10.1002/hed.10169](https://doi.org/10.1002/hed.10169) |
+> | Vinagre J — Frequency of TERT promoter mutations in human... | Nat Commun | 2013 | [10.1038/ncomms3185](https://doi.org/10.1038/ncomms3185) |
+> | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
 
 ---
 
