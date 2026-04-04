@@ -8,3 +8,4 @@ Comprehensive answers to MCh Head and Neck Surgery and Oncology examination ques
 
 - **[[Answers/General/index|General Topics]]** — Molecular biology, oncology principles, diagnostics, complications, rehabilitation (63 answers)
 - **[[Answers/Oral Cavity/index|Oral Cavity]]** — Site-specific surgical oncology, staging, reconstruction, premalignant conditions (39 answers)
+- **[[Answers/Oropharynx/index|Oropharynx]]** — HPV biology, TORS, de-escalation strategies, staging, reconstruction, swallowing rehabilitation (11 answers)

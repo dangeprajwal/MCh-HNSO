@@ -228,35 +228,35 @@
 ### Oropharynx
 | No. | Question                                                                                                                     | Year | Institute |
 | --- | ---------------------------------------------------------------------------------------------------------------------------- | ---- | --------- |
-| 1   | Discuss the de-escalation strategies in HPV-induced oropharyngeal cancers. Discuss the evidence and the ongoing trials       | 2020 | AIIMS     |
-| 2   | HPV (Human Papilloma Virus), vaccine in oropharyngeal carcinoma                                                              | 2020 | AIIMS     |
-| 3   | Layout the carcinogenesis of oropharyngeal cancers in relation to HPV and the current management in these cancers            | 2021 | PGI       |
-| 4   | Write a note on pharyngeal reconstruction following ablative surgery                                                         | 2020 | KIDWAI    |
-| 5   | Discuss the changes in the AJCC (8th edition) classification for oropharyngeal cancers                                       | 2020 | KIDWAI    |
-| 6   | De-escalation trials in oropharyngeal cancer                                                                                 | 2020 | KIDWAI    |
-| 7   | Discuss the role of HPV in pathogenesis of oropharyngeal cancers and new staging system for HPV positive                     | 2017 | AMRITA    |
-| 8   | Discuss the de-escalation trials in oropharyngeal cancers                                                                    | 2021 | AMRITA    |
-| 9   | Human Papilloma Virus and oropharyngeal cancer - epidemiology, molecular biology, treatment and prognosis                    | 2016 | TMH       |
-| 10  | Discuss about the role of submandibular gland sparing irradiation in the management of oropharyngeal cancers                 | 2017 | TMH       |
-| 11  | Management of recurrent HPV-positive oropharyngeal squamous cell carcinoma after trans-oral robotic surgery                  | 2017 | TMH       |
-| 12  | Rational use of PET-CT scans in the management of oropharyngeal cancers – when and why                                       | 2017 | TMH       |
-| 13  | Discuss the treatment of T2 oropharyngeal malignancy                                                                         | 2018 | TMH       |
-| 14  | Discuss about the rehabilitation following oral and oropharyngeal cancer surgery                                             | 2018 | TMH       |
-| 15  | Discuss the rationale and potential application of DARS-sparing radiation therapy in oral and oropharyngeal cancer           | 2019 | TMH       |
-| 16  | Highlight and detail the changes incorporated in the AJCC 8th Edition in the staging of oral and oropharyngeal cancers       | 2019 | TMH       |
-| 17  | Carcinoma oropharynx - staging and management                                                                                | 2020 | TMH       |
-| 18  | Discuss in detail the different modes of swallowing rehabilitation after surgical treatment of oral and oropharyngeal cancer | 2020 | TMH       |
-| 19  | Discuss the role of robotic surgery in oropharyngeal cancers                                                                 | 2020 | TMH       |
-| 20  | HPV (Human Papilloma Virus) vaccine in oropharyngeal cancers                                                                 | 2020 | TMH       |
-| 21  | Human Papilloma Virus testing in oropharyngeal cancers                                                                       | 2020 | TMH       |
-| 22  | The role of TORS in the management of oropharyngeal cancer                                                                   | 2020 | TMH       |
-| 23  | Treatment de-intensification strategies in the management of oropharyngeal cancers                                           | 2020 | TMH       |
-| 24  | Implication of HPV status in the management of oropharyngeal cancer                                                          | 2021 | TMH       |
-| 25  | Swallowing rehabilitation following oropharyngeal cancer treatment                                                           | 2021 | TMH       |
-| 26  | Techniques of HPV assessment in oropharyngeal cancer. Discuss the utility and limitations of each                            | 2021 | TMH       |
-| 27  | Discuss the options of reconstruction after trans-oral robotic surgery for oropharyngeal cancers                             | 2022 | TMH       |
-| 28  | Role of HPV in oral-oropharyngeal malignancies                                                                               | 2022 | TMH       |
-| 29  | Role of treatment de-intensification in the management of p16+ oropharyngeal cancer                                          | 2022 | TMH       |
+| 1   | [[Answers/Oropharynx/De-escalation Strategies in HPV-positive OPC|Discuss the de-escalation strategies in HPV-induced oropharyngeal cancers. Discuss the evidence and the ongoing trials]] | 2020 | AIIMS     |
+| 2   | [[Answers/Oropharynx/HPV Vaccine in Oropharyngeal Cancer|HPV (Human Papilloma Virus), vaccine in oropharyngeal carcinoma]]   | 2020 | AIIMS     |
+| 3   | [[Answers/Oropharynx/Staging and Management of Oropharyngeal Cancer|Layout the carcinogenesis of oropharyngeal cancers in relation to HPV and the current management in these cancers]] | 2021 | PGI       |
+| 4   | [[Answers/Oropharynx/Pharyngeal Reconstruction|Write a note on pharyngeal reconstruction following ablative surgery]]        | 2020 | KIDWAI    |
+| 5   | [[Answers/Oropharynx/AJCC 8th Edition OPC Staging|Discuss the changes in the AJCC (8th edition) classification for oropharyngeal cancers]] | 2020 | KIDWAI    |
+| 6   | [[Answers/Oropharynx/De-escalation Strategies in HPV-positive OPC|De-escalation trials in oropharyngeal cancer]]             | 2020 | KIDWAI    |
+| 7   | [[Answers/Oropharynx/AJCC 8th Edition OPC Staging|Discuss the role of HPV in pathogenesis of oropharyngeal cancers and new staging system for HPV positive]] | 2017 | AMRITA    |
+| 8   | [[Answers/Oropharynx/De-escalation Strategies in HPV-positive OPC|Discuss the de-escalation trials in oropharyngeal cancers]] | 2021 | AMRITA    |
+| 9   | [[Answers/General/HPV in Oral and Oropharyngeal Cancer|Human Papilloma Virus and oropharyngeal cancer - epidemiology, molecular biology, treatment and prognosis]] | 2016 | TMH       |
+| 10  | [[Answers/Oropharynx/Submandibular Gland Sparing RT in OPC|Discuss about the role of submandibular gland sparing irradiation in the management of oropharyngeal cancers]] | 2017 | TMH       |
+| 11  | [[Answers/Oropharynx/TORS in Oropharyngeal Cancer|Management of recurrent HPV-positive oropharyngeal squamous cell carcinoma after trans-oral robotic surgery]] | 2017 | TMH       |
+| 12  | [[Answers/Oropharynx/PET-CT in Oropharyngeal Cancer|Rational use of PET-CT scans in the management of oropharyngeal cancers - when and why]] | 2017 | TMH       |
+| 13  | [[Answers/Oropharynx/Staging and Management of Oropharyngeal Cancer|Discuss the treatment of T2 oropharyngeal malignancy]]   | 2018 | TMH       |
+| 14  | [[Answers/Oropharynx/Swallowing Rehabilitation in Oropharyngeal Cancer|Discuss about the rehabilitation following oral and oropharyngeal cancer surgery]] | 2018 | TMH       |
+| 15  | [[Answers/Oropharynx/DARS-Sparing Radiation in OPC|Discuss the rationale and potential application of DARS-sparing radiation therapy in oral and oropharyngeal cancer]] | 2019 | TMH       |
+| 16  | [[Answers/Oropharynx/AJCC 8th Edition OPC Staging|Highlight and detail the changes incorporated in the AJCC 8th Edition in the staging of oral and oropharyngeal cancers]] | 2019 | TMH       |
+| 17  | [[Answers/Oropharynx/Staging and Management of Oropharyngeal Cancer|Carcinoma oropharynx - staging and management]]          | 2020 | TMH       |
+| 18  | [[Answers/Oropharynx/Swallowing Rehabilitation in Oropharyngeal Cancer|Discuss in detail the different modes of swallowing rehabilitation after surgical treatment of oral and oropharyngeal cancer]] | 2020 | TMH       |
+| 19  | [[Answers/Oropharynx/TORS in Oropharyngeal Cancer|Discuss the role of robotic surgery in oropharyngeal cancers]]             | 2020 | TMH       |
+| 20  | [[Answers/Oropharynx/HPV Vaccine in Oropharyngeal Cancer|HPV (Human Papilloma Virus) vaccine in oropharyngeal cancers]]      | 2020 | TMH       |
+| 21  | [[Answers/Oropharynx/HPV Testing in Oropharyngeal Cancer|Human Papilloma Virus testing in oropharyngeal cancers]]            | 2020 | TMH       |
+| 22  | [[Answers/Oropharynx/TORS in Oropharyngeal Cancer|The role of TORS in the management of oropharyngeal cancer]]               | 2020 | TMH       |
+| 23  | [[Answers/Oropharynx/De-escalation Strategies in HPV-positive OPC|Treatment de-intensification strategies in the management of oropharyngeal cancers]] | 2020 | TMH       |
+| 24  | [[Answers/Oropharynx/Staging and Management of Oropharyngeal Cancer|Implication of HPV status in the management of oropharyngeal cancer]] | 2021 | TMH       |
+| 25  | [[Answers/Oropharynx/Swallowing Rehabilitation in Oropharyngeal Cancer|Swallowing rehabilitation following oropharyngeal cancer treatment]] | 2021 | TMH       |
+| 26  | [[Answers/Oropharynx/HPV Testing in Oropharyngeal Cancer|Techniques of HPV assessment in oropharyngeal cancer. Discuss the utility and limitations of each]] | 2021 | TMH       |
+| 27  | [[Answers/Oropharynx/TORS in Oropharyngeal Cancer|Discuss the options of reconstruction after trans-oral robotic surgery for oropharyngeal cancers]] | 2022 | TMH       |
+| 28  | [[Answers/General/HPV in Oral and Oropharyngeal Cancer|Role of HPV in oral-oropharyngeal malignancies]]                      | 2022 | TMH       |
+| 29  | [[Answers/Oropharynx/De-escalation Strategies in HPV-positive OPC|Role of treatment de-intensification in the management of p16+ oropharyngeal cancer]] | 2022 | TMH       |
 
 ### Larynx
 | No. | Question                                                                                                                                                                                                                                      | Year | Institute |
