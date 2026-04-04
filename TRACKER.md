@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 247 (General: 83, Oral Cavity: 135, Oropharynx: 29)
-- **Pending:** 644
-- **Sections Complete:** 3/26
+- **Answered:** 355 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108)
+- **Pending:** 536
+- **Sections Complete:** 4/26
 
 ## Progress Bar
 ```
-██████░░░░░░░░░░░░░░ 27.7% (247/891)
+████████░░░░░░░░░░░░ 39.8% (355/891)
 ```
 
 ---
