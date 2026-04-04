@@ -15,7 +15,15 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Stel
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Hidalgo (1989) published the landmark description of the fibula free flap for mandibular reconstruction, establishing it as the gold standard donor site with consistent shape and ample bone length. Chiapasco et al. (2006) demonstrated that dental implants placed in fibula free flaps achieve reliable osseointegration and functional rehabilitation in tumour and ORN patients. Schiegnitz et al. (2022) published a systematic review showing significantly higher implant failure in irradiated bone (55.3% survival in irradiated fibula vs 96% in non-irradiated fibula). Gangwani et al. (2022) published a meta-analysis reporting 94% overall implant success rate in fibula free flaps. Illand et al. (2023) estimated 97% implant survival at 1 year post-loading with no significant difference between immediate and delayed placement in non-irradiated cases.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Hidalgo — Fibula Free Flap Description | Plast Reconstr Surg | 1989 | [10.1097/00006534-198907000-00014](https://doi.org/10.1097/00006534-198907000-00014) |
+> | Chiapasco — Implants in Fibula Flaps | Clin Oral Implants Res | 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) |
+> | Schiegnitz — RT Impact on Implant Survival | Clin Oral Implants Res | 2022 | [10.1111/clr.13976](https://doi.org/10.1111/clr.13976) |
+> | Gangwani — Implant Success Meta-analysis | J Oral Maxillofac Res | 2022 | [10.5037/jomr.2022.13103](https://doi.org/10.5037/jomr.2022.13103) |
+> | Illand — Implant Survival in Fibula Flaps | Int J Oral Maxillofac Implants | 2023 | [10.11607/jomi.10373](https://doi.org/10.11607/jomi.10373) |
 
 ## Overview
 

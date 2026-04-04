@@ -15,7 +15,15 @@ Scott-Brown's Otorhinolaryngology. 8th ed. Vol 3. Ch243; Shah JP. *Head and Neck
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Sturgis and Wei (2002) published the seminal review establishing that inherited differences in carcinogen metabolism (CYP1A1, GSTM1, GSTT1), DNA repair capacity, and cell cycle control collectively determine individual susceptibility to tobacco-related HNC. Hashibe et al. (2003) published the definitive meta-analysis of 31 studies (4,635 cases/5,770 controls) showing GSTM1-null (OR 1.23), CYP1A1 Val462 (OR 1.35), and combined triple-null GST genotype (OR 2.06) confer HNC risk. Kutler et al. (2003) demonstrated a 700-fold increase in HNSCC incidence in Fanconi anaemia patients from the International FA Registry, establishing FA as the strongest known genetic predisposition to HNC. Hashibe et al. (2008) published the landmark GWAS identifying ADH1B and ADH7 variants as independently protective against upper aerodigestive tract cancers (P = 10⁻¹⁰). McKay et al. (2011) published the INHANCE consortium GWAS identifying novel susceptibility loci near ALDH2 and the DNA repair gene HEL308.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Sturgis & Wei — Genetic Susceptibility Review | Curr Opin Oncol | 2002 | [10.1097/00001622-200205000-00010](https://doi.org/10.1097/00001622-200205000-00010) |
+> | Hashibe — Meta-analysis GST/CYP Polymorphisms | Cancer Epidemiol Biomarkers Prev | 2003 | [PMID 14693745](https://pubmed.ncbi.nlm.nih.gov/14693745/) |
+> | Kutler — Fanconi Anaemia and HNSCC | Arch Otolaryngol Head Neck Surg | 2003 | [10.1001/archotol.129.1.106](https://doi.org/10.1001/archotol.129.1.106) |
+> | Hashibe — ADH Gene GWAS | Nat Genet | 2008 | [10.1038/ng.151](https://doi.org/10.1038/ng.151) |
+> | McKay — INHANCE Consortium GWAS | PLoS Genet | 2011 | [10.1371/journal.pgen.1001333](https://doi.org/10.1371/journal.pgen.1001333) |
 
 ## Overview
 

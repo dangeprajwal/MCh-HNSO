@@ -16,7 +16,15 @@ Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed.
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Wong et al. (2008) published the first study profiling 156 mature miRNAs in tongue SCC, identifying miR-184 as significantly overexpressed and functioning as an oncogenic miRNA promoting cell proliferation. Li et al. (2009) established miR-21 as an independent prognostic factor for poor survival in tongue SCC, functioning as an apoptosis inhibitor partly through TPM1 and PTEN silencing. Liu et al. (2010) identified miR-24 as upregulated in tongue SCC, targeting DND1 to promote proliferation and inhibit apoptosis. Manikandan et al. (2016) published an integrative miRNA-mRNA analysis in OSCC identifying key dysregulated miRNAs and their target networks. Karatas et al. (2017) published a comprehensive review summarising miRNAs as diagnostic/prognostic biomarkers and promising therapeutic targets for tongue cancer.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Wong — miR-184 in Tongue SCC | Clin Cancer Res | 2008 | [10.1158/1078-0432.CCR-07-0666](https://doi.org/10.1158/1078-0432.CCR-07-0666) |
+> | Li — miR-21 as Prognostic Factor | Clin Cancer Res | 2009 | [10.1158/1078-0432.CCR-08-3053](https://doi.org/10.1158/1078-0432.CCR-08-3053) |
+> | Liu — miR-24 Targeting DND1 | FEBS Lett | 2010 | [10.1016/j.febslet.2010.08.040](https://doi.org/10.1016/j.febslet.2010.08.040) |
+> | Manikandan — miRNA-mRNA Integration in OSCC | Mol Cancer | 2016 | [10.1186/s12943-016-0512-8](https://doi.org/10.1186/s12943-016-0512-8) |
+> | Karatas — miRNA Review in Tongue SCC | Oral Oncol | 2017 | [10.1016/j.oraloncology.2017.02.015](https://doi.org/10.1016/j.oraloncology.2017.02.015) |
 
 ## Definition
 

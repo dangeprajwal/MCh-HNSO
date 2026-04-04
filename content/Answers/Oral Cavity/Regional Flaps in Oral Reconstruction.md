@@ -17,7 +17,15 @@ Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch3, Ch8;
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Ariyan (1979) published the landmark description of the pectoralis major myocutaneous flap that revolutionised head and neck reconstruction, establishing it as the workhorse pedicled flap. Martin et al. (1993) described the submental island flap for the first time, establishing its anatomical basis and clinical utility for facial and oral reconstruction. Tideman et al. (1986) demonstrated that the pedicled buccal fat pad epithelialises within 3–4 weeks, establishing it as a reliable option for small-medium oral defects. Pallua et al. (1997) re-described and popularised the supraclavicular artery island flap (SCAIF), later widely adopted for oral and oropharyngeal reconstruction. Patel et al. (2017) published a comprehensive review of locoregional flaps for oral cavity reconstruction, providing an evidence-based framework for pedicled flap selection.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Ariyan — Pectoralis Major Flap | Plast Reconstr Surg | 1979 | [10.1097/00006534-197901000-00012](https://doi.org/10.1097/00006534-197901000-00012) |
+> | Tideman — Buccal Fat Pad Graft | J Oral Maxillofac Surg | 1986 | [10.1016/S0278-2391(86)80007-6](https://doi.org/10.1016/S0278-2391(86)80007-6) |
+> | Martin — Submental Island Flap | Plast Reconstr Surg | 1993 | [10.1097/00006534-199311000-00013](https://doi.org/10.1097/00006534-199311000-00013) |
+> | Pallua — Supraclavicular Artery Flap | Plast Reconstr Surg | 1997 | [10.1097/00006534-199706000-00011](https://doi.org/10.1097/00006534-199706000-00011) |
+> | Patel — Locoregional Flaps Review | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599817700582](https://doi.org/10.1177/0194599817700582) |
 
 ## Overview
 

@@ -18,7 +18,15 @@ Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed.
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Gillison et al. (2000) published the landmark study demonstrating that ~25% of HNSCC are HPV-positive, predominantly oropharyngeal, establishing HPV-positive OPC as a distinct entity with improved survival. D'Souza et al. (2007) published the case-control study establishing the sexual transmission route, showing strong association between oral HPV-16, number of oral-sex partners, and OPC risk. Ang et al. (2010) published the retrospective analysis of RTOG 0129 showing 58% reduction in risk of death for HPV-positive OPC (3-year OS 82.4% vs 57.1%) and established risk stratification. Mehanna et al. (2019) published the De-ESCALaTE HPV trial showing cetuximab was inferior to cisplatin in HPV-positive low-risk OPC with worse OS and higher recurrence. Gillison et al. (2019) published the RTOG 1016 trial confirming cetuximab failed non-inferiority to cisplatin (5-year OS 77.9% vs 84.6%), establishing cisplatin as standard of care.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Gillison — HPV and Head & Neck Cancer | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.9.709](https://doi.org/10.1093/jnci/92.9.709) |
+> | D'Souza — Sexual Behaviour and OPC Risk | N Engl J Med | 2007 | [10.1056/NEJMoa065497](https://doi.org/10.1056/NEJMoa065497) |
+> | Ang — HPV Status and Survival (RTOG 0129) | N Engl J Med | 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) |
+> | Mehanna — De-ESCALaTE HPV Trial | Lancet | 2019 | [10.1016/S0140-6736(18)32752-1](https://doi.org/10.1016/S0140-6736(18)32752-1) |
+> | Gillison — RTOG 1016 Non-Inferiority Trial | Lancet | 2019 | [10.1016/S0140-6736(18)32779-X](https://doi.org/10.1016/S0140-6736(18)32779-X) |
 
 ## Overview
 

@@ -15,7 +15,15 @@ Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed.
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Mao et al. (1996) demonstrated frequent microsatellite alterations (LOH) at 9p21 and 3p14 in oral premalignant lesions, with 37% of patients with LOH progressing to HNSCC versus 6% without, establishing LOH analysis in oral rinse/saliva DNA as a cancer risk assessment tool. Li et al. (2004) identified seven salivary mRNA biomarkers (IL-8, IL-1β, SAT, OAZ1) distinguishing OSCC from controls with 91% sensitivity and 91% specificity (AUC 0.95), the foundational study for salivary transcriptomics. Nagler et al. (2006) demonstrated ~400% increase in salivary Cyfra 21-1 in OSCC patients with combined tumour marker analysis yielding 71% sensitivity and 75% specificity. Hu et al. (2008) used shotgun proteomics to identify five salivary protein biomarkers for OSCC (AUC 0.93, 90% sensitivity, 83% specificity). Park et al. (2009) published the first study characterising salivary miRNAs for OSCC detection, finding miR-125a and miR-200a significantly reduced in OSCC patients.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Mao — LOH in Oral Premalignant Lesions | Nat Med | 1996 | [10.1038/nm0696-682](https://doi.org/10.1038/nm0696-682) |
+> | Li — Salivary mRNA Biomarkers for OSCC | Clin Cancer Res | 2004 | [10.1158/1078-0432.CCR-04-1167](https://doi.org/10.1158/1078-0432.CCR-04-1167) |
+> | Nagler — Cyfra 21-1 Salivary Tumour Markers | Clin Cancer Res | 2006 | [10.1158/1078-0432.CCR-05-2412](https://doi.org/10.1158/1078-0432.CCR-05-2412) |
+> | Hu — Salivary Proteomics for OSCC | Clin Cancer Res | 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) |
+> | Park — Salivary miRNA Biomarkers | Clin Cancer Res | 2009 | [10.1158/1078-0432.CCR-09-0736](https://doi.org/10.1158/1078-0432.CCR-09-0736) |
 
 ## Overview
 

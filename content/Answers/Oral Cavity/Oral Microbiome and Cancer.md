@@ -15,7 +15,15 @@ Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed.
 
 > [!cite] Landmark Articles
 >
-> PLACEHOLDER — DOI verification in progress
+> Mager et al. (2005) first proposed salivary microbiota as a diagnostic tool for oral cancer, identifying elevated Capnocytophaga gingivalis, Prevotella melaninogenica, and Streptococcus mitis in OSCC patients. Hooper et al. (2007) used 16S rRNA sequencing to identify 70 distinct bacterial taxa in OSCC tissue, demonstrating selective bacterial colonisation within carcinoma tissue. Pushalkar et al. (2012) identified distinct microbial communities in tumour vs non-tumour sites, with Streptococcus, Gemella, and Prevotella enriched in tumours. Schmidt et al. (2014) showed significant decrease in Firmicutes and Actinobacteria in OSCC tumour tissue compared to contralateral normal tissue. Sun et al. (2020) published a comprehensive review establishing roles of F. nucleatum and P. gingivalis in cancer progression through inflammation, immune evasion, and pro-tumorigenic signalling.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Mager — Salivary Microbiota in OSCC | J Transl Med | 2005 | [10.1186/1479-5876-3-27](https://doi.org/10.1186/1479-5876-3-27) |
+> | Hooper — Bacteria in OSCC Tissue | J Med Microbiol | 2007 | [10.1099/jmm.0.46918-0](https://doi.org/10.1099/jmm.0.46918-0) |
+> | Pushalkar — Tumour vs Non-tumour Microbiota | BMC Microbiol | 2012 | [10.1186/1471-2180-12-144](https://doi.org/10.1186/1471-2180-12-144) |
+> | Schmidt — Microbiota Changes in OSCC | PLoS One | 2014 | [10.1371/journal.pone.0098741](https://doi.org/10.1371/journal.pone.0098741) |
+> | Sun — Oral Microbiome and Cancer Review | Cancer Med | 2020 | [10.1002/cam4.3206](https://doi.org/10.1002/cam4.3206) |
 
 ## Overview
 
