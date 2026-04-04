@@ -6,20 +6,29 @@ tags:
   - Surgical-Technique
   - Evidence-Based
 ---
-# Jaw Osteosarcoma
 
 > [!question] Questions Covered
 > - **OC Q63:** Describe the aetiology, pathogenesis and management of osteosarcomas involving the jaw bone (AMRITA 2019)
 
----
+## Source
+
+Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Ch24; Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch16
+
+> [!cite] Landmark Articles
+>
+> Garrington et al. (1967) published the classic series of 56 cases establishing the clinical and pathological characteristics of jaw osteosarcoma as a distinct entity from long bone disease, with later age of onset and different biological behaviour. Kassir et al. (1997) performed a meta-analysis of nonrandomized studies concluding that chemotherapy benefit remains unproven in jaw osteosarcoma, challenging the extrapolation from extremity protocols. Guadagnolo et al. (2009) reported on 119 patients from MD Anderson, demonstrating R0 surgical margins as the strongest predictor of survival and questioning the routine use of chemotherapy. Fernandes et al. (2007) published a 10-year single-institution series confirming the aggressive surgical approach with clear margins as the key to cure. Smeele et al. (1997) published a competing meta-analysis suggesting chemotherapy may improve survival when analysis was restricted to margin-reported studies, creating the ongoing debate about chemotherapy's role.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Garrington — Classic 56-Case Series | Cancer | 1967 | [10.1002/1097-0142(1967)20:3<377::AID-CNCR2820200306>3.0.CO;2-T](https://doi.org/10.1002/1097-0142(1967)20:3<377::AID-CNCR2820200306>3.0.CO;2-T) |
+> | Kassir — Meta-Analysis (No Chemo Benefit) | Laryngoscope | 1997 | [10.1097/00005537-199701000-00011](https://doi.org/10.1097/00005537-199701000-00011) |
+> | Guadagnolo — 119 Pts, Margins Paramount | Cancer | 2009 | [10.1002/cncr.24297](https://doi.org/10.1002/cncr.24297) |
+> | Fernandes — 10-Year Institutional Series | J Oral Maxillofac Surg | 2007 | [10.1016/j.joms.2006.10.030](https://doi.org/10.1016/j.joms.2006.10.030) |
+> | Smeele — Meta-Analysis (Pro Chemo) | J Surg Oncol | 1997 | [10.1002/(SICI)1096-9098(199706)65:2<132::AID-JSO12>3.0.CO;2-1](https://doi.org/10.1002/(SICI)1096-9098(199706)65:2<132::AID-JSO12>3.0.CO;2-1) |
 
 ## Overview
 
 Osteosarcoma of the jaw (mandible/maxilla) accounts for **5–10% of all osteosarcomas** and is the most common primary malignant bone tumour of the head and neck. Unlike appendicular osteosarcoma, jaw osteosarcoma has **distinct clinical and biological behaviour** — later age of onset, lower metastatic rate, and better prognosis when adequately resected.
-
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 24.
-
----
 
 ## Epidemiology
 
@@ -32,8 +41,6 @@ Osteosarcoma of the jaw (mandible/maxilla) accounts for **5–10% of all osteosa
 | 5-year survival | 30–70% (varies by margins) | 60–70% (with chemotherapy) |
 
 **Mandibular distribution:** Body (60%) > symphysis (20%) > ramus (15%) > condyle (5%)
-
----
 
 ## Aetiology and Pathogenesis
 
@@ -61,8 +68,6 @@ Osteosarcoma of the jaw (mandible/maxilla) accounts for **5–10% of all osteosa
 
 Unlike long bone osteosarcoma, jaw osteosarcoma has **fewer consistent genetic alterations** — the molecular profile is less well characterised.
 
----
-
 ## Pathology
 
 ### Histological Classification
@@ -87,10 +92,6 @@ The WHO classification recognises the same subtypes in jaw as in long bones:
 | Low-grade | Bland spindle cells, minimal atypia | Less aggressive; mainly surgical |
 | High-grade | Marked pleomorphism, mitoses, necrosis | Aggressive; may need chemotherapy |
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 16.
-
----
-
 ## Clinical Presentation
 
 ### Symptoms
@@ -114,8 +115,6 @@ The WHO classification recognises the same subtypes in jaw as in long bones:
 
 **Classic radiographic triad:** Osteolysis + periosteal reaction (sun-ray/Codman's triangle) + soft tissue mass.
 
----
-
 ## Staging
 
 AJCC 8th Edition bone sarcoma staging:
@@ -129,8 +128,6 @@ AJCC 8th Edition bone sarcoma staging:
 | III | Skip metastasis | Any | M0 |
 | IVA | Any | Any | Lung M1a |
 | IVB | Any | Any | Non-lung M1b |
-
----
 
 ## Management
 
@@ -166,14 +163,12 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 | Infrastructure maxillectomy | Obturator prosthesis or scapula/fibula free flap |
 | Total maxillectomy | Free flap + prosthetic rehabilitation |
 
----
-
 ## Role of Chemotherapy
 
 ### The Controversy
 
 | Argument FOR Chemotherapy | Argument AGAINST Chemotherapy |
-|---|---|---|
+|---|---|
 | Extrapolation from limb OS data | No prospective HN-specific trials |
 | Meta-analysis (Smeele 1997) suggested benefit | Meta-analysis (Kassir 1997) found no proven benefit |
 | High-grade tumours with systemic risk | NCDB: surgery alone (74.7% OS) vs surgery + chemo (71.3% OS) — no difference |
@@ -186,10 +181,6 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 - **Neoadjuvant chemotherapy** may facilitate surgical resection of large tumours and allows assessment of chemosensitivity on pathological response
 - **No level I evidence** for chemotherapy specifically in jaw osteosarcoma
 
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 24.
-
----
-
 ## Role of Radiotherapy
 
 - Osteosarcoma is considered **relatively radioresistant**
@@ -200,8 +191,6 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
   - Palliation of inoperable disease
 - **Proton beam therapy** — offers theoretical advantage with Bragg peak; studied in skull base osteosarcoma
 - Doses: 60–70 Gy if used
-
----
 
 ## Differences from Appendicular Osteosarcoma
 
@@ -215,8 +204,6 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 | Survival determinant | Surgical margins | Chemo response + margins |
 | Radiation role | Limited | Limited |
 
----
-
 ## Outcomes
 
 | Study | N | 5-Year OS | Key Finding |
@@ -225,17 +212,6 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 | Smeele et al. (1997) | Meta-analysis | 38% | Chemo may improve survival |
 | Guadagnolo et al. (2009) | 119 | 77% | R0 margins critical; chemo benefit unclear |
 | Smith et al. (2003) NCDB | 587 | 55% | Surgery alone adequate for most |
-
----
-
-> [!cite] Landmark Articles
-> 1. **Garrington GE et al. (1967)** — *Osteosarcoma of the jaws: Analysis of 56 cases* — Cancer — Classic series establishing clinical and pathological characteristics of jaw osteosarcoma as a distinct entity from long bone disease — [DOI: 10.1002/1097-0142(1967)20:3<377::AID-CNCR2820200306>3.0.CO;2-T](https://doi.org/10.1002/1097-0142(1967)20:3<377::AID-CNCR2820200306>3.0.CO;2-T)
-> 2. **Kassir RR et al. (1997)** — *Osteosarcoma of the head and neck: Meta-analysis of nonrandomized studies* — Laryngoscope — Meta-analysis concluding chemotherapy benefit remains unproven in jaw osteosarcoma — [DOI: 10.1097/00005537-199701000-00011](https://doi.org/10.1097/00005537-199701000-00011)
-> 3. **Guadagnolo BA et al. (2009)** — *Osteosarcoma of the jaw/craniofacial region: Outcomes after multimodality treatment* — Cancer — 119 patients; demonstrated R0 margins as strongest predictor of survival; questioned routine chemotherapy — [DOI: 10.1002/cncr.24297](https://doi.org/10.1002/cncr.24297)
-> 4. **Fernandes R et al. (2007)** — *Osteogenic sarcoma of the jaw: A 10-year experience* — J Oral Maxillofac Surg — Single-institution series confirming aggressive surgical approach with clear margins as key to cure — [DOI: 10.1016/j.joms.2006.10.030](https://doi.org/10.1016/j.joms.2006.10.030)
-> 5. **Smeele LE et al. (1997)** — *Osteosarcoma of the head and neck: Meta-analysis of the nonrandomized studies* — J Surg Oncol — Competing meta-analysis suggesting chemotherapy may improve survival when analysis restricted to margin-reported studies — [DOI: 10.1002/(SICI)1096-9098(199706)65:2<132::AID-JSO12>3.0.CO;2-1](https://doi.org/10.1002/(SICI)1096-9098(199706)65:2<132::AID-JSO12>3.0.CO;2-1)
-
----
 
 > [!abstract] Key Points
 > 1. Jaw osteosarcoma accounts for 5–10% of all osteosarcomas; mandible (40%) > maxilla; peak age 30–40 years
@@ -248,8 +224,6 @@ Clear surgical margins are the **strongest predictor of survival** — more impo
 > 8. Role of chemotherapy is controversial — two competing meta-analyses reached opposite conclusions; no prospective HN-specific trials exist
 > 9. Radiotherapy has limited role — used for positive margins or unresectable disease; proton beam therapy under investigation
 > 10. Fibula free flap is the gold standard reconstruction for mandibular defects after segmental mandibulectomy
-
----
 
 > [!tip] Clinical Pearls
 > 1. **Jaw osteosarcoma in a young adult should NOT be managed identically to extremity OS** — surgery with clear margins is paramount; chemotherapy benefit is unproven

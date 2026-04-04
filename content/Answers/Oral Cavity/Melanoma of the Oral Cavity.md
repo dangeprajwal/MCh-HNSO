@@ -5,12 +5,25 @@ tags:
   - Evidence-Based
   - Immunotherapy
 ---
-# Melanoma of the Oral Cavity
 
 > [!question] Questions Covered
 > - **OC Q39:** A 45-year-old male presents with a non-ulcerated rapidly expanding blackish 3 cm lesion on central upper alveolus; discuss investigations, treatment, and prognosis (AMRITA 2010)
 
----
+## Source
+
+Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Ch11; Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch29
+
+> [!cite] Landmark Articles
+>
+> Rapini et al. (1985) published the largest early series of 177 cases of primary malignant melanoma of the oral cavity, defining the natural history, predilection for palate and gingiva, and confirming the dismal prognosis of this disease. Mendenhall et al. (2005) provided a comprehensive review of management principles for head and neck mucosal melanoma, establishing the role of adjuvant radiotherapy in improving locoregional control. Jethanamest et al. (2011) analysed SEER data from 815 patients and demonstrated that the combination of surgery and radiotherapy improved survival over surgery alone. Lund et al. (2012) published the European position paper establishing consensus on staging and treatment algorithms for mucosal melanoma including oral cavity disease. D'Angelo et al. (2017) reported pooled analysis of nivolumab plus ipilimumab in mucosal melanoma, achieving an ORR of 23.3% for combination therapy versus 0% for ipilimumab alone.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Rapini — 177 Cases Oral Melanoma | Cancer | 1985 | [10.1002/1097-0142(19850401)55:7<1543::AID-CNCR2820550722>3.0.CO;2-F](https://doi.org/10.1002/1097-0142(19850401)55:7<1543::AID-CNCR2820550722>3.0.CO;2-F) |
+> | Mendenhall — HN Mucosal Melanoma Management | Am J Clin Oncol | 2005 | [10.1097/01.coc.0000170805.14058.d3](https://doi.org/10.1097/01.coc.0000170805.14058.d3) |
+> | Jethanamest — SEER Analysis (815 pts) | Ann Surg Oncol | 2011 | [10.1245/s10434-011-1685-4](https://doi.org/10.1245/s10434-011-1685-4) |
+> | Lund — European Position Paper | Rhinol Suppl | 2012 | [10.4193/Rhino12.091](https://doi.org/10.4193/Rhino12.091) |
+> | D'Angelo — Nivolumab + Ipilimumab Pooled | J Clin Oncol | 2017 | [10.1200/JCO.2016.67.9258](https://doi.org/10.1200/JCO.2016.67.9258) |
 
 ## Clinical Scenario Analysis
 
@@ -24,8 +37,6 @@ A **blackish, non-ulcerated, rapidly expanding 3 cm lesion** on the central uppe
 | Kaposi sarcoma | Purple-red, HIV-associated | HHV-8+, CD34+ spindle cells |
 | Pigmented SCC | Rare, surface changes | p63+, CK5/6+, melanin-negative |
 
----
-
 ## Epidemiology
 
 - Mucosal melanoma accounts for **<1% of all melanomas** and approximately **0.5% of all oral malignancies**
@@ -35,10 +46,6 @@ A **blackish, non-ulcerated, rapidly expanding 3 cm lesion** on the central uppe
 - Mean age at diagnosis: 55–70 years
 - No clear association with UV exposure — aetiology largely unknown
 - Approximately one-third of cases preceded by **oral melanosis**
-
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
 
 ## Pathology
 
@@ -72,8 +79,6 @@ Mucosal melanomas have a **distinct molecular profile** from cutaneous melanoma:
 
 The high prevalence of **c-KIT mutations** in mucosal melanoma has therapeutic implications for imatinib therapy.
 
----
-
 ## Staging
 
 Mucosal melanoma of the head and neck uses the **AJCC 8th Edition mucosal melanoma staging** — notably, there is **no T1 or T2** category:
@@ -86,8 +91,6 @@ Mucosal melanoma of the head and neck uses the **AJCC 8th Edition mucosal melano
 
 This staging reflects the inherently **aggressive biology** — even "early" mucosal melanoma starts at T3.
 
----
-
 ## Investigations for the Clinical Scenario
 
 ### Essential Workup
@@ -98,8 +101,6 @@ This staging reflects the inherently **aggressive biology** — even "early" muc
 4. **PET-CT whole body** — essential for distant metastasis staging (lung, liver, brain, bone are common sites)
 5. **CT chest** — pulmonary metastases
 6. **Molecular profiling** — c-KIT, BRAF, NRAS mutations for targeted therapy options
-
----
 
 ## Management
 
@@ -138,8 +139,6 @@ Surgery is the **primary treatment** when feasible. However, complete excision w
 
 Checkpoint inhibitors have **lower response rates** in mucosal melanoma compared to cutaneous melanoma due to lower mutational burden and PD-L1 expression.
 
----
-
 ## Prognosis
 
 Oral mucosal melanoma carries a **dismal prognosis**:
@@ -156,10 +155,6 @@ Oral mucosal melanoma carries a **dismal prognosis**:
 
 Death is most commonly from **distant metastases** (lung, liver, brain) rather than locoregional failure.
 
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 29.
-
----
-
 ## Management Plan for the Clinical Scenario
 
 For a **3 cm upper alveolar melanoma (T4a)**:
@@ -172,17 +167,6 @@ For a **3 cm upper alveolar melanoma (T4a)**:
 6. **Systemic therapy** → immunotherapy (nivolumab ± ipilimumab) for high-risk features or unresectable/recurrent disease; imatinib if c-KIT mutant
 7. **Surveillance** → 3-monthly for 2 years, then 6-monthly to 5 years; PET-CT annually
 
----
-
-> [!cite] Landmark Articles
-> 1. **Rapini RP et al. (1985)** — *Primary malignant melanoma of the oral cavity: A review of 177 cases* — Cancer — Largest early series defining natural history, predilection for palate and gingiva, poor prognosis — [DOI: 10.1002/1097-0142(19850401)55:7<1543::AID-CNCR2820550722>3.0.CO;2-F](https://doi.org/10.1002/1097-0142(19850401)55:7<1543::AID-CNCR2820550722>3.0.CO;2-F)
-> 2. **Mendenhall WM et al. (2005)** — *Head and neck mucosal melanoma* — Am J Clin Oncol — Comprehensive review of management principles and role of adjuvant RT — [DOI: 10.1097/01.coc.0000170805.14058.d3](https://doi.org/10.1097/01.coc.0000170805.14058.d3)
-> 3. **Jethanamest D et al. (2011)** — *Predictors of survival in mucosal melanoma of the head and neck: Data from the SEER database* — Ann Surg Oncol — SEER analysis of 815 patients; surgery + RT improved survival over surgery alone — [DOI: 10.1245/s10434-011-1685-4](https://doi.org/10.1245/s10434-011-1685-4)
-> 4. **Lund VJ et al. (2012)** — *European position paper on endoscopic management of tumours of the nose, paranasal sinuses and skull base: Mucosal melanoma* — Rhinol Suppl — European consensus on management including staging and treatment algorithms — [DOI: 10.4193/Rhino12.091](https://doi.org/10.4193/Rhino12.091)
-> 5. **D'Angelo SP et al. (2017)** — *Efficacy and safety of nivolumab alone or in combination with ipilimumab in patients with mucosal melanoma: A pooled analysis* — J Clin Oncol — ORR 23.3% for combination vs 0% for ipilimumab alone in mucosal melanoma — [DOI: 10.1200/JCO.2016.67.9258](https://doi.org/10.1200/JCO.2016.67.9258)
-
----
-
 > [!abstract] Key Points
 > 1. Oral mucosal melanoma is rare (<1% of all melanomas) with hard palate and upper gingiva as the commonest sites
 > 2. One-third of cases preceded by melanosis — all pigmented oral lesions warrant surveillance and biopsy if suspicious
@@ -194,8 +178,6 @@ For a **3 cm upper alveolar melanoma (T4a)**:
 > 8. Checkpoint inhibitors (nivolumab ± ipilimumab) show lower response rates (~23%) than in cutaneous melanoma
 > 9. c-KIT mutant mucosal melanoma responds to imatinib — molecular profiling is essential
 > 10. 5-year survival is 15–30% with death primarily from distant metastases (lung, liver, brain)
-
----
 
 > [!tip] Clinical Pearls
 > 1. **Amelanotic mucosal melanoma** (10–30%) mimics SCC or granulation tissue — always include S-100/SOX10 in IHC panel for atypical oral mucosal lesions

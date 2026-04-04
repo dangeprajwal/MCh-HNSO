@@ -6,13 +6,26 @@ tags:
   - Pathology
   - Technology
 ---
-# Surgical Margins and Fluorescence-Guided Surgery
 
 > [!question] Questions Covered
 > - **OC Q56:** Advances in detecting oral cancer in surgical margin evaluation (AMRITA 2017)
 > - **OC Q65:** Impact of fluorescence visualization guided surgery in diagnosis of oral cancer (AMRITA 2019)
 
----
+## Source
+
+Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch16A; Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Ch11
+
+> [!cite] Landmark Articles
+>
+> Looser et al. (1978) published the first systematic study defining the importance of adequate surgical margins in head and neck SCC, establishing the foundational principle that positive margins significantly worsen outcomes. Binahmed et al. (2007) performed a meta-analysis demonstrating 2.7× higher local recurrence and 1.6× mortality with positive margins in oral cancer. Poh et al. (2006) demonstrated that autofluorescence-detected loss of fluorescence (LOF) at surgical margins predicts local recurrence, validating the field change concept and providing the scientific basis for fluorescence-guided surgery. Rosenthal et al. (2015) conducted the first-in-human study of cetuximab-IRDye800CW, demonstrating feasibility and tumour specificity of EGFR-targeted fluorescence imaging in oral SCC with tumour-to-background ratios of 3–5×. Zanoni et al. (2019) proposed redefining the close surgical margin as ≤2.2 mm based on survival analysis of 2,217 patients, potentially shifting the traditional 5 mm paradigm.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Looser — Positive Margin Significance | Head Neck Surg | 1978 | [10.1002/hed.2890010111](https://doi.org/10.1002/hed.2890010111) |
+> | Binahmed — Margin Meta-Analysis | Oral Oncol | 2007 | [10.1016/j.oraloncology.2006.10.011](https://doi.org/10.1016/j.oraloncology.2006.10.011) |
+> | Poh — Autofluorescence at Margins | Clin Cancer Res | 2006 | [10.1158/1078-0432.CCR-06-1317](https://doi.org/10.1158/1078-0432.CCR-06-1317) |
+> | Rosenthal — Cetuximab-IRDye800CW First-in-Human | Clin Cancer Res | 2015 | [10.1158/1078-0432.CCR-14-3284](https://doi.org/10.1158/1078-0432.CCR-14-3284) |
+> | Zanoni — Redefining Close Margin (2.2 mm) | JAMA Otolaryngol Head Neck Surg | 2019 | [10.1001/jamaoto.2018.3619](https://doi.org/10.1001/jamaoto.2018.3619) |
 
 ## Surgical Margin Definitions
 
@@ -26,8 +39,6 @@ tags:
 
 The **5 mm threshold** is the most widely accepted standard for oral SCC, though some centres use ≥1 cm as the target intraoperative margin to account for tissue shrinkage during formalin fixation (approximately 20–30% shrinkage).
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 8.
-
 ### Margin Discordance: Surgeon vs Pathologist
 
 A critical challenge in oral cancer surgery is the **discrepancy between intraoperative and final pathological margins**:
@@ -35,8 +46,6 @@ A critical challenge in oral cancer surgery is the **discrepancy between intraop
 - Intraoperative assessment overestimates clearance by 20–30% due to tissue shrinkage
 - Tumour-bed margins (from patient) vs specimen margins differ in orientation
 - Deep margins are the most frequently positive in oral cancer
-
----
 
 ## Standard Methods of Margin Assessment
 
@@ -54,10 +63,6 @@ A critical challenge in oral cancer surgery is the **discrepancy between intraop
 - Takes 24–48 hours — guides adjuvant therapy decisions
 - H&E staining remains the standard
 - Immunohistochemistry (p53, Ki-67) may aid dysplasia assessment at margins
-
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 16A.
-
----
 
 ## Advances in Surgical Margin Detection
 
@@ -89,10 +94,6 @@ A critical challenge in oral cancer surgery is the **discrepancy between intraop
 - Penetration depth: 1–2 mm — sufficient for mucosal assessment
 - Can identify epithelial thickening, loss of basement membrane integrity
 - Emerging role in **intraoperative margin assessment**
-
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 16A.
-
----
 
 ## Fluorescence-Guided Surgery (FGS)
 
@@ -126,10 +127,6 @@ The most studied agent for head and neck FGS:
 - Studied for oral premalignant and malignant lesion delineation
 - Limitation: shallow penetration, ambient light interference
 
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
-
 ## Impact of Margin Status on Outcomes
 
 ### Positive Margins
@@ -151,8 +148,6 @@ The most studied agent for head and neck FGS:
 | Mucosal (superficial) | 5–10% | Moderate; re-excision feasible |
 | Deep (soft tissue) | 10–20% | High; re-excision often difficult |
 | Bone (mandibular) | 3–5% | Very high; segmental mandibulectomy needed |
-
----
 
 ## Emerging Technologies
 
@@ -177,17 +172,6 @@ The most studied agent for head and neck FGS:
 - **Patient-driven:** Surgeon takes separate margin samples from the tumour bed — higher sensitivity for residual disease
 - Combination approach gaining favour for high-risk cases
 
----
-
-> [!cite] Landmark Articles
-> 1. **Looser KG et al. (1978)** — *The significance of "positive" margins in surgically resected epidermoid carcinomas* — Head Neck Surg — First systematic study defining importance of adequate surgical margins in head and neck SCC — [DOI: 10.1002/hed.2890010111](https://doi.org/10.1002/hed.2890010111)
-> 2. **Binahmed A et al. (2007)** — *The clinical significance of the positive surgical margin in oral cancer* — Oral Oncol — Meta-analysis demonstrating 2.7× higher local recurrence and 1.6× mortality with positive margins — [DOI: 10.1016/j.oraloncology.2006.10.011](https://doi.org/10.1016/j.oraloncology.2006.10.011)
-> 3. **Poh CF et al. (2006)** — *Fluorescence visualization detection of field alterations in tumor margins of oral cancer patients* — Clin Cancer Res — Demonstrated autofluorescence-detected LOF at margins predicts local recurrence, validating field change concept — [DOI: 10.1158/1078-0432.CCR-06-1317](https://doi.org/10.1158/1078-0432.CCR-06-1317)
-> 4. **Rosenthal EL et al. (2015)** — *Safety and tumor specificity of cetuximab-IRDye800 for surgical navigation in head and neck cancer* — Clin Cancer Res — First-in-human study of EGFR-targeted fluorescence imaging demonstrating feasibility and tumour specificity in oral SCC — [DOI: 10.1158/1078-0432.CCR-14-3284](https://doi.org/10.1158/1078-0432.CCR-14-3284)
-> 5. **Zanoni DK et al. (2019)** — *A proposal to redefine close surgical margins in squamous cell carcinoma of the head and neck* — JAMA Otolaryngol Head Neck Surg — Redefined close margin as ≤2.2 mm based on survival analysis of 2,217 patients — [DOI: 10.1001/jamaoto.2018.3619](https://doi.org/10.1001/jamaoto.2018.3619)
-
----
-
 > [!abstract] Key Points
 > 1. The 5 mm clear margin is the gold standard in oral SCC; surgeons should target ≥1 cm intraoperatively to account for 20–30% formalin shrinkage
 > 2. Frozen section remains the standard for intraoperative assessment (sensitivity 90–97%) but has sampling error limitations
@@ -199,8 +183,6 @@ The most studied agent for head and neck FGS:
 > 8. NBI, OCT, and Raman spectroscopy are emerging adjuncts for real-time margin assessment
 > 9. Patient-driven (tumour bed) margins may have higher sensitivity than specimen-driven margins for detecting residual disease
 > 10. Molecular margins (LOH, p53) can persist beyond histologically clear margins, linking margin assessment to field cancerization biology
-
----
 
 > [!tip] Clinical Pearls
 > 1. **Deep margin** is the Achilles heel of oral cancer surgery — always assess with frozen section and consider patient-driven sampling from the tumour bed

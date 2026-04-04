@@ -6,20 +6,29 @@ tags:
   - Pathology
   - Reconstruction
 ---
-# Ameloblastoma of Mandible
 
 > [!question] Questions Covered
 > - **OC Q59:** Ameloblastoma of mandible (AMRITA 2018)
 
----
+## Source
+
+Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch16
+
+> [!cite] Landmark Articles
+>
+> Reichart et al. (1995) published the largest pooled analysis of 3,677 ameloblastoma cases, defining epidemiology, site distribution, and recurrence patterns that remain the reference standard. Carlson and Marx (2006) established segmental resection with 1.5 cm margins as the gold standard for solid ameloblastoma, demonstrating recurrence rates of 0–5% compared to 50–90% with curettage. Lau and Samman (2006) performed a systematic review demonstrating lower recurrence with resection versus conservative treatment for unicystic ameloblastoma, helping stratify treatment by subtype. Kurppa et al. (2014) were the first to demonstrate BRAF V600E mutations in 63% of ameloblastomas, providing the rationale for targeted therapy with vemurafenib in unresectable or recurrent cases. Mendenhall et al. (2007) provided a comprehensive review of ameloblastoma management including the emerging role of adjuvant radiotherapy for unresectable and recurrent cases.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Reichart — 3,677 Case Pooled Analysis | Eur J Cancer B Oral Oncol | 1995 | [10.1016/0964-1955(95)00023-2](https://doi.org/10.1016/0964-1955(95)00023-2) |
+> | Carlson & Marx — Segmental Resection Standard | J Oral Maxillofac Surg | 2006 | [10.1016/j.joms.2005.11.032](https://doi.org/10.1016/j.joms.2005.11.032) |
+> | Lau & Samman — Unicystic SR | Int J Oral Maxillofac Surg | 2006 | [10.1016/j.ijom.2006.02.016](https://doi.org/10.1016/j.ijom.2006.02.016) |
+> | Kurppa — BRAF V600E in Ameloblastoma | J Pathol | 2014 | [10.1002/path.4317](https://doi.org/10.1002/path.4317) |
+> | Mendenhall — Management Review | Am J Clin Oncol | 2007 | [10.1097/COC.0b013e3181573e59](https://doi.org/10.1097/COC.0b013e3181573e59) |
 
 ## Overview
 
 Ameloblastoma is the **most common clinically significant odontogenic tumour**, arising from the odontogenic epithelium. Though histologically benign, it is **biologically aggressive** with locally destructive behaviour and a propensity for recurrence after inadequate excision. It essentially recapitulates the development of the early tooth-forming apparatus without forming enamel.
-
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 16.
-
----
 
 ## Epidemiology
 
@@ -36,10 +45,6 @@ Ameloblastoma is the **most common clinically significant odontogenic tumour**, 
 | Maxilla | 20% |
 
 **Mandibular distribution:** 70% molar and ascending ramus; 20% premolar region; 10% incisor region.
-
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 16.
-
----
 
 ## WHO Classification (2017)
 
@@ -65,8 +70,6 @@ The WHO (2017) classification divides ameloblastoma into:
 
 The **follicular** pattern is the most common. All histological subtypes of conventional ameloblastoma share similar aggressive behaviour.
 
----
-
 ## Clinical Presentation
 
 ### Symptoms and Signs
@@ -90,10 +93,6 @@ The **follicular** pattern is the most common. All histological subtypes of conv
 
 **OPG (orthopantomogram)** is the initial screening investigation. **CT with 3D reconstruction** is essential for surgical planning, demonstrating extent and cortical integrity. **MRI** helps differentiate solid from cystic components.
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 16.
-
----
-
 ## Molecular Biology
 
 Recent advances have identified key mutations:
@@ -106,8 +105,6 @@ Recent advances have identified key mutations:
 | KRAS | Rare | Metastasizing type | Aggressive behaviour |
 
 **BRAF V600E** is the single most common mutation in conventional ameloblastoma and has therapeutic implications — vemurafenib and dabrafenib have shown dramatic responses in case reports of unresectable/recurrent ameloblastoma.
-
----
 
 ## Management
 
@@ -151,10 +148,6 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 - Higher recurrence rate than mandibular ameloblastoma
 - Consider adjuvant RT for close/positive margins in maxillary cases
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 16.
-
----
-
 ## Reconstruction
 
 | Defect | Reconstruction Option | Advantages |
@@ -165,8 +158,6 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 | Soft tissue only (peripheral) | Primary closure | Minimal defect |
 
 **[[Answers/Oral Cavity/3D Models in Mandibular Reconstruction|3D planning and patient-specific cutting guides]]** improve accuracy of reconstruction and reduce operative time.
-
----
 
 ## Recurrence and Follow-Up
 
@@ -190,8 +181,6 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 - **CT/MRI** for any clinical suspicion of recurrence
 - Total follow-up: minimum **10 years** recommended due to late recurrences
 
----
-
 ## Malignant Ameloblastoma
 
 ### Ameloblastic Carcinoma
@@ -205,17 +194,6 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 - Diagnosed retrospectively when metastases show benign ameloblastomatous histology
 - Treatment: resection of primary + pulmonary metastasectomy when feasible
 
----
-
-> [!cite] Landmark Articles
-> 1. **Reichart PA et al. (1995)** — *Ameloblastoma: biological profile of 3,677 cases* — Eur J Cancer B Oral Oncol — Largest pooled series defining epidemiology, site distribution, and recurrence patterns of ameloblastoma — [DOI: 10.1016/0964-1955(95)00023-2](https://doi.org/10.1016/0964-1955(95)00023-2)
-> 2. **Carlson ER & Marx RE (2006)** — *The ameloblastoma: primary, curative surgical management* — J Oral Maxillofac Surg — Established segmental resection with 1.5 cm margins as gold standard for solid ameloblastoma — [DOI: 10.1016/j.joms.2005.11.032](https://doi.org/10.1016/j.joms.2005.11.032)
-> 3. **Lau SL & Samman N (2006)** — *Recurrence related to treatment modalities of unicystic ameloblastoma: a systematic review* — Int J Oral Maxillofac Surg — Systematic review demonstrating lower recurrence with resection vs conservative treatment for unicystic ameloblastoma — [DOI: 10.1016/j.ijom.2006.02.016](https://doi.org/10.1016/j.ijom.2006.02.016)
-> 4. **Kurppa KJ et al. (2014)** — *High frequency of BRAF V600E mutations in ameloblastoma* — J Pathol — First study demonstrating BRAF V600E in 63% of ameloblastomas, providing rationale for targeted therapy with vemurafenib — [DOI: 10.1002/path.4317](https://doi.org/10.1002/path.4317)
-> 5. **Mendenhall WM et al. (2007)** — *Ameloblastoma* — Am J Clin Oncol — Comprehensive review of management including role of adjuvant RT for unresectable/recurrent cases — [DOI: 10.1097/COC.0b013e3181573e59](https://doi.org/10.1097/COC.0b013e3181573e59)
-
----
-
 > [!abstract] Key Points
 > 1. Ameloblastoma is the most common clinically significant odontogenic tumour — histologically benign but biologically aggressive
 > 2. 80% occur in the mandible (70% molar-ramus region); peak incidence in the 3rd–4th decade
@@ -227,8 +205,6 @@ The optimal treatment for ameloblastoma is **complete excision at initial presen
 > 8. Unicystic ameloblastoma may be treated conservatively (enucleation + Carnoy's) if luminal type; mural invasion requires resection
 > 9. Maxillary ameloblastoma is more aggressive — partial/total maxillectomy needed; consider adjuvant RT for close margins
 > 10. Follow-up for minimum 10 years — recurrences can present up to 15 years post-treatment
-
----
 
 > [!tip] Clinical Pearls
 > 1. **Never curet a solid ameloblastoma** — inadequate initial treatment creates a worse surgical problem later with multifocal recurrence in soft tissues

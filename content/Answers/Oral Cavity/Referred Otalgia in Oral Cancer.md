@@ -5,18 +5,29 @@ tags:
   - Anatomy
   - Oropharynx
 ---
-# Referred Otalgia in Oral Cancer
 
 > [!question] Questions Covered
 > - **OC Q62:** Mechanism and clinical significance of referred otalgia in oral cancers (AMRITA 2019)
 
----
+## Source
+
+Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch17
+
+> [!cite] Landmark Articles
+>
+> Scarbrough et al. (2003) proposed a unified schema of neural mechanisms giving rise to referred otalgia in head and neck cancer, systematically mapping each cranial nerve pathway and its corresponding primary tumour site. Yanagisawa and Kveton (1992) published the foundational review emphasising the importance of thorough history and examination to identify head and neck cancer presenting as otalgia. Charlett and Coatesworth (2007) developed a structured approach to diagnosis and treatment of referred otalgia, classifying aetiologies with emphasis on excluding malignancy. Chen et al. (2009) provided a comprehensive radiology review of CT and MRI evaluation along CN V, VII, IX, and X distributions to detect occult malignancy in patients with referred otalgia. Visvanathan and Kelly (2010) published an evidence-based clinical guide covering neuroanatomical pathways and a systematic diagnostic approach for referred otalgia.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Scarbrough — Unified Neural Schema | Am J Clin Oncol | 2003 | [10.1097/01.coc.0000091357.08692.86](https://doi.org/10.1097/01.coc.0000091357.08692.86) |
+> | Yanagisawa & Kveton — Foundational Review | Am J Otolaryngol | 1992 | [10.1016/0196-0709(92)90072-2](https://doi.org/10.1016/0196-0709(92)90072-2) |
+> | Charlett & Coatesworth — Structured Diagnostic Approach | Int J Clin Pract | 2007 | [10.1111/j.1742-1241.2006.00932.x](https://doi.org/10.1111/j.1742-1241.2006.00932.x) |
+> | Chen — Radiology of Referred Otalgia | AJNR | 2009 | [10.3174/ajnr.A1605](https://doi.org/10.3174/ajnr.A1605) |
+> | Visvanathan & Kelly — Evidence-Based Management | Clin Otolaryngol | 2010 | [10.1111/j.1749-4486.2010.02197.x](https://doi.org/10.1111/j.1749-4486.2010.02197.x) |
 
 ## Definition
 
 Referred otalgia (secondary otalgia) is **ear pain originating from a non-otologic source** mediated through shared sensory nerve pathways between the ear and the head and neck structures. In head and neck oncology, referred otalgia is a critical symptom that may be the **first or only manifestation** of an occult primary malignancy.
-
----
 
 ## Neuroanatomical Basis
 
@@ -33,10 +44,6 @@ The ear receives sensory innervation from **five cranial nerves and two cervical
 | C2–C3 (cervical plexus) | Great auricular nerve | Lower pinna, mastoid area | Neck, cervical spine |
 
 *EAC: external auditory canal; TM: tympanic membrane*
-
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 17.
-
----
 
 ## Mechanism of Referred Otalgia in Oral Cancer
 
@@ -65,8 +72,6 @@ The **tympanic nerve (Jacobson's nerve)** — a branch of CN IX — innervates t
 
 **Mechanism:** Laryngeal/hypopharyngeal tumour → vagal afferents → convergence with Arnold's nerve in spinal trigeminal nucleus → ear pain at posterior wall of canal.
 
----
-
 ## Clinical Significance
 
 ### As a Presenting Symptom
@@ -93,8 +98,6 @@ Referred otalgia should raise suspicion for head and neck cancer when:
 ### Clinical Axiom
 
 > **"Any patient over 40 with unexplained unilateral otalgia and a normal ear examination should be considered to have a head and neck malignancy until proven otherwise."**
-
----
 
 ## Evaluation
 
@@ -131,10 +134,6 @@ Referred otalgia should raise suspicion for head and neck cancer when:
 | Posterior ear canal | CN X | Larynx, hypopharynx |
 | Lower pinna, mastoid | C2–C3 | Cervical pathology |
 
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 17.
-
----
-
 ## Referred Otalgia in Oral Cancer Specifically
 
 ### Oral Cavity Sites Most Commonly Causing Otalgia
@@ -153,8 +152,6 @@ Perineural invasion (PNI) along the **inferior alveolar nerve or lingual nerve**
 
 PNI along V₃ represents **advanced disease** and is an indication for [[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|adjuvant radiotherapy]].
 
----
-
 ## Differential Diagnosis of Otalgia
 
 ### Non-Malignant Causes
@@ -167,17 +164,6 @@ PNI along V₃ represents **advanced disease** and is an indication for [[Answer
 | Musculoskeletal | Cervical spondylosis, myofascial pain |
 | GERD | Laryngopharyngeal reflux causing vagal irritation |
 
----
-
-> [!cite] Landmark Articles
-> 1. **Scarbrough TJ et al. (2003)** — *Referred otalgia in head and neck cancer: A unifying schema* — Am J Clin Oncol — Proposed unified schema of neural mechanisms giving rise to referred otalgia in HNC — [DOI: 10.1097/01.coc.0000091357.08692.86](https://doi.org/10.1097/01.coc.0000091357.08692.86)
-> 2. **Yanagisawa K & Kveton JF (1992)** — *Referred otalgia* — Am J Otolaryngol — Foundational review emphasising history and examination to identify HNC presenting as otalgia — [DOI: 10.1016/0196-0709(92)90072-2](https://doi.org/10.1016/0196-0709(92)90072-2)
-> 3. **Charlett SD & Coatesworth AP (2007)** — *Referred otalgia: A structured approach to diagnosis and treatment* — Int J Clin Pract — Classification of aetiology and structured diagnostic approach with emphasis on excluding malignancy — [DOI: 10.1111/j.1742-1241.2006.00932.x](https://doi.org/10.1111/j.1742-1241.2006.00932.x)
-> 4. **Chen RC et al. (2009)** — *The radiology of referred otalgia* — AJNR — Comprehensive review of CT/MRI evaluation along CN V, VII, IX, X distributions to detect occult malignancy — [DOI: 10.3174/ajnr.A1605](https://doi.org/10.3174/ajnr.A1605)
-> 5. **Visvanathan V & Kelly G (2010)** — *12 minute consultation: An evidence-based management of referred otalgia* — Clin Otolaryngol — Evidence-based clinical guide covering neuroanatomical pathways and systematic diagnostic approach — [DOI: 10.1111/j.1749-4486.2010.02197.x](https://doi.org/10.1111/j.1749-4486.2010.02197.x)
-
----
-
 > [!abstract] Key Points
 > 1. Referred otalgia is mediated through five cranial nerves (V₃, VII, IX, X) and cervical plexus (C2–C3) sharing sensory innervation of the ear and head/neck structures
 > 2. CN IX (glossopharyngeal) pathway is the most common cause of cancer-related referred otalgia — oropharyngeal tumours in 25–50% cause otalgia
@@ -189,8 +175,6 @@ PNI along V₃ represents **advanced disease** and is an indication for [[Answer
 > 8. Perineural spread along the inferior alveolar or lingual nerve produces otalgia + numbness — indicates advanced disease needing adjuvant RT
 > 9. TMJ dysfunction, dental pathology, and GERD are the commonest non-malignant causes of referred otalgia
 > 10. Systematic evaluation: exclude primary ear disease → complete head and neck exam → neurological assessment → targeted imaging (MRI/PET-CT)
-
----
 
 > [!tip] Clinical Pearls
 > 1. **"Normal ear + ear pain = look at the throat"** — this clinical maxim should trigger a thorough head and neck examination

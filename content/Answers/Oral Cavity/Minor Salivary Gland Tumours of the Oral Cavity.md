@@ -6,20 +6,29 @@ tags:
   - Evidence-Based
   - Pathology
 ---
-# Minor Salivary Gland Tumours of the Oral Cavity
 
 > [!question] Questions Covered
 > - **OC Q47:** Management of minor salivary gland tumours (AMRITA 2016)
 
----
+## Source
+
+Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Ch11; Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8, Ch14
+
+> [!cite] Landmark Articles
+>
+> Spiro (1986) published the definitive MSKCC series of 2,807 salivary gland tumour patients over 35 years, establishing the classification, behaviour, and outcomes framework that underpins modern salivary gland oncology. Waldron et al. (1988) provided the landmark series of 426 intraoral minor salivary gland tumours, defining site distribution and histological spectrum specific to this anatomical subgroup. Pires et al. (2007) published the largest contemporary clinicopathological series of 546 intraoral MSGTs, establishing the 40–50% malignancy rate and confirming the palate as the commonest site. Vander Poorten et al. (2014) updated management principles for minor salivary gland carcinomas including the role of adjuvant radiotherapy and emerging molecular targets. Drilon et al. (2018) demonstrated remarkable response rates with larotrectinib in TRK fusion-positive cancers including salivary gland carcinomas, establishing the paradigm of tumour-agnostic targeted therapy.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Spiro — MSKCC 2,807 Patient Series | Head Neck Surg | 1986 | [10.1002/hed.2890080309](https://doi.org/10.1002/hed.2890080309) |
+> | Waldron — 426 Intraoral MSGTs | Oral Surg Oral Med Oral Pathol | 1988 | [10.1016/0030-4220(88)90240-X](https://doi.org/10.1016/0030-4220(88)90240-X) |
+> | Pires — 546 Intraoral MSGTs | Oral Oncol | 2007 | [10.1016/j.oraloncology.2006.04.008](https://doi.org/10.1016/j.oraloncology.2006.04.008) |
+> | Vander Poorten — Updated Management | Head Neck | 2014 | [10.1002/hed.23249](https://doi.org/10.1002/hed.23249) |
+> | Drilon — Larotrectinib in TRK Fusions | N Engl J Med | 2018 | [10.1056/NEJMoa1714448](https://doi.org/10.1056/NEJMoa1714448) |
 
 ## Overview
 
 Minor salivary glands are distributed throughout the submucosa of the upper aerodigestive tract — approximately **600–1,000 glands** in the oral cavity, oropharynx, nasopharynx, paranasal sinuses, and larynx. Minor salivary gland tumours (MSGTs) account for **9–23% of all salivary gland neoplasms**, and approximately **40–50% of intraoral MSGTs are malignant** — a much higher malignancy rate than parotid tumours (20–25%).
-
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
 
 ## Site Distribution
 
@@ -33,10 +42,6 @@ Minor salivary glands are distributed throughout the submucosa of the upper aero
 | Floor of mouth | 1–3% | Adenoid cystic carcinoma |
 
 The **hard palate** is the single most common site — the mucosa here is firmly united with periosteum by Sharpey's fibres, separated only by a mass of mucous glands that may give rise to tumours.
-
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 8.
-
----
 
 ## Classification
 
@@ -61,10 +66,6 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 | Clear cell carcinoma NOS | 2.4% | Rare; differential with metastatic RCC |
 | Carcinoma ex pleomorphic adenoma | Rare | Malignant transformation of long-standing PA |
 
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
-
 ## Clinical Presentation
 
 ### Typical Presentation
@@ -79,8 +80,6 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 - Ulceration of overlying mucosa
 - Fixation to underlying bone
 - Associated cervical lymphadenopathy (uncommon; ~10–15% overall)
-
----
 
 ## Investigations
 
@@ -97,8 +96,6 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 - **Incisional biopsy** preferred for palatal lesions — adequate tissue for grading
 - **FNA** — useful for accessible lesions but may not provide adequate grading
 - Core needle biopsy increasingly used for deeper lesions
-
----
 
 ## Management
 
@@ -144,8 +141,6 @@ The **hard palate** is the single most common site — the mucosa here is firmly
 - Adjuvant RT for close/positive margins
 - Reclassified from "polymorphous low-grade adenocarcinoma" — some cases are intermediate grade
 
----
-
 ## Neck Management
 
 MSGTs have generally **lower nodal metastasis rates** than SCC:
@@ -159,8 +154,6 @@ MSGTs have generally **lower nodal metastasis rates** than SCC:
 | Polymorphous adenocarcinoma | 5–15% |
 
 **Policy:** Elective neck dissection is not routinely performed. Therapeutic neck dissection for clinically positive nodes.
-
----
 
 ## Adjuvant Therapy
 
@@ -178,8 +171,6 @@ MSGTs have generally **lower nodal metastasis rates** than SCC:
 - Cisplatin-based regimens for high-grade MEC
 - Emerging: **Lenvatinib** for AdCC; **entrectinib/larotrectinib** for NTRK fusion-positive salivary gland cancers
 
----
-
 ## Prognosis
 
 | Tumour Type | 5-Year OS | 10-Year OS | Key Prognostic Factor |
@@ -192,19 +183,6 @@ MSGTs have generally **lower nodal metastasis rates** than SCC:
 
 AdCC has a **characteristic pattern of late failure** — 5-year survival appears reasonable but progressively drops due to late lung metastases.
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 14.
-
----
-
-> [!cite] Landmark Articles
-> 1. **Spiro RH (1986)** — *Salivary neoplasms: Overview of a 35-year experience with 2,807 patients* — Head Neck Surg — Definitive MSKCC series establishing classification, behaviour, and outcomes framework for salivary gland tumours — [DOI: 10.1002/hed.2890080309](https://doi.org/10.1002/hed.2890080309)
-> 2. **Waldron CA et al. (1988)** — *Tumors of intraoral minor salivary glands: A demographic and histologic study of 426 cases* — Oral Surg Oral Med Oral Pathol — Landmark series defining site distribution and histological spectrum of intraoral MSGTs — [DOI: 10.1016/0030-4220(88)90240-X](https://doi.org/10.1016/0030-4220(88)90240-X)
-> 3. **Pires FR et al. (2007)** — *Intraoral minor salivary gland tumors: A clinicopathological study of 546 cases* — Oral Oncol — Largest contemporary series; established 40–50% malignancy rate and palate as commonest site — [DOI: 10.1016/j.oraloncology.2006.04.008](https://doi.org/10.1016/j.oraloncology.2006.04.008)
-> 4. **Vander Poorten V et al. (2014)** — *Recent trends in the management of minor salivary gland carcinoma* — Head Neck — Updated management principles including role of adjuvant RT and molecular targets — [DOI: 10.1002/hed.23249](https://doi.org/10.1002/hed.23249)
-> 5. **Drilon A et al. (2018)** — *Efficacy of larotrectinib in TRK fusion–positive cancers in adults and children* — N Engl J Med — NTRK-targeted therapy with remarkable response rates in salivary gland carcinomas harbouring NTRK fusions — [DOI: 10.1056/NEJMoa1714448](https://doi.org/10.1056/NEJMoa1714448)
-
----
-
 > [!abstract] Key Points
 > 1. Minor salivary gland tumours account for 9–23% of all salivary neoplasms; 40–50% of intraoral MSGTs are malignant
 > 2. Hard palate is the most common site (44–58%), followed by lips (15–22%) and buccal mucosa (12–15%)
@@ -216,8 +194,6 @@ AdCC has a **characteristic pattern of late failure** — 5-year survival appear
 > 8. Neck dissection is reserved for clinically positive nodes — occult metastasis rates are low (5–10% for most types)
 > 9. NTRK fusion-positive salivary gland cancers respond dramatically to larotrectinib/entrectinib — molecular profiling is increasingly important
 > 10. AdCC 5-year survival (60–80%) is deceptively favourable — late lung metastases progressively reduce 10-year survival to 30–50%
-
----
 
 > [!tip] Clinical Pearls
 > 1. A **painless firm palatal swelling** with intact mucosa in a middle-aged patient is MSGT until proven otherwise — FNA or incisional biopsy is essential

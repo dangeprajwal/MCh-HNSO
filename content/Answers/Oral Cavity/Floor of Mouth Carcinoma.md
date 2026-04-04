@@ -5,18 +5,29 @@ tags:
   - Evidence-Based
   - Neck-Management
 ---
-# Floor of Mouth Carcinoma
 
 > [!question] Questions Covered
 > - **OC Q35:** Discuss the pathology and management of carcinoma of the anterior floor of the mouth (AMRITA 2008)
 
----
+## Source
+
+Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch8; Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Ch11; Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch16A
+
+> [!cite] Landmark Articles
+>
+> Shaha et al. (1984) published the foundational MSKCC series establishing prognostic factors and surgical management principles for floor of mouth carcinoma, emphasising the importance of adequate margins and neck management. Nason et al. (2009) defined the adequate margin of surgical resection in oral cancer as ≥5 mm and demonstrated the impact of margin status on local recurrence. Hicks et al. (1997) provided a 20-year Roswell Park outcomes review of 99 FOM patients, establishing treatment outcomes and prognostic factors for this subsite. Huang et al. (2009) confirmed tumour thickness >4 mm as the threshold for elective neck treatment in oral tongue cancer, a finding widely applied to FOM management. Mucke et al. (2009) performed multivariate analysis identifying T stage, margin status, and nodal involvement as independent predictors of recurrence in FOM carcinoma.
+>
+> | Study | Journal | Year | DOI |
+> |---|---|---|---|
+> | Shaha — MSKCC FOM Series | Am J Surg | 1984 | [10.1016/0002-9610(84)90369-6](https://doi.org/10.1016/0002-9610(84)90369-6) |
+> | Nason — Adequate Margin Definition | Oral Surg Oral Med Oral Pathol | 2009 | [10.1016/j.tripleo.2009.01.022](https://doi.org/10.1016/j.tripleo.2009.01.022) |
+> | Hicks — 20-Year FOM Review | Head Neck | 1997 | [10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3](https://doi.org/10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3) |
+> | Huang — Thickness and Nodal Metastasis | Cancer | 2009 | [10.1002/cncr.24161](https://doi.org/10.1002/cncr.24161) |
+> | Mucke — Recurrence Predictors in FOM | J Craniomaxillofac Surg | 2009 | [10.1016/j.jcms.2008.12.005](https://doi.org/10.1016/j.jcms.2008.12.005) |
 
 ## Surgical Anatomy of the Floor of Mouth
 
 The floor of mouth (FOM) is a **horseshoe-shaped space** overlying the mylohyoid and hyoglossus muscles, extending from the inner surface of the lower alveolar ridge to the undersurface of the tongue. The frenulum divides it into two halves.
-
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 8.
 
 ### Key Anatomical Relationships
 
@@ -31,10 +42,6 @@ The floor of mouth (FOM) is a **horseshoe-shaped space** overlying the mylohyoid
 
 The FOM contains the openings of the submandibular and sublingual salivary gland ducts. Surgery or radiotherapy to the anterior FOM may interfere with free salivary flow and can result in salivary gland obstruction, which may mimic lymphadenopathy.
 
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
-
 ## Epidemiology and Risk Factors
 
 FOM carcinoma accounts for approximately **25–30%** of all oral cavity cancers in Western populations, making it the second most common oral subsite after the tongue. Moore and Catlin described the **"cancer-prone crescent"** — the horseshoe zone where saliva pools due to gravity, exposing mucosa to dissolved carcinogens.
@@ -48,10 +55,6 @@ FOM carcinoma accounts for approximately **25–30%** of all oral cavity cancers
 | India | 22 | 4 | 43 |
 
 The dramatically lower FOM incidence in India reflects the predominance of buccal carcinoma from betel quid/tobacco chewing habits rather than alcohol-tobacco synergy.
-
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
 
 ## Pathology
 
@@ -73,10 +76,6 @@ The dramatically lower FOM incidence in India reflects the predominance of bucca
 
 Advanced FOM tumours infiltrate the sublingual salivary gland and the space between the intrinsic tongue muscles and the genioglossus. Horizontal spread to involve mandibular bone is a critical surgical consideration.
 
-**Source:** Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Chapter 8.
-
----
-
 ## Clinical Assessment
 
 ### Presentation
@@ -94,8 +93,6 @@ Advanced FOM tumours infiltrate the sublingual salivary gland and the space betw
 - **Mandible involvement** — clinical fixation, dental loosening
 - **Neck palpation** — bilateral assessment essential for midline/crossing tumours
 
----
-
 ## Staging (AJCC 8th Edition)
 
 FOM carcinoma follows the oral cavity staging system incorporating **[[Answers/Oral Cavity/Depth of Invasion in Oral Cancer|depth of invasion (DOI)]]** as a T-category modifier:
@@ -108,18 +105,12 @@ FOM carcinoma follows the oral cavity staging system incorporating **[[Answers/O
 | T4a | Through cortical bone, maxillary sinus, skin of face | — |
 | T4b | Masticator space, pterygoid plates, skull base, ICA encasement | — |
 
----
-
 ## Imaging
 
 - **MRI with gadolinium** — superior for soft tissue extent, DOI measurement, tongue involvement, mandibular marrow invasion
 - **CT with contrast** — cortical bone erosion, nodal assessment
 - **OPG** — screening for gross mandibular invasion
 - **PET-CT** — advanced disease staging, distant metastases
-
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 16A.
-
----
 
 ## Lymphatic Drainage and Neck Management
 
@@ -141,10 +132,6 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 - **Midline/crossing tumours:** Bilateral neck dissection required — FOM drains to **submental and submandibular nodes** bilaterally
 - **cN+ neck:** Modified radical or selective neck dissection with frozen section; if positive → comprehensive dissection
 - **[[Answers/Oral Cavity/Sentinel Node Biopsy in Oral Cancer|Sentinel node biopsy]]** — emerging option for early cN0 FOM tumours
-
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
 
 ## Management of the Primary Tumour
 
@@ -183,10 +170,6 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 | Composite defect with bone | Fibula free flap | Bone + skin paddle for mandible |
 | Combined FOM + tongue | ALT free flap | When bulk needed |
 
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 16A.
-
----
-
 ## Radiotherapy in FOM Cancer
 
 ### Primary Radiotherapy
@@ -200,10 +183,6 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 
 - Indicated for pT3–T4, close/positive margins, PNI, LVI, nodal metastasis
 - **[[Answers/Oral Cavity/Adjuvant Radiation Therapy in Oral Cancer|Chemoradiation]]** for high-risk features (positive margins, ENE) per RTOG 9501/EORTC 22931
-
-**Source:** Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Chapter 16A.
-
----
 
 ## Outcomes
 
@@ -220,19 +199,6 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 - RT alone for stage I: 6% local failure; stage II: 16% local recurrence
 - Locoregionally advanced (stage III): surgery + RT achieves **79% 5-year local control**
 
-**Source:** Montgomery PQ et al. *Principles and Practice of Head and Neck Surgery*. 2nd ed. CRC Press; 2009. Chapter 11.
-
----
-
-> [!cite] Landmark Articles
-> 1. **Shaha AR et al. (1984)** — *Squamous carcinoma of the floor of the mouth* — Am J Surg — MSKCC series establishing prognostic factors and surgical management principles for FOM carcinoma — [DOI: 10.1016/0002-9610(84)90369-6](https://doi.org/10.1016/0002-9610(84)90369-6)
-> 2. **Nason RW et al. (2009)** — *What is the adequate margin of surgical resection in oral cancer?* — Oral Surg Oral Med Oral Pathol Oral Radiol Endod — Defined adequate margins (≥5 mm) and impact on local recurrence — [DOI: 10.1016/j.tripleo.2009.01.022](https://doi.org/10.1016/j.tripleo.2009.01.022)
-> 3. **Hicks WL Jr et al. (1997)** — *Squamous cell carcinoma of the floor of mouth: A 20-year review* — Head Neck — Roswell Park 20-year outcomes review of 99 FOM patients establishing treatment outcomes and prognostic factors — [DOI: 10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3](https://doi.org/10.1002/(SICI)1097-0347(199708)19:5<400::AID-HED6>3.0.CO;2-3)
-> 4. **Huang SH et al. (2009)** — *Effect of tumor thickness and depth of invasion on nodal metastasis and survival in oral tongue cancer* — Cancer — Confirmed thickness >4 mm as threshold for elective neck treatment — [DOI: 10.1002/cncr.24161](https://doi.org/10.1002/cncr.24161)
-> 5. **Mucke T et al. (2009)** — *Outcome of treatment and factors influencing recurrence in patients with floor of mouth carcinoma* — J Craniomaxillofac Surg — Multivariate analysis: T stage, margins, and nodal status as independent predictors — [DOI: 10.1016/j.jcms.2008.12.005](https://doi.org/10.1016/j.jcms.2008.12.005)
-
----
-
 > [!abstract] Key Points
 > 1. FOM is the second most common oral cancer subsite in Western countries (25–30%), located in the "cancer-prone crescent" where saliva pools
 > 2. Bimanual palpation is mandatory — assesses deep extent and mylohyoid breach into the neck
@@ -244,8 +210,6 @@ McGuirt et al. documented a **23% rate of occult disease** in 129 patients with 
 > 8. RT is contraindicated as primary modality when tumour abuts mandible due to ORN risk; brachytherapy in FOM carries higher ORN risk than tongue
 > 9. Advanced FOM tumours may require composite resection (glossectomy + mandibulectomy) with free flap reconstruction
 > 10. 5-year survival ranges from 75–85% (stage I) to 20–30% (stage IV); neck failure is the dominant concern in advanced disease
-
----
 
 > [!tip] Clinical Pearls
 > 1. **Submandibular swelling** in FOM cancer may be duct obstruction mimicking lymphadenopathy — correlate with imaging before assuming nodal disease
