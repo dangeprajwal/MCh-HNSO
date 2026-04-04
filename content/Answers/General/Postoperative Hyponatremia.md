@@ -18,10 +18,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Schwartz WB — The inappropriate antidiuresis syndrome | Am J Med | 1957 | [10.1016/0002-9343(57)90236-0](https://doi.org/10.1016/0002-9343(57)90236-0) |
-> | Arieff AI — Hyponatremia, convulsions, respiratory arrest... | N Engl J Med | 1986 | [10.1056/NEJM198606123142401](https://doi.org/10.1056/NEJM198606123142401) |
-> | Sterns RH — Severe symptomatic hyponatremia: treatment an... | Ann Intern Med | 1987 | [10.7326/0003-4819-107-5-656](https://doi.org/10.7326/0003-4819-107-5-656) |
-> | Verbalis JG — Diagnosis, evaluation, and treatment of hyp... | Am J Med | 2013 | [10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006) |
-> | Castillo JJ — Diagnosis and management of hyponatremia in... | Oncologist | 2012 | [10.1634/theoncologist.2011-0400](https://doi.org/10.1634/theoncologist.2011-0400) |
+> | Arieff AI — Hyponatremia, convulsions, respiratory arrest, and permanent brain damage after elective surgery in healthy women | N Engl J Med | 1986 | [10.1056/NEJM198606123142401](https://doi.org/10.1056/NEJM198606123142401) |
+> | Sterns RH — Severe symptomatic hyponatremia: treatment and outcome — a study of 64 cases | Ann Intern Med | 1987 | [10.7326/0003-4819-107-5-656](https://doi.org/10.7326/0003-4819-107-5-656) |
+> | Verbalis JG — Diagnosis, evaluation, and treatment of hyponatremia: Expert Panel Recommendations | Am J Med | 2013 | [10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006) |
+> | Castillo JJ — Diagnosis and management of hyponatremia in cancer patients | Oncologist | 2012 | [10.1634/theoncologist.2011-0400](https://doi.org/10.1634/theoncologist.2011-0400) |
 
 ---
 

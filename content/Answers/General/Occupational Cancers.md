@@ -17,10 +17,10 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Acheson ED — Nasal cancer in woodworkers in the furniture... | BMJ | 1968 | [10.1136/bmj.2.5605.587](https://doi.org/10.1136/bmj.2.5605.587) |
+> | Acheson ED — Nasal cancer in woodworkers in the furniture industry | BMJ | 1968 | [10.1136/bmj.2.5605.587](https://doi.org/10.1136/bmj.2.5605.587) |
 > | Stell PM — Asbestos and laryngeal carcinoma | Lancet | 1973 | [10.1016/s0140-6736(73)92275-7](https://doi.org/10.1016/s0140-6736(73)92275-7) |
-> | Loomis D — Identifying occupational carcinogens: an updat... | Occup Environ Med | 2018 | [10.1136/oemed-2017-104944](https://doi.org/10.1136/oemed-2017-104944) |
-> | Binazzi A — Occupational exposure and sinonasal cancer: a... | BMC Cancer | 2015 | [10.1186/s12885-015-1042-2](https://doi.org/10.1186/s12885-015-1042-2) |
+> | Loomis D — Identifying occupational carcinogens: an update from the IARC Monographs | Occup Environ Med | 2018 | [10.1136/oemed-2017-104944](https://doi.org/10.1136/oemed-2017-104944) |
+> | Binazzi A — Occupational exposure and sinonasal cancer: a systematic review and meta-analysis | BMC Cancer | 2015 | [10.1186/s12885-015-1042-2](https://doi.org/10.1186/s12885-015-1042-2) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
 
 ---

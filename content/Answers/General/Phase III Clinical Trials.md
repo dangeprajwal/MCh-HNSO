@@ -16,11 +16,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Adelstein DJ — Clinical trial design in head and neck can... | Lancet Oncol | 2012 | [10.1016/S1470-2045(12)70119-5](https://doi.org/10.1016/S1470-2045(12)70119-5) |
-> | Fortpied C — Design issues in head and neck clinical tria... | Anticancer Drugs | 2011 | [10.1097/CAD.0b013e3283417a0d](https://doi.org/10.1097/CAD.0b013e3283417a0d) |
-> | Umscheid CA — Key concepts of clinical trials: a narrativ... | Postgrad Med | 2011 | [10.3810/pgm.2011.09.2475](https://doi.org/10.3810/pgm.2011.09.2475) |
+> | Adelstein DJ — Clinical trial design in head and neck cancer: what has the oncologist learned? | Lancet Oncol | 2012 | [10.1016/S1470-2045(12)70119-5](https://doi.org/10.1016/S1470-2045(12)70119-5) |
+> | Fortpied C — Design issues in head and neck clinical trials: a statistician's perspective | Anticancer Drugs | 2011 | [10.1097/CAD.0b013e3283417a0d](https://doi.org/10.1097/CAD.0b013e3283417a0d) |
+> | Umscheid CA — Key concepts of clinical trials: a narrative review | Postgrad Med | 2011 | [10.3810/pgm.2011.09.2475](https://doi.org/10.3810/pgm.2011.09.2475) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
-> | Nutting CM — Intensity-modulated RT versus conventional R... | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
+> | Nutting CM — Intensity-modulated RT versus conventional RT (PARSPORT): a phase 3 multicentre RCT | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
 
 ---
 

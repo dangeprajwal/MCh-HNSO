@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Broders AC — Squamous cell cancer of the lip: a study of ... | JAMA | 1920 | [10.1001/jama.1920.02620090024009](https://doi.org/10.1001/jama.1920.02620090024009) |
-> | Bryne M — Malignancy grading of the deep invasive margins... | J Pathol | 1992 | [10.1002/path.1711660409](https://doi.org/10.1002/path.1711660409) |
-> | Bryne M — Is the invasive front of an oral carcinoma the ... | Oral Dis | 1998 | [10.1111/j.1601-0825.1998.tb00260.x](https://doi.org/10.1111/j.1601-0825.1998.tb00260.x) |
-> | Brandwein-Gensler MS — Oral SCC: histologic risk assessme... | Am J Surg Pathol | 2005 | [10.1097/01.pas.0000149687.90710.21](https://doi.org/10.1097/01.pas.0000149687.90710.21) |
-> | Brandwein-Gensler MS — Validation of the risk model: high... | Head Neck Pathol | 2013 | [10.1007/s12105-012-0412-1](https://doi.org/10.1007/s12105-012-0412-1) |
+> | Broders AC — Squamous cell cancer of the lip: a study of 537 cases | JAMA | 1920 | [10.1001/jama.1920.02620090024009](https://doi.org/10.1001/jama.1920.02620090024009) |
+> | Bryne M — Malignancy grading of the deep invasive margins of oral SCC has high prognostic value | J Pathol | 1992 | [10.1002/path.1711660409](https://doi.org/10.1002/path.1711660409) |
+> | Bryne M — Is the invasive front of an oral carcinoma the most important area for prognostication? | Oral Dis | 1998 | [10.1111/j.1601-0825.1998.tb00260.x](https://doi.org/10.1111/j.1601-0825.1998.tb00260.x) |
+> | Brandwein-Gensler MS — Oral SCC: histologic risk assessment, but not margin status, is strongly predictive of local disease-free and overall survival | Am J Surg Pathol | 2005 | [10.1097/01.pas.0000149687.90710.21](https://doi.org/10.1097/01.pas.0000149687.90710.21) |
+> | Brandwein-Gensler MS — Validation of the risk model: high-risk classification and WPOI predict outcome for low-stage oral cavity SCC | Head Neck Pathol | 2013 | [10.1007/s12105-012-0412-1](https://doi.org/10.1007/s12105-012-0412-1) |
 
 ---
 

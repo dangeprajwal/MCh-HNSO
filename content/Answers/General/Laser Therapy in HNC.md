@@ -16,11 +16,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Strong MS — Laser surgery in the larynx: early clinical e... | Ann Otol Rhinol Laryngol | 1972 | [10.1177/000348947208100606](https://doi.org/10.1177/000348947208100606) |
-> | Steiner W — Results of curative laser microsurgery of lar... | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-h](https://doi.org/10.1016/0196-0709(93)90050-h) |
-> | Remacle M — Endoscopic cordectomy: a proposal for a class... | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
-> | Steiner W — Organ preservation by transoral laser microsu... | Otolaryngol Head Neck Surg | 2001 | [10.1067/mhn.2001.111597](https://doi.org/10.1067/mhn.2001.111597) |
-> | Ambrosch P — The role of laser microsurgery in the treatm... | Curr Opin Otolaryngol Head Neck Surg | 2007 | [10.1097/MOO.0b013e3280147336](https://doi.org/10.1097/MOO.0b013e3280147336) |
+> | Strong MS — Laser surgery in the larynx: early clinical experience with continuous CO2 laser | Ann Otol Rhinol Laryngol | 1972 | [10.1177/000348947208100606](https://doi.org/10.1177/000348947208100606) |
+> | Steiner W — Results of curative laser microsurgery of laryngeal carcinomas | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-h](https://doi.org/10.1016/0196-0709(93)90050-h) |
+> | Remacle M — Endoscopic cordectomy: a proposal for a classification by the Working Committee, ELS | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
+> | Steiner W — Organ preservation by transoral laser microsurgery in piriform sinus carcinoma | Otolaryngol Head Neck Surg | 2001 | [10.1067/mhn.2001.111597](https://doi.org/10.1067/mhn.2001.111597) |
+> | Ambrosch P — The role of laser microsurgery in the treatment of laryngeal cancer | Curr Opin Otolaryngol Head Neck Surg | 2007 | [10.1097/MOO.0b013e3280147336](https://doi.org/10.1097/MOO.0b013e3280147336) |
 
 ---
 

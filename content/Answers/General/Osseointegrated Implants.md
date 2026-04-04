@@ -14,11 +14,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Branemark PI — Osseointegrated implants in the treatment ... | Scand J Plast Reconstr Surg Suppl | 1977 | PMID: 356184 (pre-DOI) |
-> | Adell R — A 15-year study of osseointegrated implants in ... | Int J Oral Surg | 1981 | [10.1016/s0300-9785(81)80077-4](https://doi.org/10.1016/s0300-9785(81)80077-4) |
-> | Granstrom G — Osseointegration in irradiated cancer patie... | J Oral Maxillofac Surg | 2005 | [10.1016/j.joms.2005.01.008](https://doi.org/10.1016/j.joms.2005.01.008) |
-> | dental implants]] in irradiated patients: meta-analysis o... | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA |  | Clin Oral Investig, 2014 |
-> | Chiapasco M — Clinical outcome of dental implants placed ... | Clin Oral Implants Res | 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) |
+> | Branemark PI — Osseointegrated implants in the treatment of the edentulous jaw: 10-year experience | Scand J Plast Reconstr Surg Suppl | 1977 | PMID: 356184 (pre-DOI) |
+> | Adell R — A 15-year study of osseointegrated implants in the treatment of the edentulous jaw | Int J Oral Surg | 1981 | [10.1016/s0300-9785(81)80077-4](https://doi.org/10.1016/s0300-9785(81)80077-4) |
+> | Granstrom G — Osseointegration in irradiated cancer patients: analysis with respect to implant failures | J Oral Maxillofac Surg | 2005 | [10.1016/j.joms.2005.01.008](https://doi.org/10.1016/j.joms.2005.01.008) |
+> | dental implants]] in irradiated patients: meta-analysis on implant survival — Oral rehabilitation with [[Answers/Oral Cavity/Dental Implants after Mandibular Reconstruction | Schiegnitz E, Al-Nawas B, Kammerer PW, Grotz KA |  | Clin Oral Investig, 2014 |
+> | Chiapasco M — Clinical outcome of dental implants placed in fibula-free flaps for maxillo-mandibular reconstruction | Clin Oral Implants Res | 2006 | [10.1111/j.1600-0501.2005.01212.x](https://doi.org/10.1111/j.1600-0501.2005.01212.x) |
 
 ---
 

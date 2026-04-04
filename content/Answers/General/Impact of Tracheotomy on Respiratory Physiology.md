@@ -20,8 +20,8 @@ tags:
 > | Durbin CG Jr — Tracheostomy: why, when, and how? | Respir Care | 2010 | [10.4187/respcare.10551056](https://doi.org/10.4187/respcare.10551056) |
 > | Hess DR — Tracheostomy tubes and related appliances | Respir Care | 2005 | [10.4187/respcare.05500497](https://doi.org/10.4187/respcare.05500497) |
 > | Epstein SK — Late complications of tracheostomy | Respir Care | 2005 | [10.4187/respcare.05500542](https://doi.org/10.4187/respcare.05500542) |
-> | McGrath BA — Multidisciplinary guidelines for management ... | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
-> | Cheung NH — Tracheostomy: epidemiology, indications, timi... | Respir Care | 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) |
+> | McGrath BA — Multidisciplinary guidelines for management of tracheostomy and laryngectomy airway emergencies | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
+> | Cheung NH — Tracheostomy: epidemiology, indications, timing, technique, and outcomes | Respir Care | 2014 | [10.4187/respcare.02971](https://doi.org/10.4187/respcare.02971) |
 
 ---
 

@@ -20,11 +20,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Hecht SS — Tobacco carcinogens, their biomarkers and toba... | Nat Rev Cancer | 2003 | [10.1038/nrc1190](https://doi.org/10.1038/nrc1190) |
-> | Khariwala SS — Tobacco carcinogen metabolites and DNA add... | Head Neck | 2012 | [10.1002/hed.21705](https://doi.org/10.1002/hed.21705) |
-> | Khariwala SS — Tobacco-related carcinogenesis in head and... | Cancer Metastasis Rev | 2017 | [10.1007/s10555-017-9689-6](https://doi.org/10.1007/s10555-017-9689-6) |
-> | Slaughter DP — Field cancerization in oral stratified squ... | Cancer | 1953 | [10.1002/1097-0142(195309)6:5<963::AID-CNCR2820060515>3.0.CO;2-Q](https://doi.org/10.1002/1097-0142(195309)6:5%3C963::AID-CNCR2820060515%3E3.0.CO;2-Q) |
-> | Hecht SS — Smokeless tobacco and cigarette smoking: chemi... | Nat Rev Cancer | 2022 | [10.1038/s41568-021-00423-4](https://doi.org/10.1038/s41568-021-00423-4) |
+> | Hecht SS — Tobacco carcinogens, their biomarkers and tobacco-induced cancer | Nat Rev Cancer | 2003 | [10.1038/nrc1190](https://doi.org/10.1038/nrc1190) |
+> | Khariwala SS — Tobacco carcinogen metabolites and DNA adducts as biomarkers in head and neck cancer | Head Neck | 2012 | [10.1002/hed.21705](https://doi.org/10.1002/hed.21705) |
+> | Khariwala SS — Tobacco-related carcinogenesis in head and neck cancer | Cancer Metastasis Rev | 2017 | [10.1007/s10555-017-9689-6](https://doi.org/10.1007/s10555-017-9689-6) |
+> | Slaughter DP — Field cancerization in oral stratified squamous epithelium | Cancer | 1953 | [10.1002/1097-0142(195309)6:5<963::AID-CNCR2820060515>3.0.CO;2-Q](https://doi.org/10.1002/1097-0142(195309)6:5%3C963::AID-CNCR2820060515%3E3.0.CO;2-Q) |
+> | Hecht SS — Smokeless tobacco and cigarette smoking: chemical mechanisms and cancer prevention | Nat Rev Cancer | 2022 | [10.1038/s41568-021-00423-4](https://doi.org/10.1038/s41568-021-00423-4) |
 
 ---
 

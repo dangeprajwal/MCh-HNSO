@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Spira M — Anastomosis of masseteric nerve to lower divisi... | Plast Reconstr Surg | 1978 | [10.1097/00006534-197803000-00004](https://doi.org/10.1097/00006534-197803000-00004) |
-> | Manktelow RT — Smile reconstruction in adults with free m... | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000232195.20293.bd](https://doi.org/10.1097/01.prs.0000232195.20293.bd) |
-> | Bae YC — Comparison of commissure excursion: cross-face n... | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000218798.95027.21](https://doi.org/10.1097/01.prs.0000218798.95027.21) |
-> | Borschel GH — The motor nerve to the masseter: anatomic a... | JPRAS | 2012 | [10.1016/j.bjps.2011.09.026](https://doi.org/10.1016/j.bjps.2011.09.026) |
-> | Biglioli F — Masseteric-facial nerve anastomosis for earl... | J Craniomaxillofac Surg | 2012 | [10.1016/j.jcms.2011.03.005](https://doi.org/10.1016/j.jcms.2011.03.005) |
+> | Spira M — Anastomosis of masseteric nerve to lower division of facial nerve for correction of lower facial paralysis | Plast Reconstr Surg | 1978 | [10.1097/00006534-197803000-00004](https://doi.org/10.1097/00006534-197803000-00004) |
+> | Manktelow RT — Smile reconstruction in adults with free muscle transfer innervated by the masseter motor nerve | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000232195.20293.bd](https://doi.org/10.1097/01.prs.0000232195.20293.bd) |
+> | Bae YC — Comparison of commissure excursion: cross-face nerve graft vs motor nerve to masseter | Plast Reconstr Surg | 2006 | [10.1097/01.prs.0000218798.95027.21](https://doi.org/10.1097/01.prs.0000218798.95027.21) |
+> | Borschel GH — The motor nerve to the masseter: anatomic and histomorphometric study | JPRAS | 2012 | [10.1016/j.bjps.2011.09.026](https://doi.org/10.1016/j.bjps.2011.09.026) |
+> | Biglioli F — Masseteric-facial nerve anastomosis for early facial reanimation | J Craniomaxillofac Surg | 2012 | [10.1016/j.jcms.2011.03.005](https://doi.org/10.1016/j.jcms.2011.03.005) |
 
 ---
 

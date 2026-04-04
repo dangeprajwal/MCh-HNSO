@@ -15,11 +15,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Chung CH — Increased EGFR gene copy number is associated ... | J Clin Oncol | 2006 | [10.1200/JCO.2006.07.2587](https://doi.org/10.1200/JCO.2006.07.2587) |
-> | Namazie A — Cyclin D1 amplification and p16 deletion corr... | Laryngoscope | 2002 | [10.1097/00005537-200203000-00013](https://doi.org/10.1097/00005537-200203000-00013) |
-> | Ukpo OC — High-risk HPV E6/E7 mRNA detection by a novel I... | Am J Surg Pathol | 2011 | [10.1097/PAS.0b013e318220e59d](https://doi.org/10.1097/PAS.0b013e318220e59d) |
-> | Pectasides E — Comparative prognostic value of EGFR quant... | Clin Cancer Res | 2011 | [10.1158/1078-0432.CCR-10-2040](https://doi.org/10.1158/1078-0432.CCR-10-2040) |
-> | Dreyer JH — Detection of HPV infection in head and neck S... | Virchows Arch | 2013 | [10.1007/s00428-013-1393-5](https://doi.org/10.1007/s00428-013-1393-5) |
+> | Chung CH — Increased EGFR gene copy number is associated with poor prognosis in HNSCC | J Clin Oncol | 2006 | [10.1200/JCO.2006.07.2587](https://doi.org/10.1200/JCO.2006.07.2587) |
+> | Namazie A — Cyclin D1 amplification and p16 deletion correlate with poor prognosis in HN tumors | Laryngoscope | 2002 | [10.1097/00005537-200203000-00013](https://doi.org/10.1097/00005537-200203000-00013) |
+> | Ukpo OC — High-risk HPV E6/E7 mRNA detection by a novel ISH assay strongly correlates with p16 and outcomes in OPSCC | Am J Surg Pathol | 2011 | [10.1097/PAS.0b013e318220e59d](https://doi.org/10.1097/PAS.0b013e318220e59d) |
+> | Pectasides E — Comparative prognostic value of EGFR quantitative protein expression compared with FISH for HNSCC | Clin Cancer Res | 2011 | [10.1158/1078-0432.CCR-10-2040](https://doi.org/10.1158/1078-0432.CCR-10-2040) |
+> | Dreyer JH — Detection of HPV infection in head and neck SCC: a practical proposal | Virchows Arch | 2013 | [10.1007/s00428-013-1393-5](https://doi.org/10.1007/s00428-013-1393-5) |
 
 ---
 

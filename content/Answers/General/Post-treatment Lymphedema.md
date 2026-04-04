@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Deng J — Prevalence of secondary lymphedema in patients w... | J Pain Symptom Manage | 2012 | [10.1016/j.jpainsymman.2011.03.019](https://doi.org/10.1016/j.jpainsymman.2011.03.019) |
+> | Deng J — Prevalence of secondary lymphedema in patients with head and neck cancer | J Pain Symptom Manage | 2012 | [10.1016/j.jpainsymman.2011.03.019](https://doi.org/10.1016/j.jpainsymman.2011.03.019) |
 > | Smith BG — Lymphedema management in head and neck cancer | Curr Opin Otolaryngol Head Neck Surg | 2010 | [10.1097/MOO.0b013e32833aac21](https://doi.org/10.1097/MOO.0b013e32833aac21) |
-> | Ridner SH — A prospective study of the lymphedema and fib... | Lymphat Res Biol | 2016 | [10.1089/lrb.2016.0001](https://doi.org/10.1089/lrb.2016.0001) |
-> | Deng J — Self-reported stiffness in the head and neck fol... | J Pain Symptom Manage | 2015 | [10.1016/j.jpainsymman.2014.10.010](https://doi.org/10.1016/j.jpainsymman.2014.10.010) |
-> | Tyker A — Treatment for lymphedema following head and nec... | Am J Otolaryngol | 2019 | [10.1016/j.amjoto.2019.05.024](https://doi.org/10.1016/j.amjoto.2019.05.024) |
+> | Ridner SH — A prospective study of the lymphedema and fibrosis continuum in patients with head and neck cancer | Lymphat Res Biol | 2016 | [10.1089/lrb.2016.0001](https://doi.org/10.1089/lrb.2016.0001) |
+> | Deng J — Self-reported stiffness in the head and neck following cancer treatment: development of the Vanderbilt Head and Neck Symptom Survey | J Pain Symptom Manage | 2015 | [10.1016/j.jpainsymman.2014.10.010](https://doi.org/10.1016/j.jpainsymman.2014.10.010) |
+> | Tyker A — Treatment for lymphedema following head and neck cancer therapy: a systematic review | Am J Otolaryngol | 2019 | [10.1016/j.amjoto.2019.05.024](https://doi.org/10.1016/j.amjoto.2019.05.024) |
 
 ---
 

@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Steiner W — Results of curative laser microsurgery of lar... | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-H](https://doi.org/10.1016/0196-0709(93)90050-H) |
-> | Remacle M — Proposal for endoscopic CO2 laser cordectomy ... | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
-> | Jackel MC — Twenty-five years experience with laser surge... | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-007-0280-6](https://doi.org/10.1007/s00405-007-0280-6) |
-> | Harris AT — Transoral laser surgery for laryngeal carcino... | Ann R Coll Surg Engl | 2018 | [10.1308/rcsann.2017.0190](https://doi.org/10.1308/rcsann.2017.0190) |
-> | Rigby MH — Review of transoral laser microsurgery for can... | J Otolaryngol Head Neck Surg | 2011 | PMID: 21453646 |
+> | Steiner W — Results of curative laser microsurgery of laryngeal carcinomas | Am J Otolaryngol | 1993 | [10.1016/0196-0709(93)90050-H](https://doi.org/10.1016/0196-0709(93)90050-H) |
+> | Remacle M — Proposal for endoscopic CO2 laser cordectomy classification by ELS | Eur Arch Otorhinolaryngol | 2000 | [10.1007/s004050050228](https://doi.org/10.1007/s004050050228) |
+> | Jackel MC — Twenty-five years experience with laser surgery for head and neck tumors | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-007-0280-6](https://doi.org/10.1007/s00405-007-0280-6) |
+> | Harris AT — Transoral laser surgery for laryngeal carcinoma: has Steiner achieved a genuine paradigm shift? | Ann R Coll Surg Engl | 2018 | [10.1308/rcsann.2017.0190](https://doi.org/10.1308/rcsann.2017.0190) |
+> | Rigby MH — Review of transoral laser microsurgery for cancer of the upper aerodigestive tract | J Otolaryngol Head Neck Surg | 2011 | PMID: 21453646 |
 
 ---
 

@@ -20,11 +20,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Eisenhauer EA — New response evaluation criteria in solid... | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
-> | Oken MM — Toxicity and response criteria of the Eastern C... | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
-> | Therasse P — New guidelines to evaluate response to treat... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
-> | Karnofsky DA — The rational basis for systematic function... | 1949 (textbook chapter) |  | N/A |
-> | Verweij J — Imaging in the evaluation of response to canc... | Eur J Cancer | 2007 | [10.1016/j.ejca.2007.07.014](https://doi.org/10.1016/j.ejca.2007.07.014) |
+> | Eisenhauer EA — New response evaluation criteria in solid tumours: revised RECIST guideline (v1.1) | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
+> | Oken MM — Toxicity and response criteria of the Eastern Cooperative Oncology Group | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
+> | Therasse P — New guidelines to evaluate response to treatment in solid tumours (RECIST) | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
+> | Karnofsky DA — The rational basis for systematic functional evaluation of the patient with cancer | 1949 (textbook chapter) |  | N/A |
+> | Verweij J — Imaging in the evaluation of response to cancer treatment | Eur J Cancer | 2007 | [10.1016/j.ejca.2007.07.014](https://doi.org/10.1016/j.ejca.2007.07.014) |
 
 ---
 

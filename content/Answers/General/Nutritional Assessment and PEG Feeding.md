@@ -23,10 +23,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Arends J — ESPEN guidelines on nutrition in cancer patients | Clin Nutr | 2017 | [10.1016/j.clnu.2016.07.015](https://doi.org/10.1016/j.clnu.2016.07.015) |
-> | Bossola M — Nutritional interventions in HNC patients und... | Nutrients | 2015 | [10.3390/nu7010265](https://doi.org/10.3390/nu7010265) |
-> | McClelland S — Prophylactic vs reactive gastrostomy in ad... | Oral Oncol | 2018 | [10.1016/j.oraloncology.2018.10.028](https://doi.org/10.1016/j.oraloncology.2018.10.028) |
-> | Wiggenraad RG — Prophylactic gastrostomy placement and ea... | Clin Otolaryngol | 2007 | [10.1111/j.1749-4486.2007.01533.x](https://doi.org/10.1111/j.1749-4486.2007.01533.x) |
-> | Langius JA — Critical weight loss is an independent progn... | Clin Otolaryngol | 2013 | [10.1111/coa.12171](https://doi.org/10.1111/coa.12171) |
+> | Bossola M — Nutritional interventions in HNC patients undergoing chemoradiotherapy: a narrative review | Nutrients | 2015 | [10.3390/nu7010265](https://doi.org/10.3390/nu7010265) |
+> | McClelland S — Prophylactic vs reactive gastrostomy in advanced HNC treated with definitive CRT: systematic review | Oral Oncol | 2018 | [10.1016/j.oraloncology.2018.10.028](https://doi.org/10.1016/j.oraloncology.2018.10.028) |
+> | Wiggenraad RG — Prophylactic gastrostomy placement and early tube feeding may limit weight loss during CRT | Clin Otolaryngol | 2007 | [10.1111/j.1749-4486.2007.01533.x](https://doi.org/10.1111/j.1749-4486.2007.01533.x) |
+> | Langius JA — Critical weight loss is an independent prognostic factor in HNC patients receiving RT | Clin Otolaryngol | 2013 | [10.1111/coa.12171](https://doi.org/10.1111/coa.12171) |
 
 ---
 

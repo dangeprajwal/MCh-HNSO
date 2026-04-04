@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Tsukada M — Isolation and characterization of autophagy-d... | FEBS Lett | 1993 | [10.1016/0014-5793(93)80398-e](https://doi.org/10.1016/0014-5793(93)80398-e) |
-> | Galluzzi L — Autophagy in malignant transformation and ca... | EMBO J | 2015 | [10.15252/embj.201490784](https://doi.org/10.15252/embj.201490784) |
+> | Tsukada M — Isolation and characterization of autophagy-defective mutants of Saccharomyces cerevisiae | FEBS Lett | 1993 | [10.1016/0014-5793(93)80398-e](https://doi.org/10.1016/0014-5793(93)80398-e) |
+> | Galluzzi L — Autophagy in malignant transformation and cancer progression | EMBO J | 2015 | [10.15252/embj.201490784](https://doi.org/10.15252/embj.201490784) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
-> | Sannigrahi MK — Role of autophagy in head and neck cancer... | Oral Dis | 2015 | [10.1111/odi.12254](https://doi.org/10.1111/odi.12254) |
-> | Cosway B — The role of autophagy in squamous cell carcino... | Oral Oncol | 2016 | [10.1016/j.oraloncology.2015.12.007](https://doi.org/10.1016/j.oraloncology.2015.12.007) |
+> | Sannigrahi MK — Role of autophagy in head and neck cancer and therapeutic resistance | Oral Dis | 2015 | [10.1111/odi.12254](https://doi.org/10.1111/odi.12254) |
+> | Cosway B — The role of autophagy in squamous cell carcinoma of the head and neck | Oral Oncol | 2016 | [10.1016/j.oraloncology.2015.12.007](https://doi.org/10.1016/j.oraloncology.2015.12.007) |
 
 ---
 

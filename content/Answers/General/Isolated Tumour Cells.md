@@ -16,11 +16,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Hermanek P — Classification of isolated tumor cells and m... | Cancer | 1999 | PMID: 10594862 |
-> | Ferlito A — Detection of lymph node micrometastases in pa... | Eur Arch Otorhinolaryngol | 2008 | [10.1007/s00405-008-0715-8](https://doi.org/10.1007/s00405-008-0715-8) |
-> | Schilling C — Sentinel European Node Trial (SENT): 3-year... | Eur J Cancer | 2015 | [10.1016/j.ejca.2015.08.023](https://doi.org/10.1016/j.ejca.2015.08.023) |
-> | Garrel R — Equivalence randomized trial to compare treatm... | J Clin Oncol | 2020 | [10.1200/JCO.20.01661](https://doi.org/10.1200/JCO.20.01661) |
-> | Dhawan I — Detection of cervical lymph node micrometastas... | J Oral Maxillofac Pathol | 2016 | [10.4103/0973-029X.190946](https://doi.org/10.4103/0973-029X.190946) |
+> | Hermanek P — Classification of isolated tumor cells and micrometastasis | Cancer | 1999 | PMID: 10594862 |
+> | Ferlito A — Detection of lymph node micrometastases in patients with squamous carcinoma of the head and neck | Eur Arch Otorhinolaryngol | 2008 | [10.1007/s00405-008-0715-8](https://doi.org/10.1007/s00405-008-0715-8) |
+> | Schilling C — Sentinel European Node Trial (SENT): 3-year results of sentinel node biopsy in oral cancer | Eur J Cancer | 2015 | [10.1016/j.ejca.2015.08.023](https://doi.org/10.1016/j.ejca.2015.08.023) |
+> | Garrel R — Equivalence randomized trial to compare treatment on the basis of sentinel node biopsy versus neck node dissection in operable T1-T2N0 oral and oropharyngeal cancer | J Clin Oncol | 2020 | [10.1200/JCO.20.01661](https://doi.org/10.1200/JCO.20.01661) |
+> | Dhawan I — Detection of cervical lymph node micrometastasis and isolated tumor cells in oral squamous cell carcinoma using IHC and serial sectioning | J Oral Maxillofac Pathol | 2016 | [10.4103/0973-029X.190946](https://doi.org/10.4103/0973-029X.190946) |
 
 ---
 

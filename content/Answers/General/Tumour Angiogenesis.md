@@ -20,10 +20,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Folkman J — Tumor angiogenesis: therapeutic implications | N Engl J Med | 1971 | [10.1056/NEJM197111182852108](https://doi.org/10.1056/NEJM197111182852108) |
-> | Ferrara N — Pituitary follicular cells secrete a novel he... | Biochem Biophys Res Commun | 1989 | [10.1016/0006-291X(89)92678-8](https://doi.org/10.1016/0006-291X(89)92678-8) |
+> | Ferrara N — Pituitary follicular cells secrete a novel heparin-binding growth factor specific for vascular endothelial cells | Biochem Biophys Res Commun | 1989 | [10.1016/0006-291X(89)92678-8](https://doi.org/10.1016/0006-291X(89)92678-8) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
-> | Argiris A — Phase III randomized trial of chemotherapy wi... | J Clin Oncol | 2019 | [10.1200/JCO.19.00555](https://doi.org/10.1200/JCO.19.00555) |
-> | Dong Y — Prognostic value of microvessel density in HNSCC... | Dis Markers | 2020 | [10.1155/2020/8842795](https://doi.org/10.1155/2020/8842795) |
+> | Argiris A — Phase III randomized trial of chemotherapy with or without bevacizumab in R/M HNSCC (E1305) | J Clin Oncol | 2019 | [10.1200/JCO.19.00555](https://doi.org/10.1200/JCO.19.00555) |
+> | Dong Y — Prognostic value of microvessel density in HNSCC: a meta-analysis | Dis Markers | 2020 | [10.1155/2020/8842795](https://doi.org/10.1155/2020/8842795) |
 
 ---
 

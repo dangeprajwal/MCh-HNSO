@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Khwaja A (KDIGO Work Group) — KDIGO clinical practice gui... | Nephron Clin Pract | 2012 | [10.1159/000339789](https://doi.org/10.1159/000339789) |
-> | Mulvey CL — Complications associated with mortality after... | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
-> | van der Vorst MJDL — Incidence and risk factors for AKI i... | BMC Cancer | 2019 | [10.1186/s12885-019-6233-9](https://doi.org/10.1186/s12885-019-6233-9) |
-> | Goren O — Postoperative AKI in adult non-cardiac surgery:... | Nat Rev Nephrol | 2021 | [10.1038/s41581-021-00418-2](https://doi.org/10.1038/s41581-021-00418-2) |
-> | Bellomo R — Acute renal failure — definition, outcome mea... | Crit Care | 2004 | [10.1186/cc2872](https://doi.org/10.1186/cc2872) |
+> | Khwaja A (KDIGO Work Group) — KDIGO clinical practice guidelines for acute kidney injury | Nephron Clin Pract | 2012 | [10.1159/000339789](https://doi.org/10.1159/000339789) |
+> | Mulvey CL — Complications associated with mortality after head and neck surgery | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
+> | van der Vorst MJDL — Incidence and risk factors for AKI in HNC patients treated with concurrent CRT with high-dose cisplatin | BMC Cancer | 2019 | [10.1186/s12885-019-6233-9](https://doi.org/10.1186/s12885-019-6233-9) |
+> | Goren O — Postoperative AKI in adult non-cardiac surgery: ADQI and POQI joint consensus | Nat Rev Nephrol | 2021 | [10.1038/s41581-021-00418-2](https://doi.org/10.1038/s41581-021-00418-2) |
+> | Bellomo R — Acute renal failure — definition, outcome measures, animal models, fluid therapy and IT needs: the Second International Consensus Conference of the ADQI Group | Crit Care | 2004 | [10.1186/cc2872](https://doi.org/10.1186/cc2872) |
 
 ---
 

@@ -16,11 +16,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Chaloupka JC — Endovascular therapy for the carotid blowo... | AJNR | 1996 | PMID: 8733956 (pre-DOI) |
-> | Powitzky R — Carotid blowout in patients with head and ne... | Ann Otol Rhinol Laryngol | 2010 | [10.1177/000348941011900709](https://doi.org/10.1177/000348941011900709) |
-> | Reyes-Gibby CC — Cohort study of oncologic emergencies in... | Head Neck | 2017 | [10.1002/hed.24748](https://doi.org/10.1002/hed.24748) |
-> | Sesterhenn AM — End-of-life care for terminal head and ne... | Cancer Nursing | 2008 | [10.1097/01.NCC.0000305709.37530.a7](https://doi.org/10.1097/01.NCC.0000305709.37530.a7) |
-> | Mayland CR — The palliative care needs and experiences of... | Palliat Med | 2021 | [10.1177/0269216320963892](https://doi.org/10.1177/0269216320963892) |
+> | Chaloupka JC — Endovascular therapy for the carotid blowout syndrome in head and neck surgical patients | AJNR | 1996 | PMID: 8733956 (pre-DOI) |
+> | Powitzky R — Carotid blowout in patients with head and neck cancer | Ann Otol Rhinol Laryngol | 2010 | [10.1177/000348941011900709](https://doi.org/10.1177/000348941011900709) |
+> | Reyes-Gibby CC — Cohort study of oncologic emergencies in patients with head and neck cancer | Head Neck | 2017 | [10.1002/hed.24748](https://doi.org/10.1002/hed.24748) |
+> | Sesterhenn AM — End-of-life care for terminal head and neck cancer patients | Cancer Nursing | 2008 | [10.1097/01.NCC.0000305709.37530.a7](https://doi.org/10.1097/01.NCC.0000305709.37530.a7) |
+> | Mayland CR — The palliative care needs and experiences of people with advanced head and neck cancer: a scoping review | Palliat Med | 2021 | [10.1177/0269216320963892](https://doi.org/10.1177/0269216320963892) |
 
 ---
 

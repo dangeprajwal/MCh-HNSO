@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Valavanis A — Preoperative embolization of the head and n... | AJNR | 1986 | [PMID: 3096120](https://pubmed.ncbi.nlm.nih.gov/3096120/) |
-> | Persky MS — Combined endovascular and surgical treatment ... | Head Neck | 2002 | [10.1002/hed.10068](https://doi.org/10.1002/hed.10068) |
-> | Chaloupka JC — Evolving experience with direct puncture t... | Laryngoscope | 1999 | [10.1097/00005537-199911000-00028](https://doi.org/10.1097/00005537-199911000-00028) |
-> | Jackson RS — The effects of preoperative embolization on ... | Otolaryngol Head Neck Surg | 2015 | [10.1177/0194599815605323](https://doi.org/10.1177/0194599815605323) |
-> | Kothari DS — Preoperative embolization techniques in the ... | Otolaryngol Head Neck Surg | 2023 | [10.1002/ohn.303](https://doi.org/10.1002/ohn.303) |
+> | Valavanis A — Preoperative embolization of the head and neck: indications, patient selection, goals, and precautions | AJNR | 1986 | [PMID: 3096120](https://pubmed.ncbi.nlm.nih.gov/3096120/) |
+> | Persky MS — Combined endovascular and surgical treatment of head and neck paragangliomas — a team approach | Head Neck | 2002 | [10.1002/hed.10068](https://doi.org/10.1002/hed.10068) |
+> | Chaloupka JC — Evolving experience with direct puncture therapeutic embolization for head and neck neoplasms | Laryngoscope | 1999 | [10.1097/00005537-199911000-00028](https://doi.org/10.1097/00005537-199911000-00028) |
+> | Jackson RS — The effects of preoperative embolization on carotid body paraganglioma surgery: systematic review and meta-analysis | Otolaryngol Head Neck Surg | 2015 | [10.1177/0194599815605323](https://doi.org/10.1177/0194599815605323) |
+> | Kothari DS — Preoperative embolization techniques in the treatment of juvenile nasopharyngeal angiofibroma: systematic review | Otolaryngol Head Neck Surg | 2023 | [10.1002/ohn.303](https://doi.org/10.1002/ohn.303) |
 
 ---
 

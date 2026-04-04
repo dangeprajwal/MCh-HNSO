@@ -18,10 +18,10 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Muto M — Early detection of superficial SCC in head and n... | J Clin Oncol | 2010 | [10.1200/JCO.2009.25.4680](https://doi.org/10.1200/JCO.2009.25.4680) |
-> | Piazza C — NBI and HDTV in assessment of laryngeal cancer... | Eur Arch Otorhinolaryngol | 2010 | [10.1007/s00405-009-1121-6](https://doi.org/10.1007/s00405-009-1121-6) |
-> | Ni XG — Endoscopic diagnosis of laryngeal cancer and prec... | J Laryngol Otol | 2011 | [10.1017/S0022215110002033](https://doi.org/10.1017/S0022215110002033) |
-> | Towns CI — Use of NBI for diagnosis and screening of lary... | Head Neck | 2020 | [10.1002/hed.26321](https://doi.org/10.1002/hed.26321) |
+> | Muto M — Early detection of superficial SCC in head and neck by NBI: a multicenter RCT | J Clin Oncol | 2010 | [10.1200/JCO.2009.25.4680](https://doi.org/10.1200/JCO.2009.25.4680) |
+> | Piazza C — NBI and HDTV in assessment of laryngeal cancer: prospective study on 279 patients | Eur Arch Otorhinolaryngol | 2010 | [10.1007/s00405-009-1121-6](https://doi.org/10.1007/s00405-009-1121-6) |
+> | Ni XG — Endoscopic diagnosis of laryngeal cancer and precancerous lesions by NBI | J Laryngol Otol | 2011 | [10.1017/S0022215110002033](https://doi.org/10.1017/S0022215110002033) |
+> | Towns CI — Use of NBI for diagnosis and screening of laryngeal cancer: systematic review and meta-analysis | Head Neck | 2020 | [10.1002/hed.26321](https://doi.org/10.1002/hed.26321) |
 > | Piazza C — The role of NBI in head and neck cancers | Curr Oncol Rep | 2015 | [10.1007/s11912-015-0498-1](https://doi.org/10.1007/s11912-015-0498-1) |
 
 ---

@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Robbins KT — Risk of wound infection in patients with hea... | Head Neck | 1990 | [10.1002/hed.2880120209](https://doi.org/10.1002/hed.2880120209) |
-> | Penel N — Risk factors for wound infection in head and ne... | Head Neck | 2001 | [10.1002/hed.1058](https://doi.org/10.1002/hed.1058) |
-> | Mulvey CL — Complications associated with mortality after... | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
-> | Wang Y — Incidence and risk factors of SSI in patients wi... | Head Neck | 2023 | [10.1002/hed.27504](https://doi.org/10.1002/hed.27504) |
-> | McGrath BA — Multidisciplinary guidelines for management ... | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
+> | Robbins KT — Risk of wound infection in patients with head and neck cancer | Head Neck | 1990 | [10.1002/hed.2880120209](https://doi.org/10.1002/hed.2880120209) |
+> | Penel N — Risk factors for wound infection in head and neck cancer surgery: a prospective study | Head Neck | 2001 | [10.1002/hed.1058](https://doi.org/10.1002/hed.1058) |
+> | Mulvey CL — Complications associated with mortality after head and neck surgery | Otolaryngol Head Neck Surg | 2017 | [10.1177/0194599816686958](https://doi.org/10.1177/0194599816686958) |
+> | Wang Y — Incidence and risk factors of SSI in patients with head and neck cancer: a meta-analysis | Head Neck | 2023 | [10.1002/hed.27504](https://doi.org/10.1002/hed.27504) |
+> | McGrath BA — Multidisciplinary guidelines for management of tracheostomy and laryngectomy airway emergencies | Anaesthesia | 2012 | [10.1111/j.1365-2044.2012.07217.x](https://doi.org/10.1111/j.1365-2044.2012.07217.x) |
 
 ---
 

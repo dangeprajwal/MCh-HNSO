@@ -24,11 +24,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Singer MI — An endoscopic technique for restoration of vo... | Ann Otol Rhinol Laryngol | 1980 | [10.1177/000348948008900608](https://doi.org/10.1177/000348948008900608) |
-> | Op de Coul BM — A decade of postlaryngectomy vocal rehabi... | Arch Otolaryngol Head Neck Surg | 2000 | [10.1001/archotol.126.11.1320](https://doi.org/10.1001/archotol.126.11.1320) |
-> | Brown DH — Postlaryngectomy voice rehabilitation: state o... | World J Surg | 2003 | [10.1007/s00268-003-7107-4](https://doi.org/10.1007/s00268-003-7107-4) |
-> | van Sluis KE — Outcomes of total laryngectomy and laryngo... | Head Neck | 2018 | [10.1002/hed.25236](https://doi.org/10.1002/hed.25236) |
-> | Hilgers FJM — Provox Vega voice prosthesis: a randomized ... | Head Neck | 2010 | [10.1002/hed.21412](https://doi.org/10.1002/hed.21412) |
+> | Singer MI — An endoscopic technique for restoration of voice after laryngectomy | Ann Otol Rhinol Laryngol | 1980 | [10.1177/000348948008900608](https://doi.org/10.1177/000348948008900608) |
+> | Op de Coul BM — A decade of postlaryngectomy vocal rehabilitation in 318 patients | Arch Otolaryngol Head Neck Surg | 2000 | [10.1001/archotol.126.11.1320](https://doi.org/10.1001/archotol.126.11.1320) |
+> | Brown DH — Postlaryngectomy voice rehabilitation: state of the art at the millennium | World J Surg | 2003 | [10.1007/s00268-003-7107-4](https://doi.org/10.1007/s00268-003-7107-4) |
+> | van Sluis KE — Outcomes of total laryngectomy and laryngopharyngectomy in elderly patients | Head Neck | 2018 | [10.1002/hed.25236](https://doi.org/10.1002/hed.25236) |
+> | Hilgers FJM — Provox Vega voice prosthesis: a randomized controlled crossover trial | Head Neck | 2010 | [10.1002/hed.21412](https://doi.org/10.1002/hed.21412) |
 
 ---
 

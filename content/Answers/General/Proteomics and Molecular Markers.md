@@ -15,11 +15,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
-> | HPV]] and survival of patients with oropharyngeal cancer ... | Ang KK, Harris J, Wheeler R, et al. |  | N Engl J Med, 2010 |
+> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
+> | HPV]] and survival of patients with oropharyngeal cancer — [[Answers/General/HPV in Oral and Oropharyngeal Cancer | Ang KK, Harris J, Wheeler R, et al. |  | N Engl J Med, 2010 |
 > | Leemans CR — The molecular biology of head and neck cancer | Nat Rev Cancer | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
-> | Hu S — Salivary proteomics for oral cancer biomarker disc... | Clin Cancer Res | 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) |
-> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Hu S — Salivary proteomics for oral cancer biomarker discovery | Clin Cancer Res | 2008 | [10.1158/1078-0432.CCR-07-5037](https://doi.org/10.1158/1078-0432.CCR-07-5037) |
+> | Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
 
 ---
 

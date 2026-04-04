@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Kerr JF — Apoptosis: a basic biological phenomenon with w... | Br J Cancer | 1972 | [10.1038/bjc.1972.33](https://doi.org/10.1038/bjc.1972.33) |
+> | Kerr JF — Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics | Br J Cancer | 1972 | [10.1038/bjc.1972.33](https://doi.org/10.1038/bjc.1972.33) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
 > | Ashkenazi A — Death receptors: signaling and modulation | Science | 1998 | [10.1126/science.281.5381.1305](https://doi.org/10.1126/science.281.5381.1305) |
 > | Leemans CR — The molecular biology of head and neck cancer | Nat Rev Cancer | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
-> | Ow TJ — Apoptosis signaling molecules as treatment target... | Laryngoscope | 2020 | [10.1002/lary.28441](https://doi.org/10.1002/lary.28441) |
+> | Ow TJ — Apoptosis signaling molecules as treatment targets in HNSCC | Laryngoscope | 2020 | [10.1002/lary.28441](https://doi.org/10.1002/lary.28441) |
 
 ---
 

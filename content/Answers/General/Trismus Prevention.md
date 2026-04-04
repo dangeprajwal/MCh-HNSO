@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Dijkstra PU — Trismus in head and neck oncology: a system... | Oral Oncol | 2004 | [10.1016/j.oraloncology.2004.04.003](https://doi.org/10.1016/j.oraloncology.2004.04.003) |
-> | Buchbinder D — Mobilization regimens for prevention of ja... | J Oral Maxillofac Surg | 1993 | [10.1016/s0278-2391(10)80104-1](https://doi.org/10.1016/s0278-2391(10)80104-1) |
-> | Bensadoun RJ — Systematic review of trismus induced by ca... | Support Care Cancer | 2010 | [10.1007/s00520-010-0847-4](https://doi.org/10.1007/s00520-010-0847-4) |
-> | Kamstra JI — Exercise therapy for trismus secondary to HN... | Head Neck | 2017 | [10.1002/hed.24859](https://doi.org/10.1002/hed.24859) |
-> | Shao CH — Exercise therapy for cancer treatment-induced t... | Radiother Oncol | 2020 | [10.1016/j.radonc.2020.08.024](https://doi.org/10.1016/j.radonc.2020.08.024) |
+> | Dijkstra PU — Trismus in head and neck oncology: a systematic review | Oral Oncol | 2004 | [10.1016/j.oraloncology.2004.04.003](https://doi.org/10.1016/j.oraloncology.2004.04.003) |
+> | Buchbinder D — Mobilization regimens for prevention of jaw hypomobility in the radiated patient | J Oral Maxillofac Surg | 1993 | [10.1016/s0278-2391(10)80104-1](https://doi.org/10.1016/s0278-2391(10)80104-1) |
+> | Bensadoun RJ — Systematic review of trismus induced by cancer therapies in HNC | Support Care Cancer | 2010 | [10.1007/s00520-010-0847-4](https://doi.org/10.1007/s00520-010-0847-4) |
+> | Kamstra JI — Exercise therapy for trismus secondary to HNC: systematic review | Head Neck | 2017 | [10.1002/hed.24859](https://doi.org/10.1002/hed.24859) |
+> | Shao CH — Exercise therapy for cancer treatment-induced trismus: meta-analysis of RCTs | Radiother Oncol | 2020 | [10.1016/j.radonc.2020.08.024](https://doi.org/10.1016/j.radonc.2020.08.024) |
 
 ---
 

@@ -18,10 +18,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Mathur P — Cancer Statistics, 2020: Report From NCRP, India | JCO Glob Oncol | 2020 | [10.1200/GO.20.00122](https://doi.org/10.1200/GO.20.00122) |
-> | Bagal S — Head and neck cancer burden in India: analysis ... | ecancermedicalscience | 2023 | [10.3332/ecancer.2023.1603](https://doi.org/10.3332/ecancer.2023.1603) |
-> | Sankaranarayanan R — Effect of screening on oral cancer m... | Lancet | 2005 | [10.1016/S0140-6736(05)66658-5](https://doi.org/10.1016/S0140-6736(05)66658-5) |
-> | Gupta B — Smokeless tobacco and betel quid without tobacc... | PLoS One | 2014 | [10.1371/journal.pone.0113385](https://doi.org/10.1371/journal.pone.0113385) |
-> | Sathishkumar K — Cancer incidence estimates for 2022 & pr... | Indian J Med Res | 2022 | [10.4103/ijmr.ijmr_1821_22](https://doi.org/10.4103/ijmr.ijmr_1821_22) |
+> | Bagal S — Head and neck cancer burden in India: analysis from 37 PBCRs | ecancermedicalscience | 2023 | [10.3332/ecancer.2023.1603](https://doi.org/10.3332/ecancer.2023.1603) |
+> | Sankaranarayanan R — Effect of screening on oral cancer mortality in Kerala, India (Trivandrum RCT) | Lancet | 2005 | [10.1016/S0140-6736(05)66658-5](https://doi.org/10.1016/S0140-6736(05)66658-5) |
+> | Gupta B — Smokeless tobacco and betel quid without tobacco and oral cancer in South Asia: meta-analysis | PLoS One | 2014 | [10.1371/journal.pone.0113385](https://doi.org/10.1371/journal.pone.0113385) |
+> | Sathishkumar K — Cancer incidence estimates for 2022 & projection for 2025: NCRP, India | Indian J Med Res | 2022 | [10.4103/ijmr.ijmr_1821_22](https://doi.org/10.4103/ijmr.ijmr_1821_22) |
 
 ---
 

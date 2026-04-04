@@ -19,10 +19,10 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Gillison ML — Evidence for a causal association between H... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.9.709](https://doi.org/10.1093/jnci/92.9.709) |
-> | Ang KK — HPV and survival of patients with oropharyngeal ... | N Engl J Med | 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) |
-> | Epstein-Barr virus]] virus in the pathogenesis of NPC — [... | Raab-Traub N |  | Semin Cancer Biol, 2002 |
-> | zur Hausen H — Papillomaviruses and cancer: from basic st... | Nat Rev Cancer | 2002 | [10.1038/nrc798](https://doi.org/10.1038/nrc798) |
+> | Gillison ML — Evidence for a causal association between HPV and a subset of head and neck cancers | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.9.709](https://doi.org/10.1093/jnci/92.9.709) |
+> | Ang KK — HPV and survival of patients with oropharyngeal cancer | N Engl J Med | 2010 | [10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217) |
+> | Epstein-Barr virus]] virus in the pathogenesis of NPC — [[Answers/General/EBV Testing in Head and Neck Cancer | Raab-Traub N |  | Semin Cancer Biol, 2002 |
+> | zur Hausen H — Papillomaviruses and cancer: from basic studies to clinical application | Nat Rev Cancer | 2002 | [10.1038/nrc798](https://doi.org/10.1038/nrc798) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
 
 ---

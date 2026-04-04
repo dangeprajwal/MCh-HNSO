@@ -19,11 +19,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Mullis K — Specific enzymatic amplification of DNA in vit... | Cold Spring Harb Symp Quant Biol | 1986 | [10.1101/sqb.1986.051.01.032](https://doi.org/10.1101/sqb.1986.051.01.032) |
-> | Saiki RK — Primer-directed enzymatic amplification of DNA... | Science | 1988 | [10.1126/science.2448875](https://doi.org/10.1126/science.2448875) |
-> | Schena M — Quantitative monitoring of gene expression pat... | Science | 1995 | [10.1126/science.270.5235.467](https://doi.org/10.1126/science.270.5235.467) |
-> | Chung CH — Molecular classification of HNSCC using patter... | Cancer Cell | 2004 | [10.1016/S1535-6108(04)00112-6](https://doi.org/10.1016/S1535-6108(04)00112-6) |
-> | van de Vijver MJ — A gene-expression signature as a predi... | N Engl J Med | 2002 | [10.1056/NEJMoa021967](https://doi.org/10.1056/NEJMoa021967) |
+> | Mullis K — Specific enzymatic amplification of DNA in vitro: the polymerase chain reaction | Cold Spring Harb Symp Quant Biol | 1986 | [10.1101/sqb.1986.051.01.032](https://doi.org/10.1101/sqb.1986.051.01.032) |
+> | Saiki RK — Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase | Science | 1988 | [10.1126/science.2448875](https://doi.org/10.1126/science.2448875) |
+> | Schena M — Quantitative monitoring of gene expression patterns with a complementary DNA microarray | Science | 1995 | [10.1126/science.270.5235.467](https://doi.org/10.1126/science.270.5235.467) |
+> | Chung CH — Molecular classification of HNSCC using patterns of gene expression | Cancer Cell | 2004 | [10.1016/S1535-6108(04)00112-6](https://doi.org/10.1016/S1535-6108(04)00112-6) |
+> | van de Vijver MJ — A gene-expression signature as a predictor of survival in breast cancer | N Engl J Med | 2002 | [10.1056/NEJMoa021967](https://doi.org/10.1056/NEJMoa021967) |
 
 ---
 

@@ -16,10 +16,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Miller AB — Reporting results of cancer treatment | Cancer | 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) |
-> | Therasse P — New guidelines to evaluate the response to t... | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
-> | Eisenhauer EA — New response evaluation criteria in solid... | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
-> | Seymour L — iRECIST: guidelines for response criteria for... | Lancet Oncol | 2017 | [10.1016/S1470-2045(17)30074-8](https://doi.org/10.1016/S1470-2045(17)30074-8) |
-> | Patil V — Is there a limitation of RECIST criteria in pre... | ISRN Oncol | 2013 | [10.1155/2013/259154](https://doi.org/10.1155/2013/259154) |
+> | Therasse P — New guidelines to evaluate the response to treatment in solid tumors | J Natl Cancer Inst | 2000 | [10.1093/jnci/92.3.205](https://doi.org/10.1093/jnci/92.3.205) |
+> | Eisenhauer EA — New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1) | Eur J Cancer | 2009 | [10.1016/j.ejca.2008.10.026](https://doi.org/10.1016/j.ejca.2008.10.026) |
+> | Seymour L — iRECIST: guidelines for response criteria for use in trials testing immunotherapeutics | Lancet Oncol | 2017 | [10.1016/S1470-2045(17)30074-8](https://doi.org/10.1016/S1470-2045(17)30074-8) |
+> | Patil V — Is there a limitation of RECIST criteria in prediction of pathological response in head and neck cancers? | ISRN Oncol | 2013 | [10.1155/2013/259154](https://doi.org/10.1155/2013/259154) |
 
 ---
 

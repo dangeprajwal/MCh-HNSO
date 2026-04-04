@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Mathis JM — Temporary balloon test occlusion of the ICA: ... | AJNR | 1995 | PMID: 7611033 |
-> | Linskey ME — Stroke risk after abrupt ICA sacrifice: accu... | AJNR | 1994 | PMID: 8059649 |
-> | Adams GL — Preoperative permanent balloon occlusion of IC... | Laryngoscope | 1999 | [10.1097/00005537-199903000-00022](https://doi.org/10.1097/00005537-199903000-00022) |
-> | ASITN — Carotid artery balloon test occlusion (ASITN Prac... | AJNR | 2001 | PMID: 11686075 |
-> | Sorteberg A — Balloon occlusion tests and therapeutic ves... | Acta Neurochir Suppl | 2008 | [10.1007/978-3-211-09469-4_23](https://doi.org/10.1007/978-3-211-09469-4_23) |
+> | Mathis JM — Temporary balloon test occlusion of the ICA: experience in 500 cases | AJNR | 1995 | PMID: 7611033 |
+> | Linskey ME — Stroke risk after abrupt ICA sacrifice: accuracy of BTO and stable xenon-enhanced CT | AJNR | 1994 | PMID: 8059649 |
+> | Adams GL — Preoperative permanent balloon occlusion of ICA in advanced head and neck SCC | Laryngoscope | 1999 | [10.1097/00005537-199903000-00022](https://doi.org/10.1097/00005537-199903000-00022) |
+> | ASITN — Carotid artery balloon test occlusion (ASITN Practice Guidelines) | AJNR | 2001 | PMID: 11686075 |
+> | Sorteberg A — Balloon occlusion tests and therapeutic vessel occlusions revisited | Acta Neurochir Suppl | 2008 | [10.1007/978-3-211-09469-4_23](https://doi.org/10.1007/978-3-211-09469-4_23) |
 
 ---
 

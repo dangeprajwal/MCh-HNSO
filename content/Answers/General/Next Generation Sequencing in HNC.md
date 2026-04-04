@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Agrawal N — Exome sequencing of HNSCC reveals inactivatin... | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
-> | Stransky N — The mutational landscape of head and neck sq... | Science | 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) |
-> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
-> | Leemans CR — The biology and management of head and neck ... | Nature | 2018 | [10.1038/s41586-019-1689-y](https://doi.org/10.1038/s41586-019-1689-y) |
-> | Leemans CR — Biology of head and neck cancer: key targets... | N Engl J Med | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
+> | Agrawal N — Exome sequencing of HNSCC reveals inactivating mutations in NOTCH1 | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
+> | Stransky N — The mutational landscape of head and neck squamous cell carcinoma | Science | 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) |
+> | Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Leemans CR — The biology and management of head and neck cancer | Nature | 2018 | [10.1038/s41586-019-1689-y](https://doi.org/10.1038/s41586-019-1689-y) |
+> | Leemans CR — Biology of head and neck cancer: key targets and therapies | N Engl J Med | 2011 | [10.1038/nrc2982](https://doi.org/10.1038/nrc2982) |
 
 ---
 

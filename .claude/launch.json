@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "quartz-dev",
-      "runtimeExecutable": "/Users/prajwaldange/.nvm/versions/node/v24.6.0/bin/npx",
-      "runtimeArgs": ["quartz", "build", "--serve"],
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["/Users/prajwaldange/MCh-HNSO/.claude/start-quartz.sh"],
       "port": 8080
     }
   ]

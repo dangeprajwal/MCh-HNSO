@@ -17,10 +17,10 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Greider CW — Identification of a specific telomere termin... | Cell | 1985 | [10.1016/0092-8674(85)90170-9](https://doi.org/10.1016/0092-8674(85)90170-9) |
-> | Kim NW — Specific association of human telomerase activit... | Science | 1994 | [10.1126/science.7605428](https://doi.org/10.1126/science.7605428) |
-> | Patel MM — Clinical usefulness of telomerase activation a... | Head Neck | 2002 | [10.1002/hed.10169](https://doi.org/10.1002/hed.10169) |
-> | Vinagre J — Frequency of TERT promoter mutations in human... | Nat Commun | 2013 | [10.1038/ncomms3185](https://doi.org/10.1038/ncomms3185) |
+> | Greider CW — Identification of a specific telomere terminal transferase activity in Tetrahymena extracts | Cell | 1985 | [10.1016/0092-8674(85)90170-9](https://doi.org/10.1016/0092-8674(85)90170-9) |
+> | Kim NW — Specific association of human telomerase activity with immortal cells and cancer | Science | 1994 | [10.1126/science.7605428](https://doi.org/10.1126/science.7605428) |
+> | Patel MM — Clinical usefulness of telomerase activation and telomere length in head and neck cancer | Head Neck | 2002 | [10.1002/hed.10169](https://doi.org/10.1002/hed.10169) |
+> | Vinagre J — Frequency of TERT promoter mutations in human cancers | Nat Commun | 2013 | [10.1038/ncomms3185](https://doi.org/10.1038/ncomms3185) |
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/s0092-8674(00)81683-9](https://doi.org/10.1016/s0092-8674(00)81683-9) |
 
 ---

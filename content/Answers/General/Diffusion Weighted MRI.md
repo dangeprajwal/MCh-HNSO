@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Le Bihan D — MR imaging of intravoxel incoherent motions:... | Radiology | 1986 | [10.1148/radiology.161.2.3763909](https://doi.org/10.1148/radiology.161.2.3763909) |
-> | Sumi M — Discrimination of metastatic cervical lymph node... | AJNR | 2003 | PMID: 13679283 |
-> | Vandecaveye V — Detection of head and neck SCC with diffu... | Int J Radiat Oncol Biol Phys | 2007 | [10.1016/j.ijrobp.2006.09.020](https://doi.org/10.1016/j.ijrobp.2006.09.020) |
-> | Kim S — Diffusion-weighted MRI for predicting and detecti... | Clin Cancer Res | 2009 | [10.1158/1078-0432.CCR-08-1287](https://doi.org/10.1158/1078-0432.CCR-08-1287) |
-> | Thoeny HC — Diffusion-weighted MR imaging in the head and... | Radiology | 2012 | [10.1148/radiol.11101821](https://doi.org/10.1148/radiol.11101821) |
+> | Le Bihan D — MR imaging of intravoxel incoherent motions: application to diffusion and perfusion in neurologic disorders | Radiology | 1986 | [10.1148/radiology.161.2.3763909](https://doi.org/10.1148/radiology.161.2.3763909) |
+> | Sumi M — Discrimination of metastatic cervical lymph nodes with diffusion-weighted MR imaging in patients with head and neck cancer | AJNR | 2003 | PMID: 13679283 |
+> | Vandecaveye V — Detection of head and neck SCC with diffusion-weighted MRI after (chemo)radiotherapy | Int J Radiat Oncol Biol Phys | 2007 | [10.1016/j.ijrobp.2006.09.020](https://doi.org/10.1016/j.ijrobp.2006.09.020) |
+> | Kim S — Diffusion-weighted MRI for predicting and detecting early response to chemoradiation therapy of HNSCC | Clin Cancer Res | 2009 | [10.1158/1078-0432.CCR-08-1287](https://doi.org/10.1158/1078-0432.CCR-08-1287) |
+> | Thoeny HC — Diffusion-weighted MR imaging in the head and neck | Radiology | 2012 | [10.1148/radiol.11101821](https://doi.org/10.1148/radiol.11101821) |
 
 ---
 

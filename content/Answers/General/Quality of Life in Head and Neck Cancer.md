@@ -23,11 +23,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Bjordal K — Quality of life in head and neck cancer patie... | J Clin Oncol | 1999 | [10.1200/JCO.1999.17.3.1008](https://doi.org/10.1200/JCO.1999.17.3.1008) |
-> | Hassan SJ — Assessment of quality of life in head and nec... | Head Neck | 1993 | [10.1002/hed.2880150603](https://doi.org/10.1002/hed.2880150603) |
-> | Cella DF — The Functional Assessment of Cancer Therapy sc... | J Clin Oncol | 1993 | [10.1200/JCO.1993.11.3.570](https://doi.org/10.1200/JCO.1993.11.3.570) |
-> | List MA — The PSS-HN and FACT-HN: a study of utility and ... | Cancer | 1996 | [10.1002/(SICI)1097-0142(19960601)77:11<2294::AID-CNCR17>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1097-0142(19960601)77:11%3C2294::AID-CNCR17%3E3.0.CO;2-S) |
-> | Laraway DC — A structured review of journal articles repo... | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2010.12.005](https://doi.org/10.1016/j.bjoms.2010.12.005) |
+> | Bjordal K — Quality of life in head and neck cancer patients: validation of the EORTC QLQ-H&N35 | J Clin Oncol | 1999 | [10.1200/JCO.1999.17.3.1008](https://doi.org/10.1200/JCO.1999.17.3.1008) |
+> | Hassan SJ — Assessment of quality of life in head and neck cancer patients | Head Neck | 1993 | [10.1002/hed.2880150603](https://doi.org/10.1002/hed.2880150603) |
+> | Cella DF — The Functional Assessment of Cancer Therapy scale: development and validation of the general measure | J Clin Oncol | 1993 | [10.1200/JCO.1993.11.3.570](https://doi.org/10.1200/JCO.1993.11.3.570) |
+> | List MA — The PSS-HN and FACT-HN: a study of utility and validity | Cancer | 1996 | [10.1002/(SICI)1097-0142(19960601)77:11<2294::AID-CNCR17>3.0.CO;2-S](https://doi.org/10.1002/(SICI)1097-0142(19960601)77:11%3C2294::AID-CNCR17%3E3.0.CO;2-S) |
+> | Laraway DC — A structured review of journal articles reporting outcomes using the UW-QOL scale | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2010.12.005](https://doi.org/10.1016/j.bjoms.2010.12.005) |
 
 ---
 

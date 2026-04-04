@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Ferlito A — Paraneoplastic syndromes in patients with pri... | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-006-0217-5](https://doi.org/10.1007/s00405-006-0217-5) |
-> | Toro C — Paraneoplastic syndromes in patients with oral c... | Oral Oncol | 2010 | [10.1016/j.oraloncology.2009.09.007](https://doi.org/10.1016/j.oraloncology.2009.09.007) |
-> | Chapireau D — Paraneoplastic syndromes in patients with p... | Br J Oral Maxillofac Surg | 2010 | [10.1016/j.bjoms.2009.08.025](https://doi.org/10.1016/j.bjoms.2009.08.025) |
-> | Sridhar KS — Hypercalcemia in head and neck squamous-cell... | Am J Clin Oncol | 1990 | [10.1097/00000421-199010000-00005](https://doi.org/10.1097/00000421-199010000-00005) |
-> | Pelosof LC — Paraneoplastic syndromes: an approach to dia... | Mayo Clin Proc | 2010 | [10.4065/mcp.2010.0099](https://doi.org/10.4065/mcp.2010.0099) |
+> | Ferlito A — Paraneoplastic syndromes in patients with primary head and neck cancer | Eur Arch Otorhinolaryngol | 2007 | [10.1007/s00405-006-0217-5](https://doi.org/10.1007/s00405-006-0217-5) |
+> | Toro C — Paraneoplastic syndromes in patients with oral cancer | Oral Oncol | 2010 | [10.1016/j.oraloncology.2009.09.007](https://doi.org/10.1016/j.oraloncology.2009.09.007) |
+> | Chapireau D — Paraneoplastic syndromes in patients with primary oral cancers: a systematic review | Br J Oral Maxillofac Surg | 2010 | [10.1016/j.bjoms.2009.08.025](https://doi.org/10.1016/j.bjoms.2009.08.025) |
+> | Sridhar KS — Hypercalcemia in head and neck squamous-cell carcinoma | Am J Clin Oncol | 1990 | [10.1097/00000421-199010000-00005](https://doi.org/10.1097/00000421-199010000-00005) |
+> | Pelosof LC — Paraneoplastic syndromes: an approach to diagnosis and treatment | Mayo Clin Proc | 2010 | [10.4065/mcp.2010.0099](https://doi.org/10.4065/mcp.2010.0099) |
 
 ---
 

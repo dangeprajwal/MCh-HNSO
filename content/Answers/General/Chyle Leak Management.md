@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Delaney SW — Management of chyle leak after head and neck... | Int J Otolaryngol | 2017 | [10.1155/2017/8362874](https://doi.org/10.1155/2017/8362874) |
+> | Delaney SW — Management of chyle leak after head and neck surgery: review of current treatment strategies | Int J Otolaryngol | 2017 | [10.1155/2017/8362874](https://doi.org/10.1155/2017/8362874) |
 > | Smoke A — Chyle leaks: consensus on management? | Nutr Clin Pract | 2008 | [10.1177/0884533608323424](https://doi.org/10.1177/0884533608323424) |
-> | Brennan PA — The contemporary management of chyle leak fo... | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2011.02.001](https://doi.org/10.1016/j.bjoms.2011.02.001) |
-> | Ilczyszyn A — Management of chyle leak post neck dissecti... | J Plast Reconstr Aesthet Surg | 2011 | [10.1016/j.bjps.2010.12.018](https://doi.org/10.1016/j.bjps.2010.12.018) |
-> | Campisi CC — Chyle leak after head and neck surgeries: co... | Head Neck | 2024 | [10.1002/hed.27642](https://doi.org/10.1002/hed.27642) |
+> | Brennan PA — The contemporary management of chyle leak following cervical thoracic duct damage | Br J Oral Maxillofac Surg | 2012 | [10.1016/j.bjoms.2011.02.001](https://doi.org/10.1016/j.bjoms.2011.02.001) |
+> | Ilczyszyn A — Management of chyle leak post neck dissection: a case report and literature review | J Plast Reconstr Aesthet Surg | 2011 | [10.1016/j.bjps.2010.12.018](https://doi.org/10.1016/j.bjps.2010.12.018) |
+> | Campisi CC — Chyle leak after head and neck surgeries: comprehensive review of diagnosis and management | Head Neck | 2024 | [10.1002/hed.27642](https://doi.org/10.1002/hed.27642) |
 
 ---
 

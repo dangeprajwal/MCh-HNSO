@@ -18,10 +18,10 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Pedrero JMG — Frequent genetic and biochemical alteration... | Int J Cancer | 2005 | [10.1002/ijc.20711](https://doi.org/10.1002/ijc.20711) |
-> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
-> | Lui VWY — Frequent mutation of the PI3K pathway in head a... | Cancer Discov | 2013 | [10.1158/2159-8290.CD-13-0103](https://doi.org/10.1158/2159-8290.CD-13-0103) |
-> | Iglesias-Bartolome R — Exploiting the head and neck cance... | Cancer Discov | 2013 | [10.1158/2159-8290.CD-13-0239](https://doi.org/10.1158/2159-8290.CD-13-0239) |
+> | Pedrero JMG — Frequent genetic and biochemical alterations of the PI3K/AKT/PTEN pathway in HNSCC | Int J Cancer | 2005 | [10.1002/ijc.20711](https://doi.org/10.1002/ijc.20711) |
+> | Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Lui VWY — Frequent mutation of the PI3K pathway in head and neck cancer defines predictive biomarkers | Cancer Discov | 2013 | [10.1158/2159-8290.CD-13-0103](https://doi.org/10.1158/2159-8290.CD-13-0103) |
+> | Iglesias-Bartolome R — Exploiting the head and neck cancer oncogenome: widespread PI3K-mTOR pathway alterations and novel molecular targets | Cancer Discov | 2013 | [10.1158/2159-8290.CD-13-0239](https://doi.org/10.1158/2159-8290.CD-13-0239) |
 > | Rodon J — Molecular pathways: targeting PI3K/Akt/mTOR | Clin Cancer Res | 2013 | [10.1158/1078-0432.CCR-12-0867](https://doi.org/10.1158/1078-0432.CCR-12-0867) |
 
 ---

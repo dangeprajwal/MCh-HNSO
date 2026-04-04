@@ -20,10 +20,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Dolmans DEJGJ — Photodynamic therapy for cancer | Nat Rev Cancer | 2003 | [10.1038/nrc1071](https://doi.org/10.1038/nrc1071) |
-> | Biel MA — Photodynamic therapy and the treatment of head ... | Laryngoscope | 1998 | [10.1097/00005537-199809000-00001](https://doi.org/10.1097/00005537-199809000-00001) |
-> | Schweitzer VG — Photodynamic therapy for treatment of hea... | Otolaryngol Head Neck Surg | 1990 | [10.1177/019459989010200304](https://doi.org/10.1177/019459989010200304) |
-> | Lou PJ — Clinical outcomes of photodynamic therapy for he... | Technol Cancer Res Treat | 2003 | [10.1177/153303460300200405](https://doi.org/10.1177/153303460300200405) |
-> | Meulemans J — PDT in head and neck cancer: indications, o... | Curr Opin Otolaryngol Head Neck Surg | 2019 | [10.1097/MOO.0000000000000521](https://doi.org/10.1097/MOO.0000000000000521) |
+> | Biel MA — Photodynamic therapy and the treatment of head and neck neoplasia | Laryngoscope | 1998 | [10.1097/00005537-199809000-00001](https://doi.org/10.1097/00005537-199809000-00001) |
+> | Schweitzer VG — Photodynamic therapy for treatment of head and neck cancer | Otolaryngol Head Neck Surg | 1990 | [10.1177/019459989010200304](https://doi.org/10.1177/019459989010200304) |
+> | Lou PJ — Clinical outcomes of photodynamic therapy for head-and-neck cancer | Technol Cancer Res Treat | 2003 | [10.1177/153303460300200405](https://doi.org/10.1177/153303460300200405) |
+> | Meulemans J — PDT in head and neck cancer: indications, outcomes, and future prospects | Curr Opin Otolaryngol Head Neck Surg | 2019 | [10.1097/MOO.0000000000000521](https://doi.org/10.1097/MOO.0000000000000521) |
 
 ---
 

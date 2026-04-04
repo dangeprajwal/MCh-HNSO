@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Zech DFJ — Validation of WHO guidelines for cancer pain r... | Pain | 1995 | [10.1016/0304-3959(95)00017-M](https://doi.org/10.1016/0304-3959(95)00017-M) |
-> | Jadad AR — The WHO analgesic ladder for cancer pain manag... | JAMA | 1995 | [10.1001/jama.1995.03530230066035](https://doi.org/10.1001/jama.1995.03530230066035) |
-> | Grond S — Validation of WHO guidelines for pain relief in... | Ann Otol Rhinol Laryngol | 1993 | [10.1177/000348949310200504](https://doi.org/10.1177/000348949310200504) |
-> | Ferreira KA — The WHO analgesic ladder for cancer pain co... | Support Care Cancer | 2006 | [10.1007/s00520-006-0086-x](https://doi.org/10.1007/s00520-006-0086-x) |
-> | Bandieri E — Two-step vs three-step WHO analgesic ladder ... | Ann Oncol | 2022 | [10.1016/j.annonc.2022.08.083](https://doi.org/10.1016/j.annonc.2022.08.083) |
+> | Zech DFJ — Validation of WHO guidelines for cancer pain relief: a 10-year prospective study | Pain | 1995 | [10.1016/0304-3959(95)00017-M](https://doi.org/10.1016/0304-3959(95)00017-M) |
+> | Jadad AR — The WHO analgesic ladder for cancer pain management: stepping up the quality of its evaluation | JAMA | 1995 | [10.1001/jama.1995.03530230066035](https://doi.org/10.1001/jama.1995.03530230066035) |
+> | Grond S — Validation of WHO guidelines for pain relief in head and neck cancer: a prospective study | Ann Otol Rhinol Laryngol | 1993 | [10.1177/000348949310200504](https://doi.org/10.1177/000348949310200504) |
+> | Ferreira KA — The WHO analgesic ladder for cancer pain control, twenty years of use | Support Care Cancer | 2006 | [10.1007/s00520-006-0086-x](https://doi.org/10.1007/s00520-006-0086-x) |
+> | Bandieri E — Two-step vs three-step WHO analgesic ladder in cancer: international open-label RCT | Ann Oncol | 2022 | [10.1016/j.annonc.2022.08.083](https://doi.org/10.1016/j.annonc.2022.08.083) |
 
 ---
 

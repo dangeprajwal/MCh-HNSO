@@ -19,9 +19,9 @@ tags:
 > |---|---|---|---|
 > | Amit M — Mechanisms of cancer dissemination along nerves | Nat Rev Cancer | 2016 | [10.1038/nrc.2016.38](https://doi.org/10.1038/nrc.2016.38) |
 > | Schmitd LB — Perineural invasion in head and neck cancer | J Dent Res | 2018 | [10.1177/0022034518756297](https://doi.org/10.1177/0022034518756297) |
-> | Roh J — Perineural growth in head and neck squamous cell ... | Oral Oncol | 2015 | [10.1016/j.oraloncology.2014.10.004](https://doi.org/10.1016/j.oraloncology.2014.10.004) |
-> | Chen SH — Perineural invasion as a prognostic factor in H... | Acta Otolaryngol | 2019 | [10.1080/00016489.2019.1655167](https://doi.org/10.1080/00016489.2019.1655167) |
-> | Saidak Z — PNI in HNSCC: background, mechanisms, and prog... | Curr Opin Otolaryngol Head Neck Surg | 2020 | [10.1097/MOO.0000000000000610](https://doi.org/10.1097/MOO.0000000000000610) |
+> | Roh J — Perineural growth in head and neck squamous cell carcinoma: a review | Oral Oncol | 2015 | [10.1016/j.oraloncology.2014.10.004](https://doi.org/10.1016/j.oraloncology.2014.10.004) |
+> | Chen SH — Perineural invasion as a prognostic factor in HNSCC: systematic review and meta-analysis | Acta Otolaryngol | 2019 | [10.1080/00016489.2019.1655167](https://doi.org/10.1080/00016489.2019.1655167) |
+> | Saidak Z — PNI in HNSCC: background, mechanisms, and prognostic implications | Curr Opin Otolaryngol Head Neck Surg | 2020 | [10.1097/MOO.0000000000000610](https://doi.org/10.1097/MOO.0000000000000610) |
 
 ---
 

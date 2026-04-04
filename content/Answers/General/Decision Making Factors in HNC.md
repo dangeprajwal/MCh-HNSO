@@ -16,11 +16,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Piccirillo JF — Importance of comorbidity in head and nec... | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
-> | Wheless SA — A prospective study of the clinical impact o... | Otolaryngol Head Neck Surg | 2010 | [10.1016/j.otohns.2010.07.020](https://doi.org/10.1016/j.otohns.2010.07.020) |
-> | Piccirillo JF — Prognostic importance of comorbidity in a... | JAMA | 2004 | [10.1001/jama.291.20.2441](https://doi.org/10.1001/jama.291.20.2441) |
-> | Prades J — Is it worth reorganising cancer services on th... | Health Policy | 2015 | [10.1016/j.healthpol.2014.09.006](https://doi.org/10.1016/j.healthpol.2014.09.006) |
-> | Liu JC — The impact of the multidisciplinary tumor board ... | Laryngoscope | 2020 | [10.1002/lary.28066](https://doi.org/10.1002/lary.28066) |
+> | Piccirillo JF — Importance of comorbidity in head and neck cancer | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
+> | Wheless SA — A prospective study of the clinical impact of a multidisciplinary head and neck tumor board | Otolaryngol Head Neck Surg | 2010 | [10.1016/j.otohns.2010.07.020](https://doi.org/10.1016/j.otohns.2010.07.020) |
+> | Piccirillo JF — Prognostic importance of comorbidity in a hospital-based cancer registry | JAMA | 2004 | [10.1001/jama.291.20.2441](https://doi.org/10.1001/jama.291.20.2441) |
+> | Prades J — Is it worth reorganising cancer services on the basis of MDTs? | Health Policy | 2015 | [10.1016/j.healthpol.2014.09.006](https://doi.org/10.1016/j.healthpol.2014.09.006) |
+> | Liu JC — The impact of the multidisciplinary tumor board on head and neck cancer outcomes | Laryngoscope | 2020 | [10.1002/lary.28066](https://doi.org/10.1002/lary.28066) |
 
 ---
 

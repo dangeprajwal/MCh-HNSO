@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Jones PA — The fundamental role of epigenetic events in c... | Nat Rev Genet | 2002 | [10.1038/nrg816](https://doi.org/10.1038/nrg816) |
-> | Esteller M — CpG island hypermethylation and tumor suppre... | Oncogene | 2002 | [10.1038/sj.onc.1205600](https://doi.org/10.1038/sj.onc.1205600) |
+> | Jones PA — The fundamental role of epigenetic events in cancer | Nat Rev Genet | 2002 | [10.1038/nrg816](https://doi.org/10.1038/nrg816) |
+> | Esteller M — CpG island hypermethylation and tumor suppressor genes: a booming present, a brighter future | Oncogene | 2002 | [10.1038/sj.onc.1205600](https://doi.org/10.1038/sj.onc.1205600) |
 > | Dawson MA — Cancer epigenetics: from mechanism to therapy | Cell | 2012 | [10.1016/j.cell.2012.06.013](https://doi.org/10.1016/j.cell.2012.06.013) |
 > | Shaw RJ — The epigenetics of oral cancer | Int J Oral Maxillofac Surg | 2006 | [10.1016/j.ijom.2005.06.014](https://doi.org/10.1016/j.ijom.2005.06.014) |
-> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
 
 ---
 

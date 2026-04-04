@@ -20,10 +20,10 @@ tags:
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
 > | Hanahan D — The hallmarks of cancer | Cell | 2000 | [10.1016/S0092-8674(00)81683-9](https://doi.org/10.1016/S0092-8674(00)81683-9) |
-> | Vermeulen K — The cell cycle: regulation, deregulation an... | Cell Prolif | 2003 | [10.1046/j.1365-2184.2003.00266.x](https://doi.org/10.1046/j.1365-2184.2003.00266.x) |
-> | Suh Y — Clinical update on cancer: molecular oncology of ... | Cell Death Dis | 2014 | [10.1038/cddis.2013.548](https://doi.org/10.1038/cddis.2013.548) |
-> | The Cancer Genome Atlas Network — Comprehensive genomic c... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
-> | Alsahafi E — Clinical update on head and neck cancer: mol... | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
+> | Vermeulen K — The cell cycle: regulation, deregulation and therapeutic targets in cancer | Cell Prolif | 2003 | [10.1046/j.1365-2184.2003.00266.x](https://doi.org/10.1046/j.1365-2184.2003.00266.x) |
+> | Suh Y — Clinical update on cancer: molecular oncology of head and neck cancer | Cell Death Dis | 2014 | [10.1038/cddis.2013.548](https://doi.org/10.1038/cddis.2013.548) |
+> | The Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Alsahafi E — Clinical update on head and neck cancer: molecular biology and ongoing challenges | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
 
 ---
 

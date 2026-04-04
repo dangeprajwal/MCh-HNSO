@@ -20,11 +20,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | The Cancer Genome Atlas Network — Comprehensive genomic c... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
-> | Agrawal N — Exome sequencing of head and neck SCC reveals... | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
+> | The Cancer Genome Atlas Network — Comprehensive genomic characterization of HNSCC | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Agrawal N — Exome sequencing of head and neck SCC reveals inactivating mutations in NOTCH1 | Science | 2011 | [10.1126/science.1206923](https://doi.org/10.1126/science.1206923) |
 > | Stransky N — The mutational landscape of head and neck SCC | Science | 2011 | [10.1126/science.1208130](https://doi.org/10.1126/science.1208130) |
-> | Schaaij-Visser TBM — Protein biomarker discovery for head... | J Proteomics | 2010 | [10.1016/j.jprot.2010.01.013](https://doi.org/10.1016/j.jprot.2010.01.013) |
-> | Bonner JA — Radiotherapy plus cetuximab for SCC of the he... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
+> | Schaaij-Visser TBM — Protein biomarker discovery for head and neck cancer | J Proteomics | 2010 | [10.1016/j.jprot.2010.01.013](https://doi.org/10.1016/j.jprot.2010.01.013) |
+> | Bonner JA — Radiotherapy plus cetuximab for SCC of the head and neck | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
 
 ---
 

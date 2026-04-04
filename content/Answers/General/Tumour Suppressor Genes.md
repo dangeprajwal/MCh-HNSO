@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Knudson AG — Mutation and cancer: statistical study of re... | Proc Natl Acad Sci USA | 1971 | [10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820) |
-> | field cancerization]] — Genetic progression model for hea... | Califano J, van der Riet P, Westra W et al. |  | Cancer Res, 1996 |
+> | Knudson AG — Mutation and cancer: statistical study of retinoblastoma | Proc Natl Acad Sci USA | 1971 | [10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820) |
+> | field cancerization]] — Genetic progression model for head and neck cancer: implications for [[Answers/Oral Cavity/Field Cancerization | Califano J, van der Riet P, Westra W et al. |  | Cancer Res, 1996 |
 > | Sherr CJ — The RB and p53 pathways in cancer | Cancer Cell | 2002 | [10.1016/S1535-6108(02)00102-2](https://doi.org/10.1016/S1535-6108(02)00102-2) |
-> | Cancer Genome Atlas Network — Comprehensive genomic chara... | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
-> | Alsahafi E — Clinical update on head and neck cancer: mol... | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
+> | Cancer Genome Atlas Network — Comprehensive genomic characterization of head and neck squamous cell carcinomas | Nature | 2015 | [10.1038/nature14129](https://doi.org/10.1038/nature14129) |
+> | Alsahafi E — Clinical update on head and neck cancer: molecular biology and ongoing challenges | Cell Death Dis | 2019 | [10.1038/s41419-019-1769-9](https://doi.org/10.1038/s41419-019-1769-9) |
 
 ---
 

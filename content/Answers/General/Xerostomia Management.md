@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Nutting CM — Intensity-modulated RT versus conventional R... | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
-> | Deasy JO — Salivary gland dose-function relationships for... | Int J Radiat Oncol Biol Phys | 2010 | [10.1016/j.ijrobp.2009.11.030](https://doi.org/10.1016/j.ijrobp.2009.11.030) |
-> | Brizel DM — Randomized trial of amifostine in patients re... | J Clin Oncol | 2000 | [10.1200/JCO.2000.18.19.3339](https://doi.org/10.1200/JCO.2000.18.19.3339) |
-> | Eisbruch A — Parotid-sparing RT yields superior salivary ... | Int J Radiat Oncol Biol Phys | 2001 | [10.1016/S0360-3016(00)01441-3](https://doi.org/10.1016/S0360-3016(00)01441-3) |
-> | Jensen SB — A systematic review of xerostomia management ... | Support Care Cancer | 2010 | [10.1007/s00520-010-0837-1](https://doi.org/10.1007/s00520-010-0837-1) |
+> | Nutting CM — Intensity-modulated RT versus conventional RT for parotid sparing (PARSPORT): a phase 3 multicentre RCT | Lancet Oncol | 2011 | [10.1016/S1470-2045(10)70290-4](https://doi.org/10.1016/S1470-2045(10)70290-4) |
+> | Deasy JO — Salivary gland dose-function relationships for IMRT of HNC | Int J Radiat Oncol Biol Phys | 2010 | [10.1016/j.ijrobp.2009.11.030](https://doi.org/10.1016/j.ijrobp.2009.11.030) |
+> | Brizel DM — Randomized trial of amifostine in patients receiving RT for HNC | J Clin Oncol | 2000 | [10.1200/JCO.2000.18.19.3339](https://doi.org/10.1200/JCO.2000.18.19.3339) |
+> | Eisbruch A — Parotid-sparing RT yields superior salivary output and QOL | Int J Radiat Oncol Biol Phys | 2001 | [10.1016/S0360-3016(00)01441-3](https://doi.org/10.1016/S0360-3016(00)01441-3) |
+> | Jensen SB — A systematic review of xerostomia management in HNC patients | Support Care Cancer | 2010 | [10.1007/s00520-010-0837-1](https://doi.org/10.1007/s00520-010-0837-1) |
 
 ---
 

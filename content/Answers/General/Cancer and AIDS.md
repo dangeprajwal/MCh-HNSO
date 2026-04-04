@@ -14,11 +14,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Frisch M — Association of cancer with AIDS-related immuno... | JAMA | 2001 | [10.1001/jama.285.13.1736](https://doi.org/10.1001/jama.285.13.1736) |
-> | Franceschi S — Kaposi sarcoma incidence in the Swiss HIV ... | Br J Cancer | 2008 | [10.1038/sj.bjc.6604520](https://doi.org/10.1038/sj.bjc.6604520) |
-> | Epstein JB — Head and neck malignancies associated with H... | Oral Surg Oral Med Oral Pathol | 1992 | [10.1016/0030-4220(92)90194-u](https://doi.org/10.1016/0030-4220(92)90194-u) |
-> | Beachler DC — Incidence and risk factors of HPV-related a... | Oral Oncol | 2014 | [10.1016/j.oraloncology.2014.09.011](https://doi.org/10.1016/j.oraloncology.2014.09.011) |
-> | Purgina B — A review of carcinomas arising in the head an... | Patholog Res Int | 2011 | [10.4061/2011/469150](https://doi.org/10.4061/2011/469150) |
+> | Frisch M — Association of cancer with AIDS-related immunosuppression in adults | JAMA | 2001 | [10.1001/jama.285.13.1736](https://doi.org/10.1001/jama.285.13.1736) |
+> | Franceschi S — Kaposi sarcoma incidence in the Swiss HIV Cohort Study before and after HAART | Br J Cancer | 2008 | [10.1038/sj.bjc.6604520](https://doi.org/10.1038/sj.bjc.6604520) |
+> | Epstein JB — Head and neck malignancies associated with HIV infection | Oral Surg Oral Med Oral Pathol | 1992 | [10.1016/0030-4220(92)90194-u](https://doi.org/10.1016/0030-4220(92)90194-u) |
+> | Beachler DC — Incidence and risk factors of HPV-related and HPV-unrelated HNSCC in HIV-infected individuals | Oral Oncol | 2014 | [10.1016/j.oraloncology.2014.09.011](https://doi.org/10.1016/j.oraloncology.2014.09.011) |
+> | Purgina B — A review of carcinomas arising in the head and neck region in HIV-positive patients | Patholog Res Int | 2011 | [10.4061/2011/469150](https://doi.org/10.4061/2011/469150) |
 
 ---
 

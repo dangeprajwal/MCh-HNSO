@@ -17,11 +17,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell... | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
-> | Vermorken JB — Platinum-based chemotherapy plus cetuximab... | N Engl J Med | 2008 | [10.1056/NEJMoa0802656](https://doi.org/10.1056/NEJMoa0802656) |
-> | Ferris RL — Nivolumab for recurrent squamous-cell carcino... | N Engl J Med | 2016 | [10.1056/NEJMoa1602252](https://doi.org/10.1056/NEJMoa1602252) |
-> | Burtness B — Pembrolizumab ± chemotherapy vs cetuximab + ... | Lancet | 2019 | [10.1016/S0140-6736(19)32591-7](https://doi.org/10.1016/S0140-6736(19)32591-7) |
-> | Cohen EEW — Pembrolizumab vs standard therapy for R/M HNS... | Lancet | 2019 | [10.1016/S0140-6736(18)31999-8](https://doi.org/10.1016/S0140-6736(18)31999-8) |
+> | Bonner JA — Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck | N Engl J Med | 2006 | [10.1056/NEJMoa053422](https://doi.org/10.1056/NEJMoa053422) |
+> | Vermorken JB — Platinum-based chemotherapy plus cetuximab in HNC (EXTREME) | N Engl J Med | 2008 | [10.1056/NEJMoa0802656](https://doi.org/10.1056/NEJMoa0802656) |
+> | Ferris RL — Nivolumab for recurrent squamous-cell carcinoma of the head and neck (CheckMate-141) | N Engl J Med | 2016 | [10.1056/NEJMoa1602252](https://doi.org/10.1056/NEJMoa1602252) |
+> | Burtness B — Pembrolizumab ± chemotherapy vs cetuximab + chemotherapy for R/M HNSCC (KEYNOTE-048) | Lancet | 2019 | [10.1016/S0140-6736(19)32591-7](https://doi.org/10.1016/S0140-6736(19)32591-7) |
+> | Cohen EEW — Pembrolizumab vs standard therapy for R/M HNSCC (KEYNOTE-040) | Lancet | 2019 | [10.1016/S0140-6736(18)31999-8](https://doi.org/10.1016/S0140-6736(18)31999-8) |
 
 ---
 

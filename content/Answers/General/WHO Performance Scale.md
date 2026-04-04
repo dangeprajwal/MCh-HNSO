@@ -18,11 +18,11 @@ tags:
 >
 > | Study | Journal | Year | DOI |
 > |---|---|---|---|
-> | Karnofsky DA — The clinical evaluation of chemotherapeuti... | Columbia University Press | 1949 | Book chapter (no DOI) |
-> | Oken MM — Toxicity and response criteria of the Eastern C... | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
+> | Karnofsky DA — The clinical evaluation of chemotherapeutic agents in cancer | Columbia University Press | 1949 | Book chapter (no DOI) |
+> | Oken MM — Toxicity and response criteria of the Eastern Cooperative Oncology Group | Am J Clin Oncol | 1982 | [10.1097/00000421-198212000-00014](https://doi.org/10.1097/00000421-198212000-00014) |
 > | Miller AB — Reporting results of cancer treatment | Cancer | 1981 | [10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6](https://doi.org/10.1002/1097-0142(19810101)47:1<207::aid-cncr2820470134>3.0.co;2-6) |
-> | List MA — A performance status scale for head and neck ca... | Cancer | 1990 | [PMID: 2364368](https://pubmed.ncbi.nlm.nih.gov/2364368/) |
-> | Piccirillo JF — Importance of comorbidity in head and nec... | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
+> | List MA — A performance status scale for head and neck cancer patients | Cancer | 1990 | [PMID: 2364368](https://pubmed.ncbi.nlm.nih.gov/2364368/) |
+> | Piccirillo JF — Importance of comorbidity in head and neck cancer | Laryngoscope | 2000 | [10.1097/00005537-200004000-00011](https://doi.org/10.1097/00005537-200004000-00011) |
 
 ---
 
