@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 355 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108)
-- **Pending:** 536
-- **Sections Complete:** 4/26
+- **Answered:** 445 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90)
+- **Pending:** 446
+- **Sections Complete:** 5/26
 
 ## Progress Bar
 ```
-████████░░░░░░░░░░░░ 39.8% (355/891)
+██████████░░░░░░░░░░ 49.9% (445/891)
 ```
 
 ---
