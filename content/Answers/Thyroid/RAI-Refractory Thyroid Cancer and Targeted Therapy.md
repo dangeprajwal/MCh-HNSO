@@ -12,7 +12,7 @@ tags:
 
 ## Source
 
-Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and Neck Surgery 4th ed Ch20; Scott-Brown's Otorhinolaryngology Head and Neck Surgery Vol 3 Ch174
+**Randolph GW. Surgery of the Thyroid and Parathyroid Glands, 3rd Ed. Elsevier, 2021**; Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and Neck Surgery 4th ed Ch20; Scott-Brown's Otorhinolaryngology Head and Neck Surgery Vol 3 Ch174
 
 > [!cite] Landmark Articles
 >
@@ -28,11 +28,31 @@ Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and
 
 ## Introduction
 
-Radioiodine (RAI) therapy is the cornerstone of adjuvant and metastatic management for differentiated thyroid cancer (DTC) — papillary and follicular subtypes. However, a subset of patients with DTC lose the ability to concentrate iodine, rendering RAI ineffective. These RAI-refractory tumours represent a fundamental therapeutic challenge, as they are associated with significantly worse prognosis: 10-year survival drops from approximately 90% in RAI-avid disease to 10-20% in RAI-refractory metastatic DTC. The median survival for patients with RAI-refractory DTC with distant metastases is approximately 3-5 years. The emergence of multi-kinase inhibitors and redifferentiation strategies has transformed the therapeutic landscape for these patients.
+Radioiodine (RAI) therapy is the cornerstone of adjuvant and metastatic management for differentiated thyroid cancer (DTC) — papillary and follicular subtypes. However, a subset of patients with DTC lose the ability to concentrate iodine, rendering RAI ineffective. These RAI-refractory tumours represent a fundamental therapeutic challenge, as they are associated with significantly worse prognosis: 10-year survival drops from approximately 90% in RAI-avid disease to 10-20% in RAI-refractory metastatic DTC. The median survival for patients with RAI-refractory DTC with distant metastases is approximately 3-5 years. The emergence of multi-kinase inhibitors and redifferentiation strategies has transformed the therapeutic landscape for these patients. As Randolph Ch 52 emphasises, oral small molecule inhibitors targeting several oncogenic pathways have revolutionised treatment of DTC, but these multikinase inhibitors carry off-target side effects that affect quality of life, so the overall benefits must be weighed against the potential downsides in therapeutic decision making. The advent of genomic analysis and identification of specific driver alterations have spurred the development of more potent and highly selective therapies to treat patients harbouring targetable alterations more effectively and with fewer adverse events.
+
+## When to Start Systemic Therapy
+
+Randolph Ch 52 provides a detailed framework for deciding when to initiate systemic therapy in RAI-refractory DTC, which is a critical clinical decision:
+
+- **Metastatic DTC often presents as a relatively slow-growing and asymptomatic cancer** — as long as there is response to RAI, prognosis is good even with metastatic disease; tumours that are de novo resistant or become RAI-refractory have considerably worse prognosis
+- **Locoregional therapy** (surgery, EBRT) is considered for localised tumour burden, whereas **systemic treatments are reserved for widespread metastatic disease**, especially when progression occurs
+- **Kinase inhibitors are not curative** and can cause QoL-affecting side effects — deciding when to initiate therapy is challenging
+
+### Factors to Consider Before Starting Systemic Therapy (Randolph)
+
+| Factor | Details |
+|---|---|
+| Pace of tumour growth | Slowly progressive, asymptomatic, low-burden disease may be followed under active surveillance |
+| Symptoms | Systemic treatment should be considered when symptoms are present or thought to be imminent |
+| Disease bulk | Bulky or progressive disease favours earlier intervention |
+| Anatomic location | Brain metastases, proximity to airway, spinal cord involvement, risk of pathologic fracture from bone metastasis |
+| Side effects | Must be weighed against potential benefits; frank discussion with the patient required |
+| Performance status | Patient's comorbidities and functional status |
+| Patient preference | After thorough discussion and risk-benefit assessment |
 
 ## Definition of RAI-Refractory Disease
 
-The ATA 2015 guidelines (Haugen et al.) provide the most widely accepted definition of RAI-refractory DTC. A patient is considered RAI-refractory if they meet any one of the following criteria:
+The ATA 2015 guidelines (Haugen et al.) provide the most widely accepted definition of RAI-refractory DTC. Randolph Ch 52 distils this into four clear categories: patients with RAI-refractory DTC fall into (1) those with malignant disease that has never concentrated RAI, (2) patients with tumours with prior RAI uptake that subsequently lost the ability to concentrate RAI, (3) patients with RAI uptake in some but not all sites of disease (mixed uptake), and (4) disease progression despite RAI uptake.
 
 ### ATA Criteria for RAI-Refractory DTC
 
@@ -83,36 +103,58 @@ Even if iodide is transported into the cell, it must be organified (bound to thy
 
 | Mutation | Prevalence | Mechanism of Resistance |
 |---|---|---|
-| BRAF V600E | 40-60% PTC | Strong MAPK activation, profound NIS suppression, methylation of thyroid-specific genes |
-| RAS mutations | 20-40% FTC, 10-15% PTC | Moderate MAPK activation, PI3K pathway co-activation |
-| RET/PTC rearrangements | 10-20% PTC | MAPK pathway activation, variable effect on NIS |
+| BRAF V600E | ~58% PTC (Randolph/TCGA), 40-60% overall | Strong MAPK activation, profound NIS suppression, methylation of thyroid-specific genes |
+| RAS mutations (N/H RAS) | 40-50% FTC, 10-15% PTC | Moderate MAPK activation, PI3K pathway co-activation; RAS-mutated thyroid cancers prone to distant metastases to lung and bone (Randolph) |
+| RET/PTC rearrangements | ~20% PTC; up to 72% in radiation-exposed (Chernobyl) PTC; enriched in paediatric/young adult thyroid cancers (Randolph) | MAPK pathway activation, variable effect on NIS |
 | TERT promoter | 7-22% DTC | Marker of aggressive biology, associated with dedifferentiation |
 | TP53 | Advanced/ATC | Complete loss of differentiation, transformation to anaplastic |
+| ALK translocations | 2.2% PTC; 13% diffuse sclerosing variant PTC (Randolph) | Mutually exclusive with other driver mutations; potentially targetable with crizotinib |
+| NTRK fusions | ~2% PTC; up to 14.5% in radiation-associated PTC (Randolph) | Oncogenic kinase fusions targetable with larotrectinib/entrectinib |
 
 ## Redifferentiation Strategies
 
-The concept of redifferentiation involves using targeted agents to restore RAI uptake in previously non-avid tumours by reactivating thyroid-specific gene expression.
+The concept of redifferentiation involves using targeted agents to restore RAI uptake in previously non-avid tumours by reactivating thyroid-specific gene expression. As Randolph Ch 52 notes, small molecule inhibitors of MEK were found to restore expression of the sodium iodide symporter and uptake of iodine in preclinical thyroid cancer mouse models, forming the basis for clinical translation.
 
 ### MEK Inhibitors — Selumetinib
 
 Ho et al. (2013) demonstrated the proof-of-concept for redifferentiation:
 - **Study design:** 20 patients with RAI-refractory metastatic DTC treated with selumetinib (75 mg twice daily) for 4 weeks, followed by iodine-124 PET/CT dosimetry
-- **Results:** 12/20 (60%) showed increased RAI uptake; 8/12 reached the dosimetry threshold for therapeutic RAI
+- **Results:** 12/20 (60%) showed increased RAI uptake; 8/12 reached the dosimetry threshold for therapeutic RAI (predicted lesional dose >/=2000 cGy per Randolph)
+- **Of the 8 patients treated with RAI:** 5 achieved partial response, 3 had stable disease (Randolph)
 - **NRAS-mutant tumours:** 5/5 (100%) showed restoration of RAI uptake — most dramatic responders
 - **BRAF-mutant tumours:** 4/9 (44%) showed increased uptake, but responses were less robust
+- **Safety:** No grade 3 adverse events attributable to selumetinib, though one patient developed myelodysplasia and acute leukaemia 51 weeks after RAI (Randolph)
 - **Clinical significance:** Established that MAPK pathway inhibition can reverse the dedifferentiation phenotype
 
-### BRAF Inhibitors — Dabrafenib and Vemurafenib
+### ASTRA Trial — Phase III of Selumetinib (Negative)
 
-- BRAF V600E-specific inhibitors can restore RAI uptake in BRAF-mutant RAI-refractory DTC
+Randolph Ch 52 documents the important negative ASTRA trial:
+- **Design:** Phase III study comparing addition of selumetinib to adjuvant RAI vs placebo in high-risk nonmetastatic DTC
+- **Results:** No improvement in outcomes — CRR was 40% with selumetinib vs 38% with placebo (OR 1.07; 95% CI 0.61-1.87; p = 0.82)
+- **Interpretation:** Selumetinib did not enhance adjuvant RAI in high-risk nonmetastatic DTC; its role remains in the metastatic redifferentiation setting
+
+### BRAF Inhibitors — Vemurafenib
+
+Randolph Ch 52 provides detailed vemurafenib data in RAI-refractory BRAF V600E-mutant PTC:
+- **Retrospective MD Anderson series:** 7/17 patients had partial response, 8 had stable disease; median time to treatment failure 13 months
+- **Phase 2 trial (Brose et al. 2016):** Two cohorts — treatment-naive and prior-VEGFR-MKI
+  - **Cohort 1 (treatment-naive):** 10/26 (38%) partial response; median PFS 18.2 months; median duration of response 16.5 months
+  - **Cohort 2 (prior MKI):** 6/22 (27%) partial response; median PFS 8.9 months; median duration of response 7.4 months
+- **Adverse events:** Rash, fatigue, weight loss, taste alteration, alopecia; grade 3-4 included cutaneous squamous cell carcinoma, keratoacanthoma
+
+### BRAF Inhibitors — Dabrafenib
+
 - Rothenberg et al. (2015) showed dabrafenib restored RAI uptake in 6/10 BRAF V600E-mutant RAI-refractory PTC patients
 - Mechanism: Direct inhibition of the mutant BRAF protein reduces MAPK signalling and allows re-expression of NIS and TPO
 
-### Combined BRAF + MEK Inhibition
+### Combined BRAF + MEK Inhibition — Dabrafenib + Trametinib
 
-- Rationale: Prevents paradoxical MAPK reactivation through feedback loops
-- Dabrafenib + trametinib combination under investigation for redifferentiation
-- May achieve more durable re-expression of thyroid differentiation genes
+Randolph Ch 52 details the pivotal phase 2 randomised study:
+- **Design:** 53 patients with BRAF-mutated RAI-refractory PTC; 25% had received 1-3 prior MKIs
+- **Arm A (dabrafenib monotherapy, 150 mg BD):** N=26, ORR 50%, median PFS 11.4 months, median duration of response 15.6 months
+- **Arm B (dabrafenib 150 mg BD + trametinib 2 mg daily):** N=27, ORR 54%, median PFS 15.1 months, median duration of response 13.3 months
+- **Key finding:** Unlike in melanoma where combination is clearly superior, this study showed no statistically significant difference in ORR, median PFS, or duration of response between the two arms — however, both monotherapy and combination were tolerable
+- Rationale for combination: Prevents paradoxical MAPK reactivation through feedback loops
 
 ### Practical Approach to Redifferentiation
 
@@ -121,96 +163,159 @@ Ho et al. (2013) demonstrated the proof-of-concept for redifferentiation:
 3. Select appropriate targeted agent based on mutation profile
 4. Administer targeted agent for 4-6 weeks
 5. Repeat iodine-124 PET/CT dosimetry
-6. If dosimetry threshold reached, proceed with therapeutic RAI while continuing targeted agent
+6. If dosimetry threshold reached (>/=2000 cGy to target lesions), proceed with therapeutic RAI while continuing targeted agent
 7. Reassess response at 6-12 months
 
 ## Targeted Therapy: Multi-Kinase Inhibitors
 
-For patients with progressive RAI-refractory DTC who are not candidates for or have failed redifferentiation, systemic therapy with multi-kinase inhibitors (MKIs) is the standard of care.
+For patients with progressive RAI-refractory DTC who are not candidates for or have failed redifferentiation, systemic therapy with multi-kinase inhibitors (MKIs) is the standard of care. Per Randolph Ch 52, lenvatinib and sorafenib are the current standard of care therapies approved by regulatory bodies for RAI-refractory progressive DTC.
 
 ### Lenvatinib — SELECT Trial
 
-Schlumberger et al. (2015):
+Schlumberger et al. (2015), detailed in Randolph Ch 52:
 
 | Parameter | Details |
 |---|---|
-| Design | Phase III, randomised, double-blind, placebo-controlled |
+| Design | Phase III, randomised, double-blind, placebo-controlled, multicentre international |
 | N | 392 (lenvatinib 261, placebo 131) |
 | Population | RAI-refractory DTC with radiographic progression within 12 months |
-| Drug | Lenvatinib 24 mg daily |
+| Drug | Lenvatinib 24 mg daily in 28-day cycles |
 | Targets | VEGFR1-3, FGFR1-4, PDGFR-alpha, RET, KIT |
-| PFS | 18.3 vs 3.6 months (HR 0.21, p<0.001) |
-| ORR | 64.8% vs 1.5% |
-| CR rate | 1.5% |
-| OS | No significant difference (crossover allowed) |
-| Key toxicities | Hypertension (68%), diarrhoea (59%), fatigue (59%), decreased appetite (50%), weight loss (46%), proteinuria (31%) |
+| Primary endpoint | PFS |
+| PFS | 19.4 vs 3.6 months (HR 0.21; 99% CI 0.14-0.31; p<0.001) per Randolph |
+| ORR | 65% (including 4 complete responses); responses durable with median duration of 30 months (Randolph) |
+| OS | No significant difference (crossover design — 88% of placebo patients crossed over to lenvatinib); updated analysis showed OS benefit in patients >65 years (Randolph) |
+| Subgroup analyses | PFS benefit maintained across all subgroups: prior VEGF-targeted therapy, all histologic subtypes, all anatomic sites including bone (Randolph) |
+| Key toxicities | Hypertension (68%), diarrhoea (59%), fatigue (59%), anorexia (50%), weight loss (46%), nausea (41%) |
+| Discontinuation | 14% discontinued due to toxicity; 2% treatment-related deaths (Randolph) |
 
 ### Sorafenib — DECISION Trial
 
-Brose et al. (2014):
+Brose et al. (2014), detailed in Randolph Ch 52:
 
 | Parameter | Details |
 |---|---|
-| Design | Phase III, randomised, double-blind, placebo-controlled |
+| Design | Phase III, international multicentre, randomised, double-blind, placebo-controlled with crossover |
 | N | 417 (sorafenib 207, placebo 210) |
 | Population | RAI-refractory locally advanced/metastatic DTC with progression within 14 months |
 | Drug | Sorafenib 400 mg twice daily |
-| Targets | VEGFR1-3, PDGFR-beta, RAF, RET, KIT |
-| PFS | 10.8 vs 5.8 months (HR 0.59, p<0.001) |
-| ORR | 12.2% vs 0.5% |
-| OS | No significant difference (crossover allowed) |
-| Key toxicities | Hand-foot skin reaction (76%), diarrhoea (69%), alopecia (67%), rash/desquamation (50%) |
+| Targets | VEGFR1-3, PDGFR-beta, RAF, RET |
+| PFS | 10.8 vs 5.8 months (HR 0.59; 95% CI 0.45-0.76; p<0.0001) |
+| ORR | 12% with median duration of response 10.2 months (Randolph) |
+| OS | No significant difference; no separation of survival curves seen (Randolph) |
+| QoL impact | FACT-G survey showed patients on sorafenib had overall lower QoL compared with placebo, especially early in therapy (Randolph) — underscores need for thorough discussion before starting therapy |
+| Key toxicities | Hand-foot skin reaction (76%), diarrhoea (69%), alopecia (67%), rash/desquamation (50%); 99% had adverse events (mostly grade 1-2) |
+| Treatment-related death | One death attributed to sorafenib (myocardial infarction) (Randolph) |
 
 ### Lenvatinib vs Sorafenib — Comparison
 
 | Feature | Lenvatinib | Sorafenib |
 |---|---|---|
-| PFS benefit | 14.7 months gain | 5 months gain |
-| ORR | 64.8% | 12.2% |
+| PFS benefit | ~16 months gain | 5 months gain |
+| ORR | 65% | 12% |
+| Duration of response | Median 30 months | Median 10.2 months |
 | Unique targets | FGFR1-4 | Direct RAF inhibition |
 | Approval | 2015 (FDA, EMA) | 2013 (FDA), 2014 (EMA) |
 | Preferred 1st line? | Generally yes (higher RR, longer PFS) | Alternative if lenvatinib-intolerant |
 | Dose | 24 mg once daily | 400 mg twice daily |
 | FGFR activity | Yes — broader anti-angiogenic | No |
+| QoL impact | Side effects manageable with dose modification | Documented lower QoL vs placebo on FACT-G |
+
+### Second-Line: Cabozantinib in DTC
+
+Randolph Ch 52 highlights cabozantinib as an important second-line option after VEGFR-inhibitor failure:
+- **Targets:** MET and VEGFR; c-MET upregulation is implicated as a mediator of resistance to VEGFR kinase inhibitors
+- **ITOG phase 2 trial:** Only prospective study addressing the unmet need in patients refractory to prior VEGFR inhibitors
+  - N=25 patients with RAI-refractory DTC who had progressed on prior VEGFR kinase inhibitors
+  - **ORR 40%** (10/25 partial response), **SD 52%** (13/25)
+  - Median PFS 12.7 months, median OS 34.7 months
+  - Common adverse events: fatigue, weight loss, diarrhoea, palmar-plantar erythrodysaesthesia, hypertension
+  - One treatment-related death (CNS bleeding in patient on enoxaparin for pulmonary embolism)
+- Demonstrates clinically significant and durable responses in the post-VEGFR-inhibitor setting
 
 ## Targeted Therapy for Medullary Thyroid Cancer (MTC)
 
 ### Vandetanib
 
 - Phase III ZETA trial: PFS 30.5 vs 19.3 months (HR 0.46, p<0.001) in advanced MTC
-- Targets: VEGFR2, EGFR, RET
+- Targets: VEGFR2-3, EGFR, RET
 - FDA approved 2011 for advanced MTC
-- Key toxicity: QTc prolongation (requires ECG monitoring), diarrhoea, rash
+- ORR 45% per RECIST with disease control rate 87%; biochemical responses in >50% (Randolph)
+- Key toxicity: QTc prolongation (requires ECG monitoring), diarrhoea (30%+), rash, nausea, hypertension; 12% discontinued due to adverse events (Randolph)
 
 ### Cabozantinib
 
-- Phase III EXAM trial: PFS 11.2 vs 4.0 months (HR 0.28, p<0.001) in progressive MTC
+- Phase III EXAM trial: PFS 11.2 vs 4.0 months (HR 0.28; 95% CI 0.19-0.40; p<0.001) in progressive MTC
 - Targets: MET, VEGFR2, RET
 - FDA approved 2012 for progressive metastatic MTC
-- Key toxicity: diarrhoea, palmar-plantar erythrodysaesthesia, weight loss
+- ORR 28% per RECIST; 21% of enrolled patients had received prior TKI, and PFS benefit was maintained in this subgroup (Randolph)
+- **OS benefit in RET M918T subgroup:** median OS 44.3 months with cabozantinib vs 18.9 months with placebo (HR 0.28; p<0.03) (Randolph)
+- Key toxicity: diarrhoea, palmar-plantar erythrodysaesthesia, weight loss, anorexia, nausea, fatigue; grade 3-4 adverse events in 69%; dose decreases in 79%, treatment discontinuation in 16% (Randolph)
 
 ### RET-Selective Inhibitors
 
-- **Selpercatinib** (LIBRETTO-001): ORR 69% in previously treated RET-mutant MTC, 73% in treatment-naive
-- **Pralsetinib** (ARROW): ORR 60% in previously treated, 71% in treatment-naive RET-mutant MTC
-- Highly selective for RET, fewer off-target toxicities than MKIs
-- Emerging as preferred first-line for RET-mutant MTC
+Randolph Ch 52 details two novel, highly specific and potent RET inhibitors that represent a paradigm shift — specifically targeting the driver RET alteration with minimal off-target toxicity:
+
+**Selpercatinib (LOXO-292) — LIBRETTO-001 trial:**
+- Oral selective RET inhibitor designed to potently and specifically inhibit the RET kinase alone
+- Phase 1 dose escalation first-in-human trial: 29 RET-mutant MTC and 9 RET-fusion thyroid cancer patients (Randolph)
+- **ORR 59% in RET-mutant MTC; ORR 78% in RET-fusion thyroid cancer** (Randolph)
+- Well tolerated with few grade 3+ toxicities; grade 1-2 adverse events (>/=10%): diarrhoea, fatigue, xerostomia, constipation, hypomagnesaemia, cough, headache, nausea
+- Calcitonin and CEA levels declined substantially; responses durable with nearly all MTC patients remaining in response at median follow-up
+- Published updated data: ORR 69% in previously treated RET-mutant MTC, 73% in treatment-naive
+
+**Pralsetinib (BLU-667) — ARROW trial:**
+- Oral, highly selective and potent RET inhibitor designed to specifically inhibit RET kinase, minimising off-target side effects
+- Phase 1 first-in-human study: 37 MTC patients treated (Randolph)
+- **ORR 49% across all dose levels** in MTC; responses appear durable (longest ongoing at 15 months) (Randolph)
+- Also active in RET-fusion PTC: responses seen in 2/5 patients enrolled (Randolph)
+- Well tolerated; most adverse events grade 1-2: constipation, transaminitis, hypertension, leucopenia, diarrhoea, neutropenia, increased creatinine, fatigue, headache
+- Calcitonin and CEA levels declined dramatically
+- Published updated data: ORR 60% in previously treated, 71% in treatment-naive RET-mutant MTC
+
+**Clinical significance (Randolph):** The combination of tolerability and activity with these selective RET inhibitors is expected to usher in a new era of treatment for RET-driven cancers. Emerging as preferred first-line for RET-mutant MTC and RET-fusion DTC.
+
+## NTRK Fusion Inhibitors
+
+Randolph Ch 52 provides specific data on NTRK-targeted therapy:
+- NTRK 1-3 genes encode Trk A-C proteins; fusions found in ~2% of PTCs and up to 14.5% of radiation-associated thyroid cancers (Randolph)
+- **Larotrectinib:** Specific and potent inhibitor of Trk alone; of 55 patients across tumour types, 7 had thyroid cancer (including 1 anaplastic thyroid cancer) — **all 7 patients responded**, even the ATC patient (Randolph)
+- **Entrectinib:** Broader spectrum (NTRK1/2/3, ROS1, ALK); studied in basket trial including locally advanced/metastatic PTC
+- ORR >75% — highly effective in fusion-positive tumours
+- NTRK fusions found in 2-5% of PTC and up to 25% of radiation-induced PTC
 
 ## Immunotherapy
 
 ### Pembrolizumab in Thyroid Cancer
 
-- PD-L1 expression variable in DTC (10-30%) and higher in ATC (up to 70%)
-- KEYNOTE trials: modest activity in DTC, more promising in ATC
-- Combination approaches under investigation (pembrolizumab + lenvatinib)
-- Currently not standard of care for DTC; more relevant for anaplastic thyroid cancer
+Randolph Ch 52 documents the KEYNOTE-028 basket trial data:
+- **KEYNOTE-028 (NCT02054806):** Pembrolizumab monotherapy in advanced PTC or FTC who failed prior standard therapy; PD-L1 >/=1% required for enrolment
+- **N=22 patients:** 68% PTC, 32% FTC
+- **Results:** ORR 9% (2 partial responses); 55% (12 patients) had stable disease; OS at 6 months 100%, PFS 59% (Randolph)
+- Modest single-agent activity in DTC
+
+### Pembrolizumab + Lenvatinib Combination
+
+Per Randolph, an ongoing phase 2 multicentre ITOG trial (NCT02973997) is studying this combination:
+- Based on preclinical evidence of synergy between VEGFR inhibition and immune therapy
+- Two cohorts: lenvatinib-naive patients with progressive RAI-refractory DTC, and patients with progressive disease on lenvatinib (pembrolizumab added)
+- Primary objective: whether pembrolizumab added to lenvatinib improves complete response rate over lenvatinib alone
 
 ### Emerging Immunotherapy Approaches
 
-- Combination checkpoint inhibitors (anti-PD-1 + anti-CTLA-4)
-- Oncolytic virotherapy
-- Adoptive cell therapy — early phase trials
-- Tumour-infiltrating lymphocyte (TIL) therapy under investigation
+Randolph Ch 52 lists several ongoing immunotherapy trials in thyroid cancer:
+- **Nivolumab + ipilimumab** (PD-1 + CTLA-4 inhibitor combination) in RAI-refractory DTC (NCT03246958)
+- **Pembrolizumab monotherapy** phase 2 trials in rare thyroid cancers including DTC (papillary, follicular, Hurthle cell, poorly differentiated), MTC, and ATC (NCT03012620, NCT02628067)
+- **Pembrolizumab + intratumoral Clostridium novyi-NT** injection in treatment-refractory solid tumours including thyroid cancer (NCT03435952) (Randolph)
+- Currently not standard of care for DTC; more relevant for anaplastic thyroid cancer
+
+## Potential Effect of Genotyping and Targeting Driver Alterations (Randolph)
+
+Randolph Ch 52 emphasises the emerging paradigm of genotype-driven treatment:
+- Current systemic therapies for RAI-refractory DTC are primarily MKIs targeting multiple kinases including VEGFRs — effective but with significant off-target toxicity
+- Taking driver alterations in advanced thyroid cancer as a whole (BRAF, N/H RAS, PTEN mutations; RET, NTRK 1&3, BRAF, PPARgamma, ALK, ROS1 fusions), the **majority of patients with advanced thyroid cancer will be found to have an actionable alteration** on next-generation sequencing (NGS) testing
+- PTCs harbour the **highest rate (12%) of recurrent oncogenic kinase fusions** seen in all solid tumours analysed in The Cancer Genome Atlas (TCGA) programme (Randolph)
+- A new paradigm for **genotype-phenotype-treatment approaches** in advanced thyroid cancer is on the horizon — NGS profiling should be incorporated into routine clinical decision making
 
 ## Management Algorithm for Progressive RAI-Refractory DTC
 
@@ -234,6 +339,7 @@ Brose et al. (2014):
 | Slowly progressive, asymptomatic | Continue surveillance; consider intervention when cumulative progression is clinically significant |
 | Rapidly progressive (doubling time <1 year) | Initiate systemic therapy |
 | Symptomatic disease | Intervention required — local or systemic |
+| Brain, airway, spinal cord, or fracture risk (Randolph) | Consider earlier intervention regardless of pace due to anatomic threat |
 
 ### Step 4: Local Therapies
 
@@ -244,10 +350,10 @@ Brose et al. (2014):
 
 ### Step 5: Systemic Therapy Sequencing
 
-1. **Molecular profiling** — BRAF, RAS, RET, NTRK fusions
-2. **Consider redifferentiation** if actionable mutation present
+1. **Molecular profiling** — BRAF, RAS, RET, NTRK fusions, ALK (NGS recommended per Randolph)
+2. **Consider redifferentiation** if actionable mutation present (MEK inhibitor for RAS-mutant; BRAF inhibitor +/- MEK inhibitor for BRAF V600E)
 3. **First-line MKI:** Lenvatinib (preferred) or sorafenib
-4. **Second-line:** Switch MKI class; if BRAF V600E — dabrafenib + trametinib
+4. **Second-line:** Cabozantinib (especially after VEGFR-inhibitor failure — ITOG phase 2 data, Randolph); or switch MKI class; if BRAF V600E — dabrafenib + trametinib (or dabrafenib monotherapy, as combination showed no significant superiority in thyroid cancer per Randolph)
 5. **Mutation-specific therapy:** Selpercatinib/pralsetinib (RET), larotrectinib/entrectinib (NTRK)
 6. **Clinical trials** — immunotherapy combinations, novel targets
 
@@ -265,13 +371,15 @@ Brose et al. (2014):
 | Hepatotoxicity | 5% | 7% | LFT monitoring every 2-4 weeks initially; dose reduce/hold |
 | QTc prolongation | Rare | Rare | ECG monitoring; electrolyte correction; avoid QTc-prolonging drugs |
 | Arterial thromboembolic events | 3-5% | 2-3% | Discontinue if occurs; relative contraindication in high-risk patients |
+| Thrombosis, fistula, haemorrhage | Rare but serious (Randolph) | Rare but serious | Monitor closely; impaired wound healing also a concern with all anti-VEGFR agents |
 
 ### Dose Modification Principles
 
-- **Lenvatinib:** Start 24 mg daily; first reduction to 20 mg, then 14 mg, then 10 mg
+- **Lenvatinib:** Start 24 mg daily; first reduction to 20 mg, then 14 mg, then 10 mg; side effects generally manageable with supportive care, dose holds, and dose reductions (Randolph); discontinued in 14% due to toxicity in SELECT
 - **Sorafenib:** Start 400 mg BID; first reduction to 400 mg + 200 mg, then 400 mg daily
 - Dose interruptions should be brief (1-2 weeks) with re-escalation when toxicity resolves
 - Up to 40-60% of patients require dose modifications in clinical practice
+- Per Randolph: a discussion addressing potential side effects and the benefits of therapy must take place before starting any therapy, particularly given the documented QoL impact
 
 ## Management of Recurrent Non-Iodine-Avid DTC
 
@@ -292,32 +400,41 @@ Brose et al. (2014):
 
 ## Emerging Strategies
 
-### NTRK Fusion Inhibitors
-
-- Larotrectinib and entrectinib for NTRK fusion-positive thyroid cancers
-- NTRK fusions found in 2-5% of PTC and up to 25% of radiation-induced PTC
-- ORR >75% — highly effective in fusion-positive tumours
-
 ### Selective RET Inhibitors in DTC
 
-- RET fusions (RET/PTC) found in 10-20% of PTC
-- Selpercatinib and pralsetinib show promising activity in RET fusion-positive DTC
+- RET fusions (RET/PTC) found in ~20% of PTC; enriched in radiation-exposed and paediatric/young adult thyroid cancers (Randolph)
+- Selpercatinib ORR 78% in RET-fusion thyroid cancer (Randolph LIBRETTO-001 data); pralsetinib also active (2/5 responded in early data)
+- PTCs harbour the highest rate of recurrent oncogenic kinase fusions of all solid tumours (12% per TCGA, Randolph)
+
+### ALK-Driven DTC
+
+Per Randolph Ch 52:
+- ALK translocations found in 2.2% of PTCs and 13% of diffuse sclerosing variant PTC
+- Mutually exclusive with other driver mutations; translocation partners include EML4, STRN, TGF, GTF2IRD1
+- Crizotinib has shown antitumour activity in preclinical models and case reports of ALK-translocated thyroid carcinoma
 
 ### Combination Strategies
 
-- MKI + immunotherapy (lenvatinib + pembrolizumab)
-- Dual checkpoint blockade
+- MKI + immunotherapy (lenvatinib + pembrolizumab — ITOG trial ongoing per Randolph)
+- Dual checkpoint blockade (nivolumab + ipilimumab — NCT03246958 per Randolph)
 - Targeted therapy + RAI (redifferentiation + therapeutic RAI)
 
 ## Exam-Relevant Key Points
 
 > [!tip] High-Yield Points
-> - RAI-refractory is defined by ATA criteria — know all four categories (no uptake, progression despite RAI, uptake without response, cumulative dose >600 mCi)
+> - RAI-refractory is defined by ATA criteria — Randolph distils into four categories: (1) never concentrated RAI, (2) lost RAI uptake, (3) mixed uptake (some but not all sites), (4) progression despite RAI uptake
 > - The "flip-flop" phenomenon — as tumours dedifferentiate, they lose RAI avidity and gain FDG avidity; this is a key prognostic indicator
-> - Lenvatinib (SELECT trial) has the highest ORR (64.8%) of any MKI in thyroid cancer — compared to 12.2% for sorafenib (DECISION trial)
-> - Selumetinib redifferentiation works best in RAS-mutant tumours (100% response vs 44% for BRAF-mutant)
-> - Not all RAI-refractory disease requires immediate systemic therapy — active surveillance is appropriate for stable, asymptomatic, low-volume disease
-> - Molecular profiling is essential for treatment selection: BRAF/RAS for redifferentiation, RET/NTRK for selective inhibitors
+> - Lenvatinib (SELECT trial) has the highest ORR (65%) of any MKI in thyroid cancer with durable responses (median 30 months) — compared to 12% for sorafenib (DECISION trial, median DOR 10.2 months) per Randolph
+> - SELECT PFS is 19.4 vs 3.6 months per Randolph; 88% placebo crossover; OS benefit demonstrated in patients >65 years
+> - Sorafenib DECISION trial documented lower QoL on FACT-G assessment, especially early in therapy — critical for exam discussion of treatment decisions
+> - Selumetinib redifferentiation works best in RAS-mutant tumours (100% response vs 44% for BRAF-mutant); the ASTRA phase III trial of selumetinib in adjuvant setting was negative (Randolph)
+> - Dabrafenib +/- trametinib: ORR ~50-54% in BRAF-mutant PTC; unlike melanoma, no significant benefit of combination over monotherapy (Randolph)
+> - Vemurafenib phase 2: ORR 38% treatment-naive, 27% after prior MKI in BRAF V600E PTC (Randolph)
+> - Not all RAI-refractory disease requires immediate systemic therapy — active surveillance is appropriate for stable, asymptomatic, low-volume disease; anatomic location (brain, airway, spine) may mandate earlier intervention (Randolph)
+> - Cabozantinib is an effective second-line option in DTC after VEGFR-inhibitor failure: ORR 40%, median PFS 12.7 months (ITOG trial, Randolph)
+> - Molecular profiling is essential for treatment selection: BRAF/RAS for redifferentiation, RET/NTRK/ALK for selective inhibitors; majority of patients will have an actionable alteration on NGS (Randolph)
+> - Selpercatinib (LOXO-292): ORR 59% MTC, 78% RET-fusion thyroid cancer; pralsetinib (BLU-667): ORR 49% MTC — both well tolerated with minimal off-target effects (Randolph)
+> - Larotrectinib: 7/7 thyroid cancer patients responded including one ATC patient (Randolph)
 > - Hypertension is the most common serious toxicity of lenvatinib and requires aggressive management
 > - Sorafenib causes hand-foot syndrome more frequently than lenvatinib
 

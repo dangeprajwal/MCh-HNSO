@@ -11,7 +11,7 @@ tags:
 
 ## Source
 
-Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and Neck Surgery 4th ed Ch20; Scott-Brown's Otorhinolaryngology Head and Neck Surgery Vol 3 Ch174
+**Randolph GW. Surgery of the Thyroid and Parathyroid Glands, 3rd Ed. Elsevier, 2021**; Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and Neck Surgery 4th ed Ch20; Scott-Brown's Otorhinolaryngology Head and Neck Surgery Vol 3 Ch174
 
 > [!cite] Landmark Articles
 >
@@ -27,34 +27,88 @@ Jatin Shah's Head and Neck Surgery and Oncology 5th ed Ch16; Harrison's Head and
 
 ## Introduction
 
-Ultrasound is the primary imaging modality for evaluation of thyroid nodules and cervical lymph nodes. With thyroid nodules present in up to 67% of the adult population on high-resolution ultrasound, the challenge lies not in detection but in accurate risk stratification to identify the 5-10% that are malignant while avoiding unnecessary biopsies of benign nodules. Structured reporting systems (TIRADS) and adjunctive technologies such as elastography have been developed to standardise this process, improve specificity, and guide clinical decision-making.
+Ultrasound is the primary imaging modality for evaluation of thyroid nodules and cervical lymph nodes. With thyroid nodules present in up to 67% of the adult population on high-resolution ultrasound, the challenge lies not in detection but in accurate risk stratification to identify the 5-10% that are malignant while avoiding unnecessary biopsies of benign nodules. Structured reporting systems (TIRADS) and adjunctive technologies such as elastography have been developed to standardise this process, improve specificity, and guide clinical decision-making. As Randolph emphasises, US has become integral to initial assessment and workup, preoperative planning, and long-term follow-up and surveillance of thyroid disease, functioning as an extension of the physical examination in the outpatient setting.
 
 ## Role of Ultrasound in Thyroid Nodule Evaluation
 
-### Primary Indications
+### Principal Goals and Indications (Randolph)
 
 | Indication | Details |
 |---|---|
 | Palpable thyroid nodule | Confirm nodule, assess characteristics, measure size |
-| Incidental nodule (thyroid incidentaloma) | Found on CT, MRI, PET, or carotid US |
-| Abnormal thyroid function tests | Identify structural correlate |
+| Incidental nodule (thyroid incidentaloma) | Found on CT, MRI, PET, or carotid US; routine screening US not recommended for general population due to high incidence of clinically insignificant nodules (nonpalpable nodules visible in up to 70% by US) |
+| Abnormal thyroid function tests | Identify structural correlate; ATA recommends US for all patients with elevated TSH |
 | Family history of thyroid cancer or MEN | Screening |
 | History of head/neck radiation | Increased thyroid cancer risk |
-| Pre-operative planning | Map nodule(s), assess lymph nodes |
-| Post-treatment surveillance | Detect recurrence in thyroid bed and nodes |
-| Guided FNAC | Real-time needle guidance |
+| Pre-operative planning | Map nodule(s), assess lymph nodes, evaluate for extrathyroidal extension and capsular contact |
+| Post-treatment surveillance | Detect recurrence in thyroid bed and central/lateral cervical lymph node compartments; US increasingly replacing radioiodine scanning for surveillance |
+| Guided FNAC | Real-time needle guidance; US-guided FNA improves sensitivity, specificity, and accuracy compared with palpation-guided FNA |
+| Screen for concurrent pathology | Identify coexisting thyroid disease in patients undergoing workup for hyperparathyroidism |
+
+### Ultrasound Equipment and Technique (Randolph)
+
+| Parameter | Recommendation |
+|---|---|
+| Transducer | Linear-array, high-frequency (7.5 MHz or greater, ideally 10-15 MHz); higher frequency gives better axial resolution for superficial structures |
+| Patient position | Supine with neck extended (rolled towel under shoulders); seated position acceptable |
+| Imaging planes | Transverse and sagittal for each lobe and isthmus |
+| Normal lobe dimensions | Transverse 1.5-2 cm, sagittal 4-5 cm, AP 2 cm |
+| Normal parenchyma | Fine, uniform echoes, slightly hyperechoic compared with surrounding muscles (due to iodine content) |
+| Doppler | Colour Doppler for vascularity assessment; power Doppler preferred for small vessels and lymph nodes (higher sensitivity, direction-independent) |
+| Complete examination | Must include bilateral cervical lymph node compartments (central and lateral) in addition to thyroid gland |
 
 ### Key US Features Assessed
 
 | Feature | Benign Indicators | Malignant Indicators |
 |---|---|---|
-| Composition | Purely cystic, spongiform | Solid |
-| Echogenicity | Hyperechoic, isoechoic | Hypoechoic, markedly hypoechoic |
-| Shape | Wider-than-tall | **Taller-than-wide** (growth against tissue planes) |
+| Composition | Purely cystic, spongiform (>50% microcystic components = >99% specific for benign histology) | Solid |
+| Echogenicity | Hyperechoic, isoechoic | Hypoechoic, markedly hypoechoic (darker than strap muscles) |
+| Shape | Wider-than-tall | **Taller-than-wide** (AP > transverse on transverse view; growth against tissue planes) |
 | Margins | Smooth, well-defined | Irregular, microlobulated, ill-defined, extrathyroidal extension |
-| Echogenic foci | Comet-tail artefacts (colloid) | Microcalcifications (psammoma bodies) |
-| Vascularity | Peripheral | Intranodular, chaotic |
-| Halo sign | Complete, uniform hypoechoic halo | Incomplete or absent halo |
+| Halo sign | Complete, uniform hypoechoic halo (compressed vascularity of adjacent parenchyma) | Incomplete, absent, or avascular halo (avascular halo = true capsule, may be invaded by neoplastic cells) |
+| Echogenic foci | Comet-tail artefacts (colloid crystals — invariably benign per Ahuja) | Microcalcifications (<1 mm hyperechoic lucencies, representing psammoma bodies) |
+| Calcifications | Peripheral/eggshell calcification (previous haemorrhage) | Rim calcification with soft tissue extrusion; coarse calcifications within a solid hypoechoic nodule |
+| Vascularity | Peripheral (perinodular) | Intranodular, chaotic, disorganised hypervascularity |
+| Capsular contact | No contact between nodule and thyroid capsule | >25% capsular contact — useful marker for predicting extrathyroidal extension |
+
+### Sonographic Features Predictive of Malignancy (Randolph Ch 13)
+
+Randolph emphasises that although individual US characteristics offer high sensitivity, no single criterion has sufficient specificity to differentiate benign from malignant lesions. Specificity improves when characteristics are combined into sonographic patterns. Key Randolph-derived data:
+
+| Feature | Specifics from Randolph |
+|---|---|
+| **Microcalcifications** | <1 mm hyperechoic lucencies without posterior shadowing (too small to shadow); represent psammoma bodies (PTC) or inspissated colloid; 45-60% of malignant nodules demonstrate microcalcifications vs. 7-14% of benign; ~60% of patients with microcalcifications have malignant disease; specificity 71-94%, sensitivity 35-72%; most specific feature for PTC; also seen in MTC |
+| **Hypoechogenicity** | Malignant nodules are frequently markedly hypoechoic or more hypoechoic than adjacent muscle; echogenicity must be compared with normal thyroid tissue (not abnormal surrounding tissue in thyroiditis) |
+| **Taller-than-wide shape** | Greater AP diameter than transverse diameter on transverse view; also predictive of malignancy in breast US; spherical shape also has higher incidence of malignancy |
+| **Irregular margins** | Infiltrative borders; microlobulated borders implicated in malignancy; ill-defined interface between nodule and surrounding parenchyma |
+| **Extrathyroidal extension** | Nodule extends beyond thyroid capsule into surrounding soft tissue (strap muscles); highly suggestive of malignancy; fixation on dynamic palpation during US suggests malignant invasion |
+| **Absent/avascular halo** | Neoplasms display partial or absent halo; avascular halo represents true capsule that may be invaded; benign nodules have vascular halo from compressed parenchymal vessels |
+| **Solid composition** | Malignancy more closely associated with solid than cystic or mixed nodules; purely cystic nodules are unlikely malignant |
+
+**Combined criteria approach (Randolph):** One large prospective study found that performing FNA on nodules with one of three criteria — microcalcifications, blurred margins, or hypoechoic pattern — missed only 2% of cancers. Kim et al. found a mean of 2.6 suspicious US characteristics per malignant nodule with overall sensitivity 94% and specificity 66%.
+
+### Comet-Tail Artefact vs. Microcalcifications (Randolph)
+
+This is a critical distinction emphasised by Randolph:
+
+| Feature | Comet-Tail Artefact | Microcalcifications |
+|---|---|---|
+| Appearance | Hyperechoic dot with tapering core of hyperlucency extending deep | Small hyperechoic points without posterior shadowing |
+| Mechanism | Reverberation artefact from crystallised colloid | Sound reflection from psammoma bodies or calcium deposits |
+| Pathology | Invariably benign (Ahuja series) | Strongly associated with PTC |
+| Clinical significance | Represents colloid nodule — reassuring | Warrants FNA — suspicious for malignancy |
+
+## US Characteristics by Thyroid Cancer Type (Randolph)
+
+| Cancer Type | US Features | Specific Notes |
+|---|---|---|
+| **Papillary (PTC)** | Solid, hypoechoic, microcalcifications, ill-defined margins, disorganised hypervascularity; cystic components may be present | Microcalcifications most specific for PTC (psammoma bodies); represents >80% of thyroid cancers; multifocal lesions and nodal metastases common |
+| **Follicular** | Solid, iso/hyperechoic, homogeneous, cystic components and calcifications rare, halo may or may not be seen | Avascular halo more worrisome; internal hypervascularity common; FNA often bloody; cannot distinguish adenoma from carcinoma on cytology |
+| **Hurthle cell** | Solid with hypoechoic and hyperechoic components, irregular border | Most lack calcifications or halo; ~20% of Hurthle cell lesions are malignant |
+| **Medullary (MTC)** | Solid, hypoechoic with hyperechoic foci (amyloid + calcification) | Hyperechoic foci also seen in affected lymph nodes; disorganised hypervascularity; arise from parafollicular C cells (concentrated in superior poles) |
+| **Anaplastic** | Diffusely hypoechoic, irregular shape, areas of necrosis, ill-defined calcifications | Often infiltrates entire lobe; involved nodes may have necrotic changes; invasion into surrounding vessels/soft tissue common |
+| **Lymphoma** | Focal or diffuse, heterogeneous, hypoechoic; "pseudocysts" with posterior enhancement | Associated with Hashimoto's thyroiditis (60-fold increased risk); may be mistaken for anaplastic carcinoma |
+| **Metastases** | Homogeneous, hypoechoic, noncalcified | Usually involve inferior poles; primary melanoma, breast, lung, or renal cell carcinoma |
 
 ## ATA Ultrasound Pattern Classification (Haugen 2016)
 
@@ -223,18 +277,18 @@ ACR TI-RADS tends to recommend fewer biopsies (higher size thresholds) at the co
 
 ### Principles
 
-Elastography is an ultrasound-based technique that assesses tissue stiffness (elasticity). Malignant nodules are typically stiffer than benign nodules due to increased cellularity, fibrosis, and desmoplastic reaction. Two main techniques are used:
+Elastography is an ultrasound-based technique that assesses tissue stiffness (elasticity). Malignant nodules are typically stiffer than benign nodules due to increased cellularity, fibrosis, and desmoplastic reaction. Two main techniques are used. As Randolph notes, elastography is meant to be used as an adjunct to conventional US and not as an independent test; the goal is to improve diagnostic capabilities by adding an objective assessment of tissue firmness to existing US parameters.
 
 ### 1. Strain Elastography (SE)
 
-**Principle:** Tissue is deformed by manual compression (freehand) or physiological pulsation (carotid artery, breathing), and the relative strain (deformation) between the nodule and surrounding tissue is displayed as a colour-coded elastogram.
+**Principle:** Tissue is deformed by manual compression (freehand) or physiological pulsation (carotid artery, breathing), and the relative strain (deformation) between the nodule and surrounding tissue is displayed as a colour-coded elastogram. Per Randolph, strain elastography requires external palpation with the transducer, which results in tissue displacement by mechanical stress; the elastic image is superimposed on the B-mode image, and tissue stiffness is displayed along a continuum.
 
 | Characteristic | Details |
 |---|---|
 | Compression source | Manual compression by operator or carotid artery pulsation |
-| Output | Qualitative colour map — red/green (soft) to blue (hard) |
+| Output | Qualitative colour map — red/green (soft) to blue (hard); elastic image superimposed on B-mode |
 | Scoring | Rago score (1-5) or Asteria score (1-4) |
-| Quantitative option | Strain ratio (SR) = strain of normal tissue / strain of nodule |
+| Quantitative option | Strain ratio (SR) = strain of normal tissue / strain of nodule; available as online software feature on newer commercial US systems |
 | SR malignancy cutoff | Generally >2.0-4.0 (varies by study) |
 | Advantage | Widely available, integrated into standard US machines |
 | Limitation | Operator-dependent (compression force), qualitative, not standardised |
@@ -266,16 +320,16 @@ Elastography is an ultrasound-based technique that assesses tissue stiffness (el
 
 ### 2. Shear Wave Elastography (SWE)
 
-**Principle:** An acoustic radiation force impulse (ARFI) is generated by the US probe, creating shear waves that propagate laterally through tissue. Stiffer tissue transmits shear waves faster. The shear wave velocity (m/s) or Young's modulus (kPa) is measured quantitatively.
+**Principle:** An acoustic radiation force impulse (ARFI) is generated by the US probe, creating shear waves that propagate laterally through tissue. Stiffer tissue transmits shear waves faster. The shear wave velocity (m/s) or Young's modulus (kPa) is measured quantitatively. As Randolph describes, ARFI uses focused pulses of US energy produced by modified transducers to generate tissue displacements instead of external compression, which increases elastogram quality and signal compared with conventional strain elastography. Shear waves are the transverse components of particle displacement that are rapidly attenuated by tissue; because the physical equations link shear wave velocity to tissue stiffness, stiffness can be estimated directly and displayed in real time — unlike conventional elastography which only displays relative strain.
 
 | Characteristic | Details |
 |---|---|
-| Acoustic impulse | Generated by the US probe (no manual compression) |
+| Acoustic impulse | Generated by the US probe (no manual compression); ARFI uses focused US energy pulses |
 | Output | Quantitative — shear wave velocity (m/s) or Young's modulus (kPa) |
-| Display | Colour-coded elasticity map + numerical values |
+| Display | Colour-coded elasticity map + numerical values; real-time elastogram |
 | Malignancy cutoff (kPa) | Generally >65 kPa (mean stiffness); some studies use 40-85 kPa depending on parameter |
 | Malignancy cutoff (m/s) | Generally >2.5-3.5 m/s |
-| Advantage | **Quantitative, operator-independent, reproducible** |
+| Advantage | **Quantitative, operator-independent, reproducible**; tissue stiffness estimated directly |
 | Limitation | More expensive, not universally available, affected by calcification and cystic change |
 
 ### SWE Parameters
@@ -308,6 +362,16 @@ Elastography is an ultrasound-based technique that assesses tissue stiffness (el
 | Operator dependence (SE) | Compression force and angle affect strain elastography |
 | Background thyroiditis | Hashimoto's thyroiditis increases background tissue stiffness — alters strain ratio |
 | Isthmus nodules | Thin tissue layer may give unreliable results |
+| High negative biopsy rate | Randolph notes that published guidelines using conventional sonographic criteria result in a high proportion of negative biopsies; elastography may potentially select out nodules that would otherwise be biopsied, but sensitivity for malignancy needs to be close to 100% for this approach |
+
+### Elastography of Lymph Node Metastases (Randolph)
+
+Randolph discusses preliminary studies on US elastography for diagnosis of lymph node metastases:
+- Metastatic nodes display **lower strain** (corresponding to **higher stiffness**) compared with benign nodes
+- Two published studies (141 and 83 lymph nodes) including metastatic nodes from thyroid cancer documented high discriminatory performance with accuracies of **92% and 89%** respectively
+- These results surpassed the highest accuracies achieved using conventional grayscale criteria alone
+- Combining elastography criteria with conventional sonography further optimises diagnostic accuracy
+- Based on available evidence, elastography may become an important complementary technique but is unlikely to obviate the requirement for aspiration cytology
 
 ### Integration of Elastography with TIRADS
 
@@ -333,6 +397,14 @@ Elastography is NOT a standalone diagnostic tool but an adjunctive technique:
 | Not suspicious (TR2 / ATA very low) | >=2 cm or observe |
 | Benign (TR1 / ATA benign) | No FNAC |
 
+### Subcentimeter Nodules (Randolph)
+
+FNA biopsy of subcentimeter nodules can be considered if:
+- High risk of malignancy (family history of thyroid cancer, history of external beam or ionising radiation, history of thyroid cancer, or PET-positive nodules)
+- Suggestion of extrathyroidal spread on US imaging
+- Suspicious concomitant lymphadenopathy (in which case FNA of the lymph node should be performed)
+- Nodule size does not predict malignancy — nodules of all sizes harbour a similar ~10% risk of malignancy
+
 ### Technique
 
 1. Patient supine, neck extended (rolled towel under shoulders)
@@ -340,11 +412,11 @@ Elastography is NOT a standalone diagnostic tool but an adjunctive technique:
 3. Identify target nodule; assess real-time under US
 4. Prepare skin with antiseptic; local anaesthesia optional (25G needle for LA)
 5. 25-27 gauge needle, 10-20 mL syringe with or without aspiration
-6. **Capillary (non-aspiration) technique** often preferred — less bloody samples
-7. Advance needle into nodule under continuous US guidance
-8. Multiple passes (2-3 passes per nodule) — aim for different areas within nodule
+6. **Capillary (non-aspiration) technique** often preferred — less bloody samples; smaller needle size (24-27 gauge) and capillary action decrease nondiagnostic specimens and increase yield (Randolph)
+7. Needle introduced at end of long axis of transducer (parallel technique) or at midpoint opposing short axis (perpendicular technique); tip visualised within lesion during collection
+8. Multiple passes (2-3 passes per nodule) — aim for different areas within nodule; three samples generally adequate
 9. Express material onto glass slides; air-dry (Diff-Quik) and alcohol-fix (Papanicolaou)
-10. On-site cytopathologist (rapid on-site evaluation — ROSE) improves adequacy rates
+10. On-site cytopathologist (rapid on-site evaluation — ROSE) may reduce number of samples required but is not necessary
 
 ### Adequacy Criteria (Bethesda System)
 
@@ -353,20 +425,61 @@ Elastography is NOT a standalone diagnostic tool but an adjunctive technique:
 - Exception: cystic fluid (may be adequate even without cellular groups)
 - Samples with abundant colloid may be adequate even with fewer cells
 
+### FNA of Cystic Nodules (Randolph)
+
+- Mixed cystic-solid nodules represent ~20% of all thyroid nodules
+- Purely cystic lesions comprise only 2% of all cystic lesions and are nearly uniformly benign
+- ~15% of partially cystic nodules represent necrotic papillary cancers; 30% represent haemorrhagic adenomas
+- Rates of nondiagnostic FNA are higher with cystic lesions — US-guided FNA is recommended to ensure sampling of the solid cellular component
+
 ## US for Lymph Node Assessment
+
+### Preoperative US Mapping for Surgery Planning (Randolph)
+
+Randolph emphasises that metastasis to cervical and paratracheal lymph nodes is common in thyroid carcinomas, making it vitally important to examine the entire neck during standard preoperative US examination:
+
+| Aspect | Details |
+|---|---|
+| **Compartments to examine** | Central neck (pretracheal, paratracheal), bilateral lateral neck (jugulodigastric chain — levels II-VI), submandibular, submental, posterior triangle |
+| **Scanning technique** | Each side scanned with chin turned toward opposite side; begin midline submental, proceed through submandibular, intraparotid, jugular cervical chain, central neck paratracheal regions (including sternal notch), then accessory chain/posterior neck |
+| **Minimum transducer frequency** | 10 MHz for adequate lymph node examination; higher frequency increases resolution without sacrificing depth for superficial nodes |
+| **Doppler** | Power Doppler preferred over colour Doppler for lymph node assessment (higher sensitivity for small vessels, direction-independent) |
+| **Limitation of central compartment** | Paratracheal nodes are often suboptimally visualised due to shadowing from thyroid gland and adjacent air-containing structures (larynx, trachea) |
+| **Thyroid cancer nodal drainage** | Most often pretracheal and paratracheal nodes, then along deep cervical chain (along common carotid artery and internal jugular vein) |
+| **Post-thyroidectomy surveillance** | US of neck to monitor for recurrence in thyroid bed and entire central and lateral cervical lymph node compartments; US increasingly replacing radioiodine scanning |
+
+### Combined US + FNA for Lymph Nodes (Randolph)
+
+Once a suspicious node is identified, US combined with FNA yields:
+- Sensitivity: 89-98%
+- Specificity: 95-98%
+- Overall accuracy: 95-97%
 
 ### Suspicious Lymph Node Features
 
 | Feature | Significance |
 |---|---|
-| Microcalcifications | Most specific for papillary thyroid cancer metastasis |
-| Cystic change | Highly specific for thyroid cancer metastasis (especially PTC) |
-| Peripheral/capsular vascularity | Abnormal flow pattern — nodal hilum displaced |
-| Loss of fatty hilum | Loss of normal echogenic hilum |
-| Round shape (S/L ratio >0.5) | Loss of normal oval/reniform shape |
-| Heterogeneous echotexture | Replacement by tumour tissue |
-| Hyperechoic nodal tissue | Thyroid tissue echogenicity within node — suggests metastasis |
-| Irregular margins | Extranodal extension |
+| Microcalcifications | Most specific for papillary thyroid cancer metastasis; fine bright echogenic foci, demonstrate fine shadowing only at transducer frequencies >10 MHz; MTC nodes show coarser calcification (calcium in amyloid) with dense shadowing |
+| Cystic change/necrosis | Highly specific for thyroid cancer metastasis (especially PTC); cystic necrosis more common than coagulation necrosis; also seen in oropharyngeal SCC and tuberculous nodes |
+| Peripheral/capsular vascularity | Abnormal flow pattern — nodal hilum displaced; angiogenesis with recruitment of adjacent peripheral vessels; peripheral vascularity combined with round shape, intranodal necrosis, and absent hilus has 100% specificity |
+| Loss of fatty hilum | Loss of normal echogenic hilum; however, with high-resolution transducers, echogenic hilus may be seen even in malignant nodes with early metastatic infiltration |
+| Round shape (S/L ratio >0.5) | Loss of normal oval/reniform shape; S/L ratio <0.5 = fusiform (benign), >0.5 = round (suspicious) |
+| Hyperechoic nodal tissue | Thyroid tissue echogenicity within node — suggests metastasis; metastatic nodes from PTC are often hyperechoic compared with muscle (unique among head and neck cancers) |
+| Irregular margins/extracapsular spread | Unsharp borders in a node with other malignant features suggest extracapsular spread; larger nodes have higher likelihood of extracapsular spread; sonographic invasion of adjacent soft tissues is a good indicator |
+| Coagulation necrosis | Echogenic region within node, not continuous with surrounding soft tissue fat (distinguishes it from echogenic hilus) |
+
+### Sonographic Features of Benign vs. Malignant Lymph Nodes (Randolph Table 13.2)
+
+| Feature | Benign Node | Malignant Node |
+|---|---|---|
+| Shape | Elliptical | Round |
+| Echogenic hilus | Present | Absent |
+| Echogenicity | Hypoechoic, elliptical | Hypoechoic (round); hyperechoic in PTC metastasis |
+| Intranodal necrosis | Absent | Present |
+| Intranodal calcification | Absent | Punctate (PTC), coarse with shadowing (MTC) |
+| Nodal border | Ill-defined (periadenitis) | Well-defined (unless extranodal extension) |
+| Vascularity | Hilar | Peripheral, chaotic |
+| Elastography | Soft | Hard |
 
 ### Doppler Patterns in Thyroid Nodules
 
@@ -379,27 +492,72 @@ Elastography is NOT a standalone diagnostic tool but an adjunctive technique:
 | Chaotic intranodular flow | More concerning for malignancy |
 | Resistive index (RI) >0.8 | Suggestive of malignancy (not highly specific) |
 
+### Doppler Vascular Classification (Chammas, cited in Randolph)
+
+Randolph references the Chammas classification of thyroid nodule vascularity using power Doppler:
+- Type 1: Absent blood flow
+- Type 2: Perinodular flow only
+- Type 3: Perinodular flow >= central blood flow
+- Type 4: Mainly central nodular flow
+- Type 5: Central flow only
+
+Nodules with exclusively central blood flow or central blood flow greater than perinodular flow had a higher incidence of malignancy. Follicular carcinomas tend to show moderate increase in central vascularity; follicular adenomas favour peripheral flow.
+
 ### Doppler Limitations
 
 - Significant overlap between benign and malignant patterns
 - Hyperplastic nodules can have prominent intranodular vascularity
 - Doppler alone should NOT be used to determine FNAC need
 - ACR TI-RADS deliberately excludes Doppler from the scoring system
+- Evidence correlating vascular pattern with malignancy is inconsistent; no longer included in the list of criteria used for risk stratification (Randolph)
+
+## Incidental Thyroid Nodules (Thyroid Incidentalomas)
+
+### Definition and Management (Randolph)
+
+| Aspect | Details |
+|---|---|
+| Definition | Nonpalpable thyroid nodules detected incidentally by other imaging (CT, MRI, PET, carotid US) |
+| Incidence | Palpable nodules in ~7% of adults; nonpalpable nodules visible by US in up to 70% |
+| Screening | Routine screening thyroid US NOT recommended for the general population due to high incidence of clinically insignificant nodules |
+| Evaluation | All patients with suspected thyroid nodules (including incidentalomas) should have formal US of the entire neck |
+| Risk assessment | Use US characteristics to determine which nodules warrant further evaluation with FNA; risk of malignancy is similar regardless of how nodule was discovered (~10%) |
+| PET-positive nodules | FDG-avid nodules on PET are considered higher risk and should be evaluated with US and FNA |
+| Subcentimeter incidentalomas | Thyroid cancers <1 cm tend to behave indolently; suspicious subcentimeter lesions not treated should be followed with periodic US surveillance with option for FNA if growth observed |
+
+## US in Other Thyroid Conditions (Randolph)
+
+| Condition | US Features |
+|---|---|
+| **Graves' disease** | Heterogeneous thyroid tissue, diffuse hypoechogenicity, hypervascularity; increased inferior thyroid artery flow velocity; colour flow mapping may guide antithyroid drug dosing and predict relapse; nodules in Graves' disease carry ~17% malignancy rate |
+| **Hashimoto's thyroiditis** | Ill-defined hypoechoic areas separated by echogenic septa; increased (early) or decreased (late) vascularity; 60-fold increased risk of lymphoma; central compartment inflammatory lymphadenopathy may mimic small malignant nodes |
+| **Multinodular goiter** | Risk of malignancy similar in multiple vs. solitary nodules; each nodule evaluated independently; FNA guided by suspicious US characteristics, not size alone |
+| **Subacute (de Quervain's) thyroiditis** | Tender, asymmetric enlargement; no calcification or halo; surrounding tissue heterogeneous; hypoechoic and enlarged lobe; resolves to normal after disease course |
 
 ## Exam-Relevant Key Points
 
 > [!tip] High-Yield Points
 > - ACR TI-RADS is points-based across 5 categories; ATA and EU-TIRADS are pattern-based — know the differences
 > - Microcalcifications and taller-than-wide shape are the strongest predictors of malignancy on US
-> - Spongiform nodule = very low malignancy risk (<3%) — no FNAC needed if <2 cm (ATA)
-> - Purely cystic nodule = essentially 0% malignancy risk — no FNAC indicated
+> - Microcalcifications: <1 mm, no posterior shadowing (too small), represent psammoma bodies; 45-60% of malignant nodules have them vs. 7-14% of benign (Randolph)
+> - Comet-tail artefact (colloid) is invariably benign (Ahuja series cited in Randolph) — do NOT confuse with microcalcifications
+> - Capsular contact >25% is a useful marker for predicting extrathyroidal extension (Randolph)
+> - Spongiform nodule = very low malignancy risk (<3%), >99% specific for benign histology — no FNAC needed if <2 cm (ATA)
+> - Purely cystic nodule = essentially 0% malignancy risk — no FNAC indicated; purely cystic lesions comprise only 2% of all cystic lesions
+> - Nodule size does NOT predict malignancy — ~10% risk regardless of size (Randolph)
 > - Strain elastography (Rago/Asteria) is qualitative and operator-dependent; SWE is quantitative and operator-independent
 > - Rago score 4-5 has 97% sensitivity and 100% specificity in the original study — but real-world performance is lower
 > - SWE cutoff for malignancy: mean stiffness >65 kPa or velocity >3.5 m/s
+> - ARFI imaging uses focused US pulses to generate tissue displacement instead of external compression, increasing elastogram quality (Randolph)
 > - Elastography CANNOT distinguish follicular adenoma from follicular carcinoma — both may have similar stiffness
-> - Suspicious lymph node features: microcalcifications, cystic change, peripheral vascularity, loss of hilum
-> - Comet-tail artefacts (colloid) are a BENIGN feature — do not confuse with microcalcifications
+> - Elastography for lymph nodes: metastatic nodes show higher stiffness, accuracies of 89-92% — surpasses conventional grayscale alone (Randolph)
+> - Suspicious lymph node features: microcalcifications, cystic change, peripheral vascularity, loss of hilum, hyperechoic tissue (PTC-specific)
+> - Peripheral vascularity + round shape + intranodal necrosis + absent hilus = 100% specificity for malignancy (Randolph)
+> - PTC metastatic nodes are often hyperechoic compared with muscle — unique among head and neck cancers (Randolph)
+> - MTC metastatic nodes show coarse calcification with dense shadowing (calcium in amyloid), vs. fine calcification in PTC (Randolph)
+> - Paratracheal nodes suboptimally visualised on US due to shadowing from thyroid and air-containing structures (Randolph)
 > - ACR TI-RADS assigns 0 points to ill-defined margins (same as smooth) — this is a common exam discussion point
+> - US-guided FNA sensitivity 89-98%, specificity 95-98%, accuracy 95-97% for suspicious lymph nodes (Randolph)
 
 > [!compass]- Navigate
 > **Parent:** [[Answers/Thyroid/index|Thyroid]]

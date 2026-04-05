@@ -13,7 +13,7 @@ tags:
 
 ## Source
 
-Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch12; Clark OH et al. *Textbook of Endocrine Surgery*. 3rd ed. Jaypee; 2016. Ch41--43; Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch73
+**Randolph GW. Surgery of the Thyroid and Parathyroid Glands, 3rd Ed. Elsevier, 2021**. Ch27 (Dralle & Machens -- Syndromic MTC: MEN 2A and MEN 2B); Shah JP. *Head and Neck Surgery and Oncology*. 5th ed. Elsevier; 2019. Ch12; Clark OH et al. *Textbook of Endocrine Surgery*. 3rd ed. Jaypee; 2016. Ch41--43; Harrison LB et al. *Head and Neck Cancer: A Multidisciplinary Approach*. 4th ed. Lippincott; 2014. Ch73
 
 > [!cite] Landmark Articles
 >
@@ -108,39 +108,91 @@ Unlike PTC (where RET rearrangements dominate), MTC is driven by **point mutatio
 | Syndrome | RET Mutations | Components | Frequency |
 |---|---|---|---|
 | **MEN2A** | Cys634 (most common), Cys609, 611, 618, 620 | MTC (95%), phaeochromocytoma (50%), PHPT (20--30%) | 55% of MEN2 |
-| **MEN2B** | M918T (95%), A883F (5%) | MTC (100%), phaeochromocytoma (50%), mucosal neuromas (100%), marfanoid habitus, intestinal ganglioneuromatosis | 5--10% of MEN2 |
+| **MEN2B** | M918T (95%), A883F (5%); atypical double mutations: V804M/E805K, V804M/Y806C, V804M/S904C | MTC (100%), phaeochromocytoma (50%), mucosal neuromas (100%), marfanoid habitus, intestinal ganglioneuromatosis | 5--10% of MEN2 |
 | **FMTC** | Various (609, 611, 618, 620, 768, 790, 791, 804, 891) | MTC only (no phaeochromocytoma or PHPT) | 35--40% of MEN2 |
+
+### FMTC as an Abortive Form of MEN2 (Randolph Ch27)
+
+- FMTC is now conceived as an **abortive form of MEN2A** rather than an entity in its own right -- conversion from FMTC-only to a full MEN2 phenotype with subsequent development of PCC or HPT is "the rule rather than the exception" for high-risk codons
+- Conversion likelihood by mutation:
+  - **Highest-risk (codon 918) and high-risk (codon 634):** conversion to full MEN2 phenotype is the rule
+  - **Moderate- to high-risk (codons 620, 618):** conversion is common; less so for codons 611 and 609
+  - **Low- to moderate-risk (codons 768, 790, 804, 891):** conversion to full MEN2 is rare
+- Some 6.5--9.5% of patients with seemingly sporadic MTC harbour occult RET germline mutations -- these cannot be recognised unless all relevant exons are screened
+
+### Nonendocrine Components (Randolph Ch27)
+
+**MEN2A nonendocrine components:**
+- **Hirschsprung disease:** 6--16% of RET families with exon 10 mutations (codons 620/618, rarely 611/609) develop both gain-of-function MEN2A and loss-of-function HSCR phenotype -- these are "Janus genes." HSCR often precedes clinical MTC and PCC
+- **Cutaneous lichen amyloidosis (CLA):** ~9% of MEN2A families, almost always codon 634. Presents as pruritus in the interscapular region (dermatomes C4--T5); often precedes MTC
+
+**MEN2B nonendocrine components:**
+
+| Stigmata | Clinical Features | Pathologic Substrate |
+|---|---|---|
+| **Oral** | Nodules on lips, tongue, buccal mucosa; bumpy lips; prominent labial frenula | Mucosal neuromas and neurofibromas |
+| **Ocular** | Conjunctival nodules, thickened corneal nerves, conjunctivitis sicca (reduced tears), entropium | Conjunctival neuromas; thickened nerve sheaths |
+| **Intestinal** | "Pseudo-Hirschsprung disease" -- constipation, bloating, megacolon (40--85% prevalence) | Submucosal and myenteric ganglioneuromatosis |
+| **Musculoskeletal** | Marfanoid habitus, hyperflexible joints, muscle weakness, scoliosis, pes cavus, pectus deformities | Disorder of neurologic development |
+
+- "Tearless crying" and pseudo-Hirschsprung disease may be the **earliest clinical clues** to MEN2B in infancy, often preceding classic stigmata -- should prompt immediate RET screening (Randolph Ch27)
+- MEN2B stigmata develop in an age-dependent fashion: dry eyes (86%), chronic nasal congestion (61%), and pes cavus (30%) are present within the first year of life
 
 ### ATA Risk Categories for RET Mutations (Wells 2015)
 
-The ATA 2015 MTC guidelines classify RET mutations into three risk levels based on aggressiveness of MTC development:
+The ATA 2015 MTC guidelines classify RET mutations into three risk levels based on aggressiveness of MTC development. Randolph Ch27 (Dralle & Machens) provides codon-specific age-of-onset data and tumour progression rates that underpin these categories.
 
 #### Highest Risk (ATA-HST)
 
 | Codon | Mutation | Syndrome | MTC Behaviour |
 |---|---|---|---|
-| **918** | M918T | MEN2B | Most aggressive -- MTC may develop in first year of life; metastases by age 2--3 |
+| **918** | M918T | MEN2B | Most aggressive -- MTC may be present at birth; mean age of node-negative MTC 6.2 months (range 0.5--31 months); metastases by age 2--3 |
 | | | | Prophylactic thyroidectomy within **first 6 months of life** (ideally by age 1) |
+
+- PCC coexists with MTC at diagnosis in **60%** of codon 918 carriers (Randolph Ch27)
+- Annual primary tumour growth in node-positive carriers: ~2.6 mm/year for high-risk mutations (Randolph Ch27)
+- >90% of MEN2B germline mutations arise **de novo** -- no family history to prompt screening; early diagnosis hinges on recognising nonendocrine stigmata (tearless crying, pseudo-Hirschsprung)
+- Truly "prophylactic" surgery in MEN2B is exceptional because of the very early onset; most patients >4 years at diagnosis are incurable (Randolph Ch27)
 
 #### High Risk (ATA-H)
 
 | Codon | Mutation | Syndrome | MTC Behaviour |
 |---|---|---|---|
-| **634** | C634R/Y/W | MEN2A | Aggressive -- MTC by age 5--10 in most carriers |
-| **883** | A883F | MEN2B variant | Aggressive -- similar to C634 |
+| **634** | C634R/Y/W | MEN2A | Aggressive -- MTC as early as age 1 year; mean age of node-negative MTC ~16 years; node-positive MTC by ~19 years |
+| **883** | A883F | MEN2B variant | Aggressive -- similar to C634; atypical MEN2B, less penetrant than M918T |
 | | | | Prophylactic thyroidectomy by **age 5** |
+
+- Codon 634 is the classic "MEN2A codon" -- associated with the highest rates of PCC (~35% synchronous with MTC at diagnosis) and HPT (~19.1% prevalence) among MEN2A mutations (Randolph Ch27)
+- HPT mean onset age 34 years, earliest 10 years for codon 634 carriers
+- PCC develops as early as age 8--10 years in ATA-H carriers -- biochemical screening for catecholamines must begin in childhood (Randolph Ch27)
 
 #### Moderate Risk (ATA-MOD)
 
+The ATA-MOD category encompasses two subgroups with distinct behaviour (Randolph Ch27):
+
+**Moderate- to high-risk codons (609, 611, 618, 620):**
+
 | Codon | Mutation | Syndrome | MTC Behaviour |
 |---|---|---|---|
-| **609, 611, 618, 620** | Various Cys mutations | MEN2A/FMTC | Later onset MTC; lower penetrance |
-| **768** | E768D | FMTC | Indolent |
+| **609, 611, 618, 620** | Various Cys mutations | MEN2A/FMTC | MTC as early as age 5 years; mean age node-negative MTC ~31--44 years; mean age node-positive MTC ~35--47 years |
+
+- Annual tumour growth in node-positive carriers: ~1.2 mm/year (Randolph Ch27)
+- PCC develops from ~age 20 years in these carriers
+- Exon 10 mutations (codons 609/611/618/620) are associated with Hirschsprung disease in 6--16% of families
+
+**Low- to moderate-risk codons (768, 790, 804, 891):**
+
+| Codon | Mutation | Syndrome | MTC Behaviour |
+|---|---|---|---|
+| **768** | E768D | FMTC | Indolent -- MTC from ~age 10 years; mean age node-negative MTC ~55 years |
 | **790** | L790F | FMTC | Indolent |
 | **791** | Y791F | FMTC | Indolent |
 | **804** | V804L/M | FMTC | Indolent |
 | **891** | S891A | FMTC | Indolent |
 | | | | Prophylactic thyroidectomy may be deferred to **age 5--10** if calcitonin remains normal and neck US is negative |
+
+- HPT is rare in these codons; onset age 38--54 years
+- Annual tumour growth in node-negative carriers across all ATA-MOD: ~0.4--0.5 mm/year (Randolph Ch27)
 
 ## Prophylactic Thyroidectomy: Timing and Technique
 
@@ -149,6 +201,21 @@ The ATA 2015 MTC guidelines classify RET mutations into three risk levels based 
 - Hereditary MTC is inevitable in RET mutation carriers -- it is not a question of "if" but "when"
 - The window between C-cell hyperplasia (precursor) and invasive MTC (with potential for nodal metastases) provides an opportunity for curative surgical intervention
 - Machens et al. (2003) demonstrated the age-related genotype-specific progression pattern that guides timing
+- Disease progression from C-cell hyperplasia to MTC requires acquisition of somatic mutations ("second hits") for malignant progression -- this is a **stochastic sequence of events** not fully under the control of the carrier's germline mutation (Randolph Ch27)
+
+### The Integrated DNA-Based/Biochemical Concept (Randolph Ch27)
+
+Dralle and Machens describe an integrated concept that combines genotype-based age recommendations with calcitonin monitoring, offering more precision than either approach alone:
+
+1. **RET gene analysis** identifies the carrier and determines the ATA risk category
+2. **Basal calcitonin** is measured:
+   - **Normal basal calcitonin:** surgery may be deferred beyond the standard age recommendation for that ATA risk category while monitoring stimulated calcitonin levels -- total thyroidectomy is performed when stimulated calcitonin begins to rise
+   - **Elevated basal calcitonin:** indicates MTC is likely present -- total thyroidectomy + central node dissection (CND) is required without delay; ipsilateral lateral neck dissection (LND) if basal calcitonin >200 pg/mL, bilateral LND if basal calcitonin >200 pg/mL
+3. **Negative RET analysis:** no further follow-up needed
+
+This integrated approach is particularly relevant to **young children** where smaller, more delicate anatomic structures create less space for surgical manoeuvring. Deferring surgery (while calcitonin remains normal) allows the child to grow, reducing surgical morbidity. In a series of 308 RET gene carriers, lymph node metastases were found only with increased basal calcitonin levels, typically exceeding 30 pg/mL (Randolph Ch27).
+
+**Important:** In very young children, mean serum calcitonin levels are physiologically higher in the first year (9.81 pg/mL; range 2.0--48.9 pg/mL) and second year of life (4.56 pg/mL; range 2.0--14.7 pg/mL) than in adults -- this must be considered when interpreting results (Randolph Ch27).
 
 ### Recommended Timing by Risk Level
 
@@ -186,16 +253,55 @@ The ATA 2015 MTC guidelines classify RET mutations into three risk levels based 
 | Scenario | Recommended Procedure |
 |---|---|
 | **Prophylactic thyroidectomy (normal calcitonin, no nodules)** | Total thyroidectomy alone (no CCND) |
-| **Elevated calcitonin <40 pg/mL, no imaging abnormalities** | Total thyroidectomy + prophylactic bilateral CCND |
-| **Elevated calcitonin >=40 pg/mL** | Total thyroidectomy + bilateral CCND + consider lateral neck dissection if N1b |
+| **Elevated basal calcitonin (any level above normal)** | Total thyroidectomy + bilateral CCND |
+| **Basal calcitonin >200 pg/mL** | Total thyroidectomy + bilateral CCND + bilateral lateral neck dissection (levels II--V) |
 | **Known MTC on imaging/biopsy** | Total thyroidectomy + bilateral CCND + lateral neck dissection if N1b |
+
+**Randolph Ch27 principles for extent of lymph node dissection:**
+- Carriers with **normal basal calcitonin** may safely forego lymph node dissection, sparing them excess morbidity (hypoparathyroidism, RLN palsy)
+- The calcitonin threshold of **30 pg/mL** is a practical cut-off: below this, lymph node metastases are exceptionally rare in the Dralle/Machens series of 308 carriers
+- Above **200 pg/mL**, bilateral lymph node metastases become increasingly common, as do mediastinal and distant metastases
+- Above **1000 pg/mL**, bilateral compartment-oriented surgery can still achieve biochemical cure in at least 50% of patients
+- Above **10,000 pg/mL**, biochemical cure is not possible -- surgical strategy shifts to locoregional tumour control
+
+**Rationale for total thyroidectomy:** every single parafollicular C-cell has the potential for malignant progression; C-cells do not express the sodium/iodide symporter, rendering radioiodine ablation futile for MTC (Randolph Ch27).
+
+### Synchronous PCC and HPT Management (Randolph Ch27)
+
+**Synchronous MTC and PCC:**
+- If PCC is present, adrenalectomy **must precede** thyroidectomy (alpha-receptor blockade first)
+- Options: subtotal "tissue-sparing" adrenalectomy (preferred -- minimises steroid dependency) or total adrenalectomy for large tumours
+- Neck surgery may follow in one stage (limited neck disease) or two stages (advanced neck disease)
+
+**Synchronous MTC and HPT (MEN2A, typically codon 634):**
+- HPT is usually mild with only 1--2 glands involved
+- Surgical strategy: removal of grossly enlarged glands only (limited parathyroidectomy)
+- Total parathyroidectomy with autografting has been **abandoned** because of 6% permanent hypoparathyroidism risk (Randolph Ch27)
+- Normal parathyroids should be preserved in situ wherever feasible
 
 ### Surgical Considerations in Young Children
 
 - Surgery should be performed by a **high-volume thyroid surgeon** experienced in paediatric thyroidectomy
-- Parathyroid preservation is paramount -- autotransplantation of at least one gland is recommended
-- The recurrent laryngeal nerve is more vulnerable in small children (thinner, closer to surgical field)
+- Parathyroid preservation is paramount -- in situ preservation of normal glands is the standard; autotransplantation only if complete devascularisation occurs (Randolph Ch27)
+- The recurrent laryngeal nerve is more vulnerable in small children (thinner, closer to surgical field); thickened RLNs may be encountered in MEN2B patients
 - Intraoperative nerve monitoring (IONM) should be used when available
+
+### Complications and Outcomes in Paediatric Prophylactic Thyroidectomy (Randolph Ch27)
+
+Data from Dralle and Machens' series of 167 children:
+
+| Parameter | Result |
+|---|---|
+| **Transient hypoparathyroidism (without CCND)** | 4% in children <=3 years; 17.4% overall |
+| **Permanent hypoparathyroidism (without CCND)** | 0% |
+| **Permanent hypoparathyroidism (with CCND)** | 0% (in 149 children, mean age 6 years) |
+| **Transient RLN palsy** | 3 children (all had CCND); all resolved within 6 months |
+| **Calcitonin normalisation** | 99.1% (114 of 115 children with raised preoperative values) |
+| **Residual disease or recurrence** | None observed |
+
+- Early prophylactic thyroidectomy spared older children the postoperative morbidity associated with delayed surgery
+- Transient hypoparathyroidism was more frequent in older children (32% in oldest group vs 3% in youngest) -- likely reflecting the greater extent of surgery in older children with more advanced disease
+- These data emphasise the importance of refraining from CCND when basal calcitonin is normal
 
 ## RET Testing Methodology
 
@@ -216,12 +322,23 @@ The ATA 2015 MTC guidelines classify RET mutations into three risk levels based 
 - Identifies somatic RET point mutations (for prognostication and targeted therapy)
 - Identifies RET fusions in PTC and other tumours (for targeted therapy eligibility)
 
+### Calcitonin Screening Protocols (Randolph Ch27)
+
+- **DNA-based screening** has largely replaced calcitonin screening for early identification of gene carriers -- it is the diagnostic gold standard with no false-positive findings (barring laboratory error)
+- However, **calcitonin screening remains essential** for timing of surgery and determining its extent:
+  - Calcitonin is superior to neck ultrasonography in predicting the presence of MTC (Randolph Ch27)
+  - Nonneoplastic ("reactive") C-cell hyperplasia can cause false-positive calcitonin elevations, which historically prompted unnecessary thyroidectomies
+  - Basal calcitonin reference value: <10 pg/mL
+  - Stimulated calcitonin (pentagastrin or calcium infusion) provides additional sensitivity
+- **Catecholamine and metabolite screening** should be performed periodically -- historically, unrecognised PCC causing hypertensive crisis was the most common cause of death among RET gene carriers beginning in their late forties (Randolph Ch27)
+
 ### Cascade Screening
 
 - Once a RET mutation is identified in an index case, all first-degree relatives must be tested
 - **At-risk children** should be tested as early as possible (ideally in the first year of life for highest-risk mutations)
 - Negative test result (no mutation identified in a family with known mutation) eliminates the need for prophylactic thyroidectomy and ongoing surveillance
 - RET-negative family members can be reassured and discharged from screening
+- **Population-level impact of systematic RET gene analysis** (Randolph Ch27): depletion of the reservoir of symptomatic index patients, eradication of node-positive MTC among non-index carriers, increased biochemical cure rates, and fall in patient age at thyroidectomy among non-index patients
 
 ## Genetic Counselling
 
@@ -229,10 +346,11 @@ Key elements of genetic counselling for RET mutation carriers:
 
 1. **Autosomal dominant inheritance** with ~100% penetrance for MTC in most mutations
 2. **50% risk** of transmitting the mutation to each offspring
-3. **Variable expressivity** -- even within the same family, the age of MTC onset and involvement of other organs may vary
-4. **De novo mutations** account for ~5--10% of MEN2A and ~50% of MEN2B cases
+3. **Variable expressivity** -- even within the same family, the age of MTC onset and involvement of other organs may vary. Different tissue-specific susceptibilities are the main driver behind FMTC/MEN2A/MEN2B phenotypes (Randolph Ch27)
+4. **De novo mutations** account for ~5--10% of MEN2A and **>90% of MEN2B** cases (Randolph Ch27 -- higher than older estimates of 50%). Because most MEN2B patients will not have children, familial transmission is uncommon. In the absence of family history, identifying MEN2B requires recognition of nonendocrine stigmata
 5. **Prenatal/preimplantation genetic testing** is available and should be discussed
-6. **Psychosocial support** -- prophylactic thyroidectomy in young children requires extensive counselling of parents regarding the rationale, timing, risks, and lifelong implications
+6. **Psychosocial support** -- prophylactic thyroidectomy in young children requires extensive counselling of parents regarding the rationale, timing, risks, and lifelong implications. Post-thyroidectomy follow-up must include monitoring of sufficient thyroxine substitution (children are less compliant) and psychosocial care (Randolph Ch27)
+7. **Conversion of FMTC to MEN2:** families initially diagnosed with FMTC-only should be counselled that conversion to full MEN2 phenotype (development of PCC or HPT) may occur over time, particularly with higher-risk codons -- lifelong surveillance for PCC and HPT is mandatory regardless of initial FMTC classification (Randolph Ch27)
 
 ## RET-Directed Targeted Therapy
 
@@ -290,15 +408,19 @@ For patients with advanced, unresectable, or metastatic MTC (or RAI-refractory R
 ## Clinical Pearls for Examinations
 
 1. **RET** stands for "Rearranged during Transfection" -- a transmembrane receptor tyrosine kinase on chromosome 10q11.2
-2. **Gain-of-function** mutations cause MTC and MEN2; **loss-of-function** mutations cause Hirschsprung disease -- this bidirectional pathology is a favourite examination topic
-3. **M918T** (MEN2B) is the most aggressive mutation -- prophylactic thyroidectomy within 6 months of life
-4. **C634** (MEN2A) is the most common hereditary MTC mutation -- prophylactic thyroidectomy by age 5
-5. **Always exclude phaeochromocytoma before thyroidectomy** in MEN2 -- failure to do so risks intraoperative hypertensive crisis and death
-6. **All patients with apparently sporadic MTC** should undergo germline RET testing -- 5--10% will have occult hereditary disease
+2. **Gain-of-function** mutations cause MTC and MEN2; **loss-of-function** mutations cause Hirschsprung disease -- this bidirectional pathology is a favourite examination topic. Exon 10 "Janus genes" (codons 609/611/618/620) can cause BOTH phenotypes simultaneously (Randolph Ch27)
+3. **M918T** (MEN2B) is the most aggressive mutation -- prophylactic thyroidectomy within 6 months of life. >90% are de novo mutations with no family history
+4. **C634** (MEN2A) is the most common hereditary MTC mutation -- prophylactic thyroidectomy by age 5. It is the classic "MEN2A codon" with the highest rates of PCC and HPT (Randolph Ch27)
+5. **Always exclude phaeochromocytoma before thyroidectomy** in MEN2 -- failure to do so risks intraoperative hypertensive crisis and death. Historically, unrecognised PCC was the most common cause of death in RET carriers (Randolph Ch27)
+6. **All patients with apparently sporadic MTC** should undergo germline RET testing -- 6.5--9.5% will have occult hereditary disease (Randolph Ch27)
 7. **LIBRETTO-001** established selpercatinib as the first selective RET inhibitor with practice-changing efficacy (ORR 69--73%)
-8. **Calcitonin monitoring** can guide timing of prophylactic thyroidectomy in ATA-MOD patients -- rising calcitonin triggers surgery
+8. **Calcitonin monitoring** can guide timing of prophylactic thyroidectomy in ATA-MOD patients -- rising calcitonin triggers surgery. The **integrated DNA-biochemical concept** (Dralle/Machens) uses calcitonin to individualise surgery timing beyond the purely age-based approach
 9. **RET/PTC rearrangements** are found in PTC (not MTC) and are associated with younger patients and radiation-associated thyroid cancer
 10. **Cascade screening** of first-degree relatives is mandatory once a germline RET mutation is identified -- this is standard of care
+11. **FMTC is an abortive form of MEN2A** -- conversion to full MEN2 phenotype (PCC/HPT) is the rule for high-risk codons, making lifelong surveillance mandatory (Randolph Ch27)
+12. **Basal calcitonin >30 pg/mL** is the threshold above which lymph node metastases become likely; **>200 pg/mL** indicates bilateral and mediastinal spread; **>10,000 pg/mL** precludes biochemical cure (Randolph Ch27)
+13. **Tearless crying and pseudo-Hirschsprung disease** in infants should prompt RET screening for MEN2B -- these nonendocrine stigmata often precede MTC and may be the only chance for early diagnosis (Randolph Ch27)
+14. **No CCND if calcitonin is normal:** carriers with normal basal calcitonin may safely forego lymph node dissection, reducing surgical morbidity (Randolph Ch27)
 
 > [!compass]- Navigate
 > **Parent:** [[Answers/Thyroid/index|Thyroid]]
