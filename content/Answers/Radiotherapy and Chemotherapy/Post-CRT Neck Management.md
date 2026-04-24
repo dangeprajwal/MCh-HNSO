@@ -8,6 +8,10 @@ tags:
 > [!question] Questions Covered
 > **Q15.** Post chemo RT Neck dissection (AMRITA 2016)
 > **Q23.** Follow up and management of neck post-CRT (AMRITA 2020)
+> **Neck Q10.** Superselective/selective ND for advanced nodal disease after CRT (TMH 2020)
+> **Neck Q12.** PET-CT in post-treatment neck management (TMH 2019)
+> **Neck Q21.** Follow up and management of neck post-CRT (AMRITA 2020)
+> **Neck Q32.** Post chemo RT Neck dissection (AMRITA 2017)
 
 ## Source
 

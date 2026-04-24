@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 501 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56)
-- **Pending:** 390
-- **Sections Complete:** 6/26
+- **Answered:** 544 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43)
+- **Pending:** 347
+- **Sections Complete:** 7/26
 
 ## Progress Bar
 ```
-███████████░░░░░░░░░ 56.2% (501/891)
+████████████░░░░░░░░ 61.1% (544/891)
 ```
 
 ---

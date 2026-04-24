@@ -10,6 +10,7 @@ tags:
 > - **Oro Q19:** TORS technique and outcomes in OPC (TMH 2020)
 > - **Oro Q22:** Reconstruction after TORS for OPC (TMH 2020)
 > - **Oro Q27:** Management of recurrent HPV-positive OPC after TORS (TMH 2022)
+> - **Neck Q2:** TORS: current indications and limitations in OPC (TMH 2021)
 
 ## Source
 
