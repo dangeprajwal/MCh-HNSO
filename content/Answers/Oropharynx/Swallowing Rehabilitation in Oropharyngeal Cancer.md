@@ -9,6 +9,7 @@ tags:
 > - **Oro Q14:** Swallowing rehabilitation after oropharyngeal cancer treatment (TMH 2018)
 > - **Oro Q18:** Impact of treatment on swallowing in oropharyngeal cancer (TMH 2020)
 > - **Oro Q25:** Swallowing rehabilitation strategies in OPC (TMH 2021)
+> - **RT Q25:** Swallowing therapy during chemo radiation (AMRITA 2021)
 
 ## Source
 

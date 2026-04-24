@@ -11,6 +11,7 @@ tags:
 > - **Larynx Q55:** Pharyngocutaneous fistula -- risk factors and management (TMH 2017)
 > - **Larynx Q68:** Reconstructive options after pharyngolaryngectomy (TMH 2018)
 > - **Larynx Q107:** Gastric pull-up and free flap pharyngeal reconstruction (TMH 2022)
+> - **RT Q52:** Pharyngeal strictures after CRT (TMH 2020)
 
 ## Source
 

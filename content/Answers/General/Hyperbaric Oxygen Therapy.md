@@ -7,6 +7,7 @@ tags:
 > [!question] Questions Covered
 > - **OC Q13:** Hyperbaric oxygen therapy in HNC: current role (AIIMS 2020)
 > - **Gen Q5:** Hyperbaric oxygen therapy in HNC: current role (AIIMS 2020)
+> - **RT Q5:** Hyperbaric oxygen therapy in HNC (AIIMS 2020)
 
 ## Source
 

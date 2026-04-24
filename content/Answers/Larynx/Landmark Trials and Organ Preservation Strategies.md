@@ -13,6 +13,7 @@ tags:
 > - **Larynx Q27:** Induction chemotherapy in laryngeal cancer (AMRITA 2016)
 > - **Larynx Q38:** Concurrent chemoradiation as standard of care for organ preservation (AMRITA 2020)
 > - **Larynx Q44:** Bioselection concept in organ preservation (TMH 2016)
+> - **RT Q36:** Neoadjuvant chemotherapy for larynx/hypopharynx SCC (TMH 2018)
 > - **Larynx Q62:** Surgical vs non-surgical organ preservation (TMH 2018)
 > - **Larynx Q75:** TPF vs PF induction chemotherapy regimens (TMH 2019)
 > - **Larynx Q84:** T3 laryngeal cancer management algorithm (TMH 2020)

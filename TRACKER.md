@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 445 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90)
-- **Pending:** 446
-- **Sections Complete:** 5/26
+- **Answered:** 501 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56)
+- **Pending:** 390
+- **Sections Complete:** 6/26
 
 ## Progress Bar
 ```
-██████████░░░░░░░░░░ 49.9% (445/891)
+███████████░░░░░░░░░ 56.2% (501/891)
 ```
 
 ---
@@ -773,66 +773,66 @@
 
 ---
 
-### Radiotherapy (0/56)
+### Radiotherapy (56/56) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Oral complications of radiotherapy | AIIMS | 2020 | |
-| [ ] 2 | IMRT in head and neck cancer | AIIMS | 2020 | |
-| [ ] 3 | Rationale, indications, methods for re-irradiation in HNC | AIIMS | 2020 | |
-| [ ] 4 | DARS: steps in saving DARS in radiation | AIIMS | 2020 | |
-| [ ] 5 | Hyperbaric oxygen therapy in HNC | AIIMS | 2020 | |
-| [ ] 6 | Benefits and indications for proton beam therapy in HNC | AIIMS | 2020 | |
-| [ ] 7 | Indications for post-surgical radiation and chemoradiation in oral cancer | KIDWAI | 2020 | |
-| [ ] 8 | Hypo/Hyper-fractionation and Accelerated Radiotherapy; rationale and evidence | KIDWAI | 2020 | |
-| [ ] 9 | The 4 R's of radiation; Steel-Peckham therapy | KIDWAI | 2020 | |
-| [ ] 10 | Proton therapy in HNC | KIDWAI | 2020 | |
-| [ ] 11 | Principles of chemotherapy in HNC; chemoradiation regimes | AMRITA | 2008 | |
-| [ ] 12 | Complications of radiotherapy to H&N region | AMRITA | 2009 | |
-| [ ] 13 | IGRT | AMRITA | 2010 | |
-| [ ] 14 | Osteoradionecrosis of mandible | AMRITA | 2016 | |
-| [ ] 15 | Post chemo RT Neck dissection | AMRITA | 2016 | |
-| [ ] 16 | Neutron therapy for cancer | AMRITA | 2016 | |
-| [ ] 17 | IMRT | AMRITA | 2016 | |
-| [ ] 18 | Role and biological basis of re-radiation in HNC | AMRITA | 2017 | |
-| [ ] 19 | Brachytherapy in HNC | AMRITA | 2018 | |
-| [ ] 20 | Methods of RT delivery, fractionation, side effects; technological advances | AMRITA | 2018 | |
-| [ ] 21 | IGRT | AMRITA | 2018 | |
-| [ ] 22 | Management strategies for osteonecrosis of jaw | AMRITA | 2019 | |
-| [ ] 23 | Follow up and management of neck post-CRT | AMRITA | 2020 | |
-| [ ] 24 | Dental care during and after radiation | AMRITA | 2021 | |
-| [ ] 25 | Swallowing therapy during chemo radiation | AMRITA | 2021 | |
-| [ ] 26 | DARS-sparing radiation | AMRITA | 2021 | |
-| [ ] 27 | Proton beam therapy in HNC | AMRITA | 2021 | |
-| [ ] 28 | Osteoradionecrosis of the mandible | TMH | 2016 | |
-| [ ] 29 | Submandibular gland sparing irradiation in OPC | TMH | 2017 | |
-| [ ] 30 | Radiotherapy in verrucous carcinomas of H&N | TMH | 2017 | |
-| [ ] 31 | Prophylactic PEG placement in HNC undergoing CRT | TMH | 2017 | |
-| [ ] 32 | Re-radiation in HNSCC | TMH | 2017 | |
-| [ ] 33 | Role of IGRT in HNC | TMH | 2017 | |
-| [ ] 34 | Neoadjuvant chemotherapy in Oral cancer | TMH | 2018 | |
-| [ ] 35 | Management of osteoradionecrosis | TMH | 2018 | |
-| [ ] 36 | Neoadjuvant chemotherapy for larynx/hypopharynx SCC | TMH | 2018 | |
-| [ ] 37 | TLM vs RT in T1/2 glottic lesions: meta-analyses | TMH | 2018 | |
-| [ ] 38 | IMRT and IGRT in laryngeal/hypopharyngeal cancers | TMH | 2018 | |
-| [ ] 39 | IMRT in management of HNC | TMH | 2018 | |
-| [ ] 40 | Biological basis of fractionation in RT | TMH | 2018 | |
-| [ ] 41 | Concurrent CRT in hypopharyngeal malignancy | TMH | 2019 | |
-| [ ] 42 | Acute and long-term complications of RT for laryngeal malignancy | TMH | 2019 | |
-| [ ] 43 | Management of chondroradionecrosis of larynx | TMH | 2019 | |
-| [ ] 44 | DARS-sparing radiation in oral and oropharyngeal cancer | TMH | 2019 | |
-| [ ] 45 | Xerostomia prevention and management strategies | TMH | 2019 | |
-| [ ] 46 | Altered fractionation RT schedules for HNSCC | TMH | 2019 | |
-| [ ] 47 | Biologic basis of fractionation in RT | TMH | 2020 | |
-| [ ] 48 | Chondroradionecrosis management | TMH | 2020 | |
-| [ ] 49 | Toxicity of RT and management of xerostomia | TMH | 2020 | |
-| [ ] 50 | Intensity modulated radiation techniques | TMH | 2020 | |
-| [ ] 51 | Osteoradionecrosis of the mandible | TMH | 2020 | |
-| [ ] 52 | Pharyngeal strictures after CRT | TMH | 2020 | |
-| [ ] 53 | Adjuvant radiation therapy in oral cavity cancer | TMH | 2020 | |
-| [ ] 54 | Acute and long-term complications of RT for laryngeal malignancy | TMH | 2021 | |
-| [ ] 55 | Altered fractionation: indications, advantages, concerns | TMH | 2021 | |
-| [ ] 56 | Proton beam therapy | TMH | 2021 | |
+| [x] 1 | Oral complications of radiotherapy | AIIMS | 2020 | Radiation Complications in HNC |
+| [x] 2 | IMRT in head and neck cancer | AIIMS | 2020 | IMRT and IGRT in HNC |
+| [x] 3 | Rationale, indications, methods for re-irradiation in HNC | AIIMS | 2020 | Re-irradiation in HNC |
+| [x] 4 | DARS: steps in saving DARS in radiation | AIIMS | 2020 | → DARS-Sparing Radiation in OPC |
+| [x] 5 | Hyperbaric oxygen therapy in HNC | AIIMS | 2020 | → HBO Therapy |
+| [x] 6 | Benefits and indications for proton beam therapy in HNC | AIIMS | 2020 | Proton Beam Therapy in HNC |
+| [x] 7 | Indications for post-surgical radiation and chemoradiation in oral cancer | KIDWAI | 2020 | → Adjuvant RT in Oral Cancer |
+| [x] 8 | Hypo/Hyper-fractionation and Accelerated Radiotherapy; rationale and evidence | KIDWAI | 2020 | Biological Basis of Fractionation |
+| [x] 9 | The 4 R's of radiation; Steel-Peckham therapy | KIDWAI | 2020 | Biological Basis of Fractionation |
+| [x] 10 | Proton therapy in HNC | KIDWAI | 2020 | Proton Beam Therapy in HNC |
+| [x] 11 | Principles of chemotherapy in HNC; chemoradiation regimes | AMRITA | 2008 | Chemoradiation Principles |
+| [x] 12 | Complications of radiotherapy to H&N region | AMRITA | 2009 | Radiation Complications in HNC |
+| [x] 13 | IGRT | AMRITA | 2010 | IMRT and IGRT in HNC |
+| [x] 14 | Osteoradionecrosis of mandible | AMRITA | 2016 | → ORN of Mandible |
+| [x] 15 | Post chemo RT Neck dissection | AMRITA | 2016 | Post-CRT Neck Management |
+| [x] 16 | Neutron therapy for cancer | AMRITA | 2016 | Special Topics in RT |
+| [x] 17 | IMRT | AMRITA | 2016 | IMRT and IGRT in HNC |
+| [x] 18 | Role and biological basis of re-radiation in HNC | AMRITA | 2017 | Re-irradiation in HNC |
+| [x] 19 | Brachytherapy in HNC | AMRITA | 2018 | Brachytherapy in HNC |
+| [x] 20 | Methods of RT delivery, fractionation, side effects; technological advances | AMRITA | 2018 | Biological Basis of Fractionation |
+| [x] 21 | IGRT | AMRITA | 2018 | IMRT and IGRT in HNC |
+| [x] 22 | Management strategies for osteonecrosis of jaw | AMRITA | 2019 | → ORN of Mandible |
+| [x] 23 | Follow up and management of neck post-CRT | AMRITA | 2020 | Post-CRT Neck Management |
+| [x] 24 | Dental care during and after radiation | AMRITA | 2021 | Special Topics in RT |
+| [x] 25 | Swallowing therapy during chemo radiation | AMRITA | 2021 | → Swallowing Rehab in OPC |
+| [x] 26 | DARS-sparing radiation | AMRITA | 2021 | → DARS-Sparing Radiation in OPC |
+| [x] 27 | Proton beam therapy in HNC | AMRITA | 2021 | Proton Beam Therapy in HNC |
+| [x] 28 | Osteoradionecrosis of the mandible | TMH | 2016 | → ORN of Mandible |
+| [x] 29 | Submandibular gland sparing irradiation in OPC | TMH | 2017 | → SMG-Sparing RT in OPC |
+| [x] 30 | Radiotherapy in verrucous carcinomas of H&N | TMH | 2017 | Special Topics in RT |
+| [x] 31 | Prophylactic PEG placement in HNC undergoing CRT | TMH | 2017 | → PEG Feeding |
+| [x] 32 | Re-radiation in HNSCC | TMH | 2017 | Re-irradiation in HNC |
+| [x] 33 | Role of IGRT in HNC | TMH | 2017 | IMRT and IGRT in HNC |
+| [x] 34 | Neoadjuvant chemotherapy in Oral cancer | TMH | 2018 | → NACT in Oral Cancer |
+| [x] 35 | Management of osteoradionecrosis | TMH | 2018 | → ORN of Mandible |
+| [x] 36 | Neoadjuvant chemotherapy for larynx/hypopharynx SCC | TMH | 2018 | → Organ Preservation Strategies |
+| [x] 37 | TLM vs RT in T1/2 glottic lesions: meta-analyses | TMH | 2018 | → Early Glottic Cancer |
+| [x] 38 | IMRT and IGRT in laryngeal/hypopharyngeal cancers | TMH | 2018 | IMRT and IGRT in HNC |
+| [x] 39 | IMRT in management of HNC | TMH | 2018 | IMRT and IGRT in HNC |
+| [x] 40 | Biological basis of fractionation in RT | TMH | 2018 | Biological Basis of Fractionation |
+| [x] 41 | Concurrent CRT in hypopharyngeal malignancy | TMH | 2019 | Chemoradiation Principles |
+| [x] 42 | Acute and long-term complications of RT for laryngeal malignancy | TMH | 2019 | → RT Techniques in Larynx |
+| [x] 43 | Management of chondroradionecrosis of larynx | TMH | 2019 | → Chondroradionecrosis |
+| [x] 44 | DARS-sparing radiation in oral and oropharyngeal cancer | TMH | 2019 | → DARS-Sparing Radiation in OPC |
+| [x] 45 | Xerostomia prevention and management strategies | TMH | 2019 | → Xerostomia Management |
+| [x] 46 | Altered fractionation RT schedules for HNSCC | TMH | 2019 | Biological Basis of Fractionation |
+| [x] 47 | Biologic basis of fractionation in RT | TMH | 2020 | Biological Basis of Fractionation |
+| [x] 48 | Chondroradionecrosis management | TMH | 2020 | → Chondroradionecrosis |
+| [x] 49 | Toxicity of RT and management of xerostomia | TMH | 2020 | → Xerostomia Management |
+| [x] 50 | Intensity modulated radiation techniques | TMH | 2020 | IMRT and IGRT in HNC |
+| [x] 51 | Osteoradionecrosis of the mandible | TMH | 2020 | → ORN of Mandible |
+| [x] 52 | Pharyngeal strictures after CRT | TMH | 2020 | → Pharyngeal Reconstruction |
+| [x] 53 | Adjuvant radiation therapy in oral cavity cancer | TMH | 2020 | → Adjuvant RT in Oral Cancer |
+| [x] 54 | Acute and long-term complications of RT for laryngeal malignancy | TMH | 2021 | → RT Techniques in Larynx |
+| [x] 55 | Altered fractionation: indications, advantages, concerns | TMH | 2021 | Biological Basis of Fractionation |
+| [x] 56 | Proton beam therapy | TMH | 2021 | Proton Beam Therapy in HNC |
 
 **Suggested Answer Files (stacks):**
 1. **"IMRT in Head and Neck Cancer"** -- Q2, Q17, Q38, Q39, Q50

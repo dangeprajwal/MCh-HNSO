@@ -13,6 +13,8 @@ tags:
 > - **Larynx Q74:** Management of chondroradionecrosis of larynx (TMH 2019)
 > - **Larynx Q83:** Evaluation and management of chondroradionecrosis after CRT (TMH 2020)
 > - **Larynx Q90:** Radiology of laryngeal cartilage erosion (TMH 2020)
+> - **RT Q43:** Management of chondroradionecrosis of larynx (TMH 2019)
+> - **RT Q48:** Chondroradionecrosis management (TMH 2020)
 
 ## Source
 

@@ -7,6 +7,8 @@ tags:
 > [!question] Questions Covered
 > - The role of adjuvant radiation therapy in oral cavity cancer (TMH 2020)
 > - Discuss the rationale and potential application of DARS-sparing radiation therapy in oral and oropharyngeal cancer (TMH 2019)
+> - **RT Q7:** Indications for post-surgical radiation and chemoradiation in oral cancer (KIDWAI 2020)
+> - **RT Q53:** Adjuvant radiation therapy in oral cavity cancer (TMH 2020)
 
 ## Source
 

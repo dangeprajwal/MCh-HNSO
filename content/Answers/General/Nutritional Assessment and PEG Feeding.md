@@ -13,6 +13,7 @@ tags:
 > - Role of percutaneous gastrostomy in head and neck oncology (AMRITA 2017)
 > - PEG feeding (AMRITA 2020)
 > - Discuss about the role of prophylactic percutaneous endoscopic gastrostomy placement in patients with head and neck Cancer undergoing chemoradiotherapy (TMH 2017)
+> - **RT Q31:** Prophylactic PEG placement in HNC undergoing CRT (TMH 2017)
 > - Nutritional Assessment and advice before total laryngopharyngectomy (TMH 2019)
 
 **Source:** Scott-Brown's Otorhinolaryngology Volume 3, Chapter 33 (Nutritional Considerations); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 10 (Interdisciplinary Symptom Management)

@@ -7,6 +7,9 @@ tags:
 
 > [!question] Questions Covered
 > - Discuss DARS (dysphagia-aspiration related structures) sparing radiation in oropharyngeal cancer (TMH 2019)
+> - **RT Q4:** DARS: steps in saving DARS in radiation (AIIMS 2020)
+> - **RT Q26:** DARS-sparing radiation (AMRITA 2021)
+> - **RT Q44:** DARS-sparing radiation in oral and oropharyngeal cancer (TMH 2019)
 
 ## Source
 

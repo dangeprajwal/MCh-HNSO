@@ -10,6 +10,8 @@ tags:
 
 > [!question] Questions Covered
 > - List the current and investigational strategies (surgical, pharmacological, radiation-related) in the prevention and management of treatment-related xerostomia (TMH 2019)
+> - **RT Q45:** Xerostomia prevention and management strategies (TMH 2019)
+> - **RT Q49:** Toxicity of RT and management of xerostomia (TMH 2020)
 
 **Source:** Montgomery - Principles and Practice of HN Surgery, Chapter 4 (Radiation Therapy); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Novel RT Techniques); Scott-Brown's Otorhinolaryngology Volume 3
 

@@ -11,6 +11,7 @@ tags:
 > - Neoadjuvant chemotherapy in head and neck cancers (TMH 2016)
 > - Role of neoadjuvant chemotherapy in oral cancers (TMH 2018)
 > - Discuss the current evidence and indications for neoadjuvant chemotherapy in oral cavity cancer (TMH 2021)
+> - **RT Q34:** Neoadjuvant chemotherapy in Oral cancer (TMH 2018)
 
 ## Source
 

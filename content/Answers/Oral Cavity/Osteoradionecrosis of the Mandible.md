@@ -9,6 +9,11 @@ tags:
 > - Management of osteoradionecrosis (TMH 2018)
 > - Management of osteoradionecrosis of the mandible (TMH 2020)
 > - Management of osteoradionecrosis (TMH 2018 — Radiotherapy section)
+> - **RT Q14:** Osteoradionecrosis of mandible (AMRITA 2016)
+> - **RT Q22:** Management strategies for osteonecrosis of jaw (AMRITA 2019)
+> - **RT Q28:** Osteoradionecrosis of the mandible (TMH 2016)
+> - **RT Q35:** Management of osteoradionecrosis (TMH 2018)
+> - **RT Q51:** Osteoradionecrosis of the mandible (TMH 2020)
 
 ## Source
 

@@ -11,6 +11,7 @@ tags:
 > - **Larynx Q19:** T1 vs T2 glottic carcinoma — treatment selection (AMRITA 2008)
 > - **Larynx Q34:** Anterior commissure involvement in early glottic cancer (AMRITA 2019)
 > - **Larynx Q103:** Voice outcomes comparison — RT vs TLM vs open surgery (TMH 2022)
+> - **RT Q37:** TLM vs RT in T1/T2 glottic lesions: meta-analyses (TMH 2018)
 
 ## Source
 

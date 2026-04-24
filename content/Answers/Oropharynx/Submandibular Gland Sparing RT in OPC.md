@@ -7,6 +7,7 @@ tags:
 
 > [!question] Questions Covered
 > - Discuss submandibular gland sparing in radiation therapy for oropharyngeal cancer (TMH 2017)
+> - **RT Q29:** Submandibular gland sparing irradiation in OPC (TMH 2017)
 
 ## Source
 

@@ -10,6 +10,8 @@ tags:
 > - **Larynx Q72:** Hyperfractionation in laryngeal cancer (TMH 2019)
 > - **Larynx Q96:** Acute complications of radiation therapy (TMH 2021)
 > - **Larynx Q97:** Late complications of radiation therapy in laryngeal cancer (TMH 2021)
+> - **RT Q42:** Acute and long-term complications of RT for laryngeal malignancy (TMH 2019)
+> - **RT Q54:** Acute and long-term complications of RT for laryngeal malignancy (TMH 2021)
 
 ## Source
 
