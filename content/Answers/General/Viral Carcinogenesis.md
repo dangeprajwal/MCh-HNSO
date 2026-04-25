@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Epidemiology
   - Molecular-Biology
-  - Oncology
 ---
 
 # Viral Carcinogenesis in Head and Neck Cancer

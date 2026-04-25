@@ -84,7 +84,7 @@ Importantly, T4b does not imply incurability — nasopharyngeal cancer extending
 Stell and Maran's states: the patient's physical condition may play a major role in determining which treatment pathway is most appropriate. HNSCC patients typically are of **advanced age** and have **multiple comorbidities** as they share risk factor exposure with systemic diseases such as hypertension, myocardial infarction, cerebrovascular events, and chronic obstructive pulmonary disease.
 
 Key performance status tools include:
-- **Karnofsky [[Answers/General/Performance Scales and [[Answers/General/RECIST Criteria|RECIST criteria]]|performance scales]] (KPS):** 0-100% scale (Table 7.3 in Stell and Maran's)
+- **Karnofsky [[Answers/General/Performance Scales and RECIST|performance scales]] (KPS):** 0-100% scale (Table 7.3 in Stell and Maran's)
 - **ECOG/[[Answers/General/WHO Performance Scale|WHO performance scale]] Status:** 0-5 scale
 - **ACE-27 (Adult Comorbidity Evaluation-27):** Developed by Piccirillo; grades comorbidity severity
 

@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Systemic-Therapy
 ---
 
 > [!question] Questions Covered

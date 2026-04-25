@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Oncology
-  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -337,6 +336,6 @@ T3 Laryngeal Cancer
 > - [[Answers/Larynx/TEP and Prosthetic Voice Rehabilitation|TEP and Prosthetic Voice Rehabilitation]]
 > - [[Answers/Larynx/Alaryngeal Speech and Voice Restoration|Alaryngeal Speech and Voice Restoration]]
 > - [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer|Monoclonal Antibodies in Head and Neck Cancer]]
-> - [[Answers/Radiotherapy and Chemotherapy/Concurrent Chemoradiation|Concurrent Chemoradiation]]
+> - [[Answers/Radiotherapy and Chemotherapy/Chemoradiation Principles and Applications|Chemoradiation Principles and Applications]]
 > - [[Answers/General/Performance Scales and RECIST|Performance Scales and RECIST]]
 > - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]]

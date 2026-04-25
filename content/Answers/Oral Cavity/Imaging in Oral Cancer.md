@@ -3,7 +3,6 @@ tags:
   - Oral-Cavity
   - Diagnostics
   - Staging
-  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -213,7 +212,7 @@ Emerging modality for **measuring tumour thickness/DOI in anterior oral tongue c
 - Endoscopic technique enhancing mucosal vasculature visualisation
 - Improves detection of superficial oral mucosal lesions and margins
 - Used intraoperatively to guide excision margins
-- See also [[Answers/Oral Cavity/[[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] and Fluorescence-Guided Surgery|fluorescence-guided surgery]] surgery (autofluorescence, VELscope)
+- See also [[Answers/General/Surgical Margins in Head and Neck Cancer|surgical margins]] and fluorescence-guided surgery (autofluorescence, VELscope)
 
 ## Postoperative Imaging
 

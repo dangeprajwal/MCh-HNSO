@@ -3,7 +3,6 @@ tags:
   - General
   - Complications
   - Diagnostics
-  - Surgery
 ---
 
 # Pre-operative Embolization in Head and Neck Surgery

@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Surgery
 ---
 
 # Hyponatremia Management in the Postoperative Setting

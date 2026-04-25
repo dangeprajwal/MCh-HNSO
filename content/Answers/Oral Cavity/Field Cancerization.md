@@ -1,7 +1,6 @@
 ---
 tags:
   - Oral-Cavity
-  - Epidemiology
   - Molecular-Biology
   - Premalignant
 ---

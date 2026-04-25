@@ -1,7 +1,7 @@
 ---
 tags:
   - Larynx
-  - Surgery
+  - Oncology
 ---
 
 # Laryngeal Transplants

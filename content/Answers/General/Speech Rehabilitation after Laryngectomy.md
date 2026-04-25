@@ -3,7 +3,6 @@ tags:
   - General
   - Rehabilitation
   - Supportive-Care
-  - Surgery
 ---
 
 # Speech Rehabilitation after Laryngectomy

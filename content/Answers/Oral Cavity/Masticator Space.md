@@ -3,7 +3,6 @@ tags:
   - Oral-Cavity
   - Anatomy
   - Diagnostics
-  - Surgery
 ---
 
 > [!question] Questions Covered

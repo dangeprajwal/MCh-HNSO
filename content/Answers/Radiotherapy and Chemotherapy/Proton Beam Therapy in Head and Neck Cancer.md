@@ -1,7 +1,7 @@
 ---
 tags:
   - Radiotherapy
-  - Evidence-Based
+  - Radiotherapy
 ---
 
 > [!question] Questions Covered

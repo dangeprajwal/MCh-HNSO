@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Diagnostics
-  - Surgery
 ---
 
 > [!question] Questions Covered

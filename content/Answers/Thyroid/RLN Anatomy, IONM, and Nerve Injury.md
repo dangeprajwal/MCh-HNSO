@@ -2,7 +2,6 @@
 tags:
   - Thyroid
   - Anatomy
-  - Surgery
 ---
 
 > [!question] Questions Covered

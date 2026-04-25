@@ -1,7 +1,6 @@
 ---
 tags:
   - Larynx
-  - Surgery
   - Complications
 ---
 

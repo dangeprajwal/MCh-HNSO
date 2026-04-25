@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Oncology
-  - Surgery
 ---
 
 > [!question] Questions Covered

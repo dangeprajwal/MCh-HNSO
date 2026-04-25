@@ -3,7 +3,6 @@ tags:
   - General
   - Complications
   - Diagnostics
-  - Oncology
 ---
 
 # Paraneoplastic Syndromes in Head and Neck Cancer

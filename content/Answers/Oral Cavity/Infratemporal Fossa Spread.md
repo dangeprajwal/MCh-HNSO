@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Anatomy
-  - Surgery
 ---
 
 > [!question] Questions Covered

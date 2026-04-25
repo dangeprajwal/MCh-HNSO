@@ -1,8 +1,8 @@
 ---
 tags:
   - Larynx
-  - Rehabilitation
   - Complications
+  - Rehabilitation
 ---
 
 # Swallowing and Functional Assessment

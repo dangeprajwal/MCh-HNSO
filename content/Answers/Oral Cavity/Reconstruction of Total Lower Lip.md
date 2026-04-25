@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Premalignant
-  - Surgery
 ---
 
 > [!question] Questions Covered

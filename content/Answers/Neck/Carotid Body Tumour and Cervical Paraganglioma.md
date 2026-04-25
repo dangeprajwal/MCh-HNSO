@@ -1,7 +1,6 @@
 ---
 tags:
   - Neck
-  - Surgery
   - Diagnostics
 ---
 
@@ -388,4 +387,4 @@ END OF ANSWER
 >
 > **See Also:**
 > - [[Answers/General/Chyle Leak Management|Chyle Leak Management]] — postoperative complication in neck dissection
-> - [[Answers/Skull Base/index|Skull Base Topics]] — jugulotympanic paraganglioma management
+> - [[Answers/Neck/Parapharyngeal Space Tumours and Approaches|Parapharyngeal Space Tumours]] — vagal paraganglioma and post-styloid space management

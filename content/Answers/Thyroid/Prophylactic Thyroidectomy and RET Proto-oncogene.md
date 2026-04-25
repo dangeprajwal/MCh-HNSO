@@ -2,7 +2,6 @@
 tags:
   - Thyroid
   - Molecular-Biology
-  - Surgery
 ---
 
 > [!question] Questions Covered

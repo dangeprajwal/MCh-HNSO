@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Surgery
 ---
 
 # Impact of Tracheotomy on Respiratory Physiology

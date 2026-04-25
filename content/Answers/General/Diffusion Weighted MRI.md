@@ -2,7 +2,6 @@
 tags:
   - General
   - Diagnostics
-  - Oncology
 ---
 
 # Diffusion Weighted MRI in Head and Neck Cancer

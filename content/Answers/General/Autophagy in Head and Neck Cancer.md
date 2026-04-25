@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
 ---
 
 # Autophagy in Head and Neck Cancer

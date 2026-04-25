@@ -1,8 +1,8 @@
 ---
 tags:
   - Thyroid
-  - Pathology
   - Molecular-Biology
+  - Pathology
 ---
 
 > [!question] Questions Covered

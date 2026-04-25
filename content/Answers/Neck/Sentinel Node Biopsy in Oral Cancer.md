@@ -1,7 +1,6 @@
 ---
 tags:
   - Neck
-  - Surgery
   - Diagnostics
 ---
 

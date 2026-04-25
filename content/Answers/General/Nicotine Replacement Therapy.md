@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Epidemiology
   - Rehabilitation
-  - Systemic-Therapy
 ---
 
 > [!question] Questions Covered

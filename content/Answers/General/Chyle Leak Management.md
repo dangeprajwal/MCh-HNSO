@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Surgery
 ---
 
 # Prevention and Management of Chyle Leak

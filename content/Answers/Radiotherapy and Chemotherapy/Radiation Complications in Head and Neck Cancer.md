@@ -2,6 +2,7 @@
 tags:
   - Radiotherapy
   - Complications
+  - Radiotherapy
   - Supportive-Care
 ---
 

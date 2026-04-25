@@ -2,8 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
-  - Systemic-Therapy
 ---
 
 # Tumour Angiogenesis in Head and Neck Cancer

@@ -2,7 +2,6 @@
 tags:
   - Oropharynx
   - Oncology
-  - Epidemiology
 ---
 
 > [!question] Questions Covered

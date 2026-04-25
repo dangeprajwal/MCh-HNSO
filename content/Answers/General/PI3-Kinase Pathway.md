@@ -2,8 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
-  - Systemic-Therapy
 ---
 
 # The PI3-Kinase Pathway in Head and Neck Cancer

@@ -1,8 +1,7 @@
 ---
 tags:
   - Oral-Cavity
-  - Surgery
-  - Systemic-Therapy
+  - Oncology
 ---
 
 > [!question] Questions Covered

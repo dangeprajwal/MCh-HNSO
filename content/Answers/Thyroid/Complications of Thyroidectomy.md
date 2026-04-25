@@ -2,7 +2,6 @@
 tags:
   - Thyroid
   - Complications
-  - Surgery
 ---
 
 > [!question] Questions Covered

@@ -2,7 +2,6 @@
 tags:
   - Oropharynx
   - Rehabilitation
-  - Oncology
 ---
 
 > [!question] Questions Covered

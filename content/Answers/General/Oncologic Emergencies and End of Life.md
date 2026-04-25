@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Oncology
   - Supportive-Care
 ---
 

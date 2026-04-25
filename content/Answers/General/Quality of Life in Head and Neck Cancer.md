@@ -1,7 +1,6 @@
 ---
 tags:
   - General
-  - Oncology
   - Rehabilitation
   - Supportive-Care
 ---

@@ -3,7 +3,6 @@ tags:
   - General
   - Diagnostics
   - Molecular-Biology
-  - Oncology
 ---
 
 # Molecular Markers, [[Answers/General/Next Generation Sequencing in HNC|NGS]], and Proteomics in Head and Neck Cancer

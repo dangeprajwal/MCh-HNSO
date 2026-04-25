@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Pathology
-  - Oncology
 ---
 
 > [!question] Questions Covered

@@ -2,7 +2,6 @@
 tags:
   - General
   - Oncology
-  - Systemic-Therapy
 ---
 
 # Monoclonal Antibodies in Head and Neck Cancer

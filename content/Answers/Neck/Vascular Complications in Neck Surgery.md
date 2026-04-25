@@ -2,7 +2,6 @@
 tags:
   - Neck
   - Complications
-  - Surgery
 ---
 
 > [!question] MCh Exam Questions

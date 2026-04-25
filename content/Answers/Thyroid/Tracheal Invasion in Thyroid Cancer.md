@@ -1,7 +1,7 @@
 ---
 tags:
   - Thyroid
-  - Surgery
+  - Oncology
 ---
 
 > [!question] Questions Covered

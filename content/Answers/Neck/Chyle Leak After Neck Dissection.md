@@ -2,7 +2,6 @@
 tags:
   - Neck
   - Complications
-  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -275,5 +274,12 @@ Post-Neck Dissection: Milky or turbid drain fluid
 > 8. **Thoracoscopic escape route:** If cervical re-exploration fails, **right VATS ligation of the thoracic duct at T4-T5** (between aorta and azygos) achieves >90% success regardless of cervical anatomy variations.
 
 > [!compass]- Navigate
-> - [[Answers/Neck/Neck Dissection Principles|Neck Dissection Principles]]
-> - [[Answers/Thyroid/Complications of Thyroidectomy|Complications of Thyroidectomy]]
+> **Parent:** [[Answers/Neck/index|Neck]]
+>
+> **Related Notes:**
+> - [[Answers/Neck/Neck Dissection Principles and Evolution|Neck Dissection Principles and Evolution]] — procedure context and anatomical levels at risk
+> - [[Answers/Neck/Vascular Complications in Neck Surgery|Vascular Complications in Neck Surgery]] — other post-neck-dissection complications
+> - [[Answers/General/Nutritional Assessment and PEG Feeding|Nutritional Assessment and PEG Feeding]] — MCT diet and enteral nutrition in management
+>
+> **See Also:**
+> - [[Answers/Thyroid/Complications of Thyroidectomy|Complications of Thyroidectomy]] — chyle leak as a thyroid surgery complication

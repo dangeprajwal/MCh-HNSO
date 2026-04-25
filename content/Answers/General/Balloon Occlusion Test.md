@@ -3,7 +3,6 @@ tags:
   - General
   - Complications
   - Diagnostics
-  - Surgery
 ---
 
 # Balloon Occlusion Test

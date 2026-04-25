@@ -1,7 +1,6 @@
 ---
 tags:
   - Oropharynx
-  - Oncology
   - Pathology
 ---
 

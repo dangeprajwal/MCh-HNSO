@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
 ---
 
 # Apoptosis in Head and Neck Cancer

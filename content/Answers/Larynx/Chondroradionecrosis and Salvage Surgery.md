@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Complications
-  - Surgery
 ---
 
 > [!question] Questions Covered

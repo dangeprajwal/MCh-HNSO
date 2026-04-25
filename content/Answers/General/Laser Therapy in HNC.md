@@ -2,7 +2,6 @@
 tags:
   - General
   - Diagnostics
-  - Surgery
 ---
 
 > [!question] Questions Covered

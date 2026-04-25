@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
 ---
 
 # Next Generation Sequencing in Head and Neck Cancers

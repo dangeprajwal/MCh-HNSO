@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Surgery
 ---
 
 # Postoperative Anuria

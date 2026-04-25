@@ -2,7 +2,6 @@
 tags:
   - General
   - Pathology
-  - Surgery
 ---
 
 > [!question] Questions Covered

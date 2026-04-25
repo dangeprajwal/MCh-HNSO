@@ -1,8 +1,8 @@
 ---
 tags:
   - Radiotherapy
+  - Radiotherapy
   - Supportive-Care
-  - Oncology
 ---
 
 > [!question] Questions Covered

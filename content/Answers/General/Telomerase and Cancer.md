@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
 ---
 
 # Telomerase and Cancer

@@ -2,7 +2,6 @@
 tags:
   - General
   - Diagnostics
-  - Epidemiology
   - Molecular-Biology
 ---
 

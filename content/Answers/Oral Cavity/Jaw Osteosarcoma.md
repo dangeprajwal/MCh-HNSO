@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Oncology
-  - Surgery
 ---
 
 > [!question] Questions Covered

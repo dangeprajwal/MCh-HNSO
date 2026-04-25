@@ -2,14 +2,13 @@
 tags:
   - General
   - Complications
-  - Oncology
   - Staging
 ---
 
 # WHO/ECOG Performance Status Scale
 
 > [!question] Questions Covered
-> - WHO [[Answers/General/Performance Scales and [[Answers/General/RECIST Criteria|RECIST criteria]]|performance scales]] (KIDWAI 2020)
+> - WHO [[Answers/General/Performance Scales and RECIST|performance scales]] and [[Answers/General/RECIST Criteria|RECIST criteria]] (KIDWAI 2020)
 
 **Source:** Stell and Maran's Textbook of Head and Neck Surgery, Chapter 4 (Assessment of HNC Patient — Table 4.1), Chapter 7 (Treatment Options — Karnofsky Index, Table 7.3), Chapter 9 (Measures of Treatment Outcomes — Comorbidity Indices); Harrison - Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Pretreatment Evaluation), Chapter 8 ([[Answers/General/Quality of Life in Head and Neck Cancer|quality of life]])
 

@@ -3,7 +3,6 @@ tags:
   - General
   - Diagnostics
   - Molecular-Biology
-  - Oncology
 ---
 
 # PCR and Microarray Analysis in Head and Neck Cancer

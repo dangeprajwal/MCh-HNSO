@@ -3,7 +3,6 @@ tags:
   - Oral-Cavity
   - Diagnostics
   - Pathology
-  - Surgery
 ---
 
 > [!question] Questions Covered

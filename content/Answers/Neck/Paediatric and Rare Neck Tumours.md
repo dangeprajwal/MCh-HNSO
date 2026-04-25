@@ -2,7 +2,6 @@
 tags:
   - Neck
   - Oncology
-  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -336,7 +335,12 @@ open CFR               + Adjuvant RT (55–60 Gy)
 > 10. **Endoscopic craniofacial resection** has achieved oncological equivalence to open CFR in selected patients (Kadish A–B, selected C without broad dural invasion), with lower morbidity — now the preferred approach in high-volume skull base centres
 
 > [!compass]- Navigate
-> - [[Answers/Neck/Neck Dissection Principles|Neck Dissection Principles]]
-> - [[Answers/Skull Base/Skull Base Tumours|Skull Base Tumours]]
-> - [[Answers/Neck/Cervical Lymphadenopathy|Cervical Lymphadenopathy]]
-> - [[Answers/Neck/Carotid Body and Paraganglioma|Carotid Body and Paraganglioma Tumours]]
+> **Parent:** [[Answers/Neck/index|Neck]]
+>
+> **Related Notes:**
+> - [[Answers/Neck/Neck Dissection Principles and Evolution|Neck Dissection Principles and Evolution]] — elective and therapeutic neck dissection in paediatric tumours
+> - [[Answers/Neck/Carotid Body Tumour and Cervical Paraganglioma|Carotid Body Tumour and Cervical Paraganglioma]] — paraganglioma differential in neck
+> - [[Answers/Neck/Special Topics in Neck Surgery|Special Topics in Neck Surgery]] — second primaries and field cancerization context
+>
+> **See Also:**
+> - [[Answers/Neck/Parapharyngeal Space Tumours and Approaches|Parapharyngeal Space Tumours and Approaches]] — deep neck tumour surgical approaches

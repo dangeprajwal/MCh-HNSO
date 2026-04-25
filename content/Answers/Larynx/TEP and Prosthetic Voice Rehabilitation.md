@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Rehabilitation
-  - Surgery
 ---
 
 > [!question] Questions Covered

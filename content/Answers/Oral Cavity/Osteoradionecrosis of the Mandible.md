@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Complications
-  - Surgery
 ---
 
 > [!question] Questions Covered

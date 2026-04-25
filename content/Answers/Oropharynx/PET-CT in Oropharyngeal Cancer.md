@@ -2,7 +2,6 @@
 tags:
   - Oropharynx
   - Diagnostics
-  - Oncology
 ---
 
 > [!question] Questions Covered

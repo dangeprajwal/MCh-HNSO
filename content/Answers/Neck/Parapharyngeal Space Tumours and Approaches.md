@@ -1,7 +1,6 @@
 ---
 tags:
   - Neck
-  - Surgery
   - Anatomy
 ---
 
@@ -373,5 +372,12 @@ The choice of approach depends on:
 > 10. **Horner syndrome** preoperatively in a PPS mass indicates post-styloid sympathetic chain involvement — it helps localise the tumour to the post-styloid compartment and suggests neural origin.
 
 > [!compass]- Navigate
-> - [[Answers/Neck/Carotid Body Tumour|Carotid Body Tumour]]
-> - [[Answers/Neck/Neck Incisions and Approaches|Neck Incisions and Approaches]]
+> **Parent:** [[Answers/Neck/index|Neck]]
+>
+> **Related Notes:**
+> - [[Answers/Neck/Carotid Body Tumour and Cervical Paraganglioma|Carotid Body Tumour and Cervical Paraganglioma]] — post-styloid vascular paraganglioma differential diagnosis
+> - [[Answers/Neck/Special Topics in Neck Surgery|Special Topics in Neck Surgery]] — neck incision planning and access principles
+> - [[Answers/General/Balloon Occlusion Test|Balloon Occlusion Test]] — ICA occlusion test for tumours encasing the carotid
+>
+> **See Also:**
+> - [[Answers/Neck/Vascular Complications in Neck Surgery|Vascular Complications in Neck Surgery]] — carotid injury risk in deep neck tumour resection

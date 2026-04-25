@@ -1,7 +1,6 @@
 ---
 tags:
   - General
-  - Epidemiology
   - Oncology
 ---
 

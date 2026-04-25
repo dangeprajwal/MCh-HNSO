@@ -2,7 +2,6 @@
 tags:
   - General
   - Molecular-Biology
-  - Oncology
 ---
 
 # Cell Cycle and Cancer

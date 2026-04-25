@@ -1,7 +1,6 @@
 ---
 tags:
   - Thyroid
-  - Oncology
   - Diagnostics
 ---
 

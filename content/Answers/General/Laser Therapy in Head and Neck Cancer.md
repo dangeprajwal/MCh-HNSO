@@ -2,7 +2,6 @@
 tags:
   - General
   - Oncology
-  - Surgery
 ---
 
 # Laser Therapy in Head and Neck Cancer

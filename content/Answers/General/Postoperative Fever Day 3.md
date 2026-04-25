@@ -2,7 +2,6 @@
 tags:
   - General
   - Complications
-  - Surgery
 ---
 
 # Postoperative Fever on Day 3: Differential Diagnosis and Approach

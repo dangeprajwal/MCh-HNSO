@@ -1,7 +1,6 @@
 ---
 tags:
   - Larynx
-  - Oncology
   - Complications
 ---
 

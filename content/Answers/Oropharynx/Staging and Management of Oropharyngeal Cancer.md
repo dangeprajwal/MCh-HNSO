@@ -2,7 +2,6 @@
 tags:
   - Oropharynx
   - Oncology
-  - Surgery
 ---
 
 > [!question] Questions Covered

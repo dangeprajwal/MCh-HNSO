@@ -1,9 +1,8 @@
 ---
-title: "IMRT and IGRT in Head and Neck Cancer"
 tags:
   - Radiotherapy
   - Diagnostics
-  - Evidence-Based
+  - Radiotherapy
 ---
 
 > [!question] MCh Exam Questions

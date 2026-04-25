@@ -2,7 +2,6 @@
 tags:
   - Larynx
   - Anatomy
-  - Surgery
 ---
 
 > [!question] Questions Covered
@@ -371,7 +370,7 @@ Each type has subtypes based on extensions:
 > - [[Answers/Larynx/Landmark Trials and Organ Preservation Strategies|Landmark Trials and Organ Preservation Strategies]]
 > - [[Answers/Larynx/TEP and Prosthetic Voice Rehabilitation|TEP and Prosthetic Voice Rehabilitation]]
 > - [[Answers/Larynx/Laryngeal Transplants|Laryngeal Transplants]]
-> - [[Answers/Hypopharynx/Surgical Anatomy of Hypopharynx|Surgical Anatomy of Hypopharynx]]
+> - [[Answers/Larynx/Imaging in Laryngeal Cancer|Imaging in Laryngeal Cancer]]
 > - [[Answers/General/Narrow Band Imaging|Narrow Band Imaging]]
 > - [[Answers/General/Surgical Margins in Head and Neck Cancer|Surgical Margins in Head and Neck Cancer]]
 > - [[Answers/General/PET-CT in Head and Neck Cancer|PET-CT in Head and Neck Cancer]]

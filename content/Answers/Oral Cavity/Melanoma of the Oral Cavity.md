@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Oncology
-  - Systemic-Therapy
 ---
 
 > [!question] Questions Covered

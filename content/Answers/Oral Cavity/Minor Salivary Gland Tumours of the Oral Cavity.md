@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Pathology
-  - Surgery
 ---
 
 > [!question] Questions Covered

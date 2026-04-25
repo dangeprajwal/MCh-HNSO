@@ -2,7 +2,6 @@
 tags:
   - Thyroid
   - Pathology
-  - Oncology
 ---
 
 > [!question] Questions Covered

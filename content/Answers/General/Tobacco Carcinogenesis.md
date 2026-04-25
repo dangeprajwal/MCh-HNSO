@@ -1,9 +1,7 @@
 ---
 tags:
   - General
-  - Epidemiology
   - Molecular-Biology
-  - Oncology
 ---
 
 # Tobacco Carcinogenesis in Head and Neck Cancer

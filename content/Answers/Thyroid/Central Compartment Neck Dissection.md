@@ -1,7 +1,6 @@
 ---
 tags:
   - Thyroid
-  - Surgery
   - Oncology
 ---
 

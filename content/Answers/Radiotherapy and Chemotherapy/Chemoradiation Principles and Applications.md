@@ -1,9 +1,7 @@
 ---
-title: "Chemoradiation Principles and Applications"
 tags:
   - Radiotherapy
-  - Systemic-Therapy
-  - Oncology
+  - Radiotherapy
 ---
 
 > [!question] MCh Exam Questions
@@ -180,9 +178,9 @@ The combined analysis identified **only two features** that consistently benefit
 | Feature | Benefit of Adding Chemo |
 |---|---|
 | **Positive surgical margins** | **Yes** — significant improvement |
-| **[[Answers/General/Extranodal Extension\|Extranodal extension (ENE)]]** | **Yes** — significant improvement |
+| **[[Answers/General/Extranodal Extension|Extranodal extension (ENE)]]** | **Yes** — significant improvement |
 | >=2 positive nodes (without ENE) | Trend only — not significant |
-| [[Answers/General/Perineural Invasion\|Perineural invasion]] alone | No significant benefit |
+| [[Answers/General/Perineural Invasion|Perineural invasion]] alone | No significant benefit |
 | pT3-T4 alone | No significant benefit |
 | LVI alone | No significant benefit |
 
@@ -361,7 +359,7 @@ Although primarily a laryngeal cancer trial, RTOG 91-11 (Forastiere 2003) has pr
 
 | Toxicity | Incidence | Clinical Impact |
 |---|---|---|
-| **Xerostomia** | 30-60% (with IMRT) | Reduced with parotid-sparing [[Answers/Radiotherapy and Chemotherapy/IMRT and IGRT in Head and Neck Cancer\|IMRT]] |
+| **Xerostomia** | 30-60% (with IMRT) | Reduced with parotid-sparing [[Answers/Radiotherapy and Chemotherapy/IMRT and IGRT in Head and Neck Cancer|IMRT]] |
 | **Late dysphagia** | 10-25% | Pharyngeal constrictor fibrosis; aspiration risk |
 | **Ototoxicity** | 20-40% (high-frequency) | Cisplatin-induced; irreversible sensorineural hearing loss |
 | Hypothyroidism | 20-50% | Thyroid gland in radiation field |

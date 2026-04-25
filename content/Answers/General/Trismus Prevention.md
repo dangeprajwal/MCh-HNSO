@@ -3,7 +3,6 @@ tags:
   - General
   - Rehabilitation
   - Supportive-Care
-  - Surgery
 ---
 
 # Prevention and Management of Trismus after Head and Neck Cancer Treatment

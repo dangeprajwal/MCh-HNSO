@@ -2,7 +2,6 @@
 tags:
   - Oral-Cavity
   - Rehabilitation
-  - Surgery
 ---
 
 > [!question] Questions Covered

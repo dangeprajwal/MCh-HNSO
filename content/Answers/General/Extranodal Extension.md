@@ -3,7 +3,6 @@ tags:
   - General
   - Pathology
   - Staging
-  - Surgery
 ---
 
 > [!question] Questions Covered
