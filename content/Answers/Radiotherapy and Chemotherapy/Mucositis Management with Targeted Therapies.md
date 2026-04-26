@@ -225,7 +225,7 @@ END OF ANSWER
 >
 > **Related Notes:**
 > - [[Answers/Radiotherapy and Chemotherapy/Radiation Complications in Head and Neck Cancer|Radiation Complications in Head and Neck Cancer]] — full spectrum of RT complications
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors in HNC]] — ICI toxicity management
+> - [[Answers/Radiotherapy and Chemotherapy/Immune Checkpoint Inhibitors|Immune Checkpoint Inhibitors]] — ICI-specific irAE toxicity grading and steroid management
 > - [[Answers/Radiotherapy and Chemotherapy/Pharyngeal Strictures after CRT|Pharyngeal Strictures after CRT]] — late dysphagia complications of CRT
 >
 > **See Also:**

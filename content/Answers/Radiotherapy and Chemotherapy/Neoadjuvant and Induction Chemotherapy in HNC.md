@@ -183,7 +183,7 @@ END OF ANSWER
 > **Related Notes:**
 > - [[Answers/Radiotherapy and Chemotherapy/Chemoradiation Principles and Applications|Chemoradiation Principles and Applications]] — concurrent CRT; MACH-NC; adjuvant CRT
 > - [[Answers/Radiotherapy and Chemotherapy/Biological Therapy and EGFR in HNSCC|Biological Therapy and EGFR in HNSCC]] — cetuximab in EXTREME; EGFR-based approaches in R/M HNSCC
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors]] — emerging systemic therapies
+> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy in HNC|Immunotherapy in HNC]] — ICI role in R/M HNSCC; emerging neoadjuvant immunotherapy approaches
 >
 > **See Also:**
 > - [[Answers/Oral Cavity/Neoadjuvant Chemotherapy in Oral Cancer|Neoadjuvant Chemotherapy in Oral Cancer]] — full evidence for NACT in oral cavity SCC

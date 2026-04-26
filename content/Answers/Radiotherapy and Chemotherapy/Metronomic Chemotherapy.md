@@ -151,7 +151,7 @@ END OF ANSWER
 > **Parent:** [[Answers/Radiotherapy and Chemotherapy/index|Radiotherapy and Chemotherapy]]
 >
 > **Related Notes:**
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors]] — ICIs in R/M HNSCC; metronomic + ICI combination rationale
+> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy in HNC|Immunotherapy in HNC]] — ICIs in R/M HNSCC; metronomic + ICI combination rationale via Treg depletion
 > - [[Answers/Radiotherapy and Chemotherapy/Neoadjuvant and Induction Chemotherapy in HNC|Neoadjuvant and Induction Chemotherapy]] — MTD-based platinum regimens; context for comparison with metronomic
 > - [[Answers/Radiotherapy and Chemotherapy/Biological Therapy and EGFR in HNSCC|Biological Therapy and EGFR in HNSCC]] — systemic therapy landscape for R/M HNSCC
 >

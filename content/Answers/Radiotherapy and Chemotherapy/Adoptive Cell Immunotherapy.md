@@ -183,7 +183,7 @@ END OF ANSWER
 > **Parent:** [[Answers/Radiotherapy and Chemotherapy/index|Radiotherapy and Chemotherapy]]
 >
 > **Related Notes:**
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors in HNC]] — checkpoint inhibitor mechanism and evidence
+> - [[Answers/Radiotherapy and Chemotherapy/Immune Checkpoint Inhibitors|Immune Checkpoint Inhibitors]] — checkpoint inhibitor mechanism and evidence; PD-1/PD-L1, CTLA-4 biology
 > - [[Answers/Radiotherapy and Chemotherapy/Chemoradiation Principles and Applications|Chemoradiation Principles and Applications]] — concurrent CRT regimens
 >
 > **See Also:**

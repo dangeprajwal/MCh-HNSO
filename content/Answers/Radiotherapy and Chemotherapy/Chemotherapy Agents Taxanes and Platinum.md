@@ -270,4 +270,4 @@ END OF ANSWER
 >
 > **See Also:**
 > - [[Answers/Larynx/Landmark Trials and Organ Preservation Strategies|Landmark Trials and Organ Preservation Strategies]] — TPF induction evidence (TAX 323, TAX 324)
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors in HNC]] — KEYNOTE-048, EXTREME — platinum backbone regimens
+> - [[Answers/Radiotherapy and Chemotherapy/Pembrolizumab in HNSCC|Pembrolizumab in HNSCC]] — KEYNOTE-048; platinum + 5-FU backbone combined with pembrolizumab

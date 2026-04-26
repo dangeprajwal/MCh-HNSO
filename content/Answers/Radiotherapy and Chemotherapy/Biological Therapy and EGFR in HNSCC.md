@@ -164,7 +164,7 @@ END OF ANSWER
 > **Parent:** [[Answers/Radiotherapy and Chemotherapy/index|Radiotherapy and Chemotherapy]]
 >
 > **Related Notes:**
-> - [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors]] — pembrolizumab now supersedes EXTREME; ICI combination with cetuximab
+> - [[Answers/Radiotherapy and Chemotherapy/Pembrolizumab in HNSCC|Pembrolizumab in HNSCC]] — KEYNOTE-048 evidence; pembrolizumab supersedes the EXTREME regimen
 > - [[Answers/Radiotherapy and Chemotherapy/Chemoradiation Principles and Applications|Chemoradiation Principles and Applications]] — concurrent CRT context; cisplatin as preferred radiosensitiser
 > - [[Answers/Radiotherapy and Chemotherapy/Neoadjuvant and Induction Chemotherapy in HNC|Neoadjuvant and Induction Chemotherapy]] — EXTREME in R/M setting post-induction failure
 >
