@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 544 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43)
-- **Pending:** 347
-- **Sections Complete:** 7/26
+- **Answered:** 572 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43, Salivary Gland: 28)
+- **Pending:** 319
+- **Sections Complete:** 8/26
 
 ## Progress Bar
 ```
-████████████░░░░░░░░ 61.1% (544/891)
+█████████████░░░░░░░ 64.2% (572/891)
 ```
 
 ---
@@ -458,38 +458,38 @@
 
 ---
 
-### Salivary Glands (0/28)
+### Salivary Glands (28/28) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Complications of parotidectomy | AIIMS | 2020 | |
-| [ ] 2 | Pathophysiology of Frey's Syndrome | PGI | 2021 | |
-| [ ] 3 | Surgical anatomy of parotid gland and embryologic peculiarities | PGI | 2021 | |
-| [ ] 4 | Perineural invasion in Adenoid Cystic cancer | KIDWAI | 2020 | |
-| [ ] 5 | Pathology, staging and management of malignant parotid tumors | KIDWAI | 2020 | |
-| [ ] 6 | Pre surgical work up for deep lobe parotid tumour | KIDWAI | 2020 | |
-| [ ] 7 | Management of minor salivary gland tumours | AMRITA | 2016 | |
-| [ ] 8 | Methods to identify facial nerve during parotidectomy | AMRITA | 2018 | |
-| [ ] 9 | Facial reanimation after facial nerve injury during parotidectomy | AMRITA | 2021 | |
-| [ ] 10 | Systemic therapy for salivary gland malignancies | AMRITA | 2021 | |
-| [ ] 11 | Classify salivary gland neoplasms; management of high grade MEC with temporal bone involvement | TMH | 2016 | |
-| [ ] 12 | Adenoid cystic carcinoma of parotid gland | TMH | 2016 | |
-| [ ] 13 | Ectopic salivary gland tumours | TMH | 2016 | |
-| [ ] 14 | Adjuvant radiation and systemic therapy in salivary gland cancer | TMH | 2018 | |
-| [ ] 15 | Facial rehabilitation for House Brackmann VI palsy post parotid cancer | TMH | 2018 | |
-| [ ] 16 | Adequate parotidectomy for low/intermediate grade MEC | TMH | 2018 | |
-| [ ] 17 | ER, PR receptors in salivary gland tumours | TMH | 2019 | |
-| [ ] 18 | Surgical anatomy of facial nerve; total conservative parotidectomy | TMH | 2019 | |
-| [ ] 19 | Role of FNAC and Frozen section in salivary gland tumours | TMH | 2019 | |
-| [ ] 20 | Minor salivary gland tumours | TMH | 2019 | |
-| [ ] 21 | Operative procedure of Total Parotidectomy | TMH | 2020 | |
-| [ ] 22 | Facial reanimation techniques | TMH | 2020 | |
-| [ ] 23 | Post surgical adjuvant treatment for salivary gland tumors | TMH | 2020 | |
-| [ ] 24 | Management of high grade MEC of parotid | TMH | 2021 | |
-| [ ] 25 | Prevention and treatment of Frey's syndrome, Retromandibular depression, auricular anesthesia | TMH | 2021 | |
-| [ ] 26 | Types of parotidectomy and oncological efficacy | TMH | 2021 | |
-| [ ] 27 | Types of parotidectomies; indications for facial nerve resection; adjuvant therapy | TMH | 2022 | |
-| [ ] 28 | Molecular biology and treatment implications in salivary gland malignancy | TMH | 2022 | |
+| [x] 1 | Complications of parotidectomy | AIIMS | 2020 | |
+| [x] 2 | Pathophysiology of Frey's Syndrome | PGI | 2021 | |
+| [x] 3 | Surgical anatomy of parotid gland and embryologic peculiarities | PGI | 2021 | |
+| [x] 4 | Perineural invasion in Adenoid Cystic cancer | KIDWAI | 2020 | |
+| [x] 5 | Pathology, staging and management of malignant parotid tumors | KIDWAI | 2020 | |
+| [x] 6 | Pre surgical work up for deep lobe parotid tumour | KIDWAI | 2020 | |
+| [x] 7 | Management of minor salivary gland tumours | AMRITA | 2016 | |
+| [x] 8 | Methods to identify facial nerve during parotidectomy | AMRITA | 2018 | |
+| [x] 9 | Facial reanimation after facial nerve injury during parotidectomy | AMRITA | 2021 | |
+| [x] 10 | Systemic therapy for salivary gland malignancies | AMRITA | 2021 | |
+| [x] 11 | Classify salivary gland neoplasms; management of high grade MEC with temporal bone involvement | TMH | 2016 | |
+| [x] 12 | Adenoid cystic carcinoma of parotid gland | TMH | 2016 | |
+| [x] 13 | Ectopic salivary gland tumours | TMH | 2016 | |
+| [x] 14 | Adjuvant radiation and systemic therapy in salivary gland cancer | TMH | 2018 | |
+| [x] 15 | Facial rehabilitation for House Brackmann VI palsy post parotid cancer | TMH | 2018 | |
+| [x] 16 | Adequate parotidectomy for low/intermediate grade MEC | TMH | 2018 | |
+| [x] 17 | ER, PR receptors in salivary gland tumours | TMH | 2019 | |
+| [x] 18 | Surgical anatomy of facial nerve; total conservative parotidectomy | TMH | 2019 | |
+| [x] 19 | Role of FNAC and Frozen section in salivary gland tumours | TMH | 2019 | |
+| [x] 20 | Minor salivary gland tumours | TMH | 2019 | |
+| [x] 21 | Operative procedure of Total Parotidectomy | TMH | 2020 | |
+| [x] 22 | Facial reanimation techniques | TMH | 2020 | |
+| [x] 23 | Post surgical adjuvant treatment for salivary gland tumors | TMH | 2020 | |
+| [x] 24 | Management of high grade MEC of parotid | TMH | 2021 | |
+| [x] 25 | Prevention and treatment of Frey's syndrome, Retromandibular depression, auricular anesthesia | TMH | 2021 | |
+| [x] 26 | Types of parotidectomy and oncological efficacy | TMH | 2021 | |
+| [x] 27 | Types of parotidectomies; indications for facial nerve resection; adjuvant therapy | TMH | 2022 | |
+| [x] 28 | Molecular biology and treatment implications in salivary gland malignancy | TMH | 2022 | |
 
 **Suggested Answer Files (stacks):**
 1. **"Complications of Parotidectomy and Frey's Syndrome"** -- Q1, Q2, Q25
