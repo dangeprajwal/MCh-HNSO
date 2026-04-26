@@ -1,6 +1,7 @@
 ---
 tags:
-  - General
+  - Nose-and-Paranasal-Sinuses
+  - Surgery
   - Oncology
 ---
 

@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 572 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43, Salivary Gland: 28)
-- **Pending:** 319
-- **Sections Complete:** 8/26
+- **Answered:** 614 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43, Salivary Gland: 28, Nose and PNS: 42)
+- **Pending:** 277
+- **Sections Complete:** 9/26
 
 ## Progress Bar
 ```
-█████████████░░░░░░░ 64.2% (572/891)
+██████████████░░░░░░ 68.9% (614/891)
 ```
 
 ---
@@ -539,52 +539,52 @@
 
 ---
 
-### Nose and Paranasal Sinuses (0/42)
+### Nose and Paranasal Sinuses (42/42) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | When is endoscopic resection appropriate for PNS cancer | KIDWAI | 2020 | |
-| [ ] 2 | Role of Neck Dissection in Olfactory neuroblastoma | KIDWAI | 2020 | |
-| [ ] 3 | Management of ITF extension in oral cavity and PNS cancer | KIDWAI | 2020 | |
-| [ ] 4 | Rehabilitation/reconstruction options following Total Maxillectomy | KIDWAI | 2020 | |
-| [ ] 5 | Role of Endoscopic surgery for malignancy | KIDWAI | 2020 | |
-| [ ] 6 | Brown's classification of Maxillectomy | KIDWAI | 2020 | |
-| [ ] 7 | Ohngren's line; classify PNS tumours; aetiopathogenesis and management | AMRITA | 2009 | |
-| [ ] 8 | Kadish Stage C Esthesioneuroblastomas management | AMRITA | 2017 | |
-| [ ] 9 | Post maxillectomy reconstruction | AMRITA | 2018 | |
-| [ ] 10 | Olfactory neuroblastoma | AMRITA | 2018 | |
-| [ ] 11 | Classification, features and management of esthesioneuroblastomas | AMRITA | 2019 | |
-| [ ] 12 | Classification of maxillectomy defects | AMRITA | 2019 | |
-| [ ] 13 | Adenocarcinomas of the paranasal sinuses | AMRITA | 2020 | |
-| [ ] 14 | Raveh's approach | AMRITA | 2020 | |
-| [ ] 15 | Hyam's grading | AMRITA | 2020 | |
-| [ ] 16 | Role of induction chemotherapy in PNS tumors | AMRITA | 2021 | |
-| [ ] 17 | Diagnostic evaluation and management of PNS carcinoma | TMH | 2016 | |
-| [ ] 18 | Role of imaging in diagnosis, staging and follow up of sino-nasal malignancies | TMH | 2016 | |
-| [ ] 19 | Palatal reconstruction after maxillary sinus malignancy surgery | TMH | 2016 | |
-| [ ] 20 | Management of recurrent advanced nasopharyngeal angiofibroma | TMH | 2016 | |
-| [ ] 21 | Maxillectomy and its complications | TMH | 2016 | |
-| [ ] 22 | Sino-nasal adenoid cystic carcinomas and HPV association | TMH | 2017 | |
-| [ ] 23 | Role of endoscopic sino-nasal resections in PNS cancers | TMH | 2017 | |
-| [ ] 24 | Classification and reconstruction of maxillary defects | TMH | 2018 | |
-| [ ] 25 | Multidisciplinary management of sinonasal tumours invading anterior skull base | TMH | 2018 | |
-| [ ] 26 | Management protocol for SNUC | TMH | 2019 | |
-| [ ] 27 | Extent of orbital resection in T3 PNS cancer | TMH | 2019 | |
-| [ ] 28 | Aetiopathogenesis and management of Sinonasal Inverted papilloma | TMH | 2020 | |
-| [ ] 29 | Targeted therapies for Neuroendocrine carcinoma in sinonasal region | TMH | 2020 | |
-| [ ] 30 | Types and steps of maxillectomy | TMH | 2020 | |
-| [ ] 31 | Management of Esthesioneuroblastoma of anterior skull base | TMH | 2020 | |
-| [ ] 32 | Staging of paranasal sinus cancers | TMH | 2020 | |
-| [ ] 33 | Evaluation and management of Esthesioneuroblastoma | TMH | 2020 | |
-| [ ] 34 | Classification of maxillectomy defects and reconstruction | TMH | 2021 | |
-| [ ] 35 | Diagnostic evaluation of cancer of PNS | TMH | 2021 | |
-| [ ] 36 | Management of Kadish C Esthesioneuroblastoma | TMH | 2021 | |
-| [ ] 37 | Inverted papilloma | TMH | 2021 | |
-| [ ] 38 | Role of endoscopic surgery in cancer of PNS | TMH | 2021 | |
-| [ ] 39 | Staging and grading of Olfactory Neuroblastoma; treatment | TMH | 2022 | |
-| [ ] 40 | Maxillary sinus tumor pathways of spread; imaging in PNS tumors | TMH | 2022 | |
-| [ ] 41 | Surgical approaches for maxillary cancer; extended total maxillectomy | TMH | 2022 | |
-| [ ] 42 | Endoscopic resection in PNS malignancies; endoscopic medial maxillectomy | TMH | 2022 | |
+| [x] 1 | When is endoscopic resection appropriate for PNS cancer | KIDWAI | 2020 | |
+| [x] 2 | Role of Neck Dissection in Olfactory neuroblastoma | KIDWAI | 2020 | |
+| [x] 3 | Management of ITF extension in oral cavity and PNS cancer | KIDWAI | 2020 | |
+| [x] 4 | Rehabilitation/reconstruction options following Total Maxillectomy | KIDWAI | 2020 | |
+| [x] 5 | Role of Endoscopic surgery for malignancy | KIDWAI | 2020 | |
+| [x] 6 | Brown's classification of Maxillectomy | KIDWAI | 2020 | |
+| [x] 7 | Ohngren's line; classify PNS tumours; aetiopathogenesis and management | AMRITA | 2009 | |
+| [x] 8 | Kadish Stage C Esthesioneuroblastomas management | AMRITA | 2017 | |
+| [x] 9 | Post maxillectomy reconstruction | AMRITA | 2018 | |
+| [x] 10 | Olfactory neuroblastoma | AMRITA | 2018 | |
+| [x] 11 | Classification, features and management of esthesioneuroblastomas | AMRITA | 2019 | |
+| [x] 12 | Classification of maxillectomy defects | AMRITA | 2019 | |
+| [x] 13 | Adenocarcinomas of the paranasal sinuses | AMRITA | 2020 | |
+| [x] 14 | Raveh's approach | AMRITA | 2020 | |
+| [x] 15 | Hyam's grading | AMRITA | 2020 | |
+| [x] 16 | Role of induction chemotherapy in PNS tumors | AMRITA | 2021 | |
+| [x] 17 | Diagnostic evaluation and management of PNS carcinoma | TMH | 2016 | |
+| [x] 18 | Role of imaging in diagnosis, staging and follow up of sino-nasal malignancies | TMH | 2016 | |
+| [x] 19 | Palatal reconstruction after maxillary sinus malignancy surgery | TMH | 2016 | |
+| [x] 20 | Management of recurrent advanced nasopharyngeal angiofibroma | TMH | 2016 | |
+| [x] 21 | Maxillectomy and its complications | TMH | 2016 | |
+| [x] 22 | Sino-nasal adenoid cystic carcinomas and HPV association | TMH | 2017 | |
+| [x] 23 | Role of endoscopic sino-nasal resections in PNS cancers | TMH | 2017 | |
+| [x] 24 | Classification and reconstruction of maxillary defects | TMH | 2018 | |
+| [x] 25 | Multidisciplinary management of sinonasal tumours invading anterior skull base | TMH | 2018 | |
+| [x] 26 | Management protocol for SNUC | TMH | 2019 | |
+| [x] 27 | Extent of orbital resection in T3 PNS cancer | TMH | 2019 | |
+| [x] 28 | Aetiopathogenesis and management of Sinonasal Inverted papilloma | TMH | 2020 | |
+| [x] 29 | Targeted therapies for Neuroendocrine carcinoma in sinonasal region | TMH | 2020 | |
+| [x] 30 | Types and steps of maxillectomy | TMH | 2020 | |
+| [x] 31 | Management of Esthesioneuroblastoma of anterior skull base | TMH | 2020 | |
+| [x] 32 | Staging of paranasal sinus cancers | TMH | 2020 | |
+| [x] 33 | Evaluation and management of Esthesioneuroblastoma | TMH | 2020 | |
+| [x] 34 | Classification of maxillectomy defects and reconstruction | TMH | 2021 | |
+| [x] 35 | Diagnostic evaluation of cancer of PNS | TMH | 2021 | |
+| [x] 36 | Management of Kadish C Esthesioneuroblastoma | TMH | 2021 | |
+| [x] 37 | Inverted papilloma | TMH | 2021 | |
+| [x] 38 | Role of endoscopic surgery in cancer of PNS | TMH | 2021 | |
+| [x] 39 | Staging and grading of Olfactory Neuroblastoma; treatment | TMH | 2022 | |
+| [x] 40 | Maxillary sinus tumor pathways of spread; imaging in PNS tumors | TMH | 2022 | |
+| [x] 41 | Surgical approaches for maxillary cancer; extended total maxillectomy | TMH | 2022 | |
+| [x] 42 | Endoscopic resection in PNS malignancies; endoscopic medial maxillectomy | TMH | 2022 | |
 
 **Suggested Answer Files (stacks):**
 1. **"Endoscopic Surgery for PNS Malignancies"** -- Q1, Q5, Q23, Q38, Q42
