@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 614 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Neck: 43, Salivary Gland: 28, Nose and PNS: 42)
-- **Pending:** 277
-- **Sections Complete:** 9/26
+- **Answered:** 653 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42)
+- **Pending:** 238
+- **Sections Complete:** 10/26
 
 ## Progress Bar
 ```
-██████████████░░░░░░ 68.9% (614/891)
+███████████████░░░░░ 73.3% (653/891)
 ```
 
 ---
@@ -861,49 +861,49 @@
 
 ---
 
-### Chemotherapy / Immunotherapy (0/39)
+### Chemotherapy / Immunotherapy (39/39) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Immunotherapy in head and neck cancers | AIIMS | 2020 | |
-| [ ] 2 | Immune checkpoint inhibitors | AIIMS | 2020 | |
-| [ ] 3 | Role of Neoadjuvant chemotherapy in HNC | AIIMS | 2020 | |
-| [ ] 4 | Immunotherapy for HNC: current role and predictive factors | PGI | 2021 | |
-| [ ] 5 | Indications for post-surgical radiation and chemoradiation in oral cancer | KIDWAI | 2020 | |
-| [ ] 6 | Adoptive cell immunotherapy | KIDWAI | 2020 | |
-| [ ] 7 | Tumor Angiogenesis; angiogenic agents | KIDWAI | 2020 | |
-| [ ] 8 | Mechanism of action of taxanes and platinum | KIDWAI | 2020 | |
-| [ ] 9 | Immunotherapy in HNC | KIDWAI | 2020 | |
-| [ ] 10 | Biological therapy in HNC | AMRITA | 2008 | |
-| [ ] 11 | Selective intra-arterial chemotherapy | AMRITA | 2008 | |
-| [ ] 12 | Principles of chemotherapy and chemoradiation regimes | AMRITA | 2008 | |
-| [ ] 13 | How does induction chemotherapy work; indications; evidence | AMRITA | 2010 | |
-| [ ] 14 | RECIST | AMRITA | 2016 | |
-| [ ] 15 | Cetuximab | AMRITA | 2016 | |
-| [ ] 16 | Induction chemotherapy for oral cavity cancer | AMRITA | 2017 | |
-| [ ] 17 | Recent advances in Immunotherapy in HNC | AMRITA | 2017 | |
-| [ ] 18 | Concept of immune gate keepers | AMRITA | 2019 | |
-| [ ] 19 | Mucositis management in patients receiving targeted therapies | AMRITA | 2019 | |
-| [ ] 20 | Metronomic chemotherapy | AMRITA | 2020 | |
-| [ ] 21 | Chemoprevention | AMRITA | 2020 | |
-| [ ] 22 | Complications of chemotherapy; induction chemotherapy in laryngo-hypopharyngeal cancers | AMRITA | 2020 | |
-| [ ] 23 | Nivolumab | AMRITA | 2020 | |
-| [ ] 24 | Metronomic chemotherapy | AMRITA | 2021 | |
-| [ ] 25 | Induction chemotherapy in PNS tumors | AMRITA | 2021 | |
-| [ ] 26 | Immune checkpoint inhibitors | AMRITA | 2021 | |
-| [ ] 27 | Evidence for pembrolizumab in advanced HNSCC | TMH | 2017 | |
-| [ ] 28 | Neoadjuvant chemotherapy in Oral cancer | TMH | 2018 | |
-| [ ] 29 | Neoadjuvant chemotherapy for larynx/hypopharynx SCC | TMH | 2018 | |
-| [ ] 30 | Induction vs adjuvant chemotherapy in NPC | TMH | 2019 | |
-| [ ] 31 | Concurrent CRT in hypopharyngeal malignancy | TMH | 2019 | |
-| [ ] 32 | Neoadjuvant chemotherapy in oral SCC | TMH | 2019 | |
-| [ ] 33 | Evidence for immunotherapy in primary and recurrent HNSCC | TMH | 2019 | |
-| [ ] 34 | RADPLAT regime for advanced cancer | TMH | 2020 | |
-| [ ] 35 | Chondroradionecrosis after chemoradiation | TMH | 2020 | |
-| [ ] 36 | Pharyngeal strictures after CRT | TMH | 2020 | |
-| [ ] 37 | Current role of immunotherapy in HNC | TMH | 2021 | |
-| [ ] 38 | EGFR blockade in HNSCC: success or failure | TMH | 2022 | |
-| [ ] 39 | Neoadjuvant chemotherapy in oral cancers | TMH | 2022 | |
+| [x] 1 | Immunotherapy in head and neck cancers | AIIMS | 2020 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 2 | Immune checkpoint inhibitors | AIIMS | 2020 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 3 | Role of Neoadjuvant chemotherapy in HNC | AIIMS | 2020 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 4 | Immunotherapy for HNC: current role and predictive factors | PGI | 2021 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 5 | Indications for post-surgical radiation and chemoradiation in oral cancer | KIDWAI | 2020 | Adjuvant Radiation Therapy in Oral Cancer (cross-ref) |
+| [x] 6 | Adoptive cell immunotherapy | KIDWAI | 2020 | Adoptive Cell Immunotherapy |
+| [x] 7 | Tumor Angiogenesis; angiogenic agents | KIDWAI | 2020 | Tumour Angiogenesis (General, cross-ref) |
+| [x] 8 | Mechanism of action of taxanes and platinum | KIDWAI | 2020 | Chemotherapy Agents Taxanes and Platinum |
+| [x] 9 | Immunotherapy in HNC | KIDWAI | 2020 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 10 | Biological therapy in HNC | AMRITA | 2008 | Biological Therapy and EGFR in HNSCC |
+| [x] 11 | Selective intra-arterial chemotherapy | AMRITA | 2008 | Selective Intra-arterial Chemotherapy and RADPLAT |
+| [x] 12 | Principles of chemotherapy and chemoradiation regimes | AMRITA | 2008 | Chemoradiation Principles and Applications (cross-ref) |
+| [x] 13 | How does induction chemotherapy work; indications; evidence | AMRITA | 2010 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 14 | RECIST | AMRITA | 2016 | RECIST Criteria (General, cross-ref) |
+| [x] 15 | Cetuximab | AMRITA | 2016 | Biological Therapy and EGFR in HNSCC |
+| [x] 16 | Induction chemotherapy for oral cavity cancer | AMRITA | 2017 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 17 | Recent advances in Immunotherapy in HNC | AMRITA | 2017 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 18 | Concept of immune gate keepers | AMRITA | 2019 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 19 | Mucositis management in patients receiving targeted therapies | AMRITA | 2019 | Mucositis Management with Targeted Therapies |
+| [x] 20 | Metronomic chemotherapy | AMRITA | 2020 | Metronomic Chemotherapy |
+| [x] 21 | Chemoprevention | AMRITA | 2020 | Chemoprevention |
+| [x] 22 | Complications of chemotherapy; induction chemotherapy in laryngo-hypopharyngeal cancers | AMRITA | 2020 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 23 | Nivolumab | AMRITA | 2020 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 24 | Metronomic chemotherapy | AMRITA | 2021 | Metronomic Chemotherapy |
+| [x] 25 | Induction chemotherapy in PNS tumors | AMRITA | 2021 | Induction Chemotherapy in PNS Tumors (PNS, cross-ref) |
+| [x] 26 | Immune checkpoint inhibitors | AMRITA | 2021 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 27 | Evidence for pembrolizumab in advanced HNSCC | TMH | 2017 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 28 | Neoadjuvant chemotherapy in Oral cancer | TMH | 2018 | Neoadjuvant Chemotherapy in Oral Cancer (Oral Cavity, cross-ref) |
+| [x] 29 | Neoadjuvant chemotherapy for larynx/hypopharynx SCC | TMH | 2018 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 30 | Induction vs adjuvant chemotherapy in NPC | TMH | 2019 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 31 | Concurrent CRT in hypopharyngeal malignancy | TMH | 2019 | Chemoradiation Principles and Applications (cross-ref) |
+| [x] 32 | Neoadjuvant chemotherapy in oral SCC | TMH | 2019 | Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 33 | Evidence for immunotherapy in primary and recurrent HNSCC | TMH | 2019 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 34 | RADPLAT regime for advanced cancer | TMH | 2020 | Selective Intra-arterial Chemotherapy and RADPLAT |
+| [x] 35 | Chondroradionecrosis after chemoradiation | TMH | 2020 | Chondroradionecrosis and Salvage Surgery (Larynx, cross-ref) |
+| [x] 36 | Pharyngeal strictures after CRT | TMH | 2020 | Pharyngeal Strictures after CRT |
+| [x] 37 | Current role of immunotherapy in HNC | TMH | 2021 | Immunotherapy and Immune Checkpoint Inhibitors in HNC |
+| [x] 38 | EGFR blockade in HNSCC: success or failure | TMH | 2022 | Biological Therapy and EGFR in HNSCC |
+| [x] 39 | Neoadjuvant chemotherapy in oral cancers | TMH | 2022 | Neoadjuvant and Induction Chemotherapy in HNC |
 
 **Suggested Answer Files (stacks):**
 1. **"Immunotherapy and Immune Checkpoint Inhibitors in HNC"** -- Q1, Q2, Q4, Q9, Q17, Q18, Q23, Q26, Q27, Q33, Q37
@@ -1306,8 +1306,8 @@
 | Parathyroid | 6 | 0 | 6 |
 | Ear / Temporal Bone | 10 | 0 | 10 |
 | Eye / Orbit | 11 | 0 | 11 |
-| Radiotherapy | 56 | 0 | 56 |
-| Chemotherapy / Immunotherapy | 39 | 0 | 39 |
+| Radiotherapy | 56 | 56 | 0 |
+| Chemotherapy / Immunotherapy | 39 | 39 | 0 |
 | Anatomy | 20 | 0 | 20 |
 | Pathology | 10 | 0 | 10 |
 | Plastic Surgery | 38 | 0 | 38 |
@@ -1318,4 +1318,4 @@
 | HPV | 16 | 0 | 16 |
 | Soft Tissue Malignancy | 3 | 0 | 3 |
 | Neck | 43 | 0 | 43 |
-| **TOTAL** | **891** | **218** | **673** |
+| **TOTAL** | **891** | **653** | **238** |

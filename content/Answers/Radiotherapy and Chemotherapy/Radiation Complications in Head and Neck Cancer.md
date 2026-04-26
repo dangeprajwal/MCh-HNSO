@@ -1,8 +1,7 @@
 ---
 tags:
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
   - Complications
-  - Radiotherapy
   - Supportive-Care
 ---
 

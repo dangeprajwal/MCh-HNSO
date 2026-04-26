@@ -1,7 +1,8 @@
 ---
 tags:
-  - Radiotherapy
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
+  - Systemic-Therapy
+  - Oncology
 ---
 
 > [!question] MCh Exam Questions

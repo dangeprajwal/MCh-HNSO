@@ -1,7 +1,8 @@
 ---
 tags:
-  - Radiotherapy
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
+  - Oncology
+  - Surgery
 ---
 
 > [!question] Questions Covered

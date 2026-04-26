@@ -1,7 +1,7 @@
 ---
 tags:
-  - Radiotherapy
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
+  - Oncology
   - Supportive-Care
 ---
 

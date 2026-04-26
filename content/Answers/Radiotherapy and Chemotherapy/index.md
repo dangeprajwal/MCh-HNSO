@@ -1,12 +1,12 @@
 ---
 title: Radiotherapy and Chemotherapy
 tags:
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
 ---
 
 # Radiotherapy and Chemotherapy — Answer Index
 
-This section covers **56 questions** from MCh Head and Neck Surgery & Oncology examinations. **32 questions** are addressed in **9 dedicated answer files** below; the remaining **24 questions** are cross-referenced to existing files in other sections where the topic is comprehensively covered.
+This section covers questions from MCh Head and Neck Surgery & Oncology examinations across both Radiotherapy and Chemotherapy/Immunotherapy topics. Dedicated answer files address the major topic clusters; remaining questions are cross-referenced to existing files in other sections where the topic is comprehensively covered.
 
 ---
 
@@ -24,12 +24,25 @@ This section covers **56 questions** from MCh Head and Neck Surgery & Oncology e
 
 - [[Answers/Radiotherapy and Chemotherapy/Chemoradiation Principles and Applications|Chemoradiation Principles and Applications]] — MACH-NC, concurrent CRT regimens, adjuvant CRT indications, induction chemotherapy
 - [[Answers/Radiotherapy and Chemotherapy/Post-CRT Neck Management|Post-CRT Neck Management]] — PET-NECK trial, planned vs surveillance neck dissection, HPV+ considerations
+- [[Answers/Radiotherapy and Chemotherapy/Neoadjuvant and Induction Chemotherapy in HNC|Neoadjuvant and Induction Chemotherapy in HNC]] — TPF regimen, TAX 323/324, organ preservation bioselection, NPC induction (Sun 2016), complications
+- [[Answers/Radiotherapy and Chemotherapy/Biological Therapy and EGFR in HNSCC|Biological Therapy and EGFR in HNSCC]] — cetuximab, Bonner trial, RTOG 0522, EXTREME regimen, EGFR TKIs, success vs failure analysis
+- [[Answers/Radiotherapy and Chemotherapy/Immunotherapy and Immune Checkpoint Inhibitors in HNC|Immunotherapy and Immune Checkpoint Inhibitors in HNC]] — PD-1/PD-L1, CTLA-4, nivolumab (CheckMate 141), pembrolizumab (KEYNOTE-048/040), PD-L1 CPS, irAEs
+- [[Answers/Radiotherapy and Chemotherapy/Metronomic Chemotherapy|Metronomic Chemotherapy]] — low-dose continuous scheduling, anti-angiogenic/Treg mechanisms, MTX+celecoxib (Patil 2015), comparison with MTD
+- [[Answers/Radiotherapy and Chemotherapy/Chemoprevention|Chemoprevention]] — retinoids (isotretinoin Hong 1990, Khuri 2006), COX-2 inhibitors, curcumin, HPV vaccination, field cancerisation
+- [[Answers/Radiotherapy and Chemotherapy/Selective Intra-arterial Chemotherapy and RADPLAT|Selective Intra-arterial Chemotherapy and RADPLAT]] — RADPLAT protocol, cisplatin IA + IV thiosulfate, Robbins 1996, superselective catheterisation, outcomes
+- [[Answers/Radiotherapy and Chemotherapy/Adoptive Cell Immunotherapy|Adoptive Cell Immunotherapy]] — TIL therapy, CAR-T (generations, HNSCC targets), TCR-T for HPV E6/E7, NK cell therapy
+- [[Answers/Radiotherapy and Chemotherapy/Chemotherapy Agents Taxanes and Platinum|Chemotherapy Agents: Taxanes and Platinum]] — cisplatin MOA (DNA crosslinks, NER, apoptosis), carboplatin Calvert formula, paclitaxel/docetaxel microtubule stabilisation, resistance
+- [[Answers/Radiotherapy and Chemotherapy/Mucositis Management with Targeted Therapies|Mucositis Management with Targeted Therapies]] — EGFR inhibitor mucositis vs mTOR stomatitis vs ICI mucositis, topical dexamethasone, MASCC/ISOO guidelines
+
+## Complications and Late Effects
+
+- [[Answers/Radiotherapy and Chemotherapy/Pharyngeal Strictures after CRT|Pharyngeal Strictures after CRT]] — TGF-β1 fibrosis, risk factors, PARSPORT (Nutting 2011), DO-IMRT, balloon dilatation, mitomycin C, surgical reconstruction
 
 ## Re-irradiation
 
 - [[Answers/Radiotherapy and Chemotherapy/Re-irradiation in Head and Neck Cancer|Re-irradiation in HNC]] — Patient selection, cumulative dose, SBRT, RTOG 99-11, carotid blowout risk
 
-## Complications and Supportive Care
+## Radiation Complications and Supportive Care
 
 - [[Answers/Radiotherapy and Chemotherapy/Radiation Complications in Head and Neck Cancer|Radiation Complications in HNC]] — Mucositis, dermatitis, QUANTEC constraints, prevention strategies
 - [[Answers/Radiotherapy and Chemotherapy/Special Topics in Radiation Therapy|Special Topics in RT]] — Neutron therapy, dental care, verrucous carcinoma and RT

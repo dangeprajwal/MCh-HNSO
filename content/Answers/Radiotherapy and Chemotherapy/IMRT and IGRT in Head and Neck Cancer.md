@@ -1,8 +1,8 @@
 ---
 tags:
-  - Radiotherapy
+  - Radiotherapy-and-Chemotherapy
   - Diagnostics
-  - Radiotherapy
+  - Oncology
 ---
 
 > [!question] MCh Exam Questions
