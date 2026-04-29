@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 653 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42)
-- **Pending:** 238
-- **Sections Complete:** 10/26
+- **Answered:** 674 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42, Hypopharynx: 21)
+- **Pending:** 217
+- **Sections Complete:** 11/26
 
 ## Progress Bar
 ```
-███████████████░░░░░ 73.3% (653/891)
+███████████████░░░░░ 75.6% (674/891)
 ```
 
 ---
@@ -666,31 +666,31 @@
 
 ---
 
-### Hypopharynx (0/21)
+### Hypopharynx (21/21) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Treatment options for T2 N0 pyriform sinus cancer | KIDWAI | 2020 | |
-| [ ] 2 | CRT for advanced SCC of larynx and hypopharynx | AMRITA | 2008 | |
-| [ ] 3 | Role of induction chemotherapy in stage IV hypopharyngeal cancer | TMH | 2016 | |
-| [ ] 4 | Endoscopic laryngopharyngeal surgery for hypopharyngeal cancer | TMH | 2017 | |
-| [ ] 5 | Plummer Vinson syndrome and hypopharyngeal cancer | TMH | 2017 | |
-| [ ] 6 | Neoadjuvant chemotherapy including bioselection for larynx/hypopharynx SCC | TMH | 2018 | |
-| [ ] 7 | CT vs MR in laryngeal/hypopharyngeal cancer | TMH | 2018 | |
-| [ ] 8 | Assessment of laryngeal function in laryngeal/hypopharyngeal cancer | TMH | 2018 | |
-| [ ] 9 | Reconstructive options for circumferential pharyngectomy defect | TMH | 2018 | |
-| [ ] 10 | PET-CT in residual/recurrent SCC larynx/hypopharynx | TMH | 2018 | |
-| [ ] 11 | IMRT and IGRT in laryngeal/hypopharyngeal cancers | TMH | 2018 | |
-| [ ] 12 | Concurrent chemoradiation in hypopharyngeal malignancy | TMH | 2019 | |
-| [ ] 13 | Indications and morbidity of Gastric pull-up | TMH | 2020 | |
-| [ ] 14 | Margins in hypopharyngeal cancer resection | TMH | 2020 | |
-| [ ] 15 | Surgical anatomy of Larynx and Hypopharynx; conservation surgeries | TMH | 2020 | |
-| [ ] 16 | Reconstructive options for pharyngeal and cervical oesophageal defects | TMH | 2021 | |
-| [ ] 17 | Hyperfractionation in larynx and hypopharynx cancers | TMH | 2021 | |
-| [ ] 18 | T4N1 Pyriform sinus cancer: assessment and treatment allocation | TMH | 2021 | |
-| [ ] 19 | Altered fractionation for advanced laryngeal and hypopharyngeal malignancies | TMH | 2022 | |
-| [ ] 20 | Treatment options for T3/T4a hypopharyngeal SCC | TMH | 2022 | |
-| [ ] 21 | Reconstruction of neo-pharynx after partial and circumferential pharyngectomy | TMH | 2022 | |
+| [x] 1 | Treatment options for T2 N0 pyriform sinus cancer | KIDWAI | 2020 | Management of Hypopharyngeal Cancer |
+| [x] 2 | CRT for advanced SCC of larynx and hypopharynx | AMRITA | 2008 | CRT and Organ Preservation in Hypopharyngeal Cancer |
+| [x] 3 | Role of induction chemotherapy in stage IV hypopharyngeal cancer | TMH | 2016 | → Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 4 | Endoscopic laryngopharyngeal surgery for hypopharyngeal cancer | TMH | 2017 | Endoscopic Surgery for Hypopharyngeal Cancer |
+| [x] 5 | Plummer Vinson syndrome and hypopharyngeal cancer | TMH | 2017 | Plummer Vinson Syndrome |
+| [x] 6 | Neoadjuvant chemotherapy including bioselection for larynx/hypopharynx SCC | TMH | 2018 | → Neoadjuvant and Induction Chemotherapy in HNC |
+| [x] 7 | CT vs MR in laryngeal/hypopharyngeal cancer | TMH | 2018 | → Imaging in Laryngeal Cancer |
+| [x] 8 | Assessment of laryngeal function in laryngeal/hypopharyngeal cancer | TMH | 2018 | → Swallowing and Functional Assessment |
+| [x] 9 | Reconstructive options for circumferential pharyngectomy defect | TMH | 2018 | → Pharyngeal Reconstruction and Fistula |
+| [x] 10 | PET-CT in residual/recurrent SCC larynx/hypopharynx | TMH | 2018 | → PET-CT in Head and Neck Cancer |
+| [x] 11 | IMRT and IGRT in laryngeal/hypopharyngeal cancers | TMH | 2018 | → IMRT and IGRT in Head and Neck Cancer |
+| [x] 12 | Concurrent chemoradiation in hypopharyngeal malignancy | TMH | 2019 | CRT and Organ Preservation in Hypopharyngeal Cancer |
+| [x] 13 | Indications and morbidity of Gastric pull-up | TMH | 2020 | → Pharyngeal Reconstruction and Fistula |
+| [x] 14 | Margins in hypopharyngeal cancer resection | TMH | 2020 | Surgical Margins in Hypopharyngeal Cancer |
+| [x] 15 | Surgical anatomy of Larynx and Hypopharynx; conservation surgeries | TMH | 2020 | → Surgical Anatomy of Larynx and Cancer Spread |
+| [x] 16 | Reconstructive options for pharyngeal and cervical oesophageal defects | TMH | 2021 | → Pharyngeal Reconstruction and Fistula |
+| [x] 17 | Hyperfractionation in larynx and hypopharynx cancers | TMH | 2021 | → Biological Basis of Fractionation and Altered Fractionation |
+| [x] 18 | T4N1 Pyriform sinus cancer: assessment and treatment allocation | TMH | 2021 | Management of Hypopharyngeal Cancer |
+| [x] 19 | Altered fractionation for advanced laryngeal and hypopharyngeal malignancies | TMH | 2022 | → Biological Basis of Fractionation and Altered Fractionation |
+| [x] 20 | Treatment options for T3/T4a hypopharyngeal SCC | TMH | 2022 | Management of Hypopharyngeal Cancer |
+| [x] 21 | Reconstruction of neo-pharynx after partial and circumferential pharyngectomy | TMH | 2022 | → Pharyngeal Reconstruction and Fistula |
 
 **Suggested Answer Files (stacks):**
 1. **"Management of Hypopharyngeal Cancer (Pyriform Sinus)"** -- Q1, Q18, Q20
@@ -1305,7 +1305,7 @@
 | Nose and PNS | 42 | 0 | 42 |
 | Skull Base | 15 | 0 | 15 |
 | Nasopharynx | 14 | 0 | 14 |
-| Hypopharynx | 21 | 0 | 21 |
+| Hypopharynx | 21 | 21 | 0 |
 | Parathyroid | 6 | 0 | 6 |
 | Ear / Temporal Bone | 10 | 0 | 10 |
 | Eye / Orbit | 11 | 0 | 11 |
@@ -1321,4 +1321,4 @@
 | HPV | 16 | 0 | 16 |
 | Soft Tissue Malignancy | 3 | 0 | 3 |
 | Neck | 43 | 0 | 43 |
-| **TOTAL** | **891** | **653** | **238** |
+| **TOTAL** | **891** | **674** | **217** |
