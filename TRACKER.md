@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 674 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42, Hypopharynx: 21)
-- **Pending:** 217
-- **Sections Complete:** 11/26
+- **Answered:** 703 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42, Hypopharynx: 21, Skull Base: 15, Nasopharynx: 14)
+- **Pending:** 188
+- **Sections Complete:** 13/26
 
 ## Progress Bar
 ```
-███████████████░░░░░ 75.6% (674/891)
+████████████████░░░░ 78.9% (703/891)
 ```
 
 ---
@@ -604,25 +604,25 @@
 
 ---
 
-### Skull Base (0/15)
+### Skull Base (15/15) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Anatomy of anterior skull base; endoscopic skull base surgery | AIIMS | 2020 | |
-| [ ] 2 | Post-craniofacial resection: drowsy patient with headache | PGI | 2021 | |
-| [ ] 3 | Indications and types of craniofacial resection | KIDWAI | 2020 | |
-| [ ] 4 | Surgical approaches to parapharyngeal tumour | KIDWAI | 2020 | |
-| [ ] 5 | Neuronavigation system | AMRITA | 2016 | |
-| [ ] 6 | Advances in skull base surgery; endoscopic skull base surgery | AMRITA | 2016 | |
-| [ ] 7 | Raveh's approach | AMRITA | 2020 | |
-| [ ] 8 | Subcranial approach | AMRITA | 2021 | |
-| [ ] 9 | Craniofacial resection - indications, procedure, complications | TMH | 2016 | |
-| [ ] 10 | Surgical approaches to the middle cranial fossa | TMH | 2016 | |
-| [ ] 11 | Surgical anatomy and approaches to middle cranial fossa | TMH | 2016 | |
-| [ ] 12 | Multimodality treatment for skull base chondrosarcomas | TMH | 2017 | |
-| [ ] 13 | Recent advances and complications in skull base surgery | TMH | 2018 | |
-| [ ] 14 | Craniofacial resection - Indications and Procedures | TMH | 2020 | |
-| [ ] 15 | Anatomy of orbit in context of skull base surgeries | TMH | 2020 | |
+| [x] 1 | Anatomy of anterior skull base; endoscopic skull base surgery | AIIMS | 2020 | Anterior Skull Base Anatomy and Endoscopic Surgery |
+| [x] 2 | Post-craniofacial resection: drowsy patient with headache | PGI | 2021 | Craniofacial Resection |
+| [x] 3 | Indications and types of craniofacial resection | KIDWAI | 2020 | Craniofacial Resection |
+| [x] 4 | Surgical approaches to parapharyngeal tumour | KIDWAI | 2020 | Parapharyngeal Space Tumours and Approaches |
+| [x] 5 | Neuronavigation system | AMRITA | 2016 | Neuronavigation in Skull Base Surgery |
+| [x] 6 | Advances in skull base surgery; endoscopic skull base surgery | AMRITA | 2016 | Anterior Skull Base Anatomy and Endoscopic Surgery |
+| [x] 7 | Raveh's approach | AMRITA | 2020 | Raveh Subcranial Approach |
+| [x] 8 | Subcranial approach | AMRITA | 2021 | Raveh Subcranial Approach |
+| [x] 9 | Craniofacial resection - indications, procedure, complications | TMH | 2016 | Craniofacial Resection |
+| [x] 10 | Surgical approaches to the middle cranial fossa | TMH | 2016 | Middle Cranial Fossa Approaches |
+| [x] 11 | Surgical anatomy and approaches to middle cranial fossa | TMH | 2016 | Middle Cranial Fossa Approaches |
+| [x] 12 | Multimodality treatment for skull base chondrosarcomas | TMH | 2017 | Skull Base Chondrosarcoma |
+| [x] 13 | Recent advances and complications in skull base surgery | TMH | 2018 | Anterior Skull Base Anatomy and Endoscopic Surgery |
+| [x] 14 | Craniofacial resection - Indications and Procedures | TMH | 2020 | Craniofacial Resection |
+| [x] 15 | Anatomy of orbit in context of skull base surgeries | TMH | 2020 | Orbital Anatomy in Skull Base Surgery |
 
 **Suggested Answer Files (stacks):**
 1. **"Anterior Skull Base Anatomy and Endoscopic Surgery"** -- Q1, Q6, Q13
@@ -636,24 +636,24 @@
 
 ---
 
-### Nasopharynx (0/14)
+### Nasopharynx (14/14) ✅
 
 | Q# | Question | Institute | Year | Done |
 |---|---|---|---|---|
-| [ ] 1 | Evaluation and treatment of T2N1 nasopharyngeal cancer | PGI | 2021 | |
-| [ ] 2 | Recent advances in radiotherapy for nasopharyngeal cancers | AMRITA | 2008 | |
-| [ ] 3 | Various surgical approaches to the nasopharynx | AMRITA | 2019 | |
-| [ ] 4 | Staging and management principles of NPC | AMRITA | 2021 | |
-| [ ] 5 | Etiogenesis of NPC; current management; role of surgery in recurrence | TMH | 2016 | |
-| [ ] 6 | Various surgical approaches to the nasopharynx | TMH | 2017 | |
-| [ ] 7 | Induction vs adjuvant chemotherapy survival outcomes in NPC | TMH | 2019 | |
-| [ ] 8 | Etiopathogenesis and management of nasopharyngeal angiofibroma | TMH | 2020 | |
-| [ ] 9 | Management of T1 recurrent NPC | TMH | 2020 | |
-| [ ] 10 | Role of EB virus in carcinogenesis of NPC | TMH | 2020 | |
-| [ ] 11 | Evidence basis for management of endemic NPC | TMH | 2020 | |
-| [ ] 12 | Various surgical approaches to the nasopharynx | TMH | 2021 | |
-| [ ] 13 | Management of 4 cm adenoid cystic cancer on lateral wall of nasopharynx | TMH | 2021 | |
-| [ ] 14 | Aetiopathogenesis of NPC; EB biomarkers; TNM classification AJCC 8th | TMH | 2022 | |
+| [x] 1 | Evaluation and treatment of T2N1 nasopharyngeal cancer | PGI | 2021 | NPC Staging Management and Treatment |
+| [x] 2 | Recent advances in radiotherapy for nasopharyngeal cancers | AMRITA | 2008 | Radiotherapy Advances in NPC |
+| [x] 3 | Various surgical approaches to the nasopharynx | AMRITA | 2019 | Surgical Approaches to Nasopharynx |
+| [x] 4 | Staging and management principles of NPC | AMRITA | 2021 | NPC Staging Management and Treatment |
+| [x] 5 | Etiogenesis of NPC; current management; role of surgery in recurrence | TMH | 2016 | NPC Staging Management and Treatment |
+| [x] 6 | Various surgical approaches to the nasopharynx | TMH | 2017 | Surgical Approaches to Nasopharynx |
+| [x] 7 | Induction vs adjuvant chemotherapy survival outcomes in NPC | TMH | 2019 | Radiotherapy Advances in NPC |
+| [x] 8 | Etiopathogenesis and management of nasopharyngeal angiofibroma | TMH | 2020 | Nasopharyngeal Angiofibroma |
+| [x] 9 | Management of T1 recurrent NPC | TMH | 2020 | Recurrent NPC Management |
+| [x] 10 | Role of EB virus in carcinogenesis of NPC | TMH | 2020 | EBV and NPC Carcinogenesis |
+| [x] 11 | Evidence basis for management of endemic NPC | TMH | 2020 | NPC Staging Management and Treatment |
+| [x] 12 | Various surgical approaches to the nasopharynx | TMH | 2021 | Surgical Approaches to Nasopharynx |
+| [x] 13 | Management of 4 cm adenoid cystic cancer on lateral wall of nasopharynx | TMH | 2021 | Adenoid Cystic Carcinoma of Nasopharynx |
+| [x] 14 | Aetiopathogenesis of NPC; EB biomarkers; TNM classification AJCC 8th | TMH | 2022 | EBV and NPC Carcinogenesis |
 
 **Suggested Answer Files (stacks):**
 1. **"NPC Staging, Management and Treatment"** -- Q1, Q4, Q5, Q11
@@ -1303,8 +1303,8 @@
 | Cutaneous Malignancy | 1 | 0 | 1 |
 | Malignancy of Unknown Origin | 12 | 0 | 12 |
 | Nose and PNS | 42 | 0 | 42 |
-| Skull Base | 15 | 0 | 15 |
-| Nasopharynx | 14 | 0 | 14 |
+| Skull Base | 15 | 15 | 0 |
+| Nasopharynx | 14 | 14 | 0 |
 | Hypopharynx | 21 | 21 | 0 |
 | Parathyroid | 6 | 0 | 6 |
 | Ear / Temporal Bone | 10 | 0 | 10 |
@@ -1321,4 +1321,4 @@
 | HPV | 16 | 0 | 16 |
 | Soft Tissue Malignancy | 3 | 0 | 3 |
 | Neck | 43 | 0 | 43 |
-| **TOTAL** | **891** | **674** | **217** |
+| **TOTAL** | **891** | **703** | **188** |
