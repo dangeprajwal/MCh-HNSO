@@ -2,13 +2,13 @@
 
 ## Summary
 - **Total Questions:** 891
-- **Answered:** 703 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42, Hypopharynx: 21, Skull Base: 15, Nasopharynx: 14)
-- **Pending:** 188
-- **Sections Complete:** 13/26
+- **Answered:** 757 (General: 83, Oral Cavity: 135, Oropharynx: 29, Larynx: 108, Thyroid: 90, Radiotherapy: 56, Chemotherapy/Immunotherapy: 39, Neck: 43, Salivary Gland: 28, Nose and PNS: 42, Hypopharynx: 21, Skull Base: 15, Nasopharynx: 14, Plastic Surgery: 38, HPV: 16)
+- **Pending:** 134
+- **Sections Complete:** 15/26
 
 ## Progress Bar
 ```
-████████████████░░░░ 78.9% (703/891)
+█████████████████░░░ 84.9% (757/891)
 ```
 
 ---
