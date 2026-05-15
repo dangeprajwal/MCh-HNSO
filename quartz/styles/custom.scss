@@ -1,17 +1,431 @@
 @use "./base.scss";
 
-// ── Compass navigation callout ─────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════
+//  Apple-Inspired Design System
+//  Fonts: Inter (SF Pro substitute) · Palette: Apple exact colours
+// ══════════════════════════════════════════════════════════════════
+
+// ── OpenType features for Inter ───────────────────────────────────
+:root {
+  font-feature-settings: "liga" 1, "kern" 1, "calt" 1;
+}
+
+// ── Headings: tight tracking + bold weight ────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.025em;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.article-title h1,
+.page article > h1:first-of-type {
+  font-size: 2.4rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.035em !important;
+  line-height: 1.06 !important;
+}
+
+article h2 {
+  font-size: 1.65rem;
+  font-weight: 700;
+  letter-spacing: -0.028em;
+  margin-top: 2.2rem;
+}
+
+article h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+article h4, article h5, article h6 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+// ── Body text ─────────────────────────────────────────────────────
+article p, article li {
+  line-height: 1.78;
+}
+
+// ── Strong: Apple dark tone ───────────────────────────────────────
+article strong {
+  color: var(--dark);
+  font-weight: 600;
+}
+
+// ── Sidebar: clean separator border ──────────────────────────────
+.sidebar {
+  background-color: var(--light);
+}
+
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
+}
+
+.sidebar.right {
+  border-left: 1px solid var(--lightgray);
+}
+
+// Mobile: frosted glass when sidebar overlays content
+@media (max-width: 800px) {
+  .sidebar.left {
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    background-color: color-mix(in srgb, var(--light) 84%, transparent);
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
+
+// ── Page title in sidebar ─────────────────────────────────────────
+.page-title {
+  font-size: 1.3rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.03em !important;
+  color: var(--dark) !important;
+}
+
+// ── Internal links: clean underline, no background pill ───────────
+a.internal:not(.tag-link) {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: var(--secondary) !important;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 32%, transparent);
+  line-height: inherit;
+  transition: border-bottom-color 0.18s ease;
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+    color: var(--secondary) !important;
+  }
+}
+
+// Tag links: Apple pill style
+a.internal.tag-link {
+  background-color: color-mix(in srgb, var(--secondary) 10%, transparent) !important;
+  color: var(--secondary) !important;
+  border-radius: 20px !important;
+  padding: 0.1rem 0.6rem !important;
+  font-size: 0.8rem !important;
+  font-weight: 500 !important;
+  border-bottom: none !important;
+  transition: background-color 0.18s ease !important;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 20%, transparent) !important;
+  }
+
+  &::before { content: "#"; }
+}
+
+// ── Breadcrumbs ───────────────────────────────────────────────────
+.breadcrumb-container {
+  font-size: 0.82rem;
+  color: var(--gray);
+
+  a {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    color: var(--gray) !important;
+    font-weight: 400 !important;
+    padding: 0 !important;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Content meta ──────────────────────────────────────────────────
+.content-meta {
+  font-size: 0.8rem !important;
+  color: var(--gray) !important;
+  letter-spacing: 0.01em;
+
+  p { color: var(--gray) !important; }
+}
+
+// ── Tables: Apple documentation card style ────────────────────────
+.table-container {
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  margin: 1.6rem 0;
+
+  > table {
+    margin: 0 !important;
+    padding: 0 !important;
+    border-collapse: collapse;
+
+    th {
+      background-color: var(--lightgray);
+      font-size: 0.76rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--gray);
+      padding: 0.65rem 1rem;
+      border-bottom: 1px solid color-mix(in srgb, var(--gray) 15%, transparent);
+    }
+
+    td {
+      padding: 0.5rem 1rem;
+      font-size: 0.94rem;
+    }
+
+    tr:nth-child(even) {
+      background-color: color-mix(in srgb, var(--lightgray) 55%, transparent);
+    }
+
+    tr:not(:last-child) {
+      border-bottom: 1px solid var(--lightgray);
+    }
+
+    tr:hover {
+      background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
+      transition: background-color 0.12s ease;
+    }
+  }
+}
+
+// ── Callouts: Apple card style ────────────────────────────────────
+.callout {
+  border-radius: 14px !important;
+  border-width: 1px !important;
+  padding: 0.05rem 1.1rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.callout-title {
+  font-weight: 600;
+  font-size: 0.88rem;
+  letter-spacing: 0.01em;
+  padding: 0.75rem 0;
+}
+
+// ── Blockquote (non-callout) ──────────────────────────────────────
+blockquote:not(.callout) {
+  border-left: 2px solid var(--secondary);
+  background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
+  padding: 0.85rem 1.2rem;
+  border-radius: 0 10px 10px 0;
+  margin: 1.2rem 0;
+
+  > p:only-child { margin: 0; }
+}
+
+// ── Code blocks ───────────────────────────────────────────────────
+pre {
+  border-radius: 12px !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+code:not(pre > code) {
+  border-radius: 6px;
+  font-size: 0.86em;
+  padding: 0.15rem 0.35rem;
+}
+
+// ── HR: gradient fade ─────────────────────────────────────────────
+hr {
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--lightgray) 25%,
+    var(--lightgray) 75%,
+    transparent
+  ) !important;
+  border: none !important;
+  height: 1px !important;
+  margin: 2.8rem 0 !important;
+}
+
+// ── Navigation progress bar ───────────────────────────────────────
+.navigation-progress {
+  height: 2px !important;
+  background: linear-gradient(to right, var(--secondary), var(--tertiary)) !important;
+}
+
+// ── TOC: card container ───────────────────────────────────────────
+.toc {
+  border: 1px solid var(--lightgray) !important;
+  border-radius: 12px;
+  padding: 0.85rem 1.1rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  > summary {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em !important;
+    text-transform: uppercase !important;
+    color: var(--gray) !important;
+  }
+
+  ol {
+    font-size: 0.85rem;
+    line-height: 1.95;
+
+    a {
+      background-color: transparent !important;
+      border-bottom: none !important;
+      color: var(--gray) !important;
+      font-weight: 400 !important;
+      padding: 0 !important;
+
+      &:hover { color: var(--secondary) !important; }
+    }
+
+    li.in-view > a {
+      color: var(--secondary) !important;
+      font-weight: 600 !important;
+    }
+  }
+}
+
+// ── Backlinks: card ───────────────────────────────────────────────
+.backlinks {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 0.85rem 1.1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  > h3 {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray) !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.55rem !important;
+  }
+
+  ul {
+    font-size: 0.88rem;
+    margin: 0;
+
+    li a {
+      background-color: transparent !important;
+      border-bottom: none !important;
+      color: var(--secondary) !important;
+      font-weight: 400;
+      padding: 0 !important;
+
+      &:hover { color: var(--tertiary) !important; }
+    }
+  }
+}
+
+// ── Graph: card ───────────────────────────────────────────────────
+.graph {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  > h3 {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray) !important;
+    margin: 0.7rem 0.9rem !important;
+  }
+}
+
+// ── Explorer file tree ────────────────────────────────────────────
+.explorer {
+  li > a,
+  a.folder-entry {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    color: var(--darkgray) !important;
+    font-weight: 400;
+    font-size: 0.88rem;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Search ────────────────────────────────────────────────────────
+.search #search-bar {
+  border-radius: 10px !important;
+  background-color: color-mix(in srgb, var(--lightgray) 80%, var(--light)) !important;
+  border: 1px solid var(--lightgray) !important;
+  font-size: 0.9rem !important;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:focus {
+    border-color: var(--secondary) !important;
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 15%, transparent) !important;
+    outline: none !important;
+  }
+}
+
+// ── Footer ───────────────────────────────────────────────────────
+footer {
+  border-top: 1px solid var(--lightgray);
+  padding-top: 1.2rem;
+  font-size: 0.8rem !important;
+  color: var(--gray) !important;
+
+  p, span { color: var(--gray) !important; font-size: 0.8rem !important; }
+
+  a {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    color: var(--gray) !important;
+    font-weight: 400 !important;
+
+    &:hover { color: var(--secondary) !important; }
+  }
+}
+
+// ── Images ───────────────────────────────────────────────────────
+img {
+  border-radius: 10px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+// ── Text selection ────────────────────────────────────────────────
+::selection {
+  background-color: color-mix(in srgb, var(--secondary) 22%, transparent) !important;
+  color: var(--darkgray) !important;
+}
+
+// ── Thin scrollbars ───────────────────────────────────────────────
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--gray) 35%, transparent) transparent;
+}
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background-color: color-mix(in srgb, var(--gray) 35%, transparent);
+  border-radius: 10px;
+}
+
+// ══════════════════════════════════════════════════════════════════
+//  Compass navigation callout
+// ══════════════════════════════════════════════════════════════════
 .callout[data-callout="compass"] {
   --callout-color: 124, 77, 255;
   --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpolygon points='16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76'/%3E%3C/svg%3E");
 }
 
-// ── :::tabs — fenced tab blocks ────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════
+//  :::tabs — fenced tab blocks
+// ══════════════════════════════════════════════════════════════════
 .tab-container {
   margin: 1.5em 0;
   border: 1px solid var(--lightgray);
-  border-radius: 8px;
+  border-radius: 14px;
   overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 }
 
 .tab-nav {
@@ -19,36 +433,34 @@
   flex-wrap: nowrap;
   overflow-x: auto;
   scrollbar-width: none;
-  background-color: var(--light);
-  border-bottom: 2px solid var(--lightgray);
+  background-color: var(--lightgray);
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 18%, transparent);
 
-  &::-webkit-scrollbar {
-    display: none;
-  }
+  &::-webkit-scrollbar { display: none; }
 }
 
 .tab-btn {
   padding: 0.55rem 1.15rem;
   background: transparent;
   border: none;
-  border-bottom: 3px solid transparent;
-  margin-bottom: -2px;          // overlap the nav's bottom border
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
   cursor: pointer;
-  font-size: 0.875em;
+  font-size: 0.855em;
   font-weight: 500;
   color: var(--gray);
   white-space: nowrap;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
   font-family: inherit;
+  letter-spacing: 0.01em;
 
-  &:hover {
-    color: var(--darkgray);
-  }
+  &:hover { color: var(--darkgray); }
 
   &.active {
     color: var(--secondary);
     border-bottom-color: var(--secondary);
     font-weight: 600;
+    background-color: color-mix(in srgb, var(--secondary) 7%, transparent);
   }
 }
 
@@ -56,22 +468,20 @@
   display: none;
   padding: 1em 1.4em;
 
-  &.active {
-    display: block;
-  }
+  &.active { display: block; }
 
-  // Collapse extra whitespace at edges
   > *:first-child { margin-top: 0.25rem; }
   > *:last-child  { margin-bottom: 0.25rem; }
 
-  // Tables inside tabs get a bit of room
   table {
     width: 100%;
     font-size: 0.9em;
   }
 }
 
-// ── Quick-Review / Landmark-Trials mode switcher ───────────────────────────
+// ══════════════════════════════════════════════════════════════════
+//  Quick-Review / Landmark-Trials mode switcher
+// ══════════════════════════════════════════════════════════════════
 #review-mode-bar {
   display: flex;
   flex-wrap: wrap;
@@ -79,27 +489,29 @@
   align-items: center;
   padding: 0.55rem 0.9rem;
   margin-bottom: 1.5em;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
+  background: var(--lightgray);
+  border: 1px solid color-mix(in srgb, var(--gray) 18%, transparent);
+  border-radius: 12px;
   font-size: 0.82em;
 
-  // Small label on the left
   &::before {
     content: "Mode:";
     color: var(--gray);
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 0.76rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     margin-right: 0.3rem;
   }
 }
 
 .rm-btn {
-  padding: 0.3rem 0.85rem;
-  border: 1px solid var(--lightgray);
+  padding: 0.28rem 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 32%, transparent);
   border-radius: 20px;
   background: transparent;
   cursor: pointer;
-  font-size: 1em;
+  font-size: 0.88em;
   font-weight: 500;
   color: var(--darkgray);
   transition: all 0.15s ease;
@@ -108,6 +520,7 @@
   &:hover {
     border-color: var(--secondary);
     color: var(--secondary);
+    background-color: color-mix(in srgb, var(--secondary) 6%, transparent);
   }
 
   &.active {
