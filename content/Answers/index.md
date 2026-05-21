@@ -4,7 +4,7 @@ title: Answer Bank
 
 Comprehensive answers to MCh Head and Neck Surgery and Oncology examination questions, organised by anatomical subsite and topic domain. Each answer includes textbook-sourced content, landmark articles with verified DOIs, key points, and clinical pearls.
 
-**826 of 891 questions answered across 19 sections.**
+**850 of 891 questions answered across 21 sections.**
 
 ---
 
@@ -31,6 +31,8 @@ Comprehensive answers to MCh Head and Neck Surgery and Oncology examination ques
 - **[[Answers/Robotic Surgery/index|Robotic Surgery]]** — TORS indications/technique/outcomes, ORATOR trial, case selection, swallowing rehabilitation, robotic neck dissection, remote access thyroidectomy (2 answer files)
 - **[[Answers/Statistics/index|Statistics]]** — levels of evidence, RCT design, cohort/case-control studies, p-value, Type I/II errors, power, meta-analysis, forest plot, lead time bias, non-inferiority trials (1 answer file)
 - **[[Answers/Trials/index|Trials]]** — landmark trials in de-escalation (HPV+ OPC), organ preservation (larynx), chemoradiation, targeted therapy; PARSPORT, PARADIGM, RADPLAT, ORATOR, MARCH meta-analysis, Phase I trial design, Selumetinib (3 answer files)
+- **[[Answers/Radiology and Nuclear Medicine/index|Radiology and Nuclear Medicine]]** — 18FDG-PET physics and Warburg effect, accepted indications, PET-NECK trial, post-treatment surveillance, unknown primary, larynx/oral cancer, thyroid incidentalomas, PET-MRI, imaging comparison table (1 answer file, 11 questions)
+- **[[Answers/Malignancy of Unknown Origin/index|Malignancy of Unknown Origin]]** — CUP definition, occult primary theory, branchial cyst theory, systematic workup, p16 IHC, TORS exploration, diagnostic algorithm, histological subtypes, IHC panel, management of true CUP, HPV+ CUP, N3 disease (1 answer file, 12 questions)
 
 ---
 
@@ -40,8 +42,6 @@ The following sections will be added in subsequent updates:
 
 | Section | Questions | Status |
 |---|---|---|
-| Radiology and Nuclear Medicine | 12 | Upcoming |
-| Malignancy of Unknown Origin | 12 | Upcoming |
 | Ear / Temporal Bone | 10 | Upcoming |
 | Eye / Orbit | 11 | Upcoming |
 | Parathyroid | 6 | Upcoming |
