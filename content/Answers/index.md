@@ -4,7 +4,7 @@ title: Answer Bank
 
 Comprehensive answers to MCh Head and Neck Surgery and Oncology examination questions, organised by anatomical subsite and topic domain. Each answer includes textbook-sourced content, landmark articles with verified DOIs, key points, and clinical pearls.
 
-**757 of 891 questions answered across 15 sections.**
+**826 of 891 questions answered across 19 sections.**
 
 ---
 
@@ -27,6 +27,10 @@ Comprehensive answers to MCh Head and Neck Surgery and Oncology examination ques
 - **[[Answers/Radiotherapy and Chemotherapy/index|Radiotherapy and Chemotherapy]]** — IMRT/IGRT, fractionation, proton therapy, brachytherapy, CRT principles, immunotherapy, targeted therapy, re-irradiation, mucositis (22 answer files)
 - **[[Answers/Plastic Surgery/index|Plastic Surgery / Reconstruction]]** — flap classification, pedicled and free flaps, site-specific reconstruction (lip, tongue, FOM, maxilla, mandible), osseointegrated implants, eyelid, facial nerve reanimation (17 answer files)
 - **[[Answers/HPV/index|HPV]]** — biology and carcinogenesis, E6/E7 oncoproteins, vaccination, testing and detection, de-escalation in HPV+ OPC, sinonasal HPV, recurrent disease management (7 answer files)
+- **[[Answers/Anatomy/index|Anatomy]]** — pterygopalatine fossa, infratemporal fossa, Fisch approaches, masticator space, premetastatic niche; cross-references laryngeal, facial nerve, and parapharyngeal anatomy (2 dedicated files + cross-references)
+- **[[Answers/Robotic Surgery/index|Robotic Surgery]]** — TORS indications/technique/outcomes, ORATOR trial, case selection, swallowing rehabilitation, robotic neck dissection, remote access thyroidectomy (2 answer files)
+- **[[Answers/Statistics/index|Statistics]]** — levels of evidence, RCT design, cohort/case-control studies, p-value, Type I/II errors, power, meta-analysis, forest plot, lead time bias, non-inferiority trials (1 answer file)
+- **[[Answers/Trials/index|Trials]]** — landmark trials in de-escalation (HPV+ OPC), organ preservation (larynx), chemoradiation, targeted therapy; PARSPORT, PARADIGM, RADPLAT, ORATOR, MARCH meta-analysis, Phase I trial design, Selumetinib (3 answer files)
 
 ---
 
@@ -36,10 +40,6 @@ The following sections will be added in subsequent updates:
 
 | Section | Questions | Status |
 |---|---|---|
-| Robotic Surgery | 15 | Upcoming |
-| Trials | 18 | Upcoming |
-| Statistics | 16 | Upcoming |
-| Anatomy | 20 | Upcoming |
 | Radiology and Nuclear Medicine | 12 | Upcoming |
 | Malignancy of Unknown Origin | 12 | Upcoming |
 | Ear / Temporal Bone | 10 | Upcoming |
