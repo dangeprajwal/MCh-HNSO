@@ -4,7 +4,7 @@ title: Answer Bank
 
 Comprehensive answers to MCh Head and Neck Surgery and Oncology examination questions, organised by anatomical subsite and topic domain. Each answer includes textbook-sourced content, landmark articles with verified DOIs, key points, and clinical pearls.
 
-**850 of 891 questions answered across 21 sections.**
+**871 of 891 questions answered across 23 sections.**
 
 ---
 
@@ -33,6 +33,8 @@ Comprehensive answers to MCh Head and Neck Surgery and Oncology examination ques
 - **[[Answers/Trials/index|Trials]]** — landmark trials in de-escalation (HPV+ OPC), organ preservation (larynx), chemoradiation, targeted therapy; PARSPORT, PARADIGM, RADPLAT, ORATOR, MARCH meta-analysis, Phase I trial design, Selumetinib (3 answer files)
 - **[[Answers/Radiology and Nuclear Medicine/index|Radiology and Nuclear Medicine]]** — 18FDG-PET physics and Warburg effect, accepted indications, PET-NECK trial, post-treatment surveillance, unknown primary, larynx/oral cancer, thyroid incidentalomas, PET-MRI, imaging comparison table (1 answer file, 11 questions)
 - **[[Answers/Malignancy of Unknown Origin/index|Malignancy of Unknown Origin]]** — CUP definition, occult primary theory, branchial cyst theory, systematic workup, p16 IHC, TORS exploration, diagnostic algorithm, histological subtypes, IHC panel, management of true CUP, HPV+ CUP, N3 disease (1 answer file, 12 questions)
+- **[[Answers/Ear and Temporal Bone/index|Ear and Temporal Bone]]** — Surgical anatomy, malignant tumours (SCC/adenoid cystic/ceruminous/RMS), Pittsburgh staging, routes of spread, echelon nodes, LTBR/STBR/TTBR classification, STBR osteotomy sites, facial nerve management, reconstruction, adjuvant therapy (1 answer file, 10 questions)
+- **[[Answers/Eye and Orbit/index|Eye and Orbit]]** — Orbital anatomy, progressive proptosis in children, uveal melanoma (COMS trial), topical mitomycin for OSSN, solitary fibrous tumour (STAT6), orbital rhabdomyosarcoma (VAC/RT), orbital exenteration types, Perry 1988 orbital preservation in PNS cancer, reconstruction (1 answer file, 11 questions)
 
 ---
 
@@ -42,8 +44,6 @@ The following sections will be added in subsequent updates:
 
 | Section | Questions | Status |
 |---|---|---|
-| Ear / Temporal Bone | 10 | Upcoming |
-| Eye / Orbit | 11 | Upcoming |
 | Parathyroid | 6 | Upcoming |
 | Pathology | 10 | Upcoming |
 | Soft Tissue Malignancy | 3 | Upcoming |
