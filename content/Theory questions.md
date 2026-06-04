@@ -499,7 +499,7 @@
 
 | No. | Question                                                                | Year | Institute |
 | --- | ----------------------------------------------------------------------- | ---- | --------- |
-| 1   | [[Answers/General/Monoclonal Antibodies in Head and Neck Cancer\|Discuss briefly the advances in the management of basal cell carcinomas]] | 2017 | AMRITA    |
+| 1   | [[Answers/Cutaneous Malignancy/Basal Cell Carcinoma Advances in Management\|Discuss briefly the advances in the management of basal cell carcinomas]] | 2017 | AMRITA    |
 ### Malignancy of Unknown Origin 
 | No  | Question                                                                                                                                                                        | Year | Institute |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------- |
@@ -624,12 +624,12 @@
 ### Parathyroid
 | No  | Question                                                                                                                                   | Year | Institute |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---- | --------- |
-| 1   | [[Answers/Thyroid/RLN Anatomy, IONM, and Nerve Injury\|Rationale and principles involved in the performance of a parathyroid Scintigraphy for localizing a parathyroid adenoma]]                    | 2019 | AMRITA    |
-| 2   | [[Answers/Thyroid/Medullary Thyroid Cancer\|Parathyroid carcinoma]]                                                                                                                      | 2016 | TMH       |
-| 3   | [[Answers/Thyroid/RLN Anatomy, IONM, and Nerve Injury\|Enumerate the pathology and biochemical indicators of success in surgery for hyperparathyroidism, and the limitations of each of the same.]] | 2018 | TMH       |
-| 4   | [[Answers/Thyroid/Medullary Thyroid Cancer\|Parathyroid carcinoma]]                                                                                                                      | 2020 | TMH       |
-| 5   | [[Answers/Thyroid/RLN Anatomy, IONM, and Nerve Injury\|Describe the procedure of solitary Parathyroid adenoma. Discuss the Intra-operative Parathyroid hormone monitoring protocols.]]              | 2022 | TMH       |
-| 6   | [[Answers/Thyroid/RLN Anatomy, IONM, and Nerve Injury\|Discuss the surgical anatomy and course of Right and Left EBSLN & RLN and their relations with the parathyroids]]                            | 2022 | TMH       |
+| 1   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Rationale and principles involved in the performance of a parathyroid Scintigraphy for localizing a parathyroid adenoma]]                    | 2019 | AMRITA    |
+| 2   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Parathyroid carcinoma]]                                                                                                                      | 2016 | TMH       |
+| 3   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Enumerate the pathology and biochemical indicators of success in surgery for hyperparathyroidism, and the limitations of each of the same.]] | 2018 | TMH       |
+| 4   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Parathyroid carcinoma]]                                                                                                                      | 2020 | TMH       |
+| 5   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Describe the procedure of solitary Parathyroid adenoma. Discuss the Intra-operative Parathyroid hormone monitoring protocols.]]              | 2022 | TMH       |
+| 6   | [[Answers/Parathyroid/Parathyroid Disease and Surgery\|Discuss the surgical anatomy and course of Right and Left EBSLN & RLN and their relations with the parathyroids]]                            | 2022 | TMH       |
 ### Ear / Temporal Bone
 
 | No  | Question                                                                                                                                      | Year | Institute |
@@ -936,9 +936,9 @@
 ### Soft Tissue Malignancy
 | No  | Question                                                                                                                                    | Year | Institute | Topic                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------- | ----------------------------------------------------- |
-| 1   | [[Answers/General/Decision Making Factors in HNC\|Describe the pathobiology of soft tissue tumours. What soft tissue sarcomas are encountered in the Head and Neck? Discuss their management.]] | 2008 | AMRITA    | Pathobiology & management of H&N soft tissue sarcomas |
+| 1   | [[Answers/Soft Tissue Malignancy/Soft Tissue Sarcomas in Head and Neck\|Describe the pathobiology of soft tissue tumours. What soft tissue sarcomas are encountered in the Head and Neck? Discuss their management.]] | 2008 | AMRITA    | Pathobiology & management of H&N soft tissue sarcomas |
 | 2   | [[Answers/Oral Cavity/Jaw Osteosarcoma\|Describe about the aetiology, pathogenesis and management of osteosarcomas involving the jaw bone]]                                           | 2019 | AMRITA    | Jaw osteosarcoma – etiology, pathogenesis, management |
-| 3   | [[Answers/General/Tumour Angiogenesis\|Hemangiopericytoma]]                                                                                                                          | 2021 | TMH       | Hemangiopericytoma in Head & Neck                     |
+| 3   | [[Answers/Soft Tissue Malignancy/Soft Tissue Sarcomas in Head and Neck\|Hemangiopericytoma]]                                                                                                                          | 2021 | TMH       | Hemangiopericytoma in Head & Neck                     |
 ### Neck
 | No  | Question                                                                                                                                                                                       | Year | Institute |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------- |

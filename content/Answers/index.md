@@ -4,7 +4,7 @@ title: Answer Bank
 
 Comprehensive answers to MCh Head and Neck Surgery and Oncology examination questions, organised by anatomical subsite and topic domain. Each answer includes textbook-sourced content, landmark articles with verified DOIs, key points, and clinical pearls.
 
-**871 of 891 questions answered across 23 sections.**
+**891 of 891 questions answered across 27 sections.**
 
 ---
 
@@ -35,16 +35,13 @@ Comprehensive answers to MCh Head and Neck Surgery and Oncology examination ques
 - **[[Answers/Malignancy of Unknown Origin/index|Malignancy of Unknown Origin]]** — CUP definition, occult primary theory, branchial cyst theory, systematic workup, p16 IHC, TORS exploration, diagnostic algorithm, histological subtypes, IHC panel, management of true CUP, HPV+ CUP, N3 disease (1 answer file, 12 questions)
 - **[[Answers/Ear and Temporal Bone/index|Ear and Temporal Bone]]** — Surgical anatomy, malignant tumours (SCC/adenoid cystic/ceruminous/RMS), Pittsburgh staging, routes of spread, echelon nodes, LTBR/STBR/TTBR classification, STBR osteotomy sites, facial nerve management, reconstruction, adjuvant therapy (1 answer file, 10 questions)
 - **[[Answers/Eye and Orbit/index|Eye and Orbit]]** — Orbital anatomy, progressive proptosis in children, uveal melanoma (COMS trial), topical mitomycin for OSSN, solitary fibrous tumour (STAT6), orbital rhabdomyosarcoma (VAC/RT), orbital exenteration types, Perry 1988 orbital preservation in PNS cancer, reconstruction (1 answer file, 11 questions)
+- **[[Answers/Parathyroid/index|Parathyroid]]** — Parathyroid anatomy (RLN/EBSLN relations), sestamibi scintigraphy (dual-phase, subtraction, SPECT-CT, sensitivity data from Stell), MIP vs four-gland exploration, IOPTH Miami criterion and limitations, parathyroid carcinoma (HRPT2/CDC73, histological criteria, en-bloc surgery, prognosis) (1 answer file, 6 questions)
+- **[[Answers/Pathology/index|Pathology]]** — Advancing tumour front, surgical margins, frozen section assessment, IHC in HNC, circulating tumour cells, MicroRNAs in oral cancer, apoptosis/programmed cell death, parapharyngeal space (covered across General and Skull Base answer files; 10 questions)
+- **[[Answers/Soft Tissue Malignancy/index|Soft Tissue Malignancy]]** — WHO STS classification, molecular genetics (PAX3/7-FOXO1, SYT-SSX, NAB2-STAT6, EWS-FLI1), UPS/MFH reclassification, angiosarcoma, hemangiopericytoma/SFT, etiology, biopsy principles, management (2 questions; jaw osteosarcoma in Oral Cavity)
+- **[[Answers/Cutaneous Malignancy/index|Cutaneous Malignancy]]** — BCC epidemiology, SHH/PTCH1/SMO pathway, Gorlin syndrome, clinical variants, Mohs surgery (99% cure), vismodegib (ERIVANCE trial — 43%/30% response), imiquimod, advances in management (1 question)
 
 ---
 
-## Sections In Progress
+## Status
 
-The following sections will be added in subsequent updates:
-
-| Section | Questions | Status |
-|---|---|---|
-| Parathyroid | 6 | Upcoming |
-| Pathology | 10 | Upcoming |
-| Soft Tissue Malignancy | 3 | Upcoming |
-| Cutaneous Malignancy | 1 | Upcoming |
+**All 891 questions across 27 sections answered.** Every question in Theory questions.md is linked to a dedicated answer file. Content sourced from Scott-Brown's Vol 3, Jatin Shah, Harrison, Stell & Maran's, and Montgomery textbooks; landmark articles with verified DOIs.
