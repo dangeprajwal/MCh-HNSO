@@ -20,7 +20,7 @@ tags:
 > - Diagnostic algorithm for metastatic Level III poorly differentiated carcinoma with no obvious primary (TMH 2017)
 > - Histological subtypes, IHC staining, evaluation and management of cancer of unknown primary (TMH 2020)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 21 (Neck Metastases and Unknown Primary); Harrison — Head and Neck Cancer, Chapter 24 (Unknown Primary); Stell and Maran's Head and Neck Surgery, Chapter 17 (Cervical Metastases); Cummings Otolaryngology, Chapter 116 (Neck Dissection and Unknown Primary)
+**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 17 (Neck Metastases from an Unknown Primary — Simo, Jeannon, Guerrero Urbano); Harrison — Head and Neck Cancer, Chapter 1 (General Principles — Pathology) and Chapter 15 (Metastatic Cancer to the Neck from Unknown Primary); Stell and Maran's Head and Neck Surgery and Oncology
 
 > [!cite] Landmark Articles
 > Grau et al. (2000) published a large Danish population-based study establishing the epidemiology and outcomes of HNC of unknown primary. Fakhry et al. (2014) demonstrated the role of HPV testing in directing site-specific management. Mehanna et al. (2010) described the role of PET-CT in detecting occult primaries. Weinstein et al. (2012) established the role of TORS as a diagnostic and therapeutic tool for unknown primary.
@@ -57,10 +57,10 @@ Two competing theories explain the neck node without identifiable primary:
 - **Evidence:** With systematic TORS exploration, 40–85% of "unknown primaries" are found in BOT/tonsil
 
 **Theory 2: Branchial Cyst Malignant Transformation (Historical, Now Discredited)**
-- Proposed that branchial cleft remnants undergo malignant transformation
-- Criteria (Martin's criteria): Location along anterior border of SCM, age 20–50, absence of primary, 5-year cure after local treatment
-- **Current consensus:** This is essentially never proven — almost always represents a metastatic node from a small occult primary
-- Reserved as a diagnosis of exclusion
+- **Volkmann (1882)** proposed the neck mass resulted from degeneration of a "branchiogenic cyst" into carcinoma — accepted until the 1940s
+- **Martin and Mort (1940)** revisited in a study of 55 CUP patients — only 8 met Volkmann's criteria, effectively dismissing the hypothesis
+- Martin's criteria: Location along anterior border of SCM, histology supporting branchial cleft origin, carcinoma arising in wall of cyst, 5-year follow-up showing no primary
+- **Current consensus (Scott-Brown's, Harrison):** Essentially never proven — all such cases represent metastatic SCC from a small occult oropharyngeal primary; p16 positivity of the cystic node (not present in true branchial cysts) supports oropharyngeal origin
 
 ---
 
@@ -76,27 +76,34 @@ Two competing theories explain the neck node without identifiable primary:
 
 ### Investigations
 
-**Step 1: Cross-sectional Imaging**
+**Step 1: Narrow Band Imaging (NBI) Endoscopy in Clinic**
+- Modified white light endoscopy filtering to 415 nm and 540 nm wavelengths
+- Identifies neoangiogenesis (submucosal capillaries = brown; prominent vessels = cyan) → detects neoplastic tissue at earlier stage than conventional endoscopy
+- Meta-analysis (Scott-Brown's): 115 patients with CUP — sensitivity 74.1%, specificity 94.1%
+- Performed at initial outpatient nasoendoscopy; guides targeted biopsy
+
+**Step 2: Cross-sectional Imaging**
 - **CE-CT neck and chest** — characterise node (size, level, ECS), detect primary, assess distant disease
 - **MRI neck** — superior for mucosal detail, BOT, parapharyngeal space, perineural spread
 
-**Step 2: FDG-PET/CT**
+**Step 3: FDG-PET/CT — MUST BE DONE BEFORE PANENDOSCOPY AND BIOPSIES**
+- Post-biopsy inflammatory response increases FDG tracer uptake → false positive results (Scott-Brown's)
 - Detects occult primary in **25–43%** of cases where CT/MRI negative
 - Whole-body: assesses distant metastases and second primaries
 - Influences 20–30% of management decisions
 
-**Step 3: HPV Testing of the Node**
+**Step 4: HPV Testing of the Node**
 - p16 IHC on FNA or core biopsy
 - **p16-positive node** = almost certainly HPV+ oropharyngeal primary (BOT or tonsil) — guides directed workup and treatment
 - p16-positive: 86–90% sensitivity, 94% specificity for HPV-related OPC
 
-**Step 4: FNAC / Core Biopsy**
+**Step 5: FNAC / Core Biopsy**
 - Preferably **US-guided FNAC** of the neck node
 - Core biopsy if FNAC non-diagnostic
 - **Avoid excision biopsy** as first step — disrupts tissue planes, complicates definitive surgery
 - Histology: SCC (most common), poorly differentiated carcinoma, adenocarcinoma
 
-**Step 5: Examination Under Anaesthesia (EUA) + Panendoscopy**
+**Step 6: Examination Under Anaesthesia (EUA) + Panendoscopy**
 | Procedure | Area Examined | Comment |
 |-----------|--------------|---------|
 | Direct laryngoscopy | Larynx, hypopharynx, post-cricoid | Systematic visual inspection + random biopsies from suspicious areas |
@@ -105,11 +112,11 @@ Two competing theories explain the neck node without identifiable primary:
 | Oesophagoscopy | Oesophagus | If suspicious symptoms |
 | Bronchoscopy | Tracheobronchial tree | If suspicious symptoms |
 
-**Step 6: TORS/TLM for BOT and Tonsil Exploration**
-- **Bilateral palatine tonsillectomy** (ipsilateral first, then contralateral)
-- **BOT mucosectomy** or systematic biopsies under robotic visualisation
-- Increases primary detection rate from 20% (panendoscopy alone) to **40–85%** (panendoscopy + TORS)
-- Tonsillar SCC detected in 20–25%, BOT SCC in 15–20%
+**Step 7: TORS/TLM for BOT and Tonsil Exploration**
+- **Bilateral palatine tonsillectomy** — contralateral tonsil harbours primary in up to **10%** of cases; HPV tumours can be multifocal (Scott-Brown's); previous tonsillectomy remnants should also be excised
+- **Tongue base mucosectomy (TBM)** — TORS-designed procedure sampling entire tongue base mucosa; identifies primary in **>50%** of patients who are PET-negative and have no tonsil primary; ~10% are contralateral foci (Scott-Brown's)
+- TBM morbidity: bleeding, need for tube feeding, small risk of pharyngeal stenosis
+- Overall: TORS increases primary detection rate from ~20% (panendoscopy alone) to 50–60% (panendoscopy + TORS) for PET-negative patients
 
 ### Diagnostic Algorithm — Level III Poorly Differentiated Carcinoma
 
@@ -174,6 +181,15 @@ Level III node, poorly differentiated carcinoma (FNA)
 Treat according to primary site — standard site-specific management.
 
 ### When Primary Remains Occult (True CUP)
+
+**ENT-UK Multidisciplinary Treatment Guidelines (2016) — per Scott-Brown's:**
+
+| Stage | Surgery | Radiotherapy | Chemotherapy |
+|-------|---------|-------------|-------------|
+| T0N1M0 (no ECS) | SND or MRND | No, unless for mucosal sites | No |
+| T0N1M0 (ECS present) | SND or MRND | Yes — to neck | Should be considered |
+| T0N2M0 | SND or MRND | Yes — ipsilateral (consider contralateral) | Should be considered |
+| T0N3M0 | MRND or RND | Yes — ipsilateral (consider contralateral) | Should be considered |
 
 **Principle:** Treat the most likely occult primary site + neck, balancing comprehensive coverage against toxicity.
 

@@ -23,7 +23,7 @@ tags:
 > - What are the factors causing bias in retrospective and prospective study? Advantages of a randomised controlled design (TMH 2021)
 > - What are Type I and Type II errors (TMH 2021)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 13 (Evidence Base in OPSCC); Stell and Maran's Head and Neck Surgery, Chapter 5 (Evidence-Based Practice); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 6 (Clinical Trials); Greenhalgh T, How to Read a Paper, BMJ Books
+**Source:** Stell and Maran's Head and Neck Surgery and Oncology, Chapter on Statistics (Kaplan-Feinstein Index, Kaplan-Meier survival analysis); general biostatistics references — Greenhalgh T, *How to Read a Paper*, BMJ Books. *Note: Core biostatistics content is not explicitly covered in the HNS&O clinical textbooks but the principles are referenced throughout; this answer is based on standard biostatistics methodology.*
 
 > [!cite] Landmark Articles
 > Greenhalgh (1997) published the landmark series "How to Read a Paper" in the BMJ, establishing practical frameworks for critical appraisal. Sackett et al. (1996) formalised evidence-based medicine in the JAMA. The Cochrane Collaboration (Chalmers 1993) established systematic review methodology as the highest level of clinical evidence.

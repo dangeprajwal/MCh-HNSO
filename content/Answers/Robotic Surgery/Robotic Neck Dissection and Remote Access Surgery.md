@@ -12,7 +12,7 @@ tags:
 > - Robotic thyroidectomy (TMH 2020)
 > - Robot assisted surgery in head and neck — merits/demerits and current status (AMRITA 2010)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 38 (Robotic Surgery); Stell and Maran's Head and Neck Surgery, Chapter 19 (Neck Dissection); Cummings Otolaryngology, Chapter 125 (Robotic Thyroidectomy); Harrison — Head and Neck Cancer, Chapter 22 (Minimally Invasive Surgery)
+**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 29 (Applications of Robotics in Head and Neck Practice — robotic neck dissection, robotic thyroidectomy, Kang transaxillary approach, facelift approach)
 
 > [!cite] Landmark Articles
 > Robotic neck dissection via the retroauricular (hairline) approach was described by Koh et al. (2011). Chung et al. (2012) reported the robotic facelift approach to neck dissection. Tae et al. (2011) systematically described the gasless transaxillary robotic thyroidectomy technique. Landry et al. (2015) provided a comprehensive review of robotic approaches to the neck, comparing outcomes with conventional surgery.

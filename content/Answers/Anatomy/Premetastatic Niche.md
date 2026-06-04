@@ -10,7 +10,7 @@ tags:
 > [!question] Questions Covered
 > - Premetastatic niche (AMRITA 2021)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 5 (Molecular Biology of Head and Neck Cancer); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 3 (Tumour Biology); Stell and Maran's, Chapter 3 (Cancer Biology)
+**Source:** Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 3 (Prognostic Factors); primary literature: Kaplan RN et al. VEGFR1-positive haematopoietic bone marrow progenitors initiate the pre-metastatic niche. *Nature* 2005;438:820–827. *Note: The premetastatic niche concept is not covered in standard HNS&O clinical textbooks — this answer is based on primary scientific literature and cancer biology principles.*
 
 > [!cite] Landmark Articles
 > The concept of the premetastatic niche was formally described by Kaplan et al. (2005) in Nature, demonstrating that primary tumours prepare distant sites for metastasis before tumour cells arrive. Psaila and Lyden (2009) reviewed the clinical significance of this concept, while Peinado et al. (2012) demonstrated that tumour-derived exosomes educate bone marrow progenitor cells to migrate to premetastatic sites.

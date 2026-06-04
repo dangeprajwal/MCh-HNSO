@@ -17,7 +17,7 @@ tags:
 > - Discuss the spread of tumors into the infratemporal fossa (AMRITA 2021)
 > - Fisch's infratemporal fossa approach type A, Indications and steps (TMH 2022)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 2, Chapter 40 (Infratemporal Fossa); Stell and Maran's Head and Neck Surgery, Chapter 14 (Skull Base Approaches); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 25 (Skull Base); Cummings Otolaryngology, Chapter 98 (Infratemporal Fossa and Parapharyngeal Space)
+**Source:** Jatin Shah — Head and Neck Surgery and Oncology, 5th Ed, Chapter 6 (Skull Base and Infratemporal Fossa); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 98 (Anatomy of the Skull Base and Infratemporal Fossa); Harrison — Head and Neck Cancer, Chapter 20 (Nasal Cavity and Paranasal Sinuses — PPF/ITF involvement)
 
 > [!cite] Landmark Articles
 > The infratemporal fossa remains one of the most complex anatomical regions in head and neck surgery. Fisch and Mattox (1988) systematized the approaches to this region, classifying them into Types A through D based on the surgical corridor and extent of exposure. Arriaga et al. (1997) described the indications and outcomes of the infratemporal fossa approach for various pathologies. Snyderman et al. (2010) reviewed the endoscopic approaches to the pterygopalatine and infratemporal fossae as an emerging minimally invasive alternative.

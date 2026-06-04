@@ -21,7 +21,7 @@ tags:
 > - Significance of PET detected thyroid incidentalomas (TMH 2021)
 > - Underlying principle of 18FDG PET-CT scan and accepted indications in HNSCC (TMH 2022)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 12 (Imaging in HNSCC); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 5 (Imaging); Cummings Otolaryngology, Chapter 103 (PET-CT in HNC); Stell and Maran's, Chapter 6 (Diagnostic Imaging)
+**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 18 (Metastatic Neck Disease — post-CRT management and PET-NECK trial) and Chapter 29 (Robotics — TORS and unknown primary); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 3 (Prognostic Factors — PET-CT post-treatment surveillance)
 
 > [!cite] Landmark Articles
 > The ACRIN 6685 trial (Lowe 2019) established the role of FDG-PET/CT for post-CRT surveillance, avoiding planned neck dissection. The PET-NECK trial (Mehanna 2016) was a landmark RCT demonstrating equivalence of PET-CT surveillance vs planned neck dissection after CRT in N2–N3 nodal disease, with significant cost savings. The PETS trial (Paidpally 2013) evaluated PET/CT for pre-treatment staging of HNSCC.
@@ -91,14 +91,14 @@ tags:
 
 | Outcome | PET-CT Arm | Planned Neck Dissection Arm |
 |---------|----------|---------------------------|
-| 2-yr OS | 84.9% | 81.5% (HR 0.92, 95% CI 0.65–1.32 — NS) |
-| Neck dissection rate | 54% (required after positive PET-CT) | 100% (mandatory) |
-| Cost per patient | £1,492 less than neck dissection arm | — |
+| 2-yr OS | 85% (84.9%) | 82% (81.5%) — equivalent (NS) |
+| Neck dissection performed | 54 patients (not all required ND) | 221 patients (all underwent ND) |
+| Cost saving | ~£1,500 ($2,200) per patient in PET-CT arm (Scott-Brown's) | — |
 | Negative predictive value of PET-CT | 93% | — |
 
 **Conclusion:** PET-CT at 12 weeks post-CRT is non-inferior to planned neck dissection for N2–N3 disease, reduces unnecessary surgery, and is cost-effective.
 
-**Current practice:** Post-CRT PET-CT at **12–16 weeks** (not earlier — residual inflammation gives false positives)
+**Current practice:** Post-CRT PET-CT at **12–16 weeks** (not earlier — residual inflammation gives false positives). Harrison (Chapter 3) meta-analysis: scans performed ≥12 weeks after therapy had moderately higher diagnostic accuracy; sensitivity 74%/specificity 88% for neck nodes in scans <12 weeks vs improved accuracy ≥12 weeks.
 
 **Interpretation:**
 - **Complete metabolic response (CMR):** No FDG uptake above background → surveillance only

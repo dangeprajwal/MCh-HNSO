@@ -20,7 +20,7 @@ tags:
 > - Reconstruction following eyelid resection (TMH 2021)
 > - Reconstructive options for different types of orbital exenterations (TMH 2022)
 
-**Source:** Shah — Head and Neck Surgery and Oncology, 5th Ed, Chapter 11 (Orbit and Periorbital Region); Cummings Otolaryngology, Chapter 49 (Orbital Surgery); Scott-Brown's Otorhinolaryngology, Chapter 15 (Orbital Malignancy); Shields JA & Shields CL — Eyelid, Conjunctival and Orbital Tumors, 3rd Ed
+**Source:** Jatin Shah — Head and Neck Surgery and Oncology, Chapter 4 (Eyelids and Orbit — orbital anatomy, exenteration indications); Harrison — Head and Neck Cancer, Chapter 20 (Nasal Cavity, Paranasal Sinuses, Anterior Skull Base and Orbit — orbital resection criteria, Harrison criteria for orbital preservation); Stell and Maran's Head and Neck Surgery and Oncology (orbital malignancy, rhabdomyosarcoma). *Note: uveal melanoma, topical mitomycin, and solitary fibrous tumour are ophthalmic oncology topics not covered in detail in standard HNS&O textbooks — sourced from primary ophthalmology literature.*
 
 > [!cite] Landmark Articles
 > The COMS trial (2006) established iodine-125 plaque brachytherapy as the standard treatment for medium choroidal melanoma, demonstrating equivalent mortality to enucleation. The IRS-IV trial (Crist 2001) established VAC chemotherapy as the backbone for orbital rhabdomyosarcoma. Perry et al. (1988) established that periorbital invasion alone does not mandate exenteration in PNS cancer.
@@ -278,12 +278,20 @@ Topical mitomycin C (MMC) is used for:
 - Periorbita intact on imaging + intraoperative assessment
 - Periorbital invasion only (stripping of periorbita sufficient with adequate margin)
 
-### Orbital Preservation in T3 PNS Cancer (Perry 1988 Principle)
+### Orbital Preservation in T3 PNS Cancer
 
 T3 PNS cancer = periorbital involvement. **Periorbita is the key oncological landmark:**
 
-- **Periorbita intact:** Periosteal stripping (periorbita removed with tumour, extraocular muscles and fat preserved) = **orbital preservation** — equivalent local control to exenteration
+**Harrison's criteria (Head and Neck Cancer, Chapter 20):**
+- **Low-grade lesions abutting lamina papyracea** without radiographic or intraoperative evidence of periorbital invasion → orbit may be spared
+- **High-grade lesions** OR involvement of orbital apex, extraocular muscles, orbital fat, or significant eyelid → **indications for orbital exenteration**
+- Preoperative CRT may cause tumour retraction → allow orbit-sparing procedure that was not initially possible
+- **Intraoperative periorbital biopsy** may be necessary to define presence/absence of tumour at the periorbita
+
+- **Periorbita intact:** Orbital preservation — periosteal stripping (remove periorbita en bloc with tumour, preserve muscles and fat)
 - **Periorbita breached (fat/muscle invaded):** Exenteration required
+
+*Historically, Perry et al. (1988) established that periorbital invasion alone does not mandate exenteration — patients with periorbital invasion treated by stripping had equivalent local control to those undergoing exenteration. This principle was confirmed by subsequent series.*
 
 **Intraoperative assessment:** Once periorbita is entered, palpate/visualise orbital fat; if fat clearance possible with negative margins → preserve eye; if not → exenterate.
 

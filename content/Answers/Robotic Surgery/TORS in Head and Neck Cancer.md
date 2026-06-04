@@ -20,7 +20,7 @@ tags:
 > - ORATOR Trial (TMH 2020)
 > - Enumerate current ongoing Phase III trials for TORS in HPV-positive oropharynx (TMH 2019)
 
-**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 15 (Oropharyngeal Cancer); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 18 (TORS); Stell and Maran's Head and Neck Surgery, Chapter 22 (Oropharyngeal Cancer); Cummings Otolaryngology, Chapter 119 (Transoral Robotic Surgery)
+**Source:** Scott-Brown's Otorhinolaryngology Vol 3, Chapter 29 (Applications of Robotics in Head and Neck Practice); Harrison — Head and Neck Cancer: A Multidisciplinary Approach, Chapter 17 (Cancer of the Oropharynx — TORS outcomes); Stell and Maran's Head and Neck Surgery and Oncology
 
 > [!cite] Landmark Articles
 > TORS was first described by Weinstein et al. (2005) in a cadaveric study, and Hockstein et al. (2005) reported the first clinical application. The ORATOR trial (Nichols/Mehanna 2019) was the first randomized trial comparing TORS to radiotherapy in T1–T2 N0–N2 oropharyngeal cancer. De Almeida et al. (2014) published the seminal multicentre TORS series establishing outcomes in 410 patients. Genden et al. (2012) described the swallowing outcomes advantage of TORS over CRT.

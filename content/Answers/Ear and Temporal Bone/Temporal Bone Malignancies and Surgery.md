@@ -19,7 +19,7 @@ tags:
 > - Classify temporal bone resection and briefly describe the philosophy of management (TMH 2021)
 > - SCC of temporal bone with facial nerve paralysis — evaluation and management (TMH 2021)
 
-**Source:** Cummings Otolaryngology, Chapter 132 (Malignant Tumours of the Temporal Bone); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 232 (Temporal Bone Tumours); Stell and Maran's Head and Neck Surgery, Chapter 28 (Temporal Bone); Harrison — Head and Neck Cancer, Chapter 30 (Temporal Bone Malignancy)
+**Source:** Stell and Maran's Head and Neck Surgery, Chapter 40 (Temporal Bone Resections); Scott-Brown's Otorhinolaryngology Vol 3, Chapter 115 (Squamous Carcinoma of the Temporal Bone); Jatin Shah — Head and Neck Surgery and Oncology, Chapter on Lateral Skull Base; Harrison — Head and Neck Cancer, Chapter 20 (Nasal Cavity and Paranasal Sinuses)
 
 > [!cite] Landmark Articles
 > Arriaga et al. (1990) established the Pittsburgh staging system for SCC of the external auditory canal — the universally adopted staging framework. Gidley et al. (2010) published a large single-institution outcome series demonstrating disease-specific survival and impact of staging on surgical approach. Moffat et al. (1997) described the indications, technique, and outcomes of extended temporal bone resection for squamous cell carcinoma.
@@ -82,55 +82,53 @@ The universally accepted staging system, based on CT findings and clinical exami
 
 | Stage | Criteria |
 |-------|---------|
-| **T1** | Tumour limited to EAC; no bony erosion; no soft tissue extension beyond EAC |
-| **T2** | Erosion of EAC bone (not full-thickness) OR limited (<0.5 cm) soft tissue involvement |
-| **T3** | Full-thickness erosion of EAC bone ± involvement of middle ear and/or mastoid; or <0.5 cm soft tissue invasion |
-| **T4** | Tumour erodes cochlea, petrous apex, medial wall of middle ear, dura, parotid, or temporomandibular joint; OR >0.5 cm soft tissue invasion; OR facial nerve paralysis |
-| **N0** | No nodal disease |
-| **N+** | Regional lymph node metastasis present |
+| **T1** | Tumour limited to the EAC without bony erosion or evidence of soft tissue involvement |
+| **T2** | Tumour with limited EAC bone erosion (not full thickness) with limited (<0.5 cm) soft tissue involvement |
+| **T3** | Tumour eroding the osseous EAC (full thickness) with limited (<0.5 cm) soft tissue involvement; OR tumour involving the middle ear, mastoid, or both |
+| **T4** | Tumour eroding the cochlea, petrous apex, medial wall of middle ear, carotid canal, or jugular foramen or dura; OR with extensive soft tissue involvement (>0.5 cm) such as involvement of the TMJ or stylomastoid foramen; OR with evidence of facial paresis |
 
-**Note:** The modified Staging (University of Pittsburgh) adds N and M staging; lymph node involvement dramatically worsens prognosis.
+**Stage grouping:**
+- Stage I = T1 N0 M0; Stage II = T2 N0 M0; Stage III = T3 N0 M0 or T1 N1 M0
+- Stage IV = T4 N0 M0, T2–4 N1 M0, any T N2–3 M0, any T any N M1
+- N1 disease in a T2 or higher lesion = Stage IV — nodal metastasis dramatically worsens prognosis (Stell & Maran)
 
 ### Routes of Spread of SCC of EAC
 
-The tympanic bone is incomplete (Huschke's foramen, fissures of Santorini), allowing early spread:
+Tumour spreads in four directions from the EAC (Stell & Maran, Chapter 40):
 
-**Anterior spread:**
-- Through **fissures of Santorini** and **Huschke's foramen** → parotid gland (most common anterior route)
-- TMJ capsule and glenoid fossa erosion → infratemporal fossa
-- Direct spread to masticator space
+**Anteriorly:**
+- Into the **parotid gland** (most common anterior route — via fissures of Santorini and Huschke's foramen in the tympanic plate)
+- **Infratemporal fossa** via glenoid fossa erosion
+- **Facial skin**
 
-**Posterior spread:**
-- Through mastoid air cells → sigmoid sinus → posterior fossa dura
-- Mastoid cortex → soft tissues of mastoid region
+**Posteriorly:**
+- Into **mastoid air cells** → posterior fossa
+- Through mastoid cortex into retroauricular soft tissues
 
-**Medial spread (most serious):**
-- Through tympanic bone → middle ear cleft → cochlea → IAC
-- Petrous apex → petrous ICA (carotid canal)
-- Inferior: jugular foramen → sigmoid-jugular complex
+**Inferiorly:**
+- Into **neck soft tissues** via floor of EAC
+- **Jugular foramen** → sigmoid-jugular complex
+- **Foramen magnum** or cervical spine in advanced disease
 
-**Superior spread:**
-- Tegmen tympani erosion → middle cranial fossa floor → dura
-- Extradural spread
+**Superiorly:**
+- Into **epitympanum** → tegmen tympani → **middle cranial fossa floor** → dura
+- Extradural spread along middle fossa
 
-**Inferior spread:**
-- Floor of EAC → stylomastoid foramen → facial nerve
-- Infratemporal fossa via floor of EAC
+*Note: Medial spread (cochlea → IAC → carotid canal) is incorporated into the superior and inferior spread paths and is reflected in T4 staging criteria (involvement of cochlea, petrous apex, carotid canal, jugular foramen, dura).*
 
 ### Nodal Drainage (Echelon Stations)
 
-**First echelon nodes:**
-- **Parotid/periparotid nodes** (intraparotid and periparotid lymph nodes) — most important; anterior EAC drains here
-- **Preauricular nodes** — anterior to tragus
-- **Mastoid/retroauricular nodes** — posterior EAC skin drainage
-- **Nodes of Storgaard** — small nodes in the fissures around EAC
+**First echelon nodes (per Stell & Maran):**
+- **Parotid/preauricular nodes** — anterior EAC drainage
+- **Upper deep cervical / internal jugular nodes** — inferior drainage
+- **Post-auricular (retroauricular/mastoid) nodes** — posterior EAC skin drainage
+- **Middle ear and mastoid** lymphatics → Eustachian tube area → deep upper jugular and retropharyngeal nodes
 
 **Second echelon nodes:**
-- **Level II (upper jugular)** — from parotid/periparotid
-- **Level III (mid-jugular)** — subsequent drainage
+- **Levels II–III (upper/mid jugular chain)** — from parotid/preauricular
 - **Level V (posterior triangle)** — from retroauricular nodes
 
-**Clinical implication:** Elective neck dissection (parotidectomy + selective ND levels II–III) should be considered for T3–T4 disease; elective parotidectomy is an integral part of the resection.
+**Clinical implication:** Parotidectomy is an integral part of LTBR and NTTBR — it exposes the facial nerve trunk at the stylomastoid foramen and clears parotid nodes as first echelon. Routine elective neck dissection (N0) is not performed for temporal bone SCC because: (1) occult cervical involvement is low (10–15%), and (2) postoperative RT routinely covers the neck (Stell & Maran). Neck dissection is added when there is clinical or radiological evidence of neck lymphadenopathy, performed en bloc with the temporal bone specimen where possible.
 
 ---
 
@@ -162,19 +160,21 @@ Three levels of resection, escalating medially:
 
 ---
 
-### 2. Subtotal Temporal Bone Resection (STBR)
+### 2. Near-Total / Subtotal Temporal Bone Resection (NTTBR / STBR)
+
+*Stell & Maran prefer "NTTBR" (near-total temporal bone resection); the term "STBR" (subtotal) is also widely used in the literature — both refer to the same level of resection.*
 
 **What is removed:**
 - Everything in LTBR PLUS:
-- Middle ear cleft (tympanic cavity, ossicles including stapes)
+- Middle ear cleft — en-bloc resection of the medial surfaces of the mesotympanum
 - Cochlea and labyrinth
-- Lateral petrous bone up to the petrous ICA
-- Mastoid (complete mastoidectomy)
-- Facial nerve from stylomastoid foramen to second genu (with reconstruction if involved by tumour)
+- Lateral petrous bone up to (but leaving) the petrous apex air cells
+- Complete mastoidectomy
+- Facial nerve (sacrificed from stylomastoid foramen to geniculate ganglion; reconstructed with cable graft)
 
 **What is preserved:**
-- Petrous apex medial to ICA
-- ICA itself (if not invaded)
+- Petrous apex (air cells medial to cochlea)
+- ICA itself (if not invaded — canal wall and roof removed but artery preserved)
 
 **Standard Osteotomy Sites for STBR (TMH favourite question):**
 1. **Anterior osteotomy:** Through zygomatic root, anterior to TMJ (glenoid fossa); soft tissue dissection protects the TMJ
@@ -207,12 +207,14 @@ Three levels of resection, escalating medially:
 **Indication:** T4 with ICA involvement; historically attempted for very advanced disease
 **Reality:** Very rarely performed now — extreme morbidity with no proven survival benefit; most T4 disease is managed with CRT ± limited surgery
 
-**Contraindications to surgery (unresectable):**
-- Cavernous sinus involvement
-- Bilateral temporal bone disease
-- Bilateral ICA involvement
-- Extensive intradural invasion
-- Distant metastases
+**Contraindications to surgery — Unresectable criteria (Pensak, cited in Stell & Maran):**
+Pensak et al. reported that invasion of any of the following structures renders a patient unresectable — all such patients in their series of 46 died within 3 years despite surgery and postoperative RT:
+- **Cavernous sinus**
+- **Carotid artery** (involvement beyond the carotid canal)
+- **Infratemporal fossa** (deep invasion)
+- **Paraspinous musculature**
+
+Additional absolute contraindications: extensive bilateral disease, distant metastases.
 
 ---
 
@@ -223,7 +225,7 @@ Three levels of resection, escalating medially:
 | Finding | Action |
 |---------|--------|
 | Normal facial function, tumour not adjacent to nerve | LTBR with nerve preservation |
-| Normal facial function, T3 disease | STBR with nerve skeletonisation; preserve if margins clear |
+| Normal facial function, T3 disease | NTTBR/STBR with nerve skeletonisation; preserve if margins clear |
 | Preoperative facial nerve palsy (partial or complete) | Nerve involved — resect and reconstruct |
 | Intraoperative positive frozen section at facial nerve margin | Sacrifice nerve; immediate cable graft |
 | T4 with nerve in field of resection | Sacrifice and reconstruct |
@@ -234,9 +236,9 @@ Three levels of resection, escalating medially:
 |-----------|-----------|-------|
 | **Primary neurorrhaphy** | Tension-free anastomosis possible | Rare in temporal bone; ends deep in temporal bone |
 | **Cable graft (interpositional)** | Gap <8 cm; best results | Great auricular nerve or sural nerve |
-| **Hypoglossal-facial anastomosis** | Proximal stump unavailable | End-to-end or end-to-side |
-| **Cross-facial nerve graft** | Delayed reconstruction | Long recovery; less useful in elderly |
-| **Static procedures** | Immediate palliation; elderly patients | Gold weight (upper lid), fascial sling (lower face), lateral tarsal strip (lower lid ectropion) |
+| **Hypoglossal-facial anastomosis** | Proximal stump unavailable | Split XII–VII neurorraphy; Stell & Maran report favourable experience at Cleveland Clinic |
+| **Cross-facial nerve graft** | Delayed reconstruction; can babysitter with XII–VII | Long recovery; less useful in elderly |
+| **Static procedures** | Concurrent with cable grafting; mandatory in all cases per Stell & Maran | Gold weight (upper lid), fascial slings (lower face); always performed alongside cable graft as static reanimation |
 
 ---
 
