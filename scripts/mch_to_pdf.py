@@ -1,25 +1,23 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/python3
 """
-MCh-HNSO Vault → Printer-Ready PDF
-====================================
-Converts all answer markdown files to a single A4 PDF.
-
-Formatting:
-  - Times New Roman 12 pt throughout
-  - Justified body text, 1.5 line spacing
-  - Bold Times New Roman for all headings and subheadings
-  - Each note starts on a new page
-  - Page numbers centred at the foot of every page
-  - Index (note name + page number) prepended with Roman-numeral pages
+MCh-HNSO Vault -> Printer-Ready PDF  (v3)
+==========================================
+- All 25 sections, 264 answer files
+- Times New Roman 12 pt, A4, justified body text
+- PDF bookmarks (outline panel) for every section and every note
+- Clickable dot-leader index  --  click any title to jump to the page
+- Roman-numeral footer on index pages, Arabic on content pages
+- Word-wrap in table cells (no mid-word breaks)
+- Accurate row-height estimation (1-line rows never double-spaced)
 
 Usage:
-  python3 mch_to_pdf.py
+  /usr/local/bin/python3 mch_to_pdf.py
 """
 
 import os, re, math, io
 from fpdf import FPDF
 from fpdf.enums import WrapMode
-from PyPDF2 import PdfMerger, PdfReader
+from PyPDF2 import PdfReader          # only used in Pass 1 to count pages
 
 # ─────────────────────────────────────────────────────────────
 # PATHS
@@ -28,18 +26,32 @@ VAULT_ANSWERS = "/Users/prajwaldange/MCh-HNSO/content/Answers"
 OUTPUT_DIR    = "/Users/prajwaldange/Downloads/Scott Brown Textbooks/PDF_Papers"
 OUTPUT_FILE   = os.path.join(OUTPUT_DIR, "MCh_HNSO_Complete_Answers.pdf")
 
-# Section display order
 SECTION_ORDER = [
     "General",
     "Oral Cavity",
     "Oropharynx",
     "Hypopharynx",
     "Larynx",
-    "Thyroid",
+    "Nasopharynx",
+    "Nose and Paranasal Sinuses",
     "Neck",
-    "Salivary Gland",
     "Skull Base",
+    "Thyroid",
+    "Parathyroid",
+    "Salivary Gland",
+    "Ear and Temporal Bone",
+    "Eye and Orbit",
+    "Plastic Surgery",
     "Radiotherapy and Chemotherapy",
+    "Robotic Surgery",
+    "HPV",
+    "Anatomy",
+    "Statistics",
+    "Trials",
+    "Radiology and Nuclear Medicine",
+    "Malignancy of Unknown Origin",
+    "Soft Tissue Malignancy",
+    "Cutaneous Malignancy",
     "Reconstruction",
     "Research Methodology",
 ]
@@ -47,75 +59,90 @@ SECTION_ORDER = [
 # ─────────────────────────────────────────────────────────────
 # PAGE / FONT CONSTANTS
 # ─────────────────────────────────────────────────────────────
-PW, PH   = 210, 297          # A4 mm
-ML, MR   = 25, 25            # left / right margins
-MT, MB   = 25, 20            # top / bottom margins
-UW       = PW - ML - MR      # usable width = 160 mm
+PW, PH = 210, 297           # A4 mm
+ML, MR = 25, 25
+MT, MB = 25, 20
+UW     = PW - ML - MR       # 160 mm
 
 TNR_REG  = "/Library/Fonts/Microsoft/Times New Roman.ttf"
 TNR_BOLD = "/Library/Fonts/Microsoft/Times New Roman Bold.ttf"
 TNR_ITAL = "/Library/Fonts/Microsoft/Times New Roman Italic.ttf"
 TNR_BOLI = "/Library/Fonts/Microsoft/Times New Roman Bold Italic.ttf"
 
-FS      = 12                           # body font size (pt)
-LH      = FS * 0.352778 * 1.5         # body line height (mm) ≈ 6.35
-LH_SM   = 10 * 0.352778 * 1.5         # smaller line height for tables/index
+FS   = 12
+LH   = FS * 0.352778 * 1.5     # ~6.35 mm
 
 
 # ─────────────────────────────────────────────────────────────
 # HELPERS
 # ─────────────────────────────────────────────────────────────
 def clean_md(text: str) -> str:
-    """Strip Markdown / Obsidian formatting for plain PDF text."""
     if not text:
         return ""
     t = str(text)
-    # Wikilinks with display text  [[Path|Display]]
+
+    # ── Wikilinks ──────────────────────────────────────────────
     t = re.sub(r'\[\[([^|\]]+)\|([^\]]+)\]\]', r'\2', t)
-    # Plain wikilinks  [[Path]]
     t = re.sub(r'\[\[([^\]]+)\]\]', r'\1', t)
-    # Standard links  [text](url)
-    t = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', t)
-    # Bold-italic  ***text***
+
+    # ── Standard markdown links [text](url) ───────────────────
+    # Fix: allow parentheses inside URLs (e.g. DOIs like ...S0092-8674(00)81683-9)
+    # Key: use [^()]* (exclude BOTH parens from base) so inner paren-pairs
+    # are handled explicitly by (?:\([^()]*\)[^()]*)*
+    t = re.sub(r'\[([^\]]+)\]\([^()]*(?:\([^()]*\)[^()]*)*\)', r'\1', t)
+
+    # ── Inline markup ─────────────────────────────────────────
     t = re.sub(r'\*\*\*(.+?)\*\*\*', r'\1', t)
-    # Bold  **text**
     t = re.sub(r'\*\*(.+?)\*\*', r'\1', t)
-    # Italic  *text*
     t = re.sub(r'\*(.+?)\*', r'\1', t)
-    # Code  `text`
     t = re.sub(r'`(.+?)`', r'\1', t)
-    # HTML entities
-    t = (t.replace('&mdash;', '—').replace('&ndash;', '–')
+
+    # ── HTML entities ─────────────────────────────────────────
+    t = (t.replace('&mdash;', '--').replace('&ndash;', '-')
           .replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
           .replace('&nbsp;', ' ').replace('&#x27;', "'"))
-    # HTML tags
     t = re.sub(r'<[^>]+>', '', t)
-    # Escaped pipes (used in markdown tables inside callouts)
+
+    # ── Escaped table pipes ───────────────────────────────────
     t = t.replace(r'\|', '|')
-    # Subscript / superscript Unicode → plain ASCII
-    SUB = str.maketrans('₀₁₂₃₄₅₆₇₈₉', '0123456789')
-    SUP = str.maketrans('⁰¹²³⁴⁵⁶⁷⁸⁹⁻⁺', '0123456789-+')
-    t = t.translate(SUB).translate(SUP)
-    # Other missing glyphs
-    t = t.replace('∝', 'proportional to').replace('\ufffd', '?')
-    t = t.replace('\u2212', '-')   # minus sign → hyphen
-    t = t.replace('\u00d7', 'x')   # multiplication sign
-    t = t.replace('\u03b1', 'alpha').replace('\u03b2', 'beta')
-    t = t.replace('\u03b3', 'gamma').replace('\u03b4', 'delta')
-    t = t.replace('\u03bc', 'mu').replace('\u03c3', 'sigma')
+
+    # ── Unicode: typographic dashes FIRST (before latin-1 encoding) ──
+    t = t.replace('—', '--')   # em dash  —  ->  --
+    t = t.replace('–', '-')    # en dash  –  ->  -
+    t = t.replace('’', "'")    # right single quote '
+    t = t.replace('‘', "'")    # left  single quote '
+    t = t.replace('“', '"')    # left  double quote "
+    t = t.replace('”', '"')    # right double quote "
+    t = t.replace('…', '...')  # ellipsis …
+
+    # ── Other math / special Unicode ──────────────────────────
+    t = t.replace('−', '-')    # minus sign
+    t = t.replace('×', 'x')    # multiplication ×
+    t = t.replace('≥', '>=').replace('≤', '<=')
+    t = t.replace('→', '->').replace('←', '<-')
+    t = t.replace('≠', '!=').replace('±', '+/-')
+    t = t.replace('°', ' deg')
+    t = t.replace('∝', 'proportional to')
+    # Greek letters
+    for uc, asc in [('α','alpha'),('β','beta'),('γ','gamma'),
+                    ('δ','delta'),('μ','mu'),('σ','sigma'),
+                    ('ε','epsilon'),('τ','tau'),('ρ','rho'),
+                    ('θ','theta'),('λ','lambda')]:
+        t = t.replace(uc, asc)
+
+    # ── Final: strip anything still not Latin-1 ───────────────
+    t = t.encode('latin-1', errors='replace').decode('latin-1')
     return t.strip()
 
 
 def to_roman(n: int) -> str:
-    """Convert integer to lowercase Roman numeral."""
     vals = [(1000,'m'),(900,'cm'),(500,'d'),(400,'cd'),
             (100,'c'),(90,'xc'),(50,'l'),(40,'xl'),
             (10,'x'),(9,'ix'),(5,'v'),(4,'iv'),(1,'i')]
     r = ''
     for v, s in vals:
         while n >= v:
-            r += s
-            n -= v
+            r += s; n -= v
     return r
 
 
@@ -124,72 +151,64 @@ def to_roman(n: int) -> str:
 # ─────────────────────────────────────────────────────────────
 class MchPDF(FPDF):
     """
-    Custom FPDF subclass with MCh-HNSO formatting.
-    page_offset: number of index pages prepended — added to every footer.
-    roman_footer: if True, render footer as Roman numerals (for index PDF).
+    roman_cutoff: pages 1..roman_cutoff get Roman numeral footers.
+                  Pages above get Arabic footers equal to the PDF page number.
+                  Set to 0 for all-Arabic (used in Pass 1 measurement).
     """
 
-    def __init__(self, page_offset: int = 0, roman_footer: bool = False):
+    def __init__(self, roman_cutoff: int = 0):
         super().__init__('P', 'mm', 'A4')
         self.set_margins(ML, MT, MR)
         self.set_auto_page_break(True, MB)
-        self._page_offset  = page_offset
-        self._roman_footer = roman_footer
+        self._roman_cutoff = roman_cutoff
         self.add_font('TNR', '',   TNR_REG)
         self.add_font('TNR', 'B',  TNR_BOLD)
         self.add_font('TNR', 'I',  TNR_ITAL)
         self.add_font('TNR', 'BI', TNR_BOLI)
 
-    # ── footer ──────────────────────────────────────────────
     def footer(self):
+        pg = self.page_no()
+        if self._roman_cutoff > 0 and pg <= self._roman_cutoff:
+            label = to_roman(pg)
+        else:
+            label = str(pg)
         self.set_y(-15)
         self.set_font('TNR', '', 9)
         self.set_text_color(80, 80, 80)
-        if self._roman_footer:
-            pg = to_roman(self.page_no())
-        else:
-            pg = str(self.page_no() + self._page_offset)
-        self.cell(0, 8, pg, align='C')
+        self.cell(0, 8, label, align='C')
         self.set_text_color(0, 0, 0)
 
-    # ── headings ────────────────────────────────────────────
-    def write_h1(self, text: str):
-        """Note title: 12 pt bold, centred."""
+    # ── headings ──────────────────────────────────────────────
+    def write_h1(self, text):
         self.ln(LH * 0.3)
         self.set_font('TNR', 'B', FS)
         self.multi_cell(UW, LH, clean_md(text), align='C',
                         new_x='LMARGIN', new_y='NEXT')
         self.ln(LH * 0.5)
-        # underline rule
         y = self.get_y()
         self.line(ML, y, PW - MR, y)
         self.ln(LH * 0.5)
 
-    def write_h2(self, text: str):
-        """Section heading: 12 pt bold, left."""
+    def write_h2(self, text):
         self.ln(LH * 0.5)
         self.set_font('TNR', 'B', FS)
         self.multi_cell(UW, LH, clean_md(text), align='L',
                         new_x='LMARGIN', new_y='NEXT')
         self.ln(LH * 0.15)
 
-    def write_h3(self, text: str):
-        """Sub-heading: 12 pt bold, left."""
+    def write_h3(self, text):
         self.ln(LH * 0.3)
         self.set_font('TNR', 'B', FS)
         self.multi_cell(UW, LH, clean_md(text), align='L',
                         new_x='LMARGIN', new_y='NEXT')
 
-    def write_h4(self, text: str):
-        """Sub-sub-heading: 12 pt bold-italic, left."""
+    def write_h4(self, text):
         self.ln(LH * 0.2)
         self.set_font('TNR', 'BI', FS)
         self.multi_cell(UW, LH, clean_md(text), align='L',
                         new_x='LMARGIN', new_y='NEXT')
 
-    # ── body text ───────────────────────────────────────────
-    def write_body(self, text: str):
-        """Body paragraph: 12 pt, justified, 1.5 spacing."""
+    def write_body(self, text):
         self.set_font('TNR', '', FS)
         cleaned = clean_md(text)
         if cleaned:
@@ -197,196 +216,47 @@ class MchPDF(FPDF):
                             new_x='LMARGIN', new_y='NEXT')
             self.ln(LH * 0.2)
 
-    # ── lists ───────────────────────────────────────────────
-    def write_bullet(self, text: str, level: int = 0):
-        """Bullet point, optionally indented."""
+    def write_bullet(self, text, level=0):
         self.set_font('TNR', '', FS)
         indent = level * 6
-        bw     = 5
-        cw     = UW - indent - bw
-        x0     = ML + indent
-        y0     = self.get_y()
+        bw = 5
+        cw = UW - indent - bw
+        x0 = ML + indent
+        y0 = self.get_y()
         self.set_xy(x0, y0)
-        self.cell(bw, LH, chr(8226))          # •
+        self.cell(bw, LH, chr(8226))
         self.set_xy(x0 + bw, y0)
         self.multi_cell(cw, LH, clean_md(text), align='J',
                         new_x='LMARGIN', new_y='NEXT')
 
-    def write_numbered(self, n: int, text: str):
-        """Numbered list item."""
+    def write_numbered(self, n, text):
         self.set_font('TNR', '', FS)
-        nw  = 8
-        cw  = UW - nw
-        y0  = self.get_y()
+        nw = 8
+        y0 = self.get_y()
         self.set_xy(ML, y0)
         self.cell(nw, LH, f"{n}.")
         self.set_xy(ML + nw, y0)
-        self.multi_cell(cw, LH, clean_md(text), align='J',
+        self.multi_cell(UW - nw, LH, clean_md(text), align='J',
                         new_x='LMARGIN', new_y='NEXT')
 
-    # ── rules ───────────────────────────────────────────────
     def write_hrule(self):
         self.ln(LH * 0.5)
         y = self.get_y()
         self.line(ML, y, PW - MR, y)
         self.ln(LH * 0.5)
 
-    # ── callout blocks ──────────────────────────────────────
-    def write_callout_header(self, ctype: str, title: str):
-        """Render a callout box header (thin rule + italic label)."""
+    def write_callout_header(self, ctype, title):
         self.ln(LH * 0.4)
         y = self.get_y()
-        self.line(ML, y, ML + 2, y)   # short left bar
+        self.line(ML, y, ML + 2, y)
         self.set_font('TNR', 'BI', FS)
         label = title if title else ctype.title()
         self.set_x(ML + 4)
         self.multi_cell(UW - 4, LH, label, align='L',
                         new_x='LMARGIN', new_y='NEXT')
 
-    # ── tables ──────────────────────────────────────────────
-    def write_table(self, headers: list, rows: list, small: bool = False):
-        """Render a Markdown table. Columns auto-sized to fit usable width."""
-        fsize  = 9 if small else 10
-        cell_h = fsize * 0.352778 * 1.5
-        n_cols = max(len(headers), max((len(r) for r in rows), default=0))
-        if n_cols == 0:
-            return
-
-        widths = self._calc_col_widths(headers, rows, n_cols, fsize)
-
-        def render_cell(text, w, y0, bold=False, centre=False, fill=False):
-            """Render one table cell with fallback if too narrow."""
-            self.set_font('TNR', 'B' if bold else '', fsize)
-            if fill:
-                self.set_fill_color(220, 220, 220)
-            align = 'C' if centre else 'L'
-            try:
-                self.multi_cell(w, cell_h, text,
-                                border=1, align=align, fill=fill,
-                                wrapmode=WrapMode.CHAR,
-                                new_x='RIGHT', new_y='TOP')
-            except Exception:
-                # Last-resort: truncate to single line
-                t = text
-                while t and self.get_string_width(t) > w - 3:
-                    t = t[:-1]
-                self.cell(w, cell_h, t, border=1, align=align, fill=fill)
-                self.set_xy(self.get_x(), y0)   # stay on same row
-
-        # ── Header row ──────────────────────────────────────
-        if headers:
-            y0    = self.get_y()
-            max_h = self._row_h(headers, widths, fsize, cell_h, char_wrap=True)
-            for i, h in enumerate(headers[:n_cols]):
-                self.set_xy(ML + sum(widths[:i]), y0)
-                render_cell(clean_md(h), widths[i], y0, bold=True, centre=True, fill=True)
-            self.set_y(y0 + max_h)
-
-        # ── Data rows ────────────────────────────────────────
-        self.set_font('TNR', '', fsize)
-        for row in rows:
-            while len(row) < n_cols:
-                row.append('')
-            y0    = self.get_y()
-            max_h = self._row_h(row[:n_cols], widths, fsize, cell_h, char_wrap=True)
-            if y0 + max_h > PH - MB - 5:
-                self.add_page()
-                y0 = self.get_y()
-            for i, cell in enumerate(row[:n_cols]):
-                self.set_xy(ML + sum(widths[:i]), y0)
-                render_cell(clean_md(cell), widths[i], y0)
-            self.set_y(y0 + max_h)
-
-        self.ln(LH * 0.5)
-
-    def _calc_col_widths(self, headers, rows, n, fsize):
-        """
-        Compute column widths that sum to exactly UW.
-
-        Strategy:
-        • Measure the true natural width of each column's widest cell.
-        • Cap ONLY the single widest column (Study titles etc.) at 42 % of UW.
-          All other columns keep their natural widths so Journal/DOI etc. are
-          never starved.
-        • If total still > UW, scale all columns down proportionally while
-          respecting a per-column minimum (dynamic: UW / n * 0.55, min 10 mm).
-        • If total < UW, distribute surplus evenly.
-        """
-        self.set_font('TNR', '', fsize)
-        MIN_COL = max(10.0, UW / n * 0.55)    # dynamic minimum per column
-        MAX_COL = UW * 0.42                    # cap for the dominant column
-
-        # ── Step 1: measure natural widths ──────────────────
-        mx = [0.0] * n
-        for row in ([headers] if headers else []) + list(rows):
-            for i, c in enumerate(row[:n]):
-                w = self.get_string_width(clean_md(str(c))) + 6
-                if w > mx[i]:
-                    mx[i] = w
-
-        # ── Step 2: cap only the largest column ─────────────
-        big_idx = mx.index(max(mx))
-        mx[big_idx] = min(mx[big_idx], MAX_COL)
-
-        # ── Step 3: enforce per-column minimums ─────────────
-        mx = [max(w, MIN_COL) for w in mx]
-
-        total = sum(mx)
-
-        # ── Step 4: scale down if over budget ───────────────
-        if total > UW + 0.01:
-            scale  = UW / total
-            scaled = [w * scale for w in mx]
-            # re-enforce minimums after scaling
-            for i in range(n):
-                if scaled[i] < MIN_COL:
-                    scaled[i] = MIN_COL
-            # if minimums push us back over, reduce non-min columns
-            over2 = sum(scaled) - UW
-            if over2 > 0.01:
-                free = [i for i in range(n) if scaled[i] > MIN_COL + 0.01]
-                if free:
-                    per = over2 / len(free)
-                    for i in free:
-                        scaled[i] = max(scaled[i] - per, MIN_COL)
-            mx = scaled
-
-        # ── Step 5: distribute surplus evenly ───────────────
-        total = sum(mx)
-        if total < UW - 0.01:
-            extra = (UW - total) / n
-            mx = [w + extra for w in mx]
-
-        # ── Float safety ─────────────────────────────────────
-        diff = UW - sum(mx)
-        mx[-1] = max(mx[-1] + diff, MIN_COL)
-
-        return mx
-
-    def _row_h(self, cells, widths, fsize, cell_h, char_wrap=False):
-        """Estimate the rendered height of a table row (in mm).
-        Uses character-level wrapping model when char_wrap=True."""
-        self.set_font('TNR', '', fsize)
-        max_lines = 1
-        c_margin  = (fsize * 0.352778) / 6     # fpdf2 default cell margin
-        for i, c in enumerate(cells):
-            if i >= len(widths) or widths[i] <= 2:
-                continue
-            text  = clean_md(str(c))
-            avail = widths[i] - 2 * c_margin   # actual render width inside borders
-            if avail <= 0:
-                continue
-            full_w = self.get_string_width(text)
-            # Estimate lines (char wrap = break anywhere)
-            lines  = max(1, math.ceil(full_w / avail))
-            if lines > max_lines:
-                max_lines = lines
-        return cell_h * max_lines
-
-    # ── section separator page ──────────────────────────────
-    def write_section_page(self, name: str):
-        """Full-page centred section divider."""
-        self.add_page()
+    # ── section divider page ──────────────────────────────────
+    def write_section_page(self, name):
         mid = PH / 2
         self.set_y(mid - 18)
         self.write_hrule()
@@ -394,160 +264,365 @@ class MchPDF(FPDF):
         self.cell(UW, LH, name, align='C', new_x='LMARGIN', new_y='NEXT')
         self.ln(LH * 0.5)
         self.set_font('TNR', 'I', 10)
-        self.cell(UW, LH * 0.8, 'MCh Head and Neck Surgery & Oncology — Examination Answers',
+        self.cell(UW, LH * 0.8,
+                  'MCh Head and Neck Surgery & Oncology -- Examination Answers',
                   align='C', new_x='LMARGIN', new_y='NEXT')
         self.write_hrule()
 
+    # ── tables ────────────────────────────────────────────────
+    def write_table(self, headers, rows, small=False):
+        """
+        Render a Markdown table with:
+          • Vertically centred text in every cell (border drawn via rect(),
+            text rendered separately at the centred y-position)
+          • WORD wrap (CHAR fallback for long unbreakable tokens like DOIs)
+          • Consistent row heights driven by the tallest cell
+          • Reduced line height (1.45x) for compact appearance
+        """
+        fsize  = 9 if small else 10
+        cell_h = fsize * 0.352778 * 1.45   # 1.45× for tighter, more uniform rows
+        n_cols = max(len(headers), max((len(r) for r in rows), default=0))
+        if n_cols == 0:
+            return
+
+        widths = self._calc_col_widths(headers, rows, n_cols, fsize)
+
+        def _draw_row(cells, y0, row_h, is_header=False):
+            """Draw one full row: borders first, then vertically centred text."""
+            for i in range(n_cols):
+                x    = ML + sum(widths[:i])
+                w    = widths[i]
+                text = clean_md(cells[i]) if i < len(cells) else ''
+                bold = is_header
+                align = 'C' if is_header else 'L'
+
+                # ── 1. Draw full-height cell border (+ fill for header) ──
+                self.set_draw_color(0, 0, 0)
+                self.set_line_width(0.2)
+                if is_header:
+                    self.set_fill_color(230, 230, 230)
+                    self.rect(x, y0, w, row_h, style='FD')
+                else:
+                    self.rect(x, y0, w, row_h, style='D')
+
+                # ── 2. Compute vertical offset for centering ─────────────
+                n_lines  = self._cell_lines(text, w, fsize, cell_h)
+                text_h   = cell_h * n_lines
+                v_off    = max(0.0, (row_h - text_h) / 2.0)
+
+                # ── 3. Render text without border at centred y position ──
+                self.set_font('TNR', 'B' if bold else '', fsize)
+                self.set_xy(x, y0 + v_off)
+                if text:
+                    try:
+                        self.multi_cell(w, cell_h, text,
+                                        border=0, align=align,
+                                        wrapmode=WrapMode.WORD,
+                                        new_x='LMARGIN', new_y='NEXT')
+                    except Exception:
+                        try:
+                            self.multi_cell(w, cell_h, text,
+                                            border=0, align=align,
+                                            wrapmode=WrapMode.CHAR,
+                                            new_x='LMARGIN', new_y='NEXT')
+                        except Exception:
+                            t = text
+                            while t and self.get_string_width(t) > w - 3:
+                                t = t[:-1]
+                            self.set_xy(x + 1, y0 + v_off)
+                            self.cell(w - 1, cell_h, t, border=0, align=align)
+
+            # Move cursor to next row
+            self.set_xy(ML, y0 + row_h)
+
+        # ── Header row ────────────────────────────────────────────
+        if headers:
+            y0    = self.get_y()
+            row_h = self._row_h(headers, widths, fsize, cell_h)
+            if y0 + row_h > PH - MB - 5:
+                self.add_page(); y0 = self.get_y()
+            _draw_row(headers, y0, row_h, is_header=True)
+
+        # ── Data rows ─────────────────────────────────────────────
+        for row in rows:
+            while len(row) < n_cols:
+                row.append('')
+            y0    = self.get_y()
+            row_h = self._row_h(row[:n_cols], widths, fsize, cell_h)
+            if y0 + row_h > PH - MB - 5:
+                self.add_page(); y0 = self.get_y()
+            _draw_row(row[:n_cols], y0, row_h, is_header=False)
+
+        self.ln(LH * 0.5)
+
+    def _calc_col_widths(self, headers, rows, n, fsize):
+        """
+        Three-tier column-width algorithm.
+
+        Tier 1  NARROW  nat <= 22 mm  e.g. Year, short %, stage numbers
+                         -> exact natural width, never scaled
+        Tier 2  MEDIUM  22 < nat <= 42 mm  e.g. Journal names, short labels
+                         -> exact natural width, never scaled
+                         (ensures "Nat Rev Cancer", "Laryngoscope" etc. fit)
+        Tier 3  WIDE    nat >  42 mm  e.g. Study/Title, DOI, long description
+                         -> share remaining budget with per-column cap;
+                            scaled proportionally when over budget
+
+        This guarantees that medium-length content (journal names) is never
+        squeezed below its natural width, while long columns absorb the scaling.
+        """
+        self.set_font('TNR', '', fsize)
+        NARROW_MAX = 22.0    # ≤ this → Tier 1
+        MEDIUM_MAX = 42.0    # ≤ this → Tier 2
+        MIN_WIDE   = 20.0    # absolute floor for Tier 3 columns
+        PAD        = 6.0     # padding added to string_width
+
+        # ── Measure natural (single-line) widths ─────────────
+        nat = [0.0] * n
+        for row in ([headers] if headers else []) + list(rows):
+            for i, c in enumerate(row[:n]):
+                w = self.get_string_width(clean_md(str(c))) + PAD
+                if w > nat[i]:
+                    nat[i] = w
+
+        # ── Classify columns ──────────────────────────────────
+        narrow_idx = [i for i in range(n) if nat[i] <= NARROW_MAX]
+        medium_idx = [i for i in range(n) if NARROW_MAX < nat[i] <= MEDIUM_MAX]
+        wide_idx   = [i for i in range(n) if nat[i] > MEDIUM_MAX]
+
+        # Tier 1 + 2: exact natural widths
+        widths = list(nat)
+
+        # Tier 3: allocate remaining budget
+        fixed_total = sum(nat[i] for i in narrow_idx + medium_idx)
+        budget      = UW - fixed_total
+
+        if wide_idx:
+            # Cap at fair_share * 1.2 — prevents Study/title column from
+            # monopolising space and gives DOI column enough width (~50 mm)
+            # to fit most DOI strings without wrapping.
+            cap = (budget / len(wide_idx)) * 1.2
+            for i in wide_idx:
+                widths[i] = max(MIN_WIDE, min(nat[i], cap))
+
+            # Scale down proportionally if over budget
+            total = sum(widths)
+            if total > UW + 0.01:
+                over  = total - UW
+                wtot  = sum(widths[i] for i in wide_idx)
+                if wtot > 0:
+                    for i in wide_idx:
+                        widths[i] = max(MIN_WIDE,
+                                        widths[i] - (widths[i] / wtot) * over)
+
+            # Distribute any surplus to wide columns
+            total = sum(widths)
+            if total < UW - 0.01:
+                extra = (UW - total) / len(wide_idx)
+                for i in wide_idx:
+                    widths[i] += extra
+        else:
+            # No wide columns: scale medium columns proportionally
+            total = sum(widths)
+            if total > UW + 0.01:
+                over = total - UW
+                mtot = sum(widths[i] for i in medium_idx) if medium_idx else 1
+                for i in medium_idx:
+                    widths[i] = max(MIN_WIDE,
+                                    widths[i] - (widths[i] / mtot) * over)
+
+        # ── Float safety: absorb rounding into last wide/medium/narrow col ──
+        fix_pool = wide_idx or medium_idx or list(range(n))
+        fix_idx  = fix_pool[-1]
+        diff = UW - sum(widths)
+        widths[fix_idx] = max(MIN_WIDE, widths[fix_idx] + diff)
+
+        return widths
+
+    def _cell_lines(self, text, col_w, fsize, cell_h):
+        """
+        Return the predicted line count for a single cell.
+        Uses the same conservative word-wrap simulation as _row_h
+        (avail × 0.93) so the vertical-centering offset matches the
+        actual rendered height.
+        """
+        if not text:
+            return 1
+        self.set_font('TNR', '', fsize)
+        cm    = (fsize * 0.352778) / 6
+        avail = (col_w - 2 * cm) * 0.93
+        if avail <= 0:
+            return 1
+        sp_w  = self.get_string_width(' ')
+        words = text.split()
+        lines = 1
+        line_w = 0.0
+        for word in words:
+            ww = self.get_string_width(word)
+            if ww > avail:
+                if line_w > 0:
+                    lines += 1; line_w = 0
+                lines += max(0, int(ww / avail))
+                line_w = ww % avail if avail > 0 else 0
+            elif line_w == 0:
+                line_w = ww
+            elif line_w + sp_w + ww <= avail:
+                line_w += sp_w + ww
+            else:
+                lines += 1; line_w = ww
+        return lines
+
+    def _row_h(self, cells, widths, fsize, cell_h):
+        """
+        Estimate table row height using a conservative word-wrap simulation.
+
+        Root cause of overflow bug: get_string_width() has tiny floating-point
+        differences vs. fpdf2's internal layout engine, causing borderline words
+        to be predicted as fitting on the current line when fpdf2 actually wraps
+        them to the next line. Fix: shrink the simulated available width by 7%
+        so borderline wrap decisions always predict wrapping.
+
+        Single-line rows are unaffected (their text has plenty of headroom);
+        multi-line rows may get +1 extra line of height at most, preventing
+        the next row from overlapping.
+
+        Returns cell_h * max_lines + 1.2 mm flat bottom padding per row.
+        """
+        self.set_font('TNR', '', fsize)
+        max_lines = 1
+        sp_w = self.get_string_width(' ')
+        cm   = (fsize * 0.352778) / 6
+
+        for i, c in enumerate(cells):
+            if i >= len(widths) or widths[i] <= 2:
+                continue
+            text = clean_md(str(c))
+            if not text:
+                continue
+
+            # ── conservative available width (7% narrower than actual) ──
+            raw_avail = widths[i] - 2 * cm
+            avail     = raw_avail * 0.93   # <-- key fix: catch borderline wraps
+            if avail <= 0:
+                continue
+
+            words  = text.split()
+            lines  = 1
+            line_w = 0.0
+            for word in words:
+                ww = self.get_string_width(word)
+                if ww > avail:
+                    # Word longer than column: will char-wrap
+                    if line_w > 0:
+                        lines += 1; line_w = 0
+                    lines += max(0, int(ww / avail))
+                    line_w = ww % avail if avail > 0 else 0
+                elif line_w == 0:
+                    line_w = ww
+                elif line_w + sp_w + ww <= avail:
+                    line_w += sp_w + ww
+                else:
+                    lines += 1; line_w = ww
+
+            if lines > max_lines:
+                max_lines = lines
+
+        return cell_h * max_lines + 0.6   # 0.6 mm flat padding — keeps rows tight
+
 
 # ─────────────────────────────────────────────────────────────
-# MARKDOWN PARSER
+# MARKDOWN PARSER  (unchanged from v2)
 # ─────────────────────────────────────────────────────────────
-def parse_file(path: str) -> list:
-    """
-    Parse a markdown file into a list of elements.
-    Element types:
-      ('h1', text), ('h2', text), ('h3', text), ('h4', text),
-      ('body', text), ('bullet', text, level),
-      ('numbered', n, text), ('hrule',),
-      ('callout_start', ctype, title), ('callout_end',),
-      ('table', headers, rows)
-    Compass callout elements are excluded.
-    """
+def parse_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         raw = f.read()
-
-    # Strip YAML frontmatter
     if raw.startswith('---'):
         end = raw.find('\n---', 3)
         if end != -1:
             raw = raw[end + 4:].lstrip('\n')
 
-    lines  = raw.split('\n')
-    elems  = []
-    i      = 0
-    skip_compass = False
-
+    lines = raw.split('\n')
+    elems = []
+    i = 0
     while i < len(lines):
-        line = lines[i]
+        line    = lines[i]
         stripped = line.strip()
 
-        # ── Callout block start ──────────────────────────────
         m = re.match(r'^>\s*\[!(\w+)\][-+]?\s*(.*)', stripped)
         if m:
-            ctype = m.group(1).lower()
-            ctitle = m.group(2).strip()
-
-            # Collect all lines belonging to this callout
-            callout_lines = []
+            ctype, ctitle = m.group(1).lower(), m.group(2).strip()
+            cl = []
             i += 1
             while i < len(lines):
-                cl = lines[i]
-                cl_stripped = cl.strip()
-                # Callout continues while lines start with '>'
-                if cl_stripped.startswith('>') or cl_stripped == '>':
-                    callout_lines.append(cl_stripped)
-                    i += 1
+                s = lines[i].strip()
+                if s.startswith('>') or s == '>':
+                    cl.append(s); i += 1
                 else:
                     break
-
-            # Skip compass callouts entirely
             if ctype == 'compass':
                 continue
-
-            # Emit callout header
             elems.append(('callout_start', ctype, ctitle))
-
-            # Parse callout body
-            elems += _parse_callout_body(callout_lines)
-
+            elems += _parse_callout_body(cl)
             elems.append(('callout_end',))
             continue
 
-        # ── Standalone > line (stray callout content) ────────
         if stripped.startswith('>') and not stripped.startswith('> [!'):
-            text = stripped[1:].strip()
-            if text:
-                elems.append(('body', text))
-            i += 1
-            continue
+            t = stripped[1:].strip()
+            if t:
+                elems.append(('body', t))
+            i += 1; continue
 
-        # ── Heading ──────────────────────────────────────────
         hm = re.match(r'^(#{1,6})\s+(.*)', stripped)
         if hm:
             level = len(hm.group(1))
-            text  = hm.group(2).strip()
             tag   = ('h1','h2','h3','h4','h4','h4')[min(level-1, 5)]
-            elems.append((tag, text))
-            i += 1
-            continue
+            elems.append((tag, hm.group(2).strip()))
+            i += 1; continue
 
-        # ── Horizontal rule ───────────────────────────────────
         if re.match(r'^[-*_]{3,}$', stripped) and stripped:
-            elems.append(('hrule',))
-            i += 1
-            continue
+            elems.append(('hrule',)); i += 1; continue
 
-        # ── Table ─────────────────────────────────────────────
         if stripped.startswith('|') and '|' in stripped[1:]:
-            table_lines = []
+            tl = []
             while i < len(lines) and lines[i].strip().startswith('|'):
-                table_lines.append(lines[i].strip())
-                i += 1
-            if len(table_lines) >= 2:
-                headers = _parse_table_row(table_lines[0])
-                rows    = []
-                for tl in table_lines[2:]:          # skip separator
-                    if re.match(r'^\|[-| :]+\|$', tl):
-                        continue
-                    row = _parse_table_row(tl)
-                    if row:
-                        rows.append(row)
-                elems.append(('table', headers, rows))
+                tl.append(lines[i].strip()); i += 1
+            if len(tl) >= 2:
+                hdr  = _parse_table_row(tl[0])
+                rows = [_parse_table_row(r) for r in tl[2:]
+                        if not re.match(r'^\|[-| :]+\|$', r)]
+                elems.append(('table', hdr, [r for r in rows if r]))
             continue
 
-        # ── Numbered list ─────────────────────────────────────
         nm = re.match(r'^(\d+)\.\s+(.*)', stripped)
         if nm:
             elems.append(('numbered', int(nm.group(1)), nm.group(2)))
-            i += 1
-            continue
+            i += 1; continue
 
-        # ── Bullet list ───────────────────────────────────────
         bm = re.match(r'^(\s*)[*\-+]\s+(.*)', line)
         if bm:
             indent = len(bm.group(1)) // 2
             elems.append(('bullet', bm.group(2), indent))
-            i += 1
-            continue
+            i += 1; continue
 
-        # ── Empty line ────────────────────────────────────────
         if not stripped:
-            i += 1
-            continue
+            i += 1; continue
 
-        # ── Regular paragraph ─────────────────────────────────
-        para = [stripped]
-        i += 1
+        para = [stripped]; i += 1
         while i < len(lines):
             nxt = lines[i].strip()
-            if (not nxt
-                    or nxt.startswith('#')
-                    or nxt.startswith('|')
+            if (not nxt or nxt.startswith('#') or nxt.startswith('|')
                     or nxt.startswith('>')
                     or re.match(r'^[-*_]{3,}$', nxt)
                     or re.match(r'^\d+\.\s+', nxt)
                     or re.match(r'^[*\-+]\s+', nxt)):
                 break
-            para.append(nxt)
-            i += 1
+            para.append(nxt); i += 1
         elems.append(('body', ' '.join(para)))
 
     return elems
 
 
-def _parse_callout_body(callout_lines: list) -> list:
-    """Parse lines inside a callout block (all start with '>')."""
-    # Strip the leading '> ' prefix
+def _parse_callout_body(callout_lines):
     stripped = []
     for cl in callout_lines:
         if cl.startswith('> '):
@@ -560,127 +635,76 @@ def _parse_callout_body(callout_lines: list) -> list:
     elems = []
     i = 0
     while i < len(stripped):
-        line = stripped[i]
-        s = line.strip()
-
+        s = stripped[i].strip()
         if not s:
-            i += 1
-            continue
+            i += 1; continue
 
-        # Table inside callout
         if s.startswith('|') and '|' in s[1:]:
-            table_lines = []
+            tl = []
             while i < len(stripped) and stripped[i].strip().startswith('|'):
-                table_lines.append(stripped[i].strip())
-                i += 1
-            if len(table_lines) >= 2:
-                headers = _parse_table_row(table_lines[0])
-                rows    = []
-                for tl in table_lines[2:]:
-                    if re.match(r'^\|[-| :]+\|$', tl):
-                        continue
-                    row = _parse_table_row(tl)
-                    if row:
-                        rows.append(row)
-                elems.append(('table', headers, rows))
+                tl.append(stripped[i].strip()); i += 1
+            if len(tl) >= 2:
+                hdr  = _parse_table_row(tl[0])
+                rows = [_parse_table_row(r) for r in tl[2:]
+                        if not re.match(r'^\|[-| :]+\|$', r)]
+                elems.append(('table', hdr, [r for r in rows if r]))
             continue
 
-        # Heading inside callout
         hm = re.match(r'^(#{1,4})\s+(.*)', s)
         if hm:
-            level = len(hm.group(1))
-            tag = ('h2','h3','h4','h4')[min(level-1, 3)]
+            tag = ('h2','h3','h4','h4')[min(len(hm.group(1))-1, 3)]
             elems.append((tag, hm.group(2).strip()))
-            i += 1
-            continue
+            i += 1; continue
 
-        # Numbered
         nm = re.match(r'^(\d+)\.\s+(.*)', s)
         if nm:
             elems.append(('numbered', int(nm.group(1)), nm.group(2)))
-            i += 1
-            continue
+            i += 1; continue
 
-        # Bullet
         bm = re.match(r'^[*\-+]\s+(.*)', s)
         if bm:
             elems.append(('bullet', bm.group(1), 0))
-            i += 1
-            continue
+            i += 1; continue
 
-        # Paragraph
-        elems.append(('body', s))
-        i += 1
-
+        elems.append(('body', s)); i += 1
     return elems
 
 
-def _parse_table_row(line: str) -> list:
-    """Parse a markdown table row into a list of cell strings."""
+def _parse_table_row(line):
     line = line.strip()
-    if line.startswith('|'):
-        line = line[1:]
-    if line.endswith('|'):
-        line = line[:-1]
-    cells = [c.strip() for c in line.split('|')]
-    return cells
+    if line.startswith('|'): line = line[1:]
+    if line.endswith('|'):   line = line[:-1]
+    return [c.strip() for c in line.split('|')]
 
 
 # ─────────────────────────────────────────────────────────────
 # RENDER A SINGLE FILE
 # ─────────────────────────────────────────────────────────────
-def render_file(path: str, pdf: MchPDF):
-    """Render a single answer file into the PDF (on the current page)."""
-    in_cite_callout = False   # landmark articles — use small table
-
+def render_file(path, pdf):
+    in_cite = False
     for elem in parse_file(path):
-        etype = elem[0]
-
-        if etype == 'callout_start':
-            ctype  = elem[1]
-            ctitle = elem[2]
-            in_cite_callout = (ctype == 'cite')
-            # Don't print header for cite callout — just render its table
-            if ctype != 'cite':
-                pdf.write_callout_header(ctype, ctitle)
-
-        elif etype == 'callout_end':
-            in_cite_callout = False
-            pdf.ln(LH * 0.3)
-
-        elif etype == 'h1':
-            pdf.write_h1(elem[1])
-        elif etype == 'h2':
-            pdf.write_h2(elem[1])
-        elif etype == 'h3':
-            pdf.write_h3(elem[1])
-        elif etype == 'h4':
-            pdf.write_h4(elem[1])
-
-        elif etype == 'body':
-            pdf.write_body(elem[1])
-
-        elif etype == 'bullet':
-            pdf.write_bullet(elem[1], level=elem[2] if len(elem) > 2 else 0)
-
-        elif etype == 'numbered':
-            pdf.write_numbered(elem[1], elem[2])
-
-        elif etype == 'hrule':
-            pdf.write_hrule()
-
-        elif etype == 'table':
-            pdf.write_table(elem[1], elem[2], small=in_cite_callout)
+        t = elem[0]
+        if t == 'callout_start':
+            in_cite = (elem[1] == 'cite')
+            if elem[1] != 'cite':
+                pdf.write_callout_header(elem[1], elem[2])
+        elif t == 'callout_end':
+            in_cite = False; pdf.ln(LH * 0.3)
+        elif t == 'h1':     pdf.write_h1(elem[1])
+        elif t == 'h2':     pdf.write_h2(elem[1])
+        elif t == 'h3':     pdf.write_h3(elem[1])
+        elif t == 'h4':     pdf.write_h4(elem[1])
+        elif t == 'body':   pdf.write_body(elem[1])
+        elif t == 'bullet': pdf.write_bullet(elem[1], level=elem[2] if len(elem)>2 else 0)
+        elif t == 'numbered': pdf.write_numbered(elem[1], elem[2])
+        elif t == 'hrule':  pdf.write_hrule()
+        elif t == 'table':  pdf.write_table(elem[1], elem[2], small=in_cite)
 
 
 # ─────────────────────────────────────────────────────────────
 # COLLECT FILES
 # ─────────────────────────────────────────────────────────────
-def collect_files() -> list:
-    """
-    Returns list of (section_name, [filepath, ...]) in SECTION_ORDER.
-    Only sections with ≥1 answer file are included.
-    """
+def collect_files():
     result = []
     for section in SECTION_ORDER:
         folder = os.path.join(VAULT_ANSWERS, section)
@@ -696,112 +720,153 @@ def collect_files() -> list:
 
 
 # ─────────────────────────────────────────────────────────────
-# BUILD CONTENT PDF
+# PASS 1  —  measure raw page count (content only, no index)
 # ─────────────────────────────────────────────────────────────
-def build_content_pdf(files_by_section: list, page_offset: int = 0) -> tuple:
-    """
-    Render all answer files into a PDF.
-    Returns (pdf_bytes, entries) where entries = [(title, section, page_num), ...]
-    page_num is the number shown in the footer (= raw page + page_offset).
-    """
-    pdf     = MchPDF(page_offset=page_offset)
-    entries = []   # (title, section, actual_page)
-
+def measure_content_pages(files_by_section):
+    """Render content to a temp PDF and return raw page count + entry list."""
+    pdf     = MchPDF(roman_cutoff=0)
+    entries = []
     for section, files in files_by_section:
-        # Section divider page
-        pdf.write_section_page(section)
-
+        pdf.add_page()                           # section divider
         for filepath in files:
             pdf.add_page()
-            actual_pg = pdf.page_no() + page_offset
-            title     = os.path.basename(filepath).replace('.md', '')
-            entries.append((title, section, actual_pg))
+            entries.append((os.path.basename(filepath).replace('.md',''),
+                            section,
+                            pdf.page_no()))      # raw page in this temp PDF
             try:
                 render_file(filepath, pdf)
-            except Exception as exc:
-                print(f"    ⚠  Error in {os.path.basename(filepath)}: {exc}")
-                pdf.set_font('TNR', 'I', 10)
-                pdf.multi_cell(UW, LH, f"[Rendering error: {exc}]", align='L')
-
+            except Exception as e:
+                print(f"    WARN: {os.path.basename(filepath)}: {e}")
     buf = io.BytesIO()
     pdf.output(buf)
-    return buf.getvalue(), entries
+    n_pages = PdfReader(buf).pages.__len__()
+    return n_pages, entries   # entries have raw page numbers (1-indexed in content-only PDF)
 
 
 # ─────────────────────────────────────────────────────────────
-# BUILD INDEX PDF
+# PASS 2  —  build complete PDF in one document
+#            index (Roman) + content (Arabic)
+#            bookmarks for sections and notes
+#            clickable index entries
 # ─────────────────────────────────────────────────────────────
-def build_index_pdf(entries: list) -> bytes:
+def build_complete_pdf(files_by_section, n_index_pages, entries_raw):
     """
-    Build the index PDF with Roman-numeral page numbers.
-    entries = [(title, section, page_num), ...]
+    entries_raw: [(title, section, raw_content_page), ...]
+    In the final merged doc, a raw content page r becomes PDF page (n_index_pages + r).
     """
-    pdf = MchPDF(roman_footer=True)
+    # Build lookup: (title, section) -> final PDF page number
+    final_page = {
+        (title, section): n_index_pages + raw
+        for title, section, raw in entries_raw
+    }
+
+    pdf = MchPDF(roman_cutoff=n_index_pages)
+
+    # ── TITLE PAGE (page 1 = 'i') ─────────────────────────────
     pdf.add_page()
-
-    # ── Title page ──────────────────────────────────────────
-    pdf.set_y(PH / 2 - 35)
+    pdf.set_y(PH / 2 - 40)
     pdf.write_hrule()
-    pdf.set_font('TNR', 'B', 14)
-    pdf.cell(UW, LH, 'MCh Head and Neck Surgery & Oncology', align='C',
-             new_x='LMARGIN', new_y='NEXT')
-    pdf.ln(LH * 0.3)
-    pdf.set_font('TNR', 'B', 12)
-    pdf.cell(UW, LH, 'Examination Answers — Complete Collection', align='C',
-             new_x='LMARGIN', new_y='NEXT')
-    pdf.ln(LH * 0.6)
-    pdf.set_font('TNR', '', 10)
-    n_notes    = len(entries)
-    n_sections = len(set(e[1] for e in entries))
-    pdf.cell(UW, LH * 0.8, f'{n_notes} notes across {n_sections} sections',
+    pdf.set_font('TNR', 'B', 16)
+    pdf.cell(UW, LH * 1.2, 'MCh Head and Neck Surgery & Oncology',
+             align='C', new_x='LMARGIN', new_y='NEXT')
+    pdf.ln(LH * 0.4)
+    pdf.set_font('TNR', 'B', 13)
+    pdf.cell(UW, LH, 'Examination Answers -- Complete Collection',
+             align='C', new_x='LMARGIN', new_y='NEXT')
+    pdf.ln(LH * 0.8)
+    pdf.set_font('TNR', '', 11)
+    total_notes    = len(entries_raw)
+    total_sections = len(set(s for _, s, _ in entries_raw))
+    total_pages    = n_index_pages + entries_raw[-1][2]
+    pdf.cell(UW, LH * 0.9,
+             f'{total_notes} notes  |  {total_sections} sections  |  {total_pages} pages',
              align='C', new_x='LMARGIN', new_y='NEXT')
     pdf.write_hrule()
 
-    # ── Index pages ─────────────────────────────────────────
+    # ── INDEX PAGES ───────────────────────────────────────────
+    # We need one index page to start; more will be added automatically.
     pdf.add_page()
-
-    pdf.set_font('TNR', 'B', 12)
+    pdf.set_font('TNR', 'B', 13)
     pdf.cell(UW, LH, 'INDEX', align='C', new_x='LMARGIN', new_y='NEXT')
     pdf.ln(LH * 0.5)
     pdf.write_hrule()
-    pdf.ln(LH * 0.3)
+    pdf.ln(LH * 0.2)
+
+    idx_lh = 10 * 0.352778 * 1.4    # compact line height
+
+    # Create all link IDs now; set destinations after content is rendered.
+    link_ids = {}   # (title, section) -> link_id
 
     current_section = None
-    idx_lh = 10 * 0.352778 * 1.4   # compact line height for index
+    for title, section, _ in entries_raw:
+        link_id = pdf.add_link()
+        link_ids[(title, section)] = link_id
 
-    for title, section, page in entries:
-        # Section header in index
         if section != current_section:
             current_section = section
             if pdf.get_y() + idx_lh * 2 > PH - MB - 5:
                 pdf.add_page()
-            pdf.ln(idx_lh * 0.5)
+            pdf.ln(idx_lh * 0.4)
             pdf.set_font('TNR', 'B', 10)
-            pdf.cell(UW, idx_lh, section.upper(), new_x='LMARGIN', new_y='NEXT')
-            # thin underline
+            pdf.cell(UW, idx_lh, section.upper(),
+                     new_x='LMARGIN', new_y='NEXT')
             y = pdf.get_y()
             pdf.line(ML, y, ML + 40, y)
-            pdf.ln(idx_lh * 0.3)
+            pdf.ln(idx_lh * 0.2)
 
-        # Entry line with dot leader
         if pdf.get_y() + idx_lh > PH - MB - 5:
             pdf.add_page()
 
         pdf.set_font('TNR', '', 10)
-        page_str  = str(page)
-        pg_w      = pdf.get_string_width(page_str) + 2
+        page_num  = final_page.get((title, section), 0)
+        pg_str    = str(page_num)
+        pg_w      = pdf.get_string_width(pg_str) + 2
         title_w   = pdf.get_string_width(title)
-        avail_w   = UW - pg_w - title_w - 4
+        avail     = UW - pg_w - title_w - 4
         dot_w     = pdf.get_string_width('.')
-        n_dots    = max(3, int(avail_w / dot_w)) if dot_w > 0 else 3
-        dot_str   = ' ' + ('.' * n_dots) + ' '
+        n_dots    = max(3, int(avail / dot_w)) if dot_w > 0 else 3
+        dot_str   = ' ' + '.' * n_dots + ' '
 
         y0 = pdf.get_y()
         pdf.set_xy(ML, y0)
-        pdf.cell(UW - pg_w, idx_lh, title + dot_str, align='L')
+        # Clickable title cell
+        pdf.cell(UW - pg_w, idx_lh, title + dot_str,
+                 align='L', link=link_id)
         pdf.set_x(PW - MR - pg_w)
-        pdf.cell(pg_w, idx_lh, page_str, align='R',
+        pdf.cell(pg_w, idx_lh, pg_str,
+                 align='R', link=link_id,
                  new_x='LMARGIN', new_y='NEXT')
+
+    # Verify we are still within n_index_pages
+    if pdf.page_no() > n_index_pages:
+        print(f"  NOTE: Index grew to {pdf.page_no()} pages (expected {n_index_pages}). "
+              f"Re-run script once to recalibrate.")
+
+    # ── CONTENT  ──────────────────────────────────────────────
+    for section, files in files_by_section:
+        # Section divider page — top-level PDF bookmark
+        pdf.add_page()
+        pdf.start_section(section, level=0)
+        pdf.write_section_page(section)
+
+        for filepath in files:
+            pdf.add_page()
+            title = os.path.basename(filepath).replace('.md', '')
+
+            # Second-level bookmark for this note
+            pdf.start_section(title, level=1)
+
+            # Register the link destination at the top of this page
+            key = (title, section)
+            if key in link_ids:
+                pdf.set_link(link_ids[key], page=pdf.page_no())
+
+            try:
+                render_file(filepath, pdf)
+            except Exception as e:
+                print(f"    WARN: {os.path.basename(filepath)}: {e}")
+                pdf.set_font('TNR', 'I', 10)
+                pdf.multi_cell(UW, LH, f"[Rendering error: {e}]")
 
     buf = io.BytesIO()
     pdf.output(buf)
@@ -809,73 +874,60 @@ def build_index_pdf(entries: list) -> bytes:
 
 
 # ─────────────────────────────────────────────────────────────
-# COUNT PAGES IN A PDF BYTES OBJECT
-# ─────────────────────────────────────────────────────────────
-def count_pdf_pages(pdf_bytes: bytes) -> int:
-    reader = PdfReader(io.BytesIO(pdf_bytes))
-    return len(reader.pages)
-
-
-# ─────────────────────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────────────────────
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("MCh-HNSO -> PDF  (v3: bookmarks + clickable index + word-wrap tables)")
+    print("=" * 70)
 
-    print("MCh-HNSO → PDF Converter")
-    print("=" * 50)
-
-    # Step 1: Collect files
     files_by_section = collect_files()
     total_notes = sum(len(f) for _, f in files_by_section)
-    print(f"Found {total_notes} answer files across {len(files_by_section)} sections")
-    for sec, files in files_by_section:
-        print(f"  {sec}: {len(files)} files")
+    print(f"Found {total_notes} notes across {len(files_by_section)} sections:")
+    for sec, fs in files_by_section:
+        print(f"  {sec}: {len(fs)}")
     print()
 
-    # Step 2: Pass 1 — render content to get raw page numbers
-    print("Pass 1: measuring page layout...")
-    _, entries_raw = build_content_pdf(files_by_section, page_offset=0)
-    print(f"  Content spans {entries_raw[-1][2]} raw pages")
+    # ── Pass 1: measure ───────────────────────────────────────
+    print("Pass 1: measuring content layout...")
+    n_content_pages, entries_raw = measure_content_pages(files_by_section)
+    print(f"  Content: {n_content_pages} raw pages, {total_notes} notes")
 
-    # Step 3: Render index (with placeholder numbers) to count index pages
-    print("Measuring index size...")
-    index_bytes_temp = build_index_pdf(entries_raw)
-    n_index_pages    = count_pdf_pages(index_bytes_temp)
-    print(f"  Index = {n_index_pages} pages (Roman-numeral front matter)")
+    # Estimate index size: title page + ~1 index page per 40 entries
+    est_index = 2 + math.ceil(total_notes / 35)
+    print(f"  Estimated index pages: {est_index}")
 
-    # Step 4: Pass 2 — render content with correct page offset
-    print(f"Pass 2: rendering content with page offset +{n_index_pages}...")
-    content_bytes, entries_final = build_content_pdf(
-        files_by_section, page_offset=n_index_pages
-    )
-    last_page = entries_final[-1][2]
-    print(f"  Content pages: {n_index_pages + 1} – {last_page}")
-
-    # Step 5: Build final index with correct page numbers
-    print("Building final index...")
-    # entries_final already has page_num = raw_page + n_index_pages
-    index_bytes_final = build_index_pdf(entries_final)
-
-    # Step 6: Merge index + content
-    print("Merging index + content...")
-    merger = PdfMerger()
-    merger.append(io.BytesIO(index_bytes_final))
-    merger.append(io.BytesIO(content_bytes))
+    # ── Pass 2: build final PDF ───────────────────────────────
+    print(f"\nPass 2: building complete PDF (index pages = {est_index})...")
+    final_bytes = build_complete_pdf(files_by_section, est_index, entries_raw)
 
     with open(OUTPUT_FILE, 'wb') as f:
-        merger.write(f)
+        f.write(final_bytes)
 
-    size_mb = os.path.getsize(OUTPUT_FILE) / (1024 * 1024)
+    # Verify final page count
+    actual_pages = len(PdfReader(io.BytesIO(final_bytes)).pages)
+    size_mb = len(final_bytes) / (1024 * 1024)
+
     print()
-    print("=" * 50)
-    print(f"✓  Saved: {OUTPUT_FILE}")
-    print(f"   Index: {n_index_pages} pages (Roman numerals)")
-    print(f"   Content: {last_page - n_index_pages} pages")
-    print(f"   Total: {last_page} pages")
-    print(f"   File size: {size_mb:.1f} MB")
-    print(f"   Notes: {total_notes}")
-    print("=" * 50)
+    print("=" * 70)
+    print(f"Saved: {OUTPUT_FILE}")
+    print(f"  Index   : {est_index} pages  (i ... {to_roman(est_index)})")
+    print(f"  Content : {actual_pages - est_index} pages")
+    print(f"  Total   : {actual_pages} pages")
+    print(f"  Size    : {size_mb:.1f} MB")
+    print(f"  Notes   : {total_notes}")
+    print(f"  Bookmarks: YES  |  Clickable index: YES  |  Word-wrap tables: YES")
+    print("=" * 70)
+
+    # ── Check if index overflowed and re-run is needed ────────
+    reader   = PdfReader(io.BytesIO(final_bytes))
+    idx_text = ''.join(reader.pages[p].extract_text() or ''
+                       for p in range(min(est_index, actual_pages)))
+    # The first content section name should NOT appear in the index pages
+    first_section = files_by_section[0][0].upper()
+    if first_section in idx_text and 'MCh Head and Neck' not in idx_text[:100]:
+        print(f"\n  WARNING: Index may have overflowed {est_index} pages.")
+        print("  Increase est_index in main() and re-run if content bleeds into index.")
 
 
 if __name__ == '__main__':
