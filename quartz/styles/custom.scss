@@ -5,6 +5,13 @@
 //  Fonts: Inter (SF Pro substitute) · Palette: Apple exact colours
 // ══════════════════════════════════════════════════════════════════
 
+// ── Custom easing curves (Emil Kowalski — animations.dev) ─────────
+// Built-in CSS easings are too weak; these custom curves feel intentional.
+:root {
+  --ease-out-strong: cubic-bezier(0.23, 1, 0.32, 1);   // UI interactions
+  --ease-in-out-strong: cubic-bezier(0.77, 0, 0.175, 1); // on-screen movement
+}
+
 // ── OpenType features for Inter ───────────────────────────────────
 :root {
   font-feature-settings: "liga" 1, "kern" 1, "calt" 1;
@@ -15,6 +22,8 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.025em;
   font-weight: 700;
   line-height: 1.15;
+  text-wrap: balance;        // prevents awkward single-word last lines
+  scroll-margin-top: 1.5rem; // ensures anchor targets clear sticky elements
 }
 
 .article-title h1,
@@ -96,7 +105,7 @@ a.internal:not(.tag-link) {
   text-decoration: none;
   border-bottom: 1px solid color-mix(in srgb, var(--secondary) 32%, transparent);
   line-height: inherit;
-  transition: border-bottom-color 0.18s ease;
+  transition: border-bottom-color 0.18s var(--ease-out-strong);
 
   &:hover {
     border-bottom-color: var(--secondary);
@@ -174,6 +183,7 @@ a.internal.tag-link {
     td {
       padding: 0.5rem 1rem;
       font-size: 0.94rem;
+      font-variant-numeric: tabular-nums; // aligns number columns without jitter
     }
 
     tr:nth-child(even) {
@@ -184,9 +194,11 @@ a.internal.tag-link {
       border-bottom: 1px solid var(--lightgray);
     }
 
-    tr:hover {
-      background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
-      transition: background-color 0.12s ease;
+    @media (hover: hover) and (pointer: fine) {
+      tr:hover {
+        background-color: color-mix(in srgb, var(--secondary) 5%, transparent);
+        transition: background-color 0.12s var(--ease-out-strong);
+      }
     }
   }
 }
@@ -450,11 +462,19 @@ img {
   font-weight: 500;
   color: var(--gray);
   white-space: nowrap;
-  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+  transition: color 0.15s var(--ease-out-strong),
+              border-color 0.15s var(--ease-out-strong),
+              background-color 0.15s var(--ease-out-strong),
+              transform 0.1s var(--ease-out-strong);
   font-family: inherit;
   letter-spacing: 0.01em;
+  touch-action: manipulation; // removes 300ms tap delay on mobile
 
-  &:hover { color: var(--darkgray); }
+  @media (hover: hover) and (pointer: fine) {
+    &:hover { color: var(--darkgray); }
+  }
+
+  &:active { transform: scale(0.97); } // press feedback
 
   &.active {
     color: var(--secondary);
@@ -514,19 +534,49 @@ img {
   font-size: 0.88em;
   font-weight: 500;
   color: var(--darkgray);
-  transition: all 0.15s ease;
+  // Explicit properties — never use transition: all (animates everything including layout)
+  transition: border-color 0.15s var(--ease-out-strong),
+              color 0.15s var(--ease-out-strong),
+              background-color 0.15s var(--ease-out-strong),
+              transform 0.1s var(--ease-out-strong);
   font-family: inherit;
+  touch-action: manipulation; // removes 300ms tap delay on mobile
 
-  &:hover {
-    border-color: var(--secondary);
-    color: var(--secondary);
-    background-color: color-mix(in srgb, var(--secondary) 6%, transparent);
+  @media (hover: hover) and (pointer: fine) {
+    &:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+      background-color: color-mix(in srgb, var(--secondary) 6%, transparent);
+    }
   }
+
+  &:active { transform: scale(0.97); } // press feedback — makes the UI feel responsive
 
   &.active {
     background: var(--secondary);
     border-color: var(--secondary);
     color: #fff;
     font-weight: 600;
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════
+//  Accessibility: reduced motion
+//  Fewer and gentler transitions for users who prefer reduced motion.
+//  Keeps opacity/color (aids comprehension), removes transform/movement.
+// ══════════════════════════════════════════════════════════════════
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .tab-btn,
+  .rm-btn {
+    &:active { transform: none; }
   }
 }
